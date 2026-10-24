@@ -43,6 +43,10 @@ GNEWS_EN = "https://news.google.com/rss/search?q={}&hl=en-US&gl=US&ceid=US:en"
 # cet operateur, un flux rend cent articles dont la plupart ont des mois, et
 # presque tout tombe hors de la fenetre. « when:7d » lui demande de ne rendre
 # que la semaine ecoulee.
+#
+# La requete est mise entre parentheses avant qu'on l'ajoute : sans elles, une
+# requete faite d'une suite de OR lie l'operateur au seul dernier terme, et la
+# fenetre ne s'applique pas.
 FENETRE_GOOGLE = "when:7d"
 
 # Les requetes Google Actualites, une par axe de la veille.
@@ -94,20 +98,20 @@ REQUETES = [
 # Flux RSS d'editeurs, interroges directement. Ils valent mieux que Google
 # Actualites : l'adresse de l'article est reelle et le chapo est fourni.
 #
-# Verifies au passage du 24 octobre 2026 : the-conversation-fr, sante-mentale,
-# stat-news. Les autres sont des candidats ; le journal de l'execution dira
-# lesquels repondent. Retirez ceux qui echouent, ajoutez les votres.
+# Tous verifies au passage du 24 octobre 2026. Deux candidats ont ete retires :
+# psycom, dont l'adresse ne rend pas de XML, et le flux general de Liberation,
+# qui melait toutes les rubriques sans jamais rien rapporter. Ces deux titres
+# restent couverts par les requetes Google.
+#
+# Pour en ajouter un, une ligne suffit. La cle sert d'etiquette dans le champ
+# « feed », et les formats RSS et Atom sont reconnus l'un comme l'autre.
 FLUX_DIRECTS = [
-    # verifies
-    ("the-conversation-fr", "https://theconversation.com/fr/articles.atom"),
     ("sante-mentale", "https://www.santementale.fr/feed/"),
-    ("stat-news", "https://www.statnews.com/feed/"),
-    # candidats
-    ("psycom", "https://www.psycom.org/actualites/feed/"),
+    ("the-conversation-fr", "https://theconversation.com/fr/articles.atom"),
     ("le-monde-sante", "https://www.lemonde.fr/sante/rss_full.xml"),
     ("guardian-mental-health", "https://www.theguardian.com/society/mental-health/rss"),
     ("nyt-health", "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"),
-    ("liberation", "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml"),
+    ("stat-news", "https://www.statnews.com/feed/"),
 ]
 
 FENETRE_JOURS = 7          # age maximal d'une reference retenue
@@ -517,7 +521,7 @@ def main():
 
     sources_a_lire = (
         [(cle,
-          gabarit.format(quote(requete + " " + FENETRE_GOOGLE, safe="")),
+          gabarit.format(quote("(" + requete + ") " + FENETRE_GOOGLE, safe="")),
           requete, True)
          for cle, gabarit, requete in REQUETES] +
         [(cle, url, "", False) for cle, url in FLUX_DIRECTS]
