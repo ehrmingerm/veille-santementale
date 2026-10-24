@@ -124,8 +124,18 @@ h3{font-size:20px;line-height:25px;font-weight:600;letter-spacing:-.3px;text-wra
 .journee-entete h2{text-transform:none}
 .compte{font:400 14px/20px var(--corps);color:var(--texte-2);white-space:nowrap}
 
+.famille{margin-top:20px}
+.famille:first-of-type{margin-top:10px}
+.famille-titre{
+  display:flex;align-items:baseline;gap:8px;
+  font:600 13px/18px var(--corps);color:var(--texte-2);
+  letter-spacing:.04em;text-transform:uppercase;
+  padding-bottom:7px;border-bottom:1px solid var(--bordure);
+}
+.famille-titre span{font-weight:400;color:var(--texte-3);letter-spacing:0;text-transform:none}
+
 .article{border-top:1px solid var(--filet);padding:17px 0}
-.article:first-of-type{border-top:0}
+.famille .article:first-of-type{border-top:0}
 .etiquette{
   display:inline-block;font:700 13px/18px var(--corps);
   border-radius:var(--r-tag);padding:3px 9px;margin-bottom:9px;
@@ -238,6 +248,15 @@ h3{font-size:20px;line-height:25px;font-weight:600;letter-spacing:-.3px;text-wra
   ];
   var PAR_CLE = {};
   AXES.forEach(function (a) { PAR_CLE[a[0]] = { nom: a[1], fond: a[2], texte: a[3] }; });
+
+  // Les familles d'éditeurs, dans l'ordre où la page les présente.
+  var FAMILLES = [
+    ["presse-nationale",  "Presse nationale"],
+    ["presse-regionale",  "Presse régionale"],
+    ["presse-etrangere",  "Presse étrangère"],
+    ["institutions",      "Institutions"],
+    ["recherche",         "Recherche et sciences"]
+  ];
 
   var etat = { jours: [], axe: "tout", requete: "", phase: "chargement" };
 
@@ -412,7 +431,30 @@ h3{font-size:20px;line-height:25px;font-weight:600;letter-spacing:-.3px;text-wra
       if (!items.length) {
         sec.appendChild(el("p", "vide", "Aucune référence ce jour-là."));
       } else {
-        items.forEach(function (it) { sec.appendChild(dessinerArticle(it)); });
+        FAMILLES.forEach(function (famille) {
+          var lot = items.filter(function (it) { return it.categorie === famille[0]; });
+          if (!lot.length) return;
+          var bloc = el("div", "famille");
+          var titre = el("div", "famille-titre");
+          titre.appendChild(el("b", null, famille[1]));
+          titre.appendChild(el("span", null, String(lot.length)));
+          bloc.appendChild(titre);
+          lot.forEach(function (it) { bloc.appendChild(dessinerArticle(it)); });
+          sec.appendChild(bloc);
+        });
+
+        // Filet de sécurité : une catégorie inconnue ne disparaît pas.
+        var connues = FAMILLES.map(function (f) { return f[0]; });
+        var reste = items.filter(function (it) { return connues.indexOf(it.categorie) === -1; });
+        if (reste.length) {
+          var autre = el("div", "famille");
+          var t = el("div", "famille-titre");
+          t.appendChild(el("b", null, "Autres"));
+          t.appendChild(el("span", null, String(reste.length)));
+          autre.appendChild(t);
+          reste.forEach(function (it) { autre.appendChild(dessinerArticle(it)); });
+          sec.appendChild(autre);
+        }
       }
       flux.appendChild(sec);
     });
@@ -454,7 +496,8 @@ h3{font-size:20px;line-height:25px;font-weight:600;letter-spacing:-.3px;text-wra
                 source: it.source || "",
                 published: it.published || "",
                 summary: it.summary || "",
-                feed: it.feed || ""
+                feed: it.feed || "",
+                categorie: it.categorie || ""
               };
             })
           };
