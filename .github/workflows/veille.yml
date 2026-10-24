@@ -1,0 +1,41 @@
+name: veille-sante-mentale
+
+on:
+  schedule:
+    # 04:28 UTC tous les jours, soit environ une heure avant la tache
+    # planifiee de 06:45 heure de Paris. Les crons GitHub partent souvent
+    # avec 5 a 20 min de retard : cette marge absorbe le decalage.
+    - cron: '28 4 * * *'
+  workflow_dispatch:        # permet de lancer la collecte a la main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: veille-sante-mentale
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+
+      - name: Collecter les sources
+        run: python collecte.py
+
+      - name: Publier le resultat
+        run: |
+          git config user.name  "veille-sante-mentale"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add veille.json jours.json
+          if git diff --staged --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "veille $(date -u +%F)"
+            git push
+          fi
