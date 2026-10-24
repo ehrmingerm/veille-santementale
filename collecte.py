@@ -111,11 +111,16 @@ REQUETES = [
 # « feed », et les formats RSS et Atom sont reconnus l'un comme l'autre.
 FLUX_DIRECTS = [
     ("sante-mentale", "https://www.santementale.fr/feed/"),
-    ("the-conversation-fr", "https://theconversation.com/fr/articles.atom"),
+    ("the-conversation-fr", "https://theconversation.com/fr/sante/articles.atom"),
     ("le-monde-sante", "https://www.lemonde.fr/sante/rss_full.xml"),
     ("guardian-mental-health", "https://www.theguardian.com/society/mental-health/rss"),
     ("nyt-health", "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"),
     ("stat-news", "https://www.statnews.com/feed/"),
+    ("science-daily", "https://www.sciencedaily.com/rss/mind_brain/mental_health.xml"),
+    ("elf-digital", "https://www.nationalelfservice.net/treatment/digital-health/feed/"),
+    ("elf-participation", "https://www.nationalelfservice.net/populations-and-settings/service-user-involvement/feed/"),
+    ("elf-participation", "https://www.nationalelfservice.net/mental-health/suicide/feed/"),
+    ("spf", "https://www.santepubliquefrance.fr/rss/1060"),
 ]
 
 FENETRE_JOURS = 7          # age maximal d'une reference retenue
@@ -139,10 +144,10 @@ MOTS_DU_CHAMP = [
     "psychique", "psychiatre", "psychologue", "psychologique", "psychothérapie",
     "psychotherapie", "depression", "dépression", "bipolaire", "schizophren",
     "troubles psy", "trouble psy", "souffrance psychique", "detresse psychique",
-    "détresse psychique", "pair-aidance", "pair-aidant", "retablissement",
+    "détresse psychique", "pair-aidant", "retablissement",
     "rétablissement", "stigmatisation", "psychotrope", "antidepresseur",
     "antidépresseur", "suicide", "mal-etre", "mal-être", "burn-out", "burnout",
-    "autisme", "neuroatypi", "handicap psychique", "psy",
+    "anxiete", "depression", "handicap psychique", "psy",
 ]
 
 # Bruit recurrent des requetes generalistes.
