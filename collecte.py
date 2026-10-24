@@ -42,11 +42,15 @@ GNEWS_EN = "https://news.google.com/rss/search?q={}&hl=en-US&gl=US&ceid=US:en"
 # Google Actualites classe ses resultats par pertinence, pas par date : sans
 # cet operateur, un flux rend cent articles dont la plupart ont des mois, et
 # presque tout tombe hors de la fenetre. « when:7d » lui demande de ne rendre
-# que la semaine ecoulee.
+# que la semaine ecoulee. Il est simplement ajoute a la fin de la requete.
 #
-# La requete est mise entre parentheses avant qu'on l'ajoute : sans elles, une
-# requete faite d'une suite de OR lie l'operateur au seul dernier terme, et la
-# fenetre ne s'applique pas.
+# Deux pieges, mesures le 24 octobre 2026 :
+#   - encadrer la requete entiere de parentheses avant d'ajouter l'operateur
+#     fait rendre zero resultat a toute requete qui commencait deja par une
+#     parenthese ; ne le faites pas ;
+#   - une requete faite d'une seule suite de OR lie l'operateur au dernier
+#     terme, et la fenetre ne s'applique pas. Chaque requete est donc ecrite
+#     sous la forme « groupe (terme OR terme) », qui, elle, fonctionne.
 FENETRE_GOOGLE = "when:7d"
 
 # Les requetes Google Actualites, une par axe de la veille.
@@ -69,10 +73,10 @@ REQUETES = [
      'OR "contrôleur des lieux de privation")'),
 
     ("pair-aidance", GNEWS_FR,
-     '"pair-aidance" OR "pair-aidant" OR "pair-aidants" '
+     '("pair-aidance" OR "pair-aidant" OR "pair-aidants" '
      'OR "médiateur de santé pair" OR "savoir expérientiel" '
-     'OR ("rétablissement" AND ("santé mentale" OR psychiatrie)) '
-     'OR ("groupe d\'entraide mutuelle" AND psychiatrie)'),
+     'OR rétablissement OR "groupe d\'entraide mutuelle") '
+     '("santé mentale" OR psychiatrie OR "troubles psychiques")'),
 
     ("societe", GNEWS_FR,
      '"santé mentale" (jeunes OR adolescents OR étudiants OR écrans '
@@ -521,7 +525,7 @@ def main():
 
     sources_a_lire = (
         [(cle,
-          gabarit.format(quote("(" + requete + ") " + FENETRE_GOOGLE, safe="")),
+          gabarit.format(quote(requete + " " + FENETRE_GOOGLE, safe="")),
           requete, True)
          for cle, gabarit, requete in REQUETES] +
         [(cle, url, "", False) for cle, url in FLUX_DIRECTS]
