@@ -119,7 +119,7 @@ FLUX_DIRECTS = [
     ("science-daily", "https://www.sciencedaily.com/rss/mind_brain/mental_health.xml"),
     ("elf-digital", "https://www.nationalelfservice.net/treatment/digital-health/feed/"),
     ("elf-participation", "https://www.nationalelfservice.net/populations-and-settings/service-user-involvement/feed/"),
-    ("elf-participation", "https://www.nationalelfservice.net/mental-health/suicide/feed/"),
+    ("elf-suicide", "https://www.nationalelfservice.net/mental-health/suicide/feed/"),
     ("spf", "https://www.santepubliquefrance.fr/rss/1060"),
 ]
 
@@ -159,6 +159,88 @@ EXCLUSIONS = re.compile(
     r"\bhoroscope du\b",
     re.IGNORECASE,
 )
+
+# ----------------------------------------------------------- zone retenue
+#
+# La veille porte sur la France d'abord, puis sur les grands pays occidentaux.
+# Une reference n'est gardee que si l'editeur passe l'une de ces deux portes :
+#   - son domaine se termine par l'un des suffixes de pays ci-dessous ;
+#   - ou il figure nommement dans SOURCES_INTERNATIONALES.
+# Ce qui n'entre dans aucune des deux est ecarte, et compte dans la colonne
+# « hors zone » du journal.
+
+SUFFIXES_PAYS = (
+    # France et francophonie proche
+    ".fr", ".re", ".gp", ".mq", ".gf", ".yt", ".nc", ".pf",
+    ".be", ".ch", ".lu", ".mc", ".ca", ".qc.ca",
+    # Europe de l'Ouest et du Nord
+    ".uk", ".co.uk", ".ie", ".de", ".at", ".nl", ".es", ".pt", ".it",
+    ".dk", ".se", ".no", ".fi", ".is", ".eu",
+    # Oceanie
+    ".au", ".com.au", ".nz", ".co.nz",
+)
+
+# Editeurs en .com, .org ou .net que l'on garde malgre l'absence de suffixe
+# de pays. Ajoutez les votres, un domaine par ligne.
+SOURCES_INTERNATIONALES = {
+    # presse francaise en .com ou .net
+    "bfmtv.com", "la-croix.com", "nouvelobs.com", "marianne.net",
+    "lesinrocks.com", "konbini.com", "brut.media", "courrierinternational.com",
+    "francetvinfo.fr", "arte.tv", "rfi.fr", "france24.com",
+    # presse internationale de reference
+    "theguardian.com", "nytimes.com", "washingtonpost.com", "wsj.com",
+    "bbc.com", "apnews.com", "reuters.com", "npr.org", "pbs.org",
+    "theatlantic.com", "newyorker.com", "time.com", "newsweek.com",
+    "usatoday.com", "latimes.com", "bostonglobe.com", "politico.com",
+    "politico.eu", "ft.com", "economist.com", "cnn.com", "nbcnews.com",
+    "cbsnews.com", "abcnews.go.com", "axios.com", "vox.com", "slate.com",
+    "theconversation.com", "elpais.com", "spiegel.de", "zeit.de",
+    # science, medecine, secteur
+    "nature.com", "science.org", "thelancet.com", "bmj.com",
+    "jamanetwork.com", "nejm.org", "statnews.com", "scientificamerican.com",
+    "psychiatrictimes.com", "psychologytoday.com", "sciencedaily.com",
+    "nationalelfservice.net", "madinamerica.com", "mindsitenews.org",
+    "medscape.com", "univadis.fr",
+    # institutions
+    "who.int", "un.org", "oecd.org", "paho.org", "nih.gov", "cdc.gov",
+    "samhsa.gov", "nimh.nih.gov", "psycom.org", "mentalhealtheurope.org",
+}
+
+# Editeurs ecartes meme quand le suffixe de pays les ferait passer :
+# agregateurs, diffuseurs de communiques, sites commerciaux, hors sujet.
+SOURCES_ECARTEES = {
+    "orange.fr", "msn.com", "yahoo.com", "news.yahoo.com", "actualite.com",
+    "presse-agence.fr", "bioengineer.org", "eurekalert.org",
+    "homeophyto.com", "ma-clinique.fr", "pharedere.com",
+    "footmercato.net", "medicaldaily.com", "doctissimo.fr",
+}
+
+
+def hote_de(adresse):
+    """Rend l'hote d'une adresse, sans « www. », ou une chaine vide."""
+    try:
+        hote = urlparse(adresse).netloc
+    except ValueError:
+        return ""
+    hote = hote.split("@")[-1].split(":")[0].lower()
+    return hote[4:] if hote.startswith("www.") else hote
+
+
+def dans_la_zone(domaine):
+    """Vrai si l'editeur releve de la zone retenue."""
+    if not domaine:
+        return False
+    if domaine in SOURCES_ECARTEES:
+        return False
+    if any(domaine.endswith("." + s) or domaine == s
+           for s in SOURCES_ECARTEES):
+        return False
+    if domaine in SOURCES_INTERNATIONALES:
+        return True
+    if any(domaine.endswith("." + s) for s in SOURCES_INTERNATIONALES):
+        return True
+    return domaine.endswith(SUFFIXES_PAYS)
+
 
 # Hotes qui ne sont jamais un article.
 HOTES_A_IGNORER = re.compile(
@@ -481,8 +563,18 @@ def parser_flux(xml_bytes, cle, google):
         if not titre or not lien:
             continue
 
-        source = texte(item.find("source"))
+        noeud_source = item.find("source")
+        source = texte(noeud_source)
         resume = "" if google else _resume_item(item)
+
+        # Le domaine de l'editeur, pour juger de la source avant toute
+        # resolution. Google le porte en attribut de la balise « source » ;
+        # pour un flux direct, le lien est deja celui de l'editeur.
+        domaine = ""
+        if noeud_source is not None:
+            domaine = hote_de(noeud_source.get("url") or "")
+        if not domaine:
+            domaine = hote_de(lien)
 
         if google:
             # Google Actualites suffixe le titre par « - Nom du media ».
@@ -492,7 +584,7 @@ def parser_flux(xml_bytes, cle, google):
                 titre, _, suffixe = titre.rpartition(" - ")
                 titre, source = titre.strip(), suffixe.strip()
         elif not source:
-            source = urlparse(lien).netloc.replace("www.", "")
+            source = domaine
 
         horodatage = _date_item(item)
         sortie.append({
@@ -504,6 +596,7 @@ def parser_flux(xml_bytes, cle, google):
             "summary": resume,
             "feed": cle,
             "_ts": horodatage,
+            "_domaine": domaine,
         })
     return sortie
 
@@ -545,12 +638,18 @@ def main():
             items, etat = [], "echec: {}".format(e)
             print("source {} : {}".format(cle, etat), file=sys.stderr)
 
-        retenus, hors_champ, hors_fenetre = 0, 0, 0
+        retenus, hors_champ, hors_fenetre, hors_zone = 0, 0, 0, 0
+        ecartes = {}
         for it in items:
             if retenus >= MAX_PAR_SOURCE:
                 break
             if it["_ts"] and it["_ts"] < limite:
                 hors_fenetre += 1
+                continue
+            if not dans_la_zone(it["_domaine"]):
+                hors_zone += 1
+                ecartes[it["_domaine"] or it["source"]] = \
+                    ecartes.get(it["_domaine"] or it["source"], 0) + 1
                 continue
             if not dans_le_champ(it["title"], it["summary"]):
                 hors_champ += 1
@@ -562,7 +661,8 @@ def main():
             "cle": cle, "type": "google" if google else "rss",
             "requete": requete, "etat": etat, "bruts": len(items),
             "retenus": retenus, "hors_champ": hors_champ,
-            "hors_fenetre": hors_fenetre,
+            "hors_fenetre": hors_fenetre, "hors_zone": hors_zone,
+            "ecartes": sorted(ecartes.items(), key=lambda p: -p[1])[:8],
         })
 
     # --- dedoublonnage interne ---
@@ -574,6 +674,7 @@ def main():
         vus_id.add(it["id"])
         vus_titre.add(cle_titre)
         it.pop("_ts", None)
+        it.pop("_domaine", None)
         frais.append(it)
 
     # --- fusion dans l'archive ---
@@ -686,11 +787,22 @@ def main():
                   total, len(liste), opaques))
     print("sources en echec : {}".format(", ".join(echecs) if echecs else "aucune"))
     for r in rapport:
-        print("  {:22s} {:7s} {:>4} bruts  {:>3} retenus  "
-              "{:>3} hors champ  {:>3} hors fenetre   {}"
+        print("  {:22s} {:7s} {:>4} bruts  {:>3} retenus  {:>3} hors champ  "
+              "{:>3} hors zone  {:>3} hors fenetre   {}"
               .format(r["cle"], r["type"], r["bruts"], r["retenus"],
-                      r["hors_champ"], r["hors_fenetre"],
+                      r["hors_champ"], r["hors_zone"], r["hors_fenetre"],
                       r["etat"] if r["etat"] != "ok" else ""))
+
+    # Les editeurs les plus souvent ecartes : de quoi ajuster les listes.
+    ecartes_total = {}
+    for r in rapport:
+        for domaine, n in r["ecartes"]:
+            ecartes_total[domaine] = ecartes_total.get(domaine, 0) + n
+    if ecartes_total:
+        tete = sorted(ecartes_total.items(), key=lambda p: -p[1])[:15]
+        print("editeurs hors zone les plus frequents :")
+        for domaine, n in tete:
+            print("  {:>3}  {}".format(n, domaine))
 
 
 if __name__ == "__main__":
