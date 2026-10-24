@@ -1,8 +1,8 @@
 {
- "maj": "2026-10-24T08:54:37+00:00",
+ "maj": "2026-10-24T08:58:42+00:00",
  "jours_couverts": 1,
- "total": 185,
- "liens_non_resolus": 40,
+ "total": 196,
+ "liens_non_resolus": 30,
  "jours": [
   {
    "date": "2026-10-24",
@@ -131,9 +131,9 @@
     {
      "id": "u945b96c9",
      "title": "Dépression : les effets positifs d’une dose de champignon hallucinogène durent trois mois",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaTAxbFhFYlRSNWRVUkNVbk9YcEQ3N3BGRy03emMyWjY2ZWxxYy1TLTdDZW10YlhUTHBSY0x5WXQ1SV9MSzJNLWhkOWFaYzdqQXBNY0VRNGEwUDkxYWJPd1VZX2M4ZWFlcjB5N0Q2cC1wOHcxdlBrX3dlNVl0aFZ3ckZGdFpJSFdQMUZCYmx3UVVwQjBwZUt1NHhoaERGMW8xejlHcWVHZ2pvRkotc2lVUGN4VldZZUVzRXdRMWxJRThKX2xueHdGNHZmMkhxYkNkaXpfWUh2Z0RyUEVx?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.science-et-vie.com/corps-et-sante/depression-les-effets-positifs-dune-dose-de-champignon-hallucinogene-durent-trois-mois-263895.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaTAxbFhFYlRSNWRVUkNVbk9YcEQ3N3BGRy03emMyWjY2ZWxxYy1TLTdDZW10YlhUTHBSY0x5WXQ1SV9MSzJNLWhkOWFaYzdqQXBNY0VRNGEwUDkxYWJPd1VZX2M4ZWFlcjB5N0Q2cC1wOHcxdlBrX3dlNVl0aFZ3ckZGdFpJSFdQMUZCYmx3UVVwQjBwZUt1NHhoaERGMW8xejlHcWVHZ2pvRkotc2lVUGN4VldZZUVzRXdRMWxJRThKX2xueHdGNHZmMkhxYkNkaXpfWUh2Z0RyUEVx?oc=5",
+     "resolu": true,
      "source": "Science et vie",
      "published": "2026-10-23",
      "summary": "",
@@ -164,9 +164,9 @@
     {
      "id": "u63779a5f",
      "title": "Santé mentale : qui contacter quand on ne va pas bien ?",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR2lxSnV1WVFmVnV6SWlEalI1OHRIWU05Smo4VlphY2x4aGNTZ2Ywb2hNdVhDZGt1eTJuNGc3bU1ySzZJQUdMZC1iUFhGeWhyb2NrUEpIaXB4OEFuQUc0WUFQVkdobnRvdFFJZ1dQWlV3bElSaHpPdTBBYW5XdElmSk5ZNEIyWWUyVVJsVGlQRzNlMUdZVzZz?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.cidj.com/bien-vivre/sa-sante/sante-mentale-qui-contacter-quand-on-ne-va-pas-bien",
+     "gnews": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR2lxSnV1WVFmVnV6SWlEalI1OHRIWU05Smo4VlphY2x4aGNTZ2Ywb2hNdVhDZGt1eTJuNGc3bU1ySzZJQUdMZC1iUFhGeWhyb2NrUEpIaXB4OEFuQUc0WUFQVkdobnRvdFFJZ1dQWlV3bElSaHpPdTBBYW5XdElmSk5ZNEIyWWUyVVJsVGlQRzNlMUdZVzZz?oc=5",
+     "resolu": true,
      "source": "CIDJ",
      "published": "2026-10-23",
      "summary": "",
@@ -197,9 +197,9 @@
     {
      "id": "u595e51e",
      "title": "Dépression, anxiété : ce que les adolescents mangent pourrait jouer un rôle, selon une étude",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQazNuVUIzdzdEcWpsbjhyOUhKNGtLR3VYN1BabTRQUm5scXpkZEZkS3JXNHFBU3VJTUpfdnk0Rm1NRi1FcGlxYVVOeDYzNjF4UTlMamRyNmVJSzlFR2FZc1RTcjBiSzBfS3VQa3M1TTZqZGdVNGw5Yl9jNEJpOV96blVyNEN4VDc4VEJFaDU1N3BvVHIyQUF1WnljNy1LakFqSG9tbzRsVDZtOHRJTnBvcXpxanh2QU0zVm9xeWZ0OGp1ak1yYmpzaXR1djY0clFoWWRmRDBycE10eEpoTXZKUFVzSjc?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.doctissimo.fr/nutrition/news-nutrition/depression-anxiete-ce-que-les-adolescents-mangent-pourrait-jouer-un-role-selon-une-etude-828150.htm",
+     "gnews": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQazNuVUIzdzdEcWpsbjhyOUhKNGtLR3VYN1BabTRQUm5scXpkZEZkS3JXNHFBU3VJTUpfdnk0Rm1NRi1FcGlxYVVOeDYzNjF4UTlMamRyNmVJSzlFR2FZc1RTcjBiSzBfS3VQa3M1TTZqZGdVNGw5Yl9jNEJpOV96blVyNEN4VDc4VEJFaDU1N3BvVHIyQUF1WnljNy1LakFqSG9tbzRsVDZtOHRJTnBvcXpxanh2QU0zVm9xeWZ0OGp1ak1yYmpzaXR1djY0clFoWWRmRDBycE10eEpoTXZKUFVzSjc?oc=5",
+     "resolu": true,
      "source": "Doctissimo",
      "published": "2026-10-23",
      "summary": "",
@@ -219,9 +219,9 @@
     {
      "id": "u7c6faa5d",
      "title": "Psychiatrie : la profession atterrée par la volonté du ministère de réduire les exigences de la formation des Padhue",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeG5ZSWdfZ2JRbHNLdmRzTGwtV2sweWk5WEdWZXRTUXktVENJNDNhNFA2Z25xQkpvV2RiaUtVVDJVd3BNVWw1UEo1ejN3MWhyMkUzSkJiWTUtaWw0QVAyX1lnVjFtR25nM09kb2pBR1ZZWVZoYVRTMmFmNUpCRzhvRE93SUNwanp3OWswZXpnXzZNREJQTHl0ektzSTVHLUM5LTAwamhoUW1PeWhtVWhmdjJGWWdOdFpfdnBZbmI2TXAwaVZLekpKeHcxbDFPQS1TMU5iU0hsaDF6LXdyTXFtN253NmFXVEdw?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.lequotidiendumedecin.fr/specialites/psychiatrie/psychiatrie-la-profession-atterree-par-la-volonte-du-ministere-de-reduire-les-exigences-de-la",
+     "gnews": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeG5ZSWdfZ2JRbHNLdmRzTGwtV2sweWk5WEdWZXRTUXktVENJNDNhNFA2Z25xQkpvV2RiaUtVVDJVd3BNVWw1UEo1ejN3MWhyMkUzSkJiWTUtaWw0QVAyX1lnVjFtR25nM09kb2pBR1ZZWVZoYVRTMmFmNUpCRzhvRE93SUNwanp3OWswZXpnXzZNREJQTHl0ektzSTVHLUM5LTAwamhoUW1PeWhtVWhmdjJGWWdOdFpfdnBZbmI2TXAwaVZLekpKeHcxbDFPQS1TMU5iU0hsaDF6LXdyTXFtN253NmFXVEdw?oc=5",
+     "resolu": true,
      "source": "Le Quotidien du Médecin",
      "published": "2026-10-23",
      "summary": "",
@@ -241,9 +241,9 @@
     {
      "id": "u8dc1ca07",
      "title": "Étaples-sur-Mer : l’art au cœur de la sensibilisation à la santé mentale",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXhfRVlqNXRMT3pBVzhVbk9CYWQzdEtDUDVtVGw4cVplYk5Pb24wWG5BVFNmTHEzbHk3cFJuaUtRczZock9pX2h0RmZ1aFZ3LTZzUHgzTk1TQWRiTVgxQVMxazE3OFVZYmt5SjRVVUZpQXRadEx4eGpwZTRpZlJPdzh6bW0xTWR6SGRIVVFmWXRXd0xVUEtCTzJaOVRtdVh2bHZFMGxxS3BUZnJpaUZZeHlJYjV6RjAyVE5qdVVLT0o?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.nordlittoral.fr/302015/article/2026-10-23/etaples-sur-mer-l-art-au-coeur-de-la-sensibilisation-la-sante-mentale",
+     "gnews": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLXhfRVlqNXRMT3pBVzhVbk9CYWQzdEtDUDVtVGw4cVplYk5Pb24wWG5BVFNmTHEzbHk3cFJuaUtRczZock9pX2h0RmZ1aFZ3LTZzUHgzTk1TQWRiTVgxQVMxazE3OFVZYmt5SjRVVUZpQXRadEx4eGpwZTRpZlJPdzh6bW0xTWR6SGRIVVFmWXRXd0xVUEtCTzJaOVRtdVh2bHZFMGxxS3BUZnJpaUZZeHlJYjV6RjAyVE5qdVVLT0o?oc=5",
+     "resolu": true,
      "source": "Nord Littoral",
      "published": "2026-10-23",
      "summary": "",
@@ -252,9 +252,9 @@
     {
      "id": "ud64fd6d2",
      "title": "Santé mentale : l’ARS Bourgogne-Franche-Comté veut accélérer la mobilisation",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkFaOUhIcF9IdjR1NjFSRUFCX2tMWDZtanQ5X00xUVVwVmdiNGU5eDhSNzFqcHhyYnhBbDFsajE4Rm1nQ0xQMzFaQU0wM2ZabmVleHYzZXdmOU84LXZjaE1VakZOeHRuQW9rOGxZNE5FNHpJOHQxcmRwZnJpS0JIQk9rY21lLTFjU3dxaXNKb2xzMDFyejFUNDBYRjNhRThCVkVlWHNDSGZjeW1YYVRhbzBZY05nM2d4?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.toutmontbeliard.com/2026/10/23/sante-mentale-lars-bourgogne-franche-comte-veut-accelerer-la-mobilisation/",
+     "gnews": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVkFaOUhIcF9IdjR1NjFSRUFCX2tMWDZtanQ5X00xUVVwVmdiNGU5eDhSNzFqcHhyYnhBbDFsajE4Rm1nQ0xQMzFaQU0wM2ZabmVleHYzZXdmOU84LXZjaE1VakZOeHRuQW9rOGxZNE5FNHpJOHQxcmRwZnJpS0JIQk9rY21lLTFjU3dxaXNKb2xzMDFyejFUNDBYRjNhRThCVkVlWHNDSGZjeW1YYVRhbzBZY05nM2d4?oc=5",
+     "resolu": true,
      "source": "ToutMontbeliard.com",
      "published": "2026-10-23",
      "summary": "",
@@ -263,9 +263,9 @@
     {
      "id": "udebe6202",
      "title": "Quand l’art libère la parole des jeunes sur la santé mentale : au musée d’Orsay, une expo conçue avec des adolescents",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdV9WOHdiQnJ0a29NVXY3SkdpSFBhaXpBcFo1UjdSRlRUV0VyTkdyQktMTmgxV1VVY0p0Z0dtbU9DR0M3QU5veEc2d015OFpZY2NnWlo4bXBoQnpaQmhKY0xJR3BkZVp6bmNDWlFZLURCcnVDd1VhV1M2MjlCb1l3Y0dQdkdmZ01QVEIzbHVHQWdMVk04UGNZM0phX0hqUlhLTXNNUktfUERxX00xdzNsZ2ZkbzZieDN1Mm9zTmJzU2R3aUtBZjFIWW5ITVJra1dkaGlaMW1YV1ZVMWtVRlE?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.beauxarts.com/expos/quand-lart-libere-la-parole-des-jeunes-sur-la-sante-mentale-au-musee-dorsay-une-expo-concue-avec-des-adolescents/",
+     "gnews": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdV9WOHdiQnJ0a29NVXY3SkdpSFBhaXpBcFo1UjdSRlRUV0VyTkdyQktMTmgxV1VVY0p0Z0dtbU9DR0M3QU5veEc2d015OFpZY2NnWlo4bXBoQnpaQmhKY0xJR3BkZVp6bmNDWlFZLURCcnVDd1VhV1M2MjlCb1l3Y0dQdkdmZ01QVEIzbHVHQWdMVk04UGNZM0phX0hqUlhLTXNNUktfUERxX00xdzNsZ2ZkbzZieDN1Mm9zTmJzU2R3aUtBZjFIWW5ITVJra1dkaGlaMW1YV1ZVMWtVRlE?oc=5",
+     "resolu": true,
      "source": "Beaux Arts Magazine",
      "published": "2026-10-23",
      "summary": "",
@@ -274,9 +274,9 @@
     {
      "id": "uc1a87ec7",
      "title": "\"J'ai arrêté le lycée pour phobie scolaire\" : la santé mentale est une priorité pour les jeunes",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYnFkLUVYbko1U0xoMU92aU44UktoNmlaSVY1SmhacWVPbkhZcFdDd3hrdVRtMXl5WjRZZ2JWRTBhUkZpMENXcGtlOTdtNE56YnFnU2xTdG5NS25paGFQS3FYZVUycVZ2YlMwWXFWX1RjbUgtUXhDNHlTVVlPWmI4ZXNkY3B0ODJNbXY3LTlNQ19xX2s4Rlcwcm9pNXR6RWNoZkdETlV5UWF3VE9jSVJQaFY3Ym0wb1A0SEhKOVRTLXpjVFdaQjVxRGZ3RnFIdW1JOTh5NTJFcG9fcE0?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://actu.fr/normandie/vernon_27681/jai-arrete-le-lycee-pour-phobie-scolaire-la-sante-mentale-est-une-priorite-pour-les-jeunes_64962014.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYnFkLUVYbko1U0xoMU92aU44UktoNmlaSVY1SmhacWVPbkhZcFdDd3hrdVRtMXl5WjRZZ2JWRTBhUkZpMENXcGtlOTdtNE56YnFnU2xTdG5NS25paGFQS3FYZVUycVZ2YlMwWXFWX1RjbUgtUXhDNHlTVVlPWmI4ZXNkY3B0ODJNbXY3LTlNQ19xX2s4Rlcwcm9pNXR6RWNoZkdETlV5UWF3VE9jSVJQaFY3Ym0wb1A0SEhKOVRTLXpjVFdaQjVxRGZ3RnFIdW1JOTh5NTJFcG9fcE0?oc=5",
+     "resolu": true,
      "source": "Actu.fr",
      "published": "2026-10-23",
      "summary": "",
@@ -285,9 +285,9 @@
     {
      "id": "ubf11e031",
      "title": "Carquefou. Santé mentale : l’art fait tomber les préjugés",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON3UxRk5MVDg5MkFScGdBMVlXcnZyaE1QckVKV0k1dVUxbkZxaGtoZS1CMS1fQVhWal9YZ2ctMkRFX1E3WXpGU2hDT1BQYUtVSEhrTUVKTzBNMUlySVd1bk42a2VoQzJKdElUcE5wUi1PaXkyT0VZSjd4aFZpbkRsdDV3QVFObWN2UXhZUDVFU1VTZUpqVzdaZDFSLUtfUkV2YUhwMXJsZ1pBSTZKSzZhNHpNRXU4R2RYRlNNUEJIdkJPRzdwN2xZV1hzemZLaXVVcXNhWG1uTVN2ZlB0VWlHTlJ6Rm5FUQ?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.ouest-france.fr/pays-de-la-loire/carquefou-44470/carquefou-sante-mentale-lart-fait-tomber-les-prejuges-19a7af31-ccc2-4d24-a9f7-9fff71f68bd5",
+     "gnews": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON3UxRk5MVDg5MkFScGdBMVlXcnZyaE1QckVKV0k1dVUxbkZxaGtoZS1CMS1fQVhWal9YZ2ctMkRFX1E3WXpGU2hDT1BQYUtVSEhrTUVKTzBNMUlySVd1bk42a2VoQzJKdElUcE5wUi1PaXkyT0VZSjd4aFZpbkRsdDV3QVFObWN2UXhZUDVFU1VTZUpqVzdaZDFSLUtfUkV2YUhwMXJsZ1pBSTZKSzZhNHpNRXU4R2RYRlNNUEJIdkJPRzdwN2xZV1hzemZLaXVVcXNhWG1uTVN2ZlB0VWlHTlJ6Rm5FUQ?oc=5",
+     "resolu": true,
      "source": "Ouest-France",
      "published": "2026-10-23",
      "summary": "",
@@ -296,9 +296,9 @@
     {
      "id": "u78297568",
      "title": "Carla-Bayle. L’art contre les préjugés autour de la santé mentale",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcHVVV2JJRC1JNVhUeGFvMDlhUzFKVm1BU1djYXZ3WURkLXhFall5d3lrR3hrUnlHUXVTVjVhSjBsQWtlN1B2OE9mY05VU0FpNWM1aXJzRnB1YzkxSlMyQzVlcEpHMngySFJMZ05BYXZ6UXZNUXBFZk16dVVENW1lUmhfN0hucWdkQTJKNmxyaTdpclVLZ0pkdmNCY0hQcWJfT0E?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.ladepeche.fr/2026/10/22/lart-contre-les-prejuges-autour-de-la-sante-mentale-13615885.php",
+     "gnews": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcHVVV2JJRC1JNVhUeGFvMDlhUzFKVm1BU1djYXZ3WURkLXhFall5d3lrR3hrUnlHUXVTVjVhSjBsQWtlN1B2OE9mY05VU0FpNWM1aXJzRnB1YzkxSlMyQzVlcEpHMngySFJMZ05BYXZ6UXZNUXBFZk16dVVENW1lUmhfN0hucWdkQTJKNmxyaTdpclVLZ0pkdmNCY0hQcWJfT0E?oc=5",
+     "resolu": true,
      "source": "ladepeche.fr",
      "published": "2026-10-22",
      "summary": "",
@@ -2041,24 +2041,145 @@
      "published": "2026-10-17",
      "summary": "",
      "feed": "stigmatisation"
+    },
+    {
+     "id": "u9f03a018",
+     "title": "New mental health services for North Tipp",
+     "url": "https://www.nenaghguardian.ie/2026/10/23/new-mental-health-services-for-north-tipp/",
+     "gnews": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlNteHp4Q3EzOVN2bFZOQm5nRWFUSUQ1dU5mQncwUXRVWWg1Nk5FQ1M1Qk4yRG5HdG12cVF3VFl4ZXdkRU5Yc0RXY2FIcExnNFZ6LVN3a0ZCWlFvd2xhelJXR3lzeDhUYlhuMTdwWWstWTRLWDZXaTNhaF9ySVNySWN6NEJ4b0Jod2Nv?oc=5",
+     "resolu": true,
+     "source": "Nenagh Guardian",
+     "published": "2026-10-23",
+     "summary": "",
+     "feed": "international"
+    },
+    {
+     "id": "u4bec1ff",
+     "title": "Priorité de la ministre déléguée à la Santé mentale : c'est quoi, Agora Déclic?",
+     "url": "https://www.24heures.ca/2026/10/22/priorite-de-la-ministre-deleguee-a-la-sante-mentale--cest-quoi-agora-declic",
+     "gnews": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjJjbDl4YzVyNmhIRDIxNG44MHdmaEI2MjJUeWxkSUVpdXJEaGc0UmoxYnRvNXRVNFlCU0J6WWlDWktLaHFaaXhDQXhlV2R4STV1Mi04Y2UzU3JsNkROdThrZjExbkhJY3FNdnFuMy16XzhrY196M2J1akdzcXotOUpIeDM4ZnpvbXlJa3FJbXJWem1pemJMNDh1TGx3ajY0STNqa1otNDZvaGliU3ZR?oc=5",
+     "resolu": true,
+     "source": "24 heures",
+     "published": "2026-10-22",
+     "summary": "",
+     "feed": "societe"
+    },
+    {
+     "id": "ud5a9b692",
+     "title": "Singapore to bring community mental health services under new HealthierMind SG network",
+     "url": "https://www.channelnewsasia.com/watch/singapore-bring-community-mental-health-services-under-new-healthiermind-sg-network-6483116",
+     "gnews": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDRoVHk3TGx2bTIwSnhoZzJEQ09zUWxMWGRxd2hRVGdTTHU4b2tBSVJGajdFWlRKcGNlWmNzdHJEd2xmcHpNZC1FWjFxQW5rWlFVVTV1NWZHbV9BclNpY0dWLVk5djZmNUplM3BFRkhqZXdzRDdQTmZteEJzRnpqclZLcHZkaFptS0M2dU4xbkx3WF90R0N5YTdyeE5tRDlfdEl6VW1uYkh1X082UEJ6XzJGeFp3b3BBbC0wM1hhSFh3Q08wVEtQYw?oc=5",
+     "resolu": true,
+     "source": "CNA",
+     "published": "2026-10-22",
+     "summary": "",
+     "feed": "international"
+    },
+    {
+     "id": "u1b08a8e6",
+     "title": "CSAC advances in mental health services shift",
+     "url": "https://www.addisonindependent.com/2026/10/22/csac-advances-in-mental-health-services-shift/",
+     "gnews": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQktpMWVNc09jb3I1eFd3RGRRVjNDQWhMU0VXRlB4aHdnSUpXb3FxNHBiSFA3ZVg4TlM0N1ptcDBoVTcwckU1WDRraUhHV3Jqc0FDZ1N2SkxKNEFfOFZmdlNwRGROYU84WkdPRjFyS3M5TEpCMlJ5WFlobXRKb3VaNE45Q1drUUMxRDBIRjZ4SDN5cU1XbkNr?oc=5",
+     "resolu": true,
+     "source": "Addison Independent",
+     "published": "2026-10-22",
+     "summary": "",
+     "feed": "international"
+    },
+    {
+     "id": "ua10772a9",
+     "title": "Santé mentale chez les jeunes: un système « pas adapté »",
+     "url": "https://ici.radio-canada.ca/en-bref/1-10789855/sante-mentale-chez-jeunes-un-systeme-pas-adapte?liste",
+     "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOTVXbG1RLVUxUlV1aTV6dEVXcVBtcEc3cGROUFB0Vy04Tmo2Ym55NE5fbmZvOTJWdkJadGFpa3hEZHZsTlYwdjkybk1WOGJEN2s5T1pXQ1ZMZVpncDdFSWxvejkxc0FfSV80Tlk3ZE8zUXVrVjVCUm5NbW1XWnhlcnoxWWZNTWZjU2VBMzljVDhYYVF6WlNncVppREt5RXlNLVl2WlhhSmM5VkRydjYwQQ?oc=5",
+     "resolu": true,
+     "source": "Radio-Canada",
+     "published": "2026-10-22",
+     "summary": "",
+     "feed": "societe"
+    },
+    {
+     "id": "u262b4da3",
+     "title": "Singapore to streamline community mental health services under new HealthierMind SG network",
+     "url": "https://www.channelnewsasia.com/singapore/mental-health-services-healthiermind-sg-youth-6481011",
+     "gnews": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS3pBZHZaRXhERmx1NWhmU3dRUWlmSE1selNIMndIT3YtQzhSM3hGQ3VEOURVOURia3Bqdk1PWE9NdzB1dVBZMEZRYVNYaVY0T2JaMEtRaGFYcHhja09VYjF3OVF4alRqb0V2Rmwtc0VFRUhkQ3QtMWNuUThSZTljQ0hxZ0x1Q2FjSXRYZ0xVZUY0c25CUHpHVE9tNA?oc=5",
+     "resolu": true,
+     "source": "CNA",
+     "published": "2026-10-22",
+     "summary": "",
+     "feed": "international"
+    },
+    {
+     "id": "u33376f89",
+     "title": "Le capitalisme, l’austérité et la santé mentale des jeunes",
+     "url": "https://www.marxiste.org/le-capitalisme-lausterite-et-la-sante-mentale-des-jeunes",
+     "gnews": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZFhwWFpvc3g4MVFLelU0MmFCOUxlek1Rd3Z3NnpBeUxkMWQyNkJtMG1JV19MdkZaZGJkSGNWXzJZXzRzZm85QlRsZGhRYVQxbzVfOEVfUUNjY3hVdW1nX0RoZEt5X3pyX3lpcE05MGJvNXFjdjc3NDk0M2xrSUd1M3hwdVJNWnpS?oc=5",
+     "resolu": true,
+     "source": "Parti Communiste Révolutionnaire",
+     "published": "2026-10-20",
+     "summary": "",
+     "feed": "societe"
+    },
+    {
+     "id": "ucaab7c14",
+     "title": "Inès Mendoza : comment son travail de modératrice pour Facebook et Instagram a brisé sa vie et sa santé mentale",
+     "url": "https://www.closermag.fr/faits_divers/ines-mendoza-comment-son-travail-de-moderatrice-pour-facebook-et-instagram-a-brise-sa-vie-et-sa-sante-mentale-3664450",
+     "gnews": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWjUySDFwT1VuSkRKZ21UV2t1WURSaFVJaU1DaTI1MUxfSG04SXdqWEQ3X21ldEE0NnItUU5tZjFQTlFEUmlZSU1NRVNXYjE1VFppQ0lvOFZOVmJCY3hhQk5naG04ZXBTU3NmODRDRU5vVFhYYlhVaGpXaEw1Qi1sTDZ4MnNKLUdFUlNwVkt1STh6alRwbjQ1TkN5QWEySWZHY0pWdUNGYlJ1YmRnczBSX3RoY0cxbXdjTVFMMXRhQW1Ec3U2YmhjT1dsdGdSbG04ZzByVm13TzNNRm1oMHliQV96aVE1cUROZ01z?oc=5",
+     "resolu": true,
+     "source": "Closer",
+     "published": "2026-10-19",
+     "summary": "",
+     "feed": "societe"
+    },
+    {
+     "id": "u80a8a204",
+     "title": "Telehealth for Rural Communities: The Mental Health Care Gap",
+     "url": "https://www.psychologytoday.com/us/blog/brain-boost/202408/telehealth-for-rural-communities-the-mental-health-care-gap",
+     "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYlhTSmhocXlYZGtLdHVoc1ZBa2lKcnU2LWhTN09vZ2JsWnBPZ0Z0WkRFenhVanVidXVlSmg0U2d2OWN2eG9sMWNwNDdLQ29pNTVOdWZhRUUwbTg1WEExYW1xcFJyTXF1Q1ZlRzh3ZzhnSkRHWlE1b18tQTAtY2dMYllPVTRyRV9TajNhT1RaUlQ2NnRwbmpheS1fV2xiM25NV0dNQ2VacS1pMWZjRkFGMFAxb2tsTWkyblE?oc=5",
+     "resolu": true,
+     "source": "Psychology Today",
+     "published": "2026-10-19",
+     "summary": "",
+     "feed": "international"
+    },
+    {
+     "id": "u578ce1bf",
+     "title": "Governor Newsom highlights mental health support for USS Abraham Lincoln sailors returning to San Diego after 321-day deployment",
+     "url": "https://www.gov.ca.gov/2026/10/17/governor-newsom-highlights-mental-health-support-for-uss-abraham-lincoln-sailors-returning-to-san-diego-after-321-day-deployment/",
+     "gnews": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYXFNOUdLWjFLTDh1ZW1ILUwxblZPUWtSc1hkXzZGZzcyQlFNdDllV2dQZHl3YVZPSk1kZm1XTW5RdXZTWTAwOFpRSTQ4dXNRTk44S204WTMwc3pBSVhwN1R2ckpWb0ZUUmJuNFNzUTNoMFNYVHlVY212WEh3ZmlJb1dXZHVxazZDbk50UmJDZVpRU012YkNQeVExQ3BQQzcwdk1IYWpfSzkwYWdRUWNoN2RvbEFYNjdXNENESGx5VzFXeU54a0VWckV4ZkNyTTBTUHQ4MzdsTUIxMmVaMUpqdWVreWY1RTZIeTUyemphRmNiQ1Y3MUE?oc=5",
+     "resolu": true,
+     "source": "California State Portal | CA.gov",
+     "published": "2026-10-17",
+     "summary": "",
+     "feed": "international"
+    },
+    {
+     "id": "uefe2783d",
+     "title": "FHSU psychologist knows firsthand of mental health stigma in ag communities",
+     "url": "https://hutchpost.com/posts/117b60df-6d36-4bff-9de8-24f6f23cbacc",
+     "gnews": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwS3FHbGEyREREaW1qWWg5WGhiMVlpdkVqRGJMWTBBWS1UYkZyUGxTTW8yS3p6UTNmOGFtZzUwSWxaenBrcGowX2hwdWJiZThKRG53TkthSURNTzdTUFRHMzZrV3ZnNXZQWHRXZjRtS3B0Zw?oc=5",
+     "resolu": true,
+     "source": "Hutch Post",
+     "published": "2026-10-17",
+     "summary": "",
+     "feed": "international"
     }
    ],
-   "collecte": "2026-10-24T08:54:37+00:00",
+   "collecte": "2026-10-24T08:58:42+00:00",
    "sources": [
     {
      "cle": "politiques-soins",
      "etat": "ok",
-     "retenus": 30
+     "retenus": 0
     },
     {
      "cle": "stigmatisation",
      "etat": "ok",
-     "retenus": 30
+     "retenus": 0
     },
     {
      "cle": "droits-contrainte",
      "etat": "ok",
-     "retenus": 5
+     "retenus": 1
     },
     {
      "cle": "pair-aidance",
@@ -2073,22 +2194,17 @@
     {
      "cle": "communication",
      "etat": "ok",
-     "retenus": 30
+     "retenus": 0
     },
     {
      "cle": "culture",
      "etat": "ok",
-     "retenus": 30
+     "retenus": 0
     },
     {
      "cle": "international",
      "etat": "ok",
-     "retenus": 30
-    },
-    {
-     "cle": "the-conversation-fr",
-     "etat": "ok",
-     "retenus": 2
+     "retenus": 28
     },
     {
      "cle": "sante-mentale",
@@ -2096,14 +2212,9 @@
      "retenus": 9
     },
     {
-     "cle": "stat-news",
+     "cle": "the-conversation-fr",
      "etat": "ok",
-     "retenus": 0
-    },
-    {
-     "cle": "psycom",
-     "etat": "echec: XML or text declaration not at start of entity: line 1, column 1",
-     "retenus": 0
+     "retenus": 2
     },
     {
      "cle": "le-monde-sante",
@@ -2121,7 +2232,7 @@
      "retenus": 1
     },
     {
-     "cle": "liberation",
+     "cle": "stat-news",
      "etat": "ok",
      "retenus": 0
     }
