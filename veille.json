@@ -1,5 +1,5 @@
 {
- "genere": "2026-10-24T08:58:42+00:00",
+ "genere": "2026-10-24T09:04:43+00:00",
  "fenetre_jours": 7,
  "sources": [
   {
@@ -7,9 +7,9 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie) (réforme OR financement OR pénurie OR \"feuille de route\" OR ministère OR \"agence régionale de santé\" OR hôpital OR \"secteur psychiatrique\")",
    "etat": "ok",
-   "bruts": 0,
-   "retenus": 0,
-   "hors_champ": 0,
+   "bruts": 49,
+   "retenus": 30,
+   "hors_champ": 5,
    "hors_fenetre": 0
   },
   {
@@ -17,9 +17,9 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie OR \"troubles psychiques\") (stigmatisation OR \"idées reçues\" OR préjugés OR représentations OR \"regard sur\" OR tabou)",
    "etat": "ok",
-   "bruts": 0,
-   "retenus": 0,
-   "hors_champ": 0,
+   "bruts": 59,
+   "retenus": 30,
+   "hors_champ": 3,
    "hors_fenetre": 0
   },
   {
@@ -27,29 +27,29 @@
    "type": "google",
    "requete": "psychiatrie (contention OR isolement OR \"soins sans consentement\" OR \"hospitalisation sous contrainte\" OR \"droits des patients\" OR \"contrôleur des lieux de privation\")",
    "etat": "ok",
-   "bruts": 1,
-   "retenus": 1,
-   "hors_champ": 0,
+   "bruts": 6,
+   "retenus": 5,
+   "hors_champ": 1,
    "hors_fenetre": 0
   },
   {
    "cle": "pair-aidance",
    "type": "google",
-   "requete": "\"pair-aidance\" OR \"pair-aidant\" OR \"pair-aidants\" OR \"médiateur de santé pair\" OR \"savoir expérientiel\" OR (\"rétablissement\" AND (\"santé mentale\" OR psychiatrie)) OR (\"groupe d'entraide mutuelle\" AND psychiatrie)",
+   "requete": "(\"pair-aidance\" OR \"pair-aidant\" OR \"pair-aidants\" OR \"médiateur de santé pair\" OR \"savoir expérientiel\" OR rétablissement OR \"groupe d'entraide mutuelle\") (\"santé mentale\" OR psychiatrie OR \"troubles psychiques\")",
    "etat": "ok",
-   "bruts": 29,
+   "bruts": 52,
    "retenus": 0,
    "hors_champ": 0,
-   "hors_fenetre": 29
+   "hors_fenetre": 52
   },
   {
    "cle": "societe",
    "type": "google",
    "requete": "\"santé mentale\" (jeunes OR adolescents OR étudiants OR écrans OR \"réseaux sociaux\" OR travail OR \"intelligence artificielle\" OR \"grande cause\")",
    "etat": "ok",
-   "bruts": 50,
+   "bruts": 86,
    "retenus": 30,
-   "hors_champ": 9,
+   "hors_champ": 3,
    "hors_fenetre": 0
   },
   {
@@ -57,9 +57,9 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie) (campagne OR sensibilisation OR \"prise de parole\" OR témoignage OR \"parle de sa dépression\" OR \"a révélé souffrir\")",
    "etat": "ok",
-   "bruts": 0,
-   "retenus": 0,
-   "hors_champ": 0,
+   "bruts": 30,
+   "retenus": 26,
+   "hors_champ": 4,
    "hors_fenetre": 0
   },
   {
@@ -67,9 +67,9 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie OR \"trouble bipolaire\" OR dépression) (livre OR essai OR roman OR documentaire OR série OR film OR podcast OR \"bande dessinée\")",
    "etat": "ok",
-   "bruts": 0,
-   "retenus": 0,
-   "hors_champ": 0,
+   "bruts": 60,
+   "retenus": 30,
+   "hors_champ": 15,
    "hors_fenetre": 0
   },
   {
@@ -77,9 +77,9 @@
    "type": "google",
    "requete": "\"mental health\" (stigma OR \"mental health policy\" OR \"mental health services\" OR coercion OR \"peer support\" OR \"lived experience\" OR \"media coverage\")",
    "etat": "ok",
-   "bruts": 28,
-   "retenus": 28,
-   "hors_champ": 0,
+   "bruts": 100,
+   "retenus": 30,
+   "hors_champ": 1,
    "hors_fenetre": 0
   },
   {
@@ -143,128 +143,51 @@
    "hors_fenetre": 0
   }
  ],
- "nouveaux": 11,
+ "nouveaux": 4,
  "items": [
   {
-   "id": "u9f03a018",
-   "title": "New mental health services for North Tipp",
-   "url": "https://www.nenaghguardian.ie/2026/10/23/new-mental-health-services-for-north-tipp/",
-   "gnews": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlNteHp4Q3EzOVN2bFZOQm5nRWFUSUQ1dU5mQncwUXRVWWg1Nk5FQ1M1Qk4yRG5HdG12cVF3VFl4ZXdkRU5Yc0RXY2FIcExnNFZ6LVN3a0ZCWlFvd2xhelJXR3lzeDhUYlhuMTdwWWstWTRLWDZXaTNhaF9ySVNySWN6NEJ4b0Jod2Nv?oc=5",
+   "id": "u877299b2",
+   "title": "Cercle de parole : santé mentale et identité rascisée · Inscription · 31/10/2026",
+   "url": "https://chiche.makesense.org/events/e/cercle-de-parole-sante-mentale-et-identite-rascisee-6ac7b19906b4310007d40e9a",
+   "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcDJtei01UVdGc3VaS3hGOGJseFhxampSRHRnMTdZSTFwUTMxUVNQbTR5a0UzalNJcjJSTDZ6TDJrQ2tyR1M2YlhxQjEyd1hfMmhXS0piM2tzOXpfd2tRVUowQlFoeFNqNWFOLXVIbkhRUWVLa3dxTlVuR1FObGxzczRZQTBFUXRIeER2ZVRfUUdWU212RmJqb0NyblVNeDVYUkY5UEZVeDNrNldBWE11WC1HZ1U?oc=5",
    "resolu": true,
-   "source": "Nenagh Guardian",
+   "source": "Chiche par makesense",
    "published": "2026-10-23",
    "summary": "",
-   "feed": "international"
+   "feed": "communication"
   },
   {
-   "id": "u4bec1ff",
-   "title": "Priorité de la ministre déléguée à la Santé mentale : c'est quoi, Agora Déclic?",
-   "url": "https://www.24heures.ca/2026/10/22/priorite-de-la-ministre-deleguee-a-la-sante-mentale--cest-quoi-agora-declic",
-   "gnews": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjJjbDl4YzVyNmhIRDIxNG44MHdmaEI2MjJUeWxkSUVpdXJEaGc0UmoxYnRvNXRVNFlCU0J6WWlDWktLaHFaaXhDQXhlV2R4STV1Mi04Y2UzU3JsNkROdThrZjExbkhJY3FNdnFuMy16XzhrY196M2J1akdzcXotOUpIeDM4ZnpvbXlJa3FJbXJWem1pemJMNDh1TGx3ajY0STNqa1otNDZvaGliU3ZR?oc=5",
+   "id": "u718cf649",
+   "title": "HHC et psychose : 33 patients comparés au cannabis en Irlande",
+   "url": "https://lecannabiste.com/hhc-et-psychose-33-patients-compares-au-cannabis-en-irlande/",
+   "gnews": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlVkUEtQOURNMTVCUlNLbzhRZzUzVEI2ZElhTXdIUFNEaGFqWEVtWEdLSm9NdXMwVEJTZmtJOHR5YnlicHJKUU44bUtNVktLTVhNUFU5cVVvRzJfcVlITElVdkE4eXI0aEtTU09RQmE2aTUxSE9kanFDeEExWGVMdk9ZRUtZSWgzUWZ0eEp3?oc=5",
    "resolu": true,
-   "source": "24 heures",
-   "published": "2026-10-22",
+   "source": "Le Cannabiste",
+   "published": "2026-10-21",
    "summary": "",
-   "feed": "societe"
+   "feed": "politiques-soins"
   },
   {
-   "id": "ud5a9b692",
-   "title": "Singapore to bring community mental health services under new HealthierMind SG network",
-   "url": "https://www.channelnewsasia.com/watch/singapore-bring-community-mental-health-services-under-new-healthiermind-sg-network-6483116",
-   "gnews": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDRoVHk3TGx2bTIwSnhoZzJEQ09zUWxMWGRxd2hRVGdTTHU4b2tBSVJGajdFWlRKcGNlWmNzdHJEd2xmcHpNZC1FWjFxQW5rWlFVVTV1NWZHbV9BclNpY0dWLVk5djZmNUplM3BFRkhqZXdzRDdQTmZteEJzRnpqclZLcHZkaFptS0M2dU4xbkx3WF90R0N5YTdyeE5tRDlfdEl6VW1uYkh1X082UEJ6XzJGeFp3b3BBbC0wM1hhSFh3Q08wVEtQYw?oc=5",
+   "id": "u552aa048",
+   "title": "Le Magen David Adom France lance une initiation aux premiers secours en santé mentale",
+   "url": "https://fr.timesofisrael.com/le-magen-david-adom-france-lance-une-initiation-aux-premiers-secours-en-sante-mentale/amp/",
+   "gnews": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGtXaFBiN0xOblgwRkxXX3dUWkIzUmNway1YWUNxOGZOcnd5b3Zlc281RmJPOWdhOFJ5QUFJSENJaTJFb25vblVyQXpZNzgxaER1WFlSQVhwaEdVaEM2cTZ4bUF6T1UxZTR3RDVzcjRicEc4aGtOd2Q1ZHlsQTd5anN5SHZTY2N1UktsZjdUMGhINGpPVTNUaVhCV3NTYnJNem95Rmtwakc4d0JRaVpwSWhBT1JFeVBvbmI00gG7AUFVX3lxTE9ka1doUGI3TE5uWDBGTFdfd1RaQjNSY3BrLVhZQ3E4Zk5yd3lvdmVzbzVGYk85Z2E4UnlBQUlIQ0lpMkVvbm9uVXJBelk3ODFoRHVYWVJBWHBoR1VoQzZxNnhtQXpPVTFlNHdENXNyNGJwRzhoa053ZDVkeWxBN3lqc3lIdlNjY3VSS2xmN1QwaEg0ak9VM1RpWEJXc1Nick16b3lGa3BqRzh3QlFpWnBJaEFPUkV5UG9uYjQ?oc=5",
    "resolu": true,
-   "source": "CNA",
-   "published": "2026-10-22",
-   "summary": "",
-   "feed": "international"
-  },
-  {
-   "id": "u1b08a8e6",
-   "title": "CSAC advances in mental health services shift",
-   "url": "https://www.addisonindependent.com/2026/10/22/csac-advances-in-mental-health-services-shift/",
-   "gnews": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQktpMWVNc09jb3I1eFd3RGRRVjNDQWhMU0VXRlB4aHdnSUpXb3FxNHBiSFA3ZVg4TlM0N1ptcDBoVTcwckU1WDRraUhHV3Jqc0FDZ1N2SkxKNEFfOFZmdlNwRGROYU84WkdPRjFyS3M5TEpCMlJ5WFlobXRKb3VaNE45Q1drUUMxRDBIRjZ4SDN5cU1XbkNr?oc=5",
-   "resolu": true,
-   "source": "Addison Independent",
-   "published": "2026-10-22",
-   "summary": "",
-   "feed": "international"
-  },
-  {
-   "id": "ua10772a9",
-   "title": "Santé mentale chez les jeunes: un système « pas adapté »",
-   "url": "https://ici.radio-canada.ca/en-bref/1-10789855/sante-mentale-chez-jeunes-un-systeme-pas-adapte?liste",
-   "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOTVXbG1RLVUxUlV1aTV6dEVXcVBtcEc3cGROUFB0Vy04Tmo2Ym55NE5fbmZvOTJWdkJadGFpa3hEZHZsTlYwdjkybk1WOGJEN2s5T1pXQ1ZMZVpncDdFSWxvejkxc0FfSV80Tlk3ZE8zUXVrVjVCUm5NbW1XWnhlcnoxWWZNTWZjU2VBMzljVDhYYVF6WlNncVppREt5RXlNLVl2WlhhSmM5VkRydjYwQQ?oc=5",
-   "resolu": true,
-   "source": "Radio-Canada",
-   "published": "2026-10-22",
-   "summary": "",
-   "feed": "societe"
-  },
-  {
-   "id": "u262b4da3",
-   "title": "Singapore to streamline community mental health services under new HealthierMind SG network",
-   "url": "https://www.channelnewsasia.com/singapore/mental-health-services-healthiermind-sg-youth-6481011",
-   "gnews": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS3pBZHZaRXhERmx1NWhmU3dRUWlmSE1selNIMndIT3YtQzhSM3hGQ3VEOURVOURia3Bqdk1PWE9NdzB1dVBZMEZRYVNYaVY0T2JaMEtRaGFYcHhja09VYjF3OVF4alRqb0V2Rmwtc0VFRUhkQ3QtMWNuUThSZTljQ0hxZ0x1Q2FjSXRYZ0xVZUY0c25CUHpHVE9tNA?oc=5",
-   "resolu": true,
-   "source": "CNA",
-   "published": "2026-10-22",
-   "summary": "",
-   "feed": "international"
-  },
-  {
-   "id": "u33376f89",
-   "title": "Le capitalisme, l’austérité et la santé mentale des jeunes",
-   "url": "https://www.marxiste.org/le-capitalisme-lausterite-et-la-sante-mentale-des-jeunes",
-   "gnews": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZFhwWFpvc3g4MVFLelU0MmFCOUxlek1Rd3Z3NnpBeUxkMWQyNkJtMG1JV19MdkZaZGJkSGNWXzJZXzRzZm85QlRsZGhRYVQxbzVfOEVfUUNjY3hVdW1nX0RoZEt5X3pyX3lpcE05MGJvNXFjdjc3NDk0M2xrSUd1M3hwdVJNWnpS?oc=5",
-   "resolu": true,
-   "source": "Parti Communiste Révolutionnaire",
+   "source": "The Times of Israël",
    "published": "2026-10-20",
    "summary": "",
-   "feed": "societe"
+   "feed": "communication"
   },
   {
-   "id": "ucaab7c14",
-   "title": "Inès Mendoza : comment son travail de modératrice pour Facebook et Instagram a brisé sa vie et sa santé mentale",
-   "url": "https://www.closermag.fr/faits_divers/ines-mendoza-comment-son-travail-de-moderatrice-pour-facebook-et-instagram-a-brise-sa-vie-et-sa-sante-mentale-3664450",
-   "gnews": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWjUySDFwT1VuSkRKZ21UV2t1WURSaFVJaU1DaTI1MUxfSG04SXdqWEQ3X21ldEE0NnItUU5tZjFQTlFEUmlZSU1NRVNXYjE1VFppQ0lvOFZOVmJCY3hhQk5naG04ZXBTU3NmODRDRU5vVFhYYlhVaGpXaEw1Qi1sTDZ4MnNKLUdFUlNwVkt1STh6alRwbjQ1TkN5QWEySWZHY0pWdUNGYlJ1YmRnczBSX3RoY0cxbXdjTVFMMXRhQW1Ec3U2YmhjT1dsdGdSbG04ZzByVm13TzNNRm1oMHliQV96aVE1cUROZ01z?oc=5",
+   "id": "u7f3bb15d",
+   "title": "Façon de voir : santé mentale & identités diasporiques · Inscription · 24/10/2026",
+   "url": "https://chiche.makesense.org/events/e/facon-de-voir-sante-mentale-and-identites-diasporiques-6ac7ac5e06b4310007d3eac8",
+   "gnews": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDY4cXFVMVZ2dDh0b1FaN282dElLeHRrMDIwaDBwRXhSdGVzZzgzYjNCZzZmWkxGam5jMjRRZ25lQ2hma0RtVWNObmliTDQ2aXlIQnpEeTVrYlR3Zk05MlhmVkhCVENVVUlKVGsyQmRlWTZyZElFdmVTN0dxUzREZEhDbW1wNDdYQkxLdy1FbzgtZHhTcTJZVDRsNGp1SlFZdGxxZmVmQnpsMFE0UG04Qmo3SDVfc1E2?oc=5",
    "resolu": true,
-   "source": "Closer",
-   "published": "2026-10-19",
-   "summary": "",
-   "feed": "societe"
-  },
-  {
-   "id": "u80a8a204",
-   "title": "Telehealth for Rural Communities: The Mental Health Care Gap",
-   "url": "https://www.psychologytoday.com/us/blog/brain-boost/202408/telehealth-for-rural-communities-the-mental-health-care-gap",
-   "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYlhTSmhocXlYZGtLdHVoc1ZBa2lKcnU2LWhTN09vZ2JsWnBPZ0Z0WkRFenhVanVidXVlSmg0U2d2OWN2eG9sMWNwNDdLQ29pNTVOdWZhRUUwbTg1WEExYW1xcFJyTXF1Q1ZlRzh3ZzhnSkRHWlE1b18tQTAtY2dMYllPVTRyRV9TajNhT1RaUlQ2NnRwbmpheS1fV2xiM25NV0dNQ2VacS1pMWZjRkFGMFAxb2tsTWkyblE?oc=5",
-   "resolu": true,
-   "source": "Psychology Today",
-   "published": "2026-10-19",
-   "summary": "",
-   "feed": "international"
-  },
-  {
-   "id": "u578ce1bf",
-   "title": "Governor Newsom highlights mental health support for USS Abraham Lincoln sailors returning to San Diego after 321-day deployment",
-   "url": "https://www.gov.ca.gov/2026/10/17/governor-newsom-highlights-mental-health-support-for-uss-abraham-lincoln-sailors-returning-to-san-diego-after-321-day-deployment/",
-   "gnews": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYXFNOUdLWjFLTDh1ZW1ILUwxblZPUWtSc1hkXzZGZzcyQlFNdDllV2dQZHl3YVZPSk1kZm1XTW5RdXZTWTAwOFpRSTQ4dXNRTk44S204WTMwc3pBSVhwN1R2ckpWb0ZUUmJuNFNzUTNoMFNYVHlVY212WEh3ZmlJb1dXZHVxazZDbk50UmJDZVpRU012YkNQeVExQ3BQQzcwdk1IYWpfSzkwYWdRUWNoN2RvbEFYNjdXNENESGx5VzFXeU54a0VWckV4ZkNyTTBTUHQ4MzdsTUIxMmVaMUpqdWVreWY1RTZIeTUyemphRmNiQ1Y3MUE?oc=5",
-   "resolu": true,
-   "source": "California State Portal | CA.gov",
+   "source": "Chiche par makesense",
    "published": "2026-10-17",
    "summary": "",
-   "feed": "international"
-  },
-  {
-   "id": "uefe2783d",
-   "title": "FHSU psychologist knows firsthand of mental health stigma in ag communities",
-   "url": "https://hutchpost.com/posts/117b60df-6d36-4bff-9de8-24f6f23cbacc",
-   "gnews": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwS3FHbGEyREREaW1qWWg5WGhiMVlpdkVqRGJMWTBBWS1UYkZyUGxTTW8yS3p6UTNmOGFtZzUwSWxaenBrcGowX2hwdWJiZThKRG53TkthSURNTzdTUFRHMzZrV3ZnNXZQWHRXZjRtS3B0Zw?oc=5",
-   "resolu": true,
-   "source": "Hutch Post",
-   "published": "2026-10-17",
-   "summary": "",
-   "feed": "international"
+   "feed": "communication"
   }
  ]
 }

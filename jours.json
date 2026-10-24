@@ -1,8 +1,8 @@
 {
- "maj": "2026-10-24T08:58:42+00:00",
+ "maj": "2026-10-24T09:04:43+00:00",
  "jours_couverts": 1,
- "total": 196,
- "liens_non_resolus": 30,
+ "total": 200,
+ "liens_non_resolus": 20,
  "jours": [
   {
    "date": "2026-10-24",
@@ -307,9 +307,9 @@
     {
      "id": "ud978d7f1",
      "title": "NC announces $17 million in federal funds to improve rural mental health services",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDlnS0dTalNyUlNTSFBFNUdwOGtFOTJhV1NXMndVY0FHN19OYURYTHRkaU1nUmgzY0I2QkRONDJqdVMzU2R5QnphX09vYy1XZjlxSXllNGFKVkdkaHRqbmxXaEhTOVdSeDJwUm44ZFNvMjVoS1VhMm8tbTFwTjl5QzYyWjMtMi02d3JUV0J0WHB2UmRIcFBPWVJCQWp1MERGWkZDcktJc2w0ZUFaSmJfTmljR0s3UTV3UXc?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.ednc.org/10-22-2026-the-17-million-investment-to-improve-mental-health-services-for-ncs-rural-communities/",
+     "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDlnS0dTalNyUlNTSFBFNUdwOGtFOTJhV1NXMndVY0FHN19OYURYTHRkaU1nUmgzY0I2QkRONDJqdVMzU2R5QnphX09vYy1XZjlxSXllNGFKVkdkaHRqbmxXaEhTOVdSeDJwUm44ZFNvMjVoS1VhMm8tbTFwTjl5QzYyWjMtMi02d3JUV0J0WHB2UmRIcFBPWVJCQWp1MERGWkZDcktJc2w0ZUFaSmJfTmljR0s3UTV3UXc?oc=5",
+     "resolu": true,
      "source": "EdNC",
      "published": "2026-10-22",
      "summary": "",
@@ -318,9 +318,9 @@
     {
      "id": "u710000bb",
      "title": "Santé mentale au travail : agir sur les causes de la pression",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlZqNmdnenNrUnVrU3FxZ3NiSDZzYWNEdy1feXNHdHdGMVljSS0zWlhISTdsMms4SXlMb29GUkhSMHpqM2dRQV9IRW4xbGpQS1BWbmJoQ2NHRS1Idm1KWTZTQkRFSzItblZad2Q2ZXVfTmtQbjBUcUl2VGFuSUcwZUNrei1tSTFsUW80TmJ5d0o5VHVwVWM3MjVkNA?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://fr.hespress.com/493170-sante-mentale-au-travail-agir-sur-les-causes-de-la-pression.html",
+     "gnews": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlZqNmdnenNrUnVrU3FxZ3NiSDZzYWNEdy1feXNHdHdGMVljSS0zWlhISTdsMms4SXlMb29GUkhSMHpqM2dRQV9IRW4xbGpQS1BWbmJoQ2NHRS1Idm1KWTZTQkRFSzItblZad2Q2ZXVfTmtQbjBUcUl2VGFuSUcwZUNrei1tSTFsUW80TmJ5d0o5VHVwVWM3MjVkNA?oc=5",
+     "resolu": true,
      "source": "Hespress Français - Actualités du Maroc",
      "published": "2026-10-22",
      "summary": "",
@@ -329,9 +329,9 @@
     {
      "id": "u5ec1a898",
      "title": "University of New Haven Student Explores the Power of Peer Support in Youth Mental Health",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZmdadmVDalpwN2NEeFg3R19YamhRRUFBOVdHMmZUc1MyY3Z6N0tSbVpBQ2tPNW1UTF8xQ3JfeFR0YzQwa25Qc3FDNHNvbnhlaGQ3eXFOZkFMYnYwWThWekZ1YnlwcTkwSVc3NDVRZllTdFRhTWNMeU9UOHFYeDVReHFzVjVnd0lyNDNZbFIwSzY3ZWV3b1gyVzUtV0wteS14Y2V6aw?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.newhaven.edu/news/blog/2026/exploring-the-power-of-peer-support-in-youth-mental-health.php",
+     "gnews": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZmdadmVDalpwN2NEeFg3R19YamhRRUFBOVdHMmZUc1MyY3Z6N0tSbVpBQ2tPNW1UTF8xQ3JfeFR0YzQwa25Qc3FDNHNvbnhlaGQ3eXFOZkFMYnYwWThWekZ1YnlwcTkwSVc3NDVRZllTdFRhTWNMeU9UOHFYeDVReHFzVjVnd0lyNDNZbFIwSzY3ZWV3b1gyVzUtV0wteS14Y2V6aw?oc=5",
+     "resolu": true,
      "source": "University of New Haven",
      "published": "2026-10-22",
      "summary": "",
@@ -340,9 +340,9 @@
     {
      "id": "uebd0ffb",
      "title": "Legalizing sports betting linked to increased demand for mental health services, study shows",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNc25kUUpRczFQSVNFNTVZajBMQjlfOHJmS0ZwQWtILU5jOGtYNG5HZnFYM2VyVVR4UzUzZ2YzUl9HUTJ0VDJYZHNUWm5raVh0dndyc0JHeEFNcWRPV2dYcnRhSjBQWDNOc2hPMjhMY0JUV0lfM1haWjhSZGd2TzZYRjZPQ1lydVVLWHkxXzBOVGtOc2V6eWZGa3U4QjFfU3JrRFc4eDV3d1liaFo5X2JMaC1lS3lOQ1UtZGpfMnNGNlliVFdTZWF4LTN5c2R5WnZtVjNFLV9qQUJiY1RLV25Zd3h5elg5eHdwUWpPT1FwcUVLQWcxZjRJM3ZGTm4?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.havasunews.com/legalizing-sports-betting-linked-to-increased-demand-for-mental-health-services-study-shows/article_ab0ddc03-5466-4ff3-8778-75b054a7a154.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNc25kUUpRczFQSVNFNTVZajBMQjlfOHJmS0ZwQWtILU5jOGtYNG5HZnFYM2VyVVR4UzUzZ2YzUl9HUTJ0VDJYZHNUWm5raVh0dndyc0JHeEFNcWRPV2dYcnRhSjBQWDNOc2hPMjhMY0JUV0lfM1haWjhSZGd2TzZYRjZPQ1lydVVLWHkxXzBOVGtOc2V6eWZGa3U4QjFfU3JrRFc4eDV3d1liaFo5X2JMaC1lS3lOQ1UtZGpfMnNGNlliVFdTZWF4LTN5c2R5WnZtVjNFLV9qQUJiY1RLV25Zd3h5elg5eHdwUWpPT1FwcUVLQWcxZjRJM3ZGTm4?oc=5",
+     "resolu": true,
      "source": "Havasu News",
      "published": "2026-10-22",
      "summary": "",
@@ -351,9 +351,9 @@
     {
      "id": "u7f00a58f",
      "title": "Les missions locales alertent sur l'état de la santé mentale des jeunes",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPanNfVUNzcEZseVdZQjdtUHhkUkVrbW9mME15bDI5bEhhRE9nejJ5X3FiRUxMcXcwQmhVSE50cVpTQkRFYW9IeExVZ05qa3E3TkNNaUZ1cXg3YThNQ2FuTHdHcVJRaW4wRkYwU0lRUWFrNWNueGMxbmNVM2d1ZktWRllyejB6alNkSE5PUjBTSDQxT1lMOVZXYXNURzN1Q3lzSnlyV3VWYlFBODd4VVctVGs0TzRDeWo2SENHcFU1dkQxXzVKd19RNzRRQ3VfR2tnUC1JdlNTYTlMa1ppWVRZdUw4UF80LVRTRGdGSmdn?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/les-missions-locales-alertent-sur-l-etat-de-la-sante-mentale-des-jeunes-3437628.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPanNfVUNzcEZseVdZQjdtUHhkUkVrbW9mME15bDI5bEhhRE9nejJ5X3FiRUxMcXcwQmhVSE50cVpTQkRFYW9IeExVZ05qa3E3TkNNaUZ1cXg3YThNQ2FuTHdHcVJRaW4wRkYwU0lRUWFrNWNueGMxbmNVM2d1ZktWRllyejB6alNkSE5PUjBTSDQxT1lMOVZXYXNURzN1Q3lzSnlyV3VWYlFBODd4VVctVGs0TzRDeWo2SENHcFU1dkQxXzVKd19RNzRRQ3VfR2tnUC1JdlNTYTlMa1ppWVRZdUw4UF80LVRTRGdGSmdn?oc=5",
+     "resolu": true,
      "source": "France 3 Régions",
      "published": "2026-10-22",
      "summary": "",
@@ -362,9 +362,9 @@
     {
      "id": "u9f7dfd8",
      "title": "Des voix dans nos têtes, voyage vers une autre psychiatrie",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qeF9STEF1aEstbWRmeGNPTFk4UVNwcjNIMnRZTHllXzJxZXNEMWlLOGpleXZBX281RHR5aUx0em9LU0x5NEN3NklTTDlRbFVqYVlIMUhaa1NmSTR2T09Edm1tRQ?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.francetvpro.fr/contenu-de-presse/79111484",
+     "gnews": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qeF9STEF1aEstbWRmeGNPTFk4UVNwcjNIMnRZTHllXzJxZXNEMWlLOGpleXZBX281RHR5aUx0em9LU0x5NEN3NklTTDlRbFVqYVlIMUhaa1NmSTR2T09Edm1tRQ?oc=5",
+     "resolu": true,
      "source": "FranceTvPro.fr",
      "published": "2026-10-22",
      "summary": "",
@@ -373,9 +373,9 @@
     {
      "id": "u1f7eea14",
      "title": "« Enfermée sans avoir commis de crime » : les droits des patients résistent-ils à l’hospitalisation sous contrainte en psychiatrie ?",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNzl5a19MWVgtVERWQkw4bmp3eldTTnlYSDBmTjhCa0VSdEl4cDVnNDlIX1BnVWxVcGtyaGtVYWhLR2VHYmtjeUJ3aTFXdmlHa3RsaGo3bHFqRlRMZ1V1LVNGRFlqazFleUxuSHpnMmVMbklxOHFZSGlld2tYYTRrclFFOEFkTUNWVUt1bWtuUGtVQ19TRjgybVdseUFWTVpvUy1rM1I1WmVPbkhGbWNkXzBPSFN5ZVRkbW82UkFseVItb3BRdVZwNmxuVTVkem1MNV80bVJhcUJGWmM?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://jss.fr/post/enfermee-sans-avoir-commis-de-crime-les-droits-des-patients-resistent-ils-a-lhospitalisation-sous-contrainte-en-psychiatrie",
+     "gnews": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNzl5a19MWVgtVERWQkw4bmp3eldTTnlYSDBmTjhCa0VSdEl4cDVnNDlIX1BnVWxVcGtyaGtVYWhLR2VHYmtjeUJ3aTFXdmlHa3RsaGo3bHFqRlRMZ1V1LVNGRFlqazFleUxuSHpnMmVMbklxOHFZSGlld2tYYTRrclFFOEFkTUNWVUt1bWtuUGtVQ19TRjgybVdseUFWTVpvUy1rM1I1WmVPbkhGbWNkXzBPSFN5ZVRkbW82UkFseVItb3BRdVZwNmxuVTVkem1MNV80bVJhcUJGWmM?oc=5",
+     "resolu": true,
      "source": "JSS.fr",
      "published": "2026-10-22",
      "summary": "",
@@ -395,9 +395,9 @@
     {
      "id": "u252c6db5",
      "title": "CSAC to broaden mental health services model",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1lPLU9JS3p2RFFTa0pEZGxRMEFaMUxuN2daSjZtRXI4Y214ZjBrQzYxcmFVR2dDUTFYY21Rd3plMTFQd3Z0U0k4TTJQR0VMM3FKUEQxeWpUNFUzT0w2M21zN0ZtUGJTWWhIVHJFS2VvT2ltZGxWa084dEd5MnZBNWlqelp0bDdwMy1CYmpkaHhaQy1DSmc?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.addisonindependent.com/2026/10/22/csac-to-broaden-mental-health-services-model/",
+     "gnews": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1lPLU9JS3p2RFFTa0pEZGxRMEFaMUxuN2daSjZtRXI4Y214ZjBrQzYxcmFVR2dDUTFYY21Rd3plMTFQd3Z0U0k4TTJQR0VMM3FKUEQxeWpUNFUzT0w2M21zN0ZtUGJTWWhIVHJFS2VvT2ltZGxWa084dEd5MnZBNWlqelp0bDdwMy1CYmpkaHhaQy1DSmc?oc=5",
+     "resolu": true,
      "source": "Addison Independent",
      "published": "2026-10-22",
      "summary": "",
@@ -406,9 +406,9 @@
     {
      "id": "u60519c34",
      "title": "Do CT community colleges meet need for mental health services?",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1hZR2dEZU5iU2ZTVmx1eFByb0RmY1dCQWdmUUM3Mmp3bzJJeC1aZ0lIT2RGZDdFc0JnRFpZeV9QZDBDYTBaakpWajFKSlF5RktHbVhSYVZGQU1sZ3FZU18zYjFzOFVSN1ZudkV3SjkyS1VZXzY3X21NWUxnMi1iRmdDbnk2ZVBxY1JZREpfUUplQ1VxNW9hTmJ0a0NJVG5Ga2lOb2pNd2w0WFha?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://ctmirror.org/2026/10/22/counseling-helps-students-thrive-are-ct-community-colleges-meeting-the-need/",
+     "gnews": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1hZR2dEZU5iU2ZTVmx1eFByb0RmY1dCQWdmUUM3Mmp3bzJJeC1aZ0lIT2RGZDdFc0JnRFpZeV9QZDBDYTBaakpWajFKSlF5RktHbVhSYVZGQU1sZ3FZU18zYjFzOFVSN1ZudkV3SjkyS1VZXzY3X21NWUxnMi1iRmdDbnk2ZVBxY1JZREpfUUplQ1VxNW9hTmJ0a0NJVG5Ga2lOb2pNd2w0WFha?oc=5",
+     "resolu": true,
      "source": "CT Mirror",
      "published": "2026-10-22",
      "summary": "",
@@ -417,9 +417,9 @@
     {
      "id": "ud4278318",
      "title": "Breaking stigma around men’s mental health one conversation at a time",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZHR5TVhIWFVzMGFpemdoNXRPdGpVYjlLbnRLVmhvTnl6WlJ4cFpOZDJZWXd3ak5QZUhpYVVQSmJlR0ZiREx5ZWZLYy1VbXlpbzc1VVkzTGVyR1Z4WjY2Z3lBUGs0SkFuTEd3enVCUTE3T2VfQmJPZVpUUEMwWndhLUdCdEpIUFZnZWhSb1pR?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.wvtm13.com/article/mens-mental-health-free-counseling-birmingham/74215664",
+     "gnews": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZHR5TVhIWFVzMGFpemdoNXRPdGpVYjlLbnRLVmhvTnl6WlJ4cFpOZDJZWXd3ak5QZUhpYVVQSmJlR0ZiREx5ZWZLYy1VbXlpbzc1VVkzTGVyR1Z4WjY2Z3lBUGs0SkFuTEd3enVCUTE3T2VfQmJPZVpUUEMwWndhLUdCdEpIUFZnZWhSb1pR?oc=5",
+     "resolu": true,
      "source": "wvtm",
      "published": "2026-10-22",
      "summary": "",
@@ -2162,24 +2162,68 @@
      "published": "2026-10-17",
      "summary": "",
      "feed": "international"
+    },
+    {
+     "id": "u877299b2",
+     "title": "Cercle de parole : santé mentale et identité rascisée · Inscription · 31/10/2026",
+     "url": "https://chiche.makesense.org/events/e/cercle-de-parole-sante-mentale-et-identite-rascisee-6ac7b19906b4310007d40e9a",
+     "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcDJtei01UVdGc3VaS3hGOGJseFhxampSRHRnMTdZSTFwUTMxUVNQbTR5a0UzalNJcjJSTDZ6TDJrQ2tyR1M2YlhxQjEyd1hfMmhXS0piM2tzOXpfd2tRVUowQlFoeFNqNWFOLXVIbkhRUWVLa3dxTlVuR1FObGxzczRZQTBFUXRIeER2ZVRfUUdWU212RmJqb0NyblVNeDVYUkY5UEZVeDNrNldBWE11WC1HZ1U?oc=5",
+     "resolu": true,
+     "source": "Chiche par makesense",
+     "published": "2026-10-23",
+     "summary": "",
+     "feed": "communication"
+    },
+    {
+     "id": "u718cf649",
+     "title": "HHC et psychose : 33 patients comparés au cannabis en Irlande",
+     "url": "https://lecannabiste.com/hhc-et-psychose-33-patients-compares-au-cannabis-en-irlande/",
+     "gnews": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlVkUEtQOURNMTVCUlNLbzhRZzUzVEI2ZElhTXdIUFNEaGFqWEVtWEdLSm9NdXMwVEJTZmtJOHR5YnlicHJKUU44bUtNVktLTVhNUFU5cVVvRzJfcVlITElVdkE4eXI0aEtTU09RQmE2aTUxSE9kanFDeEExWGVMdk9ZRUtZSWgzUWZ0eEp3?oc=5",
+     "resolu": true,
+     "source": "Le Cannabiste",
+     "published": "2026-10-21",
+     "summary": "",
+     "feed": "politiques-soins"
+    },
+    {
+     "id": "u552aa048",
+     "title": "Le Magen David Adom France lance une initiation aux premiers secours en santé mentale",
+     "url": "https://fr.timesofisrael.com/le-magen-david-adom-france-lance-une-initiation-aux-premiers-secours-en-sante-mentale/amp/",
+     "gnews": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGtXaFBiN0xOblgwRkxXX3dUWkIzUmNway1YWUNxOGZOcnd5b3Zlc281RmJPOWdhOFJ5QUFJSENJaTJFb25vblVyQXpZNzgxaER1WFlSQVhwaEdVaEM2cTZ4bUF6T1UxZTR3RDVzcjRicEc4aGtOd2Q1ZHlsQTd5anN5SHZTY2N1UktsZjdUMGhINGpPVTNUaVhCV3NTYnJNem95Rmtwakc4d0JRaVpwSWhBT1JFeVBvbmI00gG7AUFVX3lxTE9ka1doUGI3TE5uWDBGTFdfd1RaQjNSY3BrLVhZQ3E4Zk5yd3lvdmVzbzVGYk85Z2E4UnlBQUlIQ0lpMkVvbm9uVXJBelk3ODFoRHVYWVJBWHBoR1VoQzZxNnhtQXpPVTFlNHdENXNyNGJwRzhoa053ZDVkeWxBN3lqc3lIdlNjY3VSS2xmN1QwaEg0ak9VM1RpWEJXc1Nick16b3lGa3BqRzh3QlFpWnBJaEFPUkV5UG9uYjQ?oc=5",
+     "resolu": true,
+     "source": "The Times of Israël",
+     "published": "2026-10-20",
+     "summary": "",
+     "feed": "communication"
+    },
+    {
+     "id": "u7f3bb15d",
+     "title": "Façon de voir : santé mentale & identités diasporiques · Inscription · 24/10/2026",
+     "url": "https://chiche.makesense.org/events/e/facon-de-voir-sante-mentale-and-identites-diasporiques-6ac7ac5e06b4310007d3eac8",
+     "gnews": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDY4cXFVMVZ2dDh0b1FaN282dElLeHRrMDIwaDBwRXhSdGVzZzgzYjNCZzZmWkxGam5jMjRRZ25lQ2hma0RtVWNObmliTDQ2aXlIQnpEeTVrYlR3Zk05MlhmVkhCVENVVUlKVGsyQmRlWTZyZElFdmVTN0dxUzREZEhDbW1wNDdYQkxLdy1FbzgtZHhTcTJZVDRsNGp1SlFZdGxxZmVmQnpsMFE0UG04Qmo3SDVfc1E2?oc=5",
+     "resolu": true,
+     "source": "Chiche par makesense",
+     "published": "2026-10-17",
+     "summary": "",
+     "feed": "communication"
     }
    ],
-   "collecte": "2026-10-24T08:58:42+00:00",
+   "collecte": "2026-10-24T09:04:43+00:00",
    "sources": [
     {
      "cle": "politiques-soins",
      "etat": "ok",
-     "retenus": 0
+     "retenus": 30
     },
     {
      "cle": "stigmatisation",
      "etat": "ok",
-     "retenus": 0
+     "retenus": 30
     },
     {
      "cle": "droits-contrainte",
      "etat": "ok",
-     "retenus": 1
+     "retenus": 5
     },
     {
      "cle": "pair-aidance",
@@ -2194,17 +2238,17 @@
     {
      "cle": "communication",
      "etat": "ok",
-     "retenus": 0
+     "retenus": 26
     },
     {
      "cle": "culture",
      "etat": "ok",
-     "retenus": 0
+     "retenus": 30
     },
     {
      "cle": "international",
      "etat": "ok",
-     "retenus": 28
+     "retenus": 30
     },
     {
      "cle": "sante-mentale",
