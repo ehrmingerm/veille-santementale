@@ -1,5 +1,5 @@
 {
- "genere": "2026-10-24T09:12:16+00:00",
+ "genere": "2026-10-24T10:28:55+00:00",
  "fenetre_jours": 7,
  "sources": [
   {
@@ -7,10 +7,45 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie) (réforme OR financement OR pénurie OR \"feuille de route\" OR ministère OR \"agence régionale de santé\" OR hôpital OR \"secteur psychiatrique\")",
    "etat": "ok",
-   "bruts": 49,
-   "retenus": 30,
+   "bruts": 50,
+   "retenus": 22,
    "hors_champ": 5,
-   "hors_fenetre": 0
+   "hors_fenetre": 0,
+   "hors_zone": 23,
+   "ecartes": [
+    [
+     "vietnam.vn",
+     3
+    ],
+    [
+     "actusoins.com",
+     2
+    ],
+    [
+     "mobile.telquel.ma",
+     2
+    ],
+    [
+     "macommune.info",
+     1
+    ],
+    [
+     "beauxarts.com",
+     1
+    ],
+    [
+     "ticsante.com",
+     1
+    ],
+    [
+     "toutmontbeliard.com",
+     1
+    ],
+    [
+     "nicematin.com",
+     1
+    ]
+   ]
   },
   {
    "cle": "stigmatisation",
@@ -18,9 +53,44 @@
    "requete": "(\"santé mentale\" OR psychiatrie OR \"troubles psychiques\") (stigmatisation OR \"idées reçues\" OR préjugés OR représentations OR \"regard sur\" OR tabou)",
    "etat": "ok",
    "bruts": 59,
-   "retenus": 30,
+   "retenus": 28,
    "hors_champ": 3,
-   "hors_fenetre": 0
+   "hors_fenetre": 0,
+   "hors_zone": 28,
+   "ecartes": [
+    [
+     "nicematin.com",
+     2
+    ],
+    [
+     "vietnam.vn",
+     2
+    ],
+    [
+     "fr.news.yahoo.com",
+     1
+    ],
+    [
+     "tebeo.bzh",
+     1
+    ],
+    [
+     "hebdo39.net",
+     1
+    ],
+    [
+     "imazpress.com",
+     1
+    ],
+    [
+     "psychologies.com",
+     1
+    ],
+    [
+     "influencia.net",
+     1
+    ]
+   ]
   },
   {
    "cle": "droits-contrainte",
@@ -28,9 +98,20 @@
    "requete": "psychiatrie (contention OR isolement OR \"soins sans consentement\" OR \"hospitalisation sous contrainte\" OR \"droits des patients\" OR \"contrôleur des lieux de privation\")",
    "etat": "ok",
    "bruts": 6,
-   "retenus": 5,
+   "retenus": 3,
    "hors_champ": 1,
-   "hors_fenetre": 0
+   "hors_fenetre": 0,
+   "hors_zone": 2,
+   "ecartes": [
+    [
+     "actusoins.com",
+     1
+    ],
+    [
+     "europeantimes.news",
+     1
+    ]
+   ]
   },
   {
    "cle": "pair-aidance",
@@ -40,37 +121,144 @@
    "bruts": 52,
    "retenus": 0,
    "hors_champ": 0,
-   "hors_fenetre": 52
+   "hors_fenetre": 52,
+   "hors_zone": 0,
+   "ecartes": []
   },
   {
    "cle": "societe",
    "type": "google",
    "requete": "\"santé mentale\" (jeunes OR adolescents OR étudiants OR écrans OR \"réseaux sociaux\" OR travail OR \"intelligence artificielle\" OR \"grande cause\")",
    "etat": "ok",
-   "bruts": 55,
+   "bruts": 85,
    "retenus": 30,
-   "hors_champ": 2,
-   "hors_fenetre": 0
+   "hors_champ": 1,
+   "hors_fenetre": 0,
+   "hors_zone": 17,
+   "ecartes": [
+    [
+     "nicematin.com",
+     2
+    ],
+    [
+     "cidj.com",
+     1
+    ],
+    [
+     "beauxarts.com",
+     1
+    ],
+    [
+     "ledauphine.com",
+     1
+    ],
+    [
+     "ledevoir.com",
+     1
+    ],
+    [
+     "fr.news.yahoo.com",
+     1
+    ],
+    [
+     "macommune.info",
+     1
+    ],
+    [
+     "carenews.com",
+     1
+    ]
+   ]
   },
   {
    "cle": "communication",
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie) (campagne OR sensibilisation OR \"prise de parole\" OR témoignage OR \"parle de sa dépression\" OR \"a révélé souffrir\")",
    "etat": "ok",
-   "bruts": 48,
-   "retenus": 30,
-   "hors_champ": 10,
-   "hors_fenetre": 0
+   "bruts": 49,
+   "retenus": 17,
+   "hors_champ": 5,
+   "hors_fenetre": 0,
+   "hors_zone": 27,
+   "ecartes": [
+    [
+     "vietnam.vn",
+     5
+    ],
+    [
+     "imazpress.com",
+     2
+    ],
+    [
+     "fr.hibapress.com",
+     2
+    ],
+    [
+     "macommune.info",
+     1
+    ],
+    [
+     "toutmontbeliard.com",
+     1
+    ],
+    [
+     "psychologies.com",
+     1
+    ],
+    [
+     "fr.news.yahoo.com",
+     1
+    ],
+    [
+     "corsematin.com",
+     1
+    ]
+   ]
   },
   {
    "cle": "culture",
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie OR \"trouble bipolaire\" OR dépression) (livre OR essai OR roman OR documentaire OR série OR film OR podcast OR \"bande dessinée\")",
    "etat": "ok",
-   "bruts": 60,
-   "retenus": 30,
-   "hors_champ": 15,
-   "hors_fenetre": 0
+   "bruts": 59,
+   "retenus": 17,
+   "hors_champ": 17,
+   "hors_fenetre": 0,
+   "hors_zone": 25,
+   "ecartes": [
+    [
+     "actu.orange.fr",
+     3
+    ],
+    [
+     "tv-programme.com",
+     2
+    ],
+    [
+     "programme-tv.net",
+     2
+    ],
+    [
+     "footmercato.net",
+     1
+    ],
+    [
+     "baz-art.org",
+     1
+    ],
+    [
+     "actusoins.com",
+     1
+    ],
+    [
+     "science-et-vie.com",
+     1
+    ],
+    [
+     "echo-des-tribunes.com",
+     1
+    ]
+   ]
   },
   {
    "cle": "international",
@@ -78,9 +266,44 @@
    "requete": "\"mental health\" (stigma OR \"mental health policy\" OR \"mental health services\" OR coercion OR \"peer support\" OR \"lived experience\" OR \"media coverage\")",
    "etat": "ok",
    "bruts": 100,
-   "retenus": 30,
+   "retenus": 15,
    "hors_champ": 1,
-   "hors_fenetre": 0
+   "hors_fenetre": 0,
+   "hors_zone": 84,
+   "ecartes": [
+    [
+     "bioengineer.org",
+     5
+    ],
+    [
+     "cbs8.com",
+     2
+    ],
+    [
+     "13abc.com",
+     2
+    ],
+    [
+     "nst.com.my",
+     2
+    ],
+    [
+     "nilepost.co.ug",
+     2
+    ],
+    [
+     "channelnewsasia.com",
+     2
+    ],
+    [
+     "newhaven.edu",
+     1
+    ],
+    [
+     "captimes.com",
+     1
+    ]
+   ]
   },
   {
    "cle": "sante-mentale",
@@ -90,7 +313,9 @@
    "bruts": 10,
    "retenus": 9,
    "hors_champ": 1,
-   "hors_fenetre": 0
+   "hors_fenetre": 0,
+   "hors_zone": 0,
+   "ecartes": []
   },
   {
    "cle": "the-conversation-fr",
@@ -100,7 +325,9 @@
    "bruts": 25,
    "retenus": 0,
    "hors_champ": 6,
-   "hors_fenetre": 19
+   "hors_fenetre": 19,
+   "hors_zone": 0,
+   "ecartes": []
   },
   {
    "cle": "le-monde-sante",
@@ -110,7 +337,9 @@
    "bruts": 20,
    "retenus": 2,
    "hors_champ": 18,
-   "hors_fenetre": 0
+   "hors_fenetre": 0,
+   "hors_zone": 0,
+   "ecartes": []
   },
   {
    "cle": "guardian-mental-health",
@@ -120,7 +349,9 @@
    "bruts": 20,
    "retenus": 6,
    "hors_champ": 6,
-   "hors_fenetre": 8
+   "hors_fenetre": 8,
+   "hors_zone": 0,
+   "ecartes": []
   },
   {
    "cle": "nyt-health",
@@ -130,7 +361,9 @@
    "bruts": 20,
    "retenus": 1,
    "hors_champ": 17,
-   "hors_fenetre": 2
+   "hors_fenetre": 2,
+   "hors_zone": 0,
+   "ecartes": []
   },
   {
    "cle": "stat-news",
@@ -140,7 +373,9 @@
    "bruts": 20,
    "retenus": 0,
    "hors_champ": 20,
-   "hors_fenetre": 0
+   "hors_fenetre": 0,
+   "hors_zone": 0,
+   "ecartes": []
   },
   {
    "cle": "science-daily",
@@ -150,7 +385,9 @@
    "bruts": 60,
    "retenus": 1,
    "hors_champ": 1,
-   "hors_fenetre": 58
+   "hors_fenetre": 58,
+   "hors_zone": 0,
+   "ecartes": []
   },
   {
    "cle": "elf-digital",
@@ -160,7 +397,9 @@
    "bruts": 10,
    "retenus": 0,
    "hors_champ": 0,
-   "hors_fenetre": 10
+   "hors_fenetre": 10,
+   "hors_zone": 0,
+   "ecartes": []
   },
   {
    "cle": "elf-participation",
@@ -170,17 +409,21 @@
    "bruts": 10,
    "retenus": 0,
    "hors_champ": 0,
-   "hors_fenetre": 10
+   "hors_fenetre": 10,
+   "hors_zone": 0,
+   "ecartes": []
   },
   {
-   "cle": "elf-participation",
+   "cle": "elf-suicide",
    "type": "rss",
    "requete": "",
    "etat": "ok",
    "bruts": 10,
    "retenus": 0,
    "hors_champ": 0,
-   "hors_fenetre": 10
+   "hors_fenetre": 10,
+   "hors_zone": 0,
+   "ecartes": []
   },
   {
    "cle": "spf",
@@ -190,43 +433,232 @@
    "bruts": 30,
    "retenus": 2,
    "hors_champ": 1,
-   "hors_fenetre": 27
+   "hors_fenetre": 27,
+   "hors_zone": 0,
+   "ecartes": []
   }
  ],
- "nouveaux": 3,
+ "nouveaux": 20,
  "items": [
   {
-   "id": "ud148eab4",
-   "title": "Santé mentale. Bulletin mensuel du 21 octobre 2026.",
-   "url": "https://www.santepubliquefrance.fr/sante-mentale/bulletin-national/sante-mentale-bulletin-mensuel-du-21-octobre-2026",
-   "gnews": "",
+   "id": "u456d3458",
+   "title": "Atelier Santé mentale (entre jeunes) – 3rd Space Maison de la Conversation Paris – 24 octobre 2026",
+   "url": "https://unidivers.fr/event/atelier-sante-mentale-entre-jeunes-3rd-space-maison-de-la-conversation-paris-paris-2026-10-24t1600000200/",
+   "gnews": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzlCRGVPclI5aGIxVUxyd0pjelFDTjBLQldBa0pEU3BkOUZsdFB5NXdkenc1dFZ4b3lCXzI2UWxyVy1jMjc1cTJOaDVvVGtiVkk3LWRhY183ZzNQN3VLT2JCRjVXQnVOelpmcWltb1lCYkhyem5ZM2JMbkxpRDhTdV9RaWE1eXZvbVA0bUMyVUhqX09IZ3B4QXllb3NiSHQ5bDllQW15dFRETmJidzRkdW1fQTF5Y0U5UFZiZG1xM0F4M1djSUNFT2xkVHk?oc=5",
    "resolu": true,
-   "source": "santepubliquefrance.fr",
-   "published": "",
-   "summary": "Points clés Chez les enfants, âgés de 11 à 17 ans essentiellement, les recours pour idées suicidaires, et dans une moindre mesure, les recours pour troubles de l’humeur, troubles anxieux et crise d’angoisse (uniquement pour SOS Médecins) étaient en hausse marquée en septembre 2026 par rapport à août et juillet 2026 dan…",
-   "feed": "spf"
+   "source": "Unidivers",
+   "published": "2026-10-24",
+   "summary": "",
+   "feed": "societe"
   },
   {
-   "id": "u696218f1",
-   "title": "Santé mentale. Bulletin mensuel du 7 juillet 2026.",
-   "url": "https://www.santepubliquefrance.fr/index.php/surveillance-syndromique-sursaudr/sante-mentale-bulletin-mensuel-du-7-juillet-2026",
-   "gnews": "",
+   "id": "ucaf49651",
+   "title": "La santé mentale des personnes âgées : barrières et différences pour demander de l'aide",
+   "url": "https://www.democrata.es/fr/democrate-pro/etude/sante-mentale-chez-personnes-agees-barrieres-differences-genre-pour-demander-aide/amp/",
+   "gnews": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOelM3eS1DclIyZnlVLUx4czRXU3FNMzBEQ1BDLVltTlR5TjdSOWcyRjhWZWhsWTdhUzdhRHduRXFNSU9UZWpGbEtpSjBWbGNBT3RHaWp3dHB6QW1HRDV5a2ZmMWhNOEJOYzdLX1lBRV9WaXR3UWd4U19CTThwcVJYMS1LVTJnSzVSYktxU3lzRjZac0lkLWx3NGJRdGQzZl9MQ3h1Y3pZS0gwQTZsRWJNZjRzZTBYS2VyWHpxd3dQZkhhSFctdzBYdFc1Ty0wNGM?oc=5",
    "resolu": true,
-   "source": "santepubliquefrance.fr",
-   "published": "",
-   "summary": "Points clés Chez les enfants, les recours pour la majorité des indicateurs des deux réseaux étaient en diminution en juin 2026 par rapport à mai (en tenant compte de la différence du nombre de jours entre les deux mois). Les recours pour idées suicidaires chez les 11-17 ans restaient supérieurs aux valeurs observées le…",
-   "feed": "spf"
+   "source": "Demócrata",
+   "published": "2026-10-23",
+   "summary": "",
+   "feed": "stigmatisation"
   },
   {
-   "id": "u5475649d",
-   "title": "Scientists uncover 3 key brain pathways linked to lasting depression relief",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261017230021.htm",
-   "gnews": "",
+   "id": "u502ad115",
+   "title": "Entre en vigueur la réforme qui renforce les droits des patients face aux interventions involontaires en santé mentale : ce qui change",
+   "url": "https://www.democrata.es/fr/sante/entre-en-vigueur-reforme-qui-renforce-droits-patients-face-aux-interventions-involontaires-en-sante-mentale-ce-qui-change/",
+   "gnews": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV0hDQ1AxM0hPbmxFZ2d6UTVJNF8zR3A1d2tWbHBCNmdlRV9CYVkzVzR1bTVGRjVuRm82SDgzYkRGc1pIb0RHMERMS1p3UnJuTnB5LU5QUUVBS2Y0eVFkMnJuY1R1MVVnVUJhQ3hBdU5nZDhURFhwR3dIZ0FxNHNVZXgyMTU2czFQMWVUcF9vb1FvYXVZSG05QlZaTURKSXVvYm1kdzlCTDc1T3NOeGltMDNqTTNENzVnQWRETVZ5N0xnbzM5Q05GWURJX19Vc2pCV0dqejVWLWhhbWk2SjhEaFNDWW8yXzR3dk1zd9IB8gFBVV95cUxPX1JWT3dxbjZQNVRLbUlKXzFFSFUwMXNrTFJ2RDFPQ1A0NnkyalVobG9FSE5VcExsbl9TNHMyX3dBRllJTzZxSXRrOGprUkkwVVg3cWg5YkFNNGxVeTl4dXBXbEJCZHlRUkVETlAydGRYWC1mQS1qUFA4VTRUTERFU0NtSF9tdlVucVpkUmxfUjgzeEVGa1ZYVmFoY19DZ3RGUm1JQzYzYkJfVjZweDQwRmp3S1diVVhNSHNhQXkxMnE1cE5YWEExenBlMzJneWoyR2MyLUpSWElNemh0LWpHOFFvcjJYZUlQNGxqb1RIOXFUdw?oc=5",
    "resolu": true,
-   "source": "sciencedaily.com",
-   "published": "2026-10-18",
-   "summary": "Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe, treatment-resistant depression. They also discovered that patients who failed to improve after two years shared a striking pattern: insufficient stimulation of a crucial brain connection…",
-   "feed": "science-daily"
+   "source": "Demócrata",
+   "published": "2026-10-22",
+   "summary": "",
+   "feed": "politiques-soins"
+  },
+  {
+   "id": "u88bbb429",
+   "title": "Drastic shortage of mental health services a big issue",
+   "url": "https://www.theaustralian.com.au/nation/northeast-victoria-mental-health-crisis-becomes-election-battleground-after-helen-haines-attack/news-story/eeba62bf244b68e8ddee8b3f43fe454e",
+   "gnews": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUTU2MC0yVHMwTDdoNnBab29MY29YR0loc0JpWTVnTVRqMkJJa1NBWEVOUUlSQi1VX2drUWhqOVVTUTU5N3hzbjlrRmdpSDZ5LXZlNmpZUWQ3T2VUXzZDQ21nOXZQQTBHR1pwVmZDQ1J1UDVHUW9CTVp6WWVDQ2FPRjRlM0JMX3BVQmVZT21jdTVyRkFTS1B1bC1OX2lFVElCbWtEZTZRQnA4QWlCaXcxaDlvZER0QUZCQ1NoRTYtVkhTTHlEclQyOGZRaXdvMGxjM2JJcjFiaWdjZUVqZG42OXM1cnZXdG1UVEc5STNwb3RzTlNnZVpYRVJWVHIwMEJGdXA2c3FwMjliTk0?oc=5",
+   "resolu": true,
+   "source": "The Australian",
+   "published": "2026-10-22",
+   "summary": "",
+   "feed": "international"
+  },
+  {
+   "id": "uc4e9daa5",
+   "title": "Charity records 39 per cent rise in demand for youth mental health services",
+   "url": "https://www.imt.ie/news/charity-records-39-per-cent-rise-in-demand-for-youth-mental-health-services-22-10-2026/",
+   "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanZDcTZ6S0VqUmF2VjFHbGJNbUpPMDVUVDlHUFRab2pOcVhaS2VwdFdXZHZmeno3dXh1b0sxQkFGZ202b3hjRi1zUExOR1RYekMwR0NLZ2hEWTJQa3h3UEFOdjZuQ0ZfTFZFQ2pWZkN5dTJRWFFyZzBmWnVvVHJqV0Z6RkRXbDNsb3hxUGxMM1dScDNWdk02QkVob2U2U0h1VG5QdndZeUJtNk1vMkFUVg?oc=5",
+   "resolu": true,
+   "source": "Irish Medical Times",
+   "published": "2026-10-22",
+   "summary": "",
+   "feed": "international"
+  },
+  {
+   "id": "u40892d49",
+   "title": "Santé mentale au travail : Noémie Guerrin alerte sur l'inaction",
+   "url": "https://presseagence.fr/paris-sante-mentale-au-travail-noemie-guerrin-chaque-enquete-restee-sans-suite-envoie-aux-equipes-un-message-terrible/",
+   "gnews": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ1BndnRIY21HQnhlbktBbHpJeDBqNGktNWsxS01iUG5TSHhkNnZvM0FjM1lQbnZ2dXRodnZxRldscWZnOGNjLUlKRFBXUDIxaWRRS2RtVUhGZGpCS1dHa1BTYlJJZlk4Z0lCUmJTZkhJQlF0QTRFbXNXb3RiWE5ZbUNwQ2pNWHBscFZHU3l0UTAyZ2VGUE9RQWJaSkpPWGJZckhpdnJKRDRReW5IcTRBb21KcEo2c1lvU19oLWRvVHdmQjl5aWFJb2dZajJrdG5sX1BRVW9jVWJyZw?oc=5",
+   "resolu": true,
+   "source": "Presse Agence",
+   "published": "2026-10-22",
+   "summary": "",
+   "feed": "societe"
+  },
+  {
+   "id": "u860f0602",
+   "title": "How can African schools support children’s mental health? Research shows what works and what doesn’t",
+   "url": "https://theconversation.com/how-can-african-schools-support-childrens-mental-health-research-shows-what-works-and-what-doesnt-292878",
+   "gnews": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPckhnR2xucFJJLXU5YldHWE82elZYNzJ6R3NYVV9MWWhpMGxUQjFkcVJab200YWZ0aGk5MXpEc3JlenFoUjcwVkFhR3haOWVPdHhRazNxeDVsUG1xMzlrSC1HREFNSmZRZGk5cmlxa3lBNWhodDU3R1Z6VjRVTi1ocGtjZHY0azBmT0Z3Z0RJQmxuX1hRbnU0c3oyNUZnMkpxTHQ5bnFIRUdxU0NvVnprNDJ0VUtGM05uTkR3dnVuNXVnSEM0R0xrUlpJWXM?oc=5",
+   "resolu": true,
+   "source": "The Conversation",
+   "published": "2026-10-21",
+   "summary": "",
+   "feed": "international"
+  },
+  {
+   "id": "u689800c8",
+   "title": "« La maladie n’empêche pas d’être artiste » : une exposition contre la stigmatisation à la bibliothèque universitaire jusqu’à vendredi",
+   "url": "https://www.estrepublicain.fr/culture-loisirs/2026/10/21/la-maladie-n-empeche-pas-d-etre-artiste-une-exposition-contre-la-stigmatisation-a-la-bibliotheque-universitaire-jusqu-a-vendredi",
+   "gnews": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWUt4ek9HZHJmd3ZyTS1Ua0o0b0VXeHdoUW1BQnA2LTJSZTdyNVQ2SFA0T21sbmNqR05Fc3Fwd25qOGVVZmxKQ3lKM09YYzh2MFZIMHIxYWxEXzdsSnR1Vm4xWi1Xa09PRUhHcDh1QXppcldkcEthUi1RdEJ5dWR1RlZaT0pkU3RDS2pNMnZ0ZkM0Rk1SQjBuaGgzS2Y3VlhVNTVHVUtaX1g0dHI0QjhZSUZOaVluck5ER3pBODBISk8wWmJJS2tLaGlHMU9CUm53eFBOdWZNVGdXWjZXTWFsMGlUSnlucHdQalZwQnY3NlVya3R3dTNkZjVpSktzaU56dFlWWC1rd3FCR19aaGozbXVnQQ?oc=5",
+   "resolu": true,
+   "source": "L'Est Républicain",
+   "published": "2026-10-21",
+   "summary": "",
+   "feed": "stigmatisation"
+  },
+  {
+   "id": "u9d8100a4",
+   "title": "Perte de sens et dépression au travail : comment les « bullshit jobs » génèrent une véritable souffrance psychologique",
+   "url": "https://www.sudouest.fr/sante/psychologie/perte-de-sens-et-depression-au-travail-comment-les-bullshit-jobs-generent-une-veritable-souffrance-psychologique-31144322.php",
+   "gnews": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVUhvaUd3WXpOZ0hIYUZwTzNVdm5nbXhkQnpiX0dpSFJ4Zkd5U1B3RllpTzNhODVmWjFZMllycGdNYVIwWjY5UXRkS0hPRXVYQ0NrZlhndUpOYU91TVZiRVpOM0prYkZRdEJ0NVktMXRnX2MwOU92LWU2aWVyMTRnbk9DSjd0T1AzT3hBeG5IYjJMeW84T3FQaXdMV0x6QlNnZm9wUGdNcm0wc04wWTd4RzRCek5FRmt1ZVNqU0VRRUFjS0ZhNENXNkdURG03MDc3NkN0cnFldEJjWUJhNHF4RXM4cjBVWVd0c3RhUGs4dGtqV01KZ1lHUlJWUQ?oc=5",
+   "resolu": true,
+   "source": "Sud Ouest",
+   "published": "2026-10-21",
+   "summary": "",
+   "feed": "societe"
+  },
+  {
+   "id": "ua77b70b1",
+   "title": "N.S. clinic hopes to change stigma on mental health",
+   "url": "https://www.ctvnews.ca/atlantic/video/2026/10/20/ns-clinic-hopes-to-change-stigma-on-mental-health/",
+   "gnews": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ21BaW1FeURlc0tlV3R6UWpabnI5R3cyMXFMTjhPZ2JTZldqYTdyX294U25faFJfWWZWVEdPSWEzMFZIM2xNWm1QZmU2X1RleFdmZzlGOFpTTmNDVVM3bmFvOWs2YjFERlhBWW1xOUNrQlhJS2hSdkdvOWpRWHl1Um1ib0Ryb3RZM0tkNTJma2lKT2l3VDVCb1kta21yY3ZY?oc=5",
+   "resolu": true,
+   "source": "CTV News",
+   "published": "2026-10-20",
+   "summary": "",
+   "feed": "international"
+  },
+  {
+   "id": "ua6dbf26d",
+   "title": "Bourges : le Tango s'associe au centre hospitalier pour mettre la santé mentale au cœur du club",
+   "url": "https://inforadar.fr/bourges-le-tango-s-associe-au-centre-hospitalier-pour-mettre-la-sante-mentale-au-coeur-du-club",
+   "gnews": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWVqWEJoNmhidHR1WUZ3RmY1VlJfRG9oZGRueS1jT3NVZGhOMFpkNWh4YjZNR3Y4VlV0U1pKaWlWOFl2S2ZGU2lBZWdIdW1aeE5yTmRObHNoYkRoLXplOUM0M3ZyWk1hWlp3WGRxbFktbVE5a3NuRTRraWx1ZXotQUNvckRPMXdtT0VBeXhmM3c5MHpIbktDdEt0UU14WFJtMnV4dDhlSEc4c2xwSVpMQW83UUdaUQ?oc=5",
+   "resolu": true,
+   "source": "inforadar.fr",
+   "published": "2026-10-20",
+   "summary": "",
+   "feed": "politiques-soins"
+  },
+  {
+   "id": "ud3e9abca",
+   "title": "Femmes : cette pression du quotidien abîme plus votre santé mentale qu'un divorce ou un licenciement, selon une étude",
+   "url": "https://www.entrenous.fr/bien-etre/femmes-cette-pression-du-quotidien-abime-plus-votre-sante-mentale-quun-divorce-ou-un-licenciement-selon-une-etude-57813.html",
+   "gnews": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTFdXOXM5U0hERmFlaldVV1Ywc01FdDMycDNJbW0tcFRDczE5OTB5dWluT2FUXzZrWHZraDdvQ3YzeE5qcDQ2bDNIYVk5aWZZeF9fMHJPaFV5RFpGSk1raWlOMnplWlFoN0tqYlk5cnNhN1J1SGdqNlU3c3E0MDl1SG4zTndvTVRDUFotei11MWxEWWg5UXhsYnUyaGZUWVJQTjZRWXZScjVhdXB3ZldsY0xoY0laQ09rQ2lSOGFnM2FWbXlDbXNNYS0wMzdVOGs5OHpQQ2pNNkFBZjZQTC15UGhleWtQNGlMMURTU09TQWM?oc=5",
+   "resolu": true,
+   "source": "entrenous.fr",
+   "published": "2026-10-20",
+   "summary": "",
+   "feed": "communication"
+  },
+  {
+   "id": "u227c82b0",
+   "title": "Muslim mental health campaign reaches 275,000 people as mosques tackle suicide stigma",
+   "url": "https://www.asianimage.co.uk/news/26645263.muslim-suicide-prevention-campaign-reaches-275-000-views/",
+   "gnews": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjM0QlI0VE9mSjNGWWZpNlJnRG9Cc0hpNF9XMzlQVTFqeHRRSWxKXzczcURDR3JOUTZGT0k4MmdPcFhfRG9KalNEeWsyVFNZTXdCeU41R1lacXJJUVNBSlQ2X2FRdVRCeWkyTzQ0WmdfS2I5SlkzQWN6bm1FVHV5ZWFVLWxuaU1fRVhmZzRzNXJhQ05LTnQxdWpSWUVieVpqT0E?oc=5",
+   "resolu": true,
+   "source": "Asian Image",
+   "published": "2026-10-20",
+   "summary": "",
+   "feed": "international"
+  },
+  {
+   "id": "ua876dba9",
+   "title": "Largest ever cohort of new mental health nurses welcomed to South Canterbury",
+   "url": "https://www.thepress.co.nz/nz-news/361101948/largest-ever-cohort-new-mental-health-nurses-welcomed-south-canterbury",
+   "gnews": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQmEyVGRURjg4UU56V0x3aFN4YjV3ZHdnM3E1WDRQUnd6LWpwa3Nxdm9JN3FhTk82SEc1SkJ0UmR4OXV6UkU3LXAzSkRQMHkxRERaYnIzVVhVUzV6SElFWWZ1MVNxb2dBdkM4X3E1ZVA3WmY5YU9OY0x4RDFrVGptVnlfWTZfSmFtTUlyak5MMFhfZWhnbGJrVzJMVWxLTUdXUTM1TnBwNXVMTXJjWUFGT2oxczV2dw?oc=5",
+   "resolu": true,
+   "source": "The Press",
+   "published": "2026-10-20",
+   "summary": "",
+   "feed": "international"
+  },
+  {
+   "id": "ud5e054fb",
+   "title": "VIDÉO Star Academy : Khalil révèle les vraies raisons de son abandon, « J'ai pensé à ma santé mentale",
+   "url": "https://www.stars-actu.fr/2026/10/video-star-academy-khalil-revele-les-vraies-raisons-de-son-abandon-jai-pense-a-ma-sante-mentale/",
+   "gnews": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa0R4NTJLdXVXa1plblZJRlloNWoyeWhIQ2R6UjQ3dm1QOHlndFFhLThqTzhEdm05QUVwd2xib0lmMHB2YVJvcUVuMG96TTRqN0I4M1hMVUxPQ2JxOWFNVVJQTHRVcERld28yTTVOeGo2TUwydW1pV2hxMzNIMEV1YWNadjVfYVFKLWlxSWNGWkdhcjRUcGprTjEyNU5GZDBONC1aQjh1cDEyQjRzck5FaXQ1WW5faWtyTmMyMXlNdmJiejNHZnR2d2hn?oc=5",
+   "resolu": true,
+   "source": "Stars Actu",
+   "published": "2026-10-19",
+   "summary": "",
+   "feed": "communication"
+  },
+  {
+   "id": "u3a0f0844",
+   "title": "Derry City FC release statement after James McClean's mental health comments",
+   "url": "https://www.irishmirror.ie/sport/soccer/derry-city-fc-release-statement-37788147",
+   "gnews": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFBqamMtU1E0UEFxR2l3eEZjOGVvYnVxTzlqZWF0b1Z3dWtlRVF3LXpYdnQ5S1VmLUtLc1A4UzZoazkxd3NTYTZJR2VHdDdiTG1fYUk1b2YwNVd2Y2NuWXlPUWxjOVQzb0dHVk9KM0drU2dqVm5VRi0yRGN5R09RVm54VHRmWmvSAYwBQVVfeXFMTVNEY2dUVExfUEppMGZBLVNsdlpPQXRpUW5nQUpIUmNpbFAyUmh3N0ZCbEFBRHN4MHRiOW52MkFQcGdWTnRKbXRhazBwZlAyOUFKdVkyNDZfeXJVZDJTUVdaSkx4QUdVdWNtQjY3Y00wR3c1U0NXYm0tYmtfRk9zeXFleUEwbUFfam9XZmo?oc=5",
+   "resolu": true,
+   "source": "Irish Mirror",
+   "published": "2026-10-19",
+   "summary": "",
+   "feed": "international"
+  },
+  {
+   "id": "uc0015211",
+   "title": "Les sociétés de psychiatrie se rebellent contre la nouvelle limite à l'admission involontaire pour des raisons de santé mentale",
+   "url": "https://www.democrata.es/fr/sante/les-societes-de-psychiatrie-se-rebellent-contre-la-nouvelle-limite-a-l-admission-involontaire-pour-des-raisons-de-sante-mentale/",
+   "gnews": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSmlUVlZJdl9sY1h6aXFIMFhLdTc3ckRJbVlMdlRTc0dNakJOTHEyTnVoWk9UeGRhdXdHRk5nX0lMZ0FRMmxOX2xuUmhTNE56QV9aQ1lwbk9acjdyX0NsYzJibnBwaW9nenNOZkRJWjVENjNXTU8wR3lmaGJQTXF1dHI3ZnprVTZKRWdHVVZHNmhkZ3REeThNbWdYc3psdURPb3Nkb3pKOXBUdVNJVHROOXNibWx0blZFSnJraHV3WWRYaEVIaklBbFRPcUZsMWhXOEEzdUJZS1M2OGFzSm8ydU41WmQyQ0lhQTNnaUwzdVB4WkZS0gH6AUFVX3lxTE5JYU5Nay1jNGR1a016QmZuQXpuTWtkNnBUc3FlTk4wZnB6VEdxcUhOUWJaWUlsVUlzdlkyWldFeTlMOTcwTGQyUXRweC1ZMGUycmZUZDRvLWhWYXBsbldoQjE5ZDl5SHRrcjdFLUI2QXlQS0twTV96RUNTR042NzRITWhRTm5tT1d1TnRLQXY4NlpqM2xSU2ttR0JjNGs3bmtnNjVNU0VBYm1GQmVVdmIxdm5GTnFGQmdhN09WR3JyS1JoekhQWVBZck9RVjJHQmdSUEFNenE2VGVaR18xV3hzclYyVnQzZ0l5SkZVS1BVOXJ2LWhNTjJNSFE?oc=5",
+   "resolu": true,
+   "source": "Demócrata",
+   "published": "2026-10-19",
+   "summary": "",
+   "feed": "politiques-soins"
+  },
+  {
+   "id": "u98606768",
+   "title": "How lived experience helped build the Cairns Medicare Mental Health Centre",
+   "url": "https://www.nationaltribune.com.au/how-lived-experience-helped-build-the-cairns-medicare-mental-health-centre/?fbclid",
+   "gnews": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOMm1MNTUzVVN5U2V0LVdMMFE5UmNLU1BEU2xXSUxKZS1tWUh2ZDE2SkY0VDNCS0JYZEFTMFQ4X1BnSzlqTFBvNVMxZEdKYko4UzJvNDlvWEFBVm1kR04ybElrc2lUd3JmR1ZKekY5bHhNdC1MdlBWMVhDRHRpLVhZU1pQR3I5WTY5amV6X1pxcGVOalVRemtFc1VGVzYxSDh4dnltMTdhYlRzdXM0V1VSMVNXT2dRYXJHSU44NTJsU1NxNy1TMFpISlJDRGZIV1RjblJIY0FkMFR3R2RhTEFoZl8zSkVJbVNvRDZySlpuckhJaEw1N1Z0WmZoTWY3QXFYQUdJTERrSnNNczJuTWJ0RkpjbzZvVElIUDBUelF0dnQ2aC12UV92LV9NOVRjT09JNS1ONm5zOUcxazJwVXh0QVE0M3VLUUR3UTItdkgyLW55NDlaNmE5M1ZMZVN6bmJEZG4xNzJFakxYMTVLeU5YZzZqNFlzNjNiaEVBUEJR?oc=5",
+   "resolu": true,
+   "source": "The National Tribune",
+   "published": "2026-10-19",
+   "summary": "",
+   "feed": "international"
+  },
+  {
+   "id": "ue20ea5f3",
+   "title": "Youth mental health services upgraded to 'Good' - but long waits remain",
+   "url": "https://www.bristolpost.co.uk/news/bristol-news/major-turnaround-youth-mental-health-11200745",
+   "gnews": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3BwWndMeFBLdF9PZ3ZMcHhZT3RucW9Ub244S0p4dGdrbkR6WnFyWGtDLUV1QUZfcVVNN0xfVDh4TThuRzlDeWFqOW8wN0swUnNDOTRCMUk5V3Y0Z1QtY29OYjVmRGNCUm1KUDVyOC1tanRoQWMwT08tZzkyd2Q3WTF3ck1BVWNhWndoUVNCU09QeVZ2VVE1NA?oc=5",
+   "resolu": true,
+   "source": "Bristol Live",
+   "published": "2026-10-19",
+   "summary": "",
+   "feed": "international"
+  },
+  {
+   "id": "ub35cfb42",
+   "title": "Long Covid claims rejected by insurers - using mental health policy exclusions",
+   "url": "https://www.thepost.co.nz/business/361097763/long-covid-claims-rejected-insurers-using-mental-health-policy-exclusions",
+   "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3g3WnJjZzdla3VUaWJ6SUpsdVdacHM3X2xKSFVkMnlqejVoQmdacXpZTnRqR1dyaFY4MlJWdVdVM1dqS1otS3hPTE83R3lQRU5rMVEySGdHQ0F3YnlZVHQwdDcwX2tUR0p4R25JRHdORTU5dHMyeVBfcURwdUdvRDQzYzhlbF9veWVQOUU2WldsZUs3aFpMMzdEdml5c0I0bEoya1BtYTlnd0h0dWhTSEo0SG9ieHlTRmc?oc=5",
+   "resolu": true,
+   "source": "Stuff.co.nz",
+   "published": "2026-10-17",
+   "summary": "",
+   "feed": "international"
   }
  ]
 }
