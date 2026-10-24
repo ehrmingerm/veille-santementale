@@ -216,6 +216,101 @@ SOURCES_ECARTEES = {
 }
 
 
+# ------------------------------------------------------------- categories
+#
+# Chaque reference est rangee selon la nature de son editeur, pas selon son
+# sujet : l'axe thematique reste dans le champ « feed ». Les regles sont lues
+# dans l'ordre ci-dessous, la premiere qui repond l'emporte.
+
+CAT_INSTITUTIONS = "institutions"
+CAT_RECHERCHE = "recherche"
+CAT_NATIONALE = "presse-nationale"
+CAT_REGIONALE = "presse-regionale"
+CAT_ETRANGERE = "presse-etrangere"
+
+# Ordre d'affichage, repris par la page.
+CATEGORIES = [CAT_NATIONALE, CAT_REGIONALE, CAT_ETRANGERE,
+              CAT_INSTITUTIONS, CAT_RECHERCHE]
+
+SUFFIXES_INSTITUTIONNELS = (".gouv.fr", ".gov", ".int", ".gc.ca")
+
+INSTITUTIONS = {
+    "who.int", "un.org", "oecd.org", "paho.org", "europa.eu",
+    "nice.org.uk", "nhs.uk", "samhsa.gov", "nimh.nih.gov",
+    "has-sante.fr", "santepubliquefrance.fr", "cnsa.fr", "ars.sante.fr",
+    "psycom.org", "unafam.org", "fnapsy.org", "mentalhealtheurope.org",
+    "assemblee-nationale.fr", "senat.fr", "defenseurdesdroits.fr",
+    "cglpl.fr", "irdes.fr", "anap.fr", "santementalefrance.fr",
+}
+
+RECHERCHE = {
+    "nature.com", "science.org", "thelancet.com", "bmj.com",
+    "jamanetwork.com", "nejm.org", "sciencedirect.com", "springer.com",
+    "wiley.com", "tandfonline.com", "frontiersin.org", "plos.org",
+    "sciencedaily.com", "nationalelfservice.net", "theconversation.com",
+    "cairn.info", "openedition.org", "journals.openedition.org",
+    "hal.science", "medrxiv.org", "biorxiv.org", "psyarxiv.com",
+    "pubmed.ncbi.nlm.nih.gov", "inserm.fr", "cnrs.fr", "ehesp.fr",
+}
+
+PRESSE_NATIONALE = {
+    # generalistes
+    "lemonde.fr", "liberation.fr", "lefigaro.fr", "mediapart.fr",
+    "francetvinfo.fr", "radiofrance.fr", "franceinter.fr", "franceculture.fr",
+    "bfmtv.com", "cnews.fr", "lci.fr", "tf1info.fr", "la-croix.com",
+    "lexpress.fr", "lepoint.fr", "nouvelobs.com", "marianne.net",
+    "humanite.fr", "lesechos.fr", "latribune.fr", "challenges.fr",
+    "20minutes.fr", "huffingtonpost.fr", "slate.fr", "lejdd.fr",
+    "leparisien.fr",
+    # culture et formats jeunes
+    "telerama.fr", "lesinrocks.com", "konbini.com", "brut.media",
+    "arte.tv", "rfi.fr", "france24.com", "courrierinternational.com",
+    "beauxarts.com", "livreshebdo.fr", "lesoir.be", "lalibre.be",
+    # vulgarisation
+    "sciencesetavenir.fr", "science-et-vie.com", "futura-sciences.com",
+    "psychologies.com",
+    # presse specialisee sante et social
+    "santementale.fr", "actusoins.com", "hospimedia.fr",
+    "lequotidiendumedecin.fr", "egora.fr", "whatsupdoc-lemag.fr",
+    "univadis.fr", "vidal.fr", "infirmiers.com", "ash.tm.fr",
+    "lemediasocial.fr", "gazette-sante-social.fr", "faire-face.fr",
+    "handicap.fr", "lasantenbref.fr",
+}
+
+SUFFIXES_FRANCE = (".fr", ".re", ".gp", ".mq", ".gf", ".yt", ".nc", ".pf")
+
+# Quotidiens regionaux francais dont le domaine n'est pas en .fr : sans cette
+# liste, le suffixe les ferait passer pour de la presse etrangere.
+PRESSE_REGIONALE = {
+    "nicematin.com", "varmatin.com", "corsematin.com", "monacomatin.mc",
+    "laprovence.com", "ledauphine.com", "bienpublic.com", "lejsl.com",
+    "macommune.info", "toutmontbeliard.com", "imazpress.com",
+    "lamarseillaise.fr", "petitbleu.fr",
+}
+
+
+def _appartient(domaine, ensemble):
+    return domaine in ensemble or any(
+        domaine.endswith("." + d) for d in ensemble)
+
+
+def categorie_de(domaine):
+    """Range un editeur dans l'une des cinq categories."""
+    if not domaine:
+        return CAT_ETRANGERE
+    if domaine.endswith(SUFFIXES_INSTITUTIONNELS) or _appartient(domaine, INSTITUTIONS):
+        return CAT_INSTITUTIONS
+    if _appartient(domaine, RECHERCHE):
+        return CAT_RECHERCHE
+    if _appartient(domaine, PRESSE_NATIONALE):
+        return CAT_NATIONALE
+    if _appartient(domaine, PRESSE_REGIONALE):
+        return CAT_REGIONALE
+    if domaine.endswith(SUFFIXES_FRANCE):
+        return CAT_REGIONALE
+    return CAT_ETRANGERE
+
+
 def hote_de(adresse):
     """Rend l'hote d'une adresse, sans « www. », ou une chaine vide."""
     try:
@@ -235,10 +330,13 @@ def dans_la_zone(domaine):
     if any(domaine.endswith("." + s) or domaine == s
            for s in SOURCES_ECARTEES):
         return False
-    if domaine in SOURCES_INTERNATIONALES:
-        return True
-    if any(domaine.endswith("." + s) for s in SOURCES_INTERNATIONALES):
-        return True
+    # Tout editeur deja repertorie dans l'une des listes de categories est
+    # dans la zone, meme si son domaine n'a pas de suffixe de pays : plusieurs
+    # quotidiens regionaux francais sont en .com.
+    for ensemble in (SOURCES_INTERNATIONALES, PRESSE_NATIONALE,
+                     PRESSE_REGIONALE, INSTITUTIONS, RECHERCHE):
+        if _appartient(domaine, ensemble):
+            return True
     return domaine.endswith(SUFFIXES_PAYS)
 
 
@@ -595,6 +693,7 @@ def parser_flux(xml_bytes, cle, google):
             "published": horodatage.date().isoformat() if horodatage else "",
             "summary": resume,
             "feed": cle,
+            "categorie": categorie_de(domaine),
             "_ts": horodatage,
             "_domaine": domaine,
         })
@@ -727,6 +826,7 @@ def main():
             "published": it["published"],
             "summary": it["summary"],
             "feed": it["feed"],
+            "categorie": it["categorie"],
         }
         jour["items"].append(entree)
         nouveaux.append(entree)
@@ -803,6 +903,16 @@ def main():
         print("editeurs hors zone les plus frequents :")
         for domaine, n in tete:
             print("  {:>3}  {}".format(n, domaine))
+
+    par_categorie = {}
+    for entree in nouveaux:
+        c = entree["categorie"]
+        par_categorie[c] = par_categorie.get(c, 0) + 1
+    if par_categorie:
+        print("nouvelles references par categorie :")
+        for c in CATEGORIES:
+            if par_categorie.get(c):
+                print("  {:>3}  {}".format(par_categorie[c], c))
 
 
 if __name__ == "__main__":
