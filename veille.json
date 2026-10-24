@@ -1,5 +1,5 @@
 {
- "genere": "2026-10-24T09:04:43+00:00",
+ "genere": "2026-10-24T09:12:16+00:00",
  "fenetre_jours": 7,
  "sources": [
   {
@@ -47,9 +47,9 @@
    "type": "google",
    "requete": "\"santé mentale\" (jeunes OR adolescents OR étudiants OR écrans OR \"réseaux sociaux\" OR travail OR \"intelligence artificielle\" OR \"grande cause\")",
    "etat": "ok",
-   "bruts": 86,
+   "bruts": 55,
    "retenus": 30,
-   "hors_champ": 3,
+   "hors_champ": 2,
    "hors_fenetre": 0
   },
   {
@@ -57,9 +57,9 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie) (campagne OR sensibilisation OR \"prise de parole\" OR témoignage OR \"parle de sa dépression\" OR \"a révélé souffrir\")",
    "etat": "ok",
-   "bruts": 30,
-   "retenus": 26,
-   "hors_champ": 4,
+   "bruts": 48,
+   "retenus": 30,
+   "hors_champ": 10,
    "hors_fenetre": 0
   },
   {
@@ -97,10 +97,10 @@
    "type": "rss",
    "requete": "",
    "etat": "ok",
-   "bruts": 50,
-   "retenus": 2,
-   "hors_champ": 48,
-   "hors_fenetre": 0
+   "bruts": 25,
+   "retenus": 0,
+   "hors_champ": 6,
+   "hors_fenetre": 19
   },
   {
    "cle": "le-monde-sante",
@@ -141,53 +141,92 @@
    "retenus": 0,
    "hors_champ": 20,
    "hors_fenetre": 0
+  },
+  {
+   "cle": "science-daily",
+   "type": "rss",
+   "requete": "",
+   "etat": "ok",
+   "bruts": 60,
+   "retenus": 1,
+   "hors_champ": 1,
+   "hors_fenetre": 58
+  },
+  {
+   "cle": "elf-digital",
+   "type": "rss",
+   "requete": "",
+   "etat": "ok",
+   "bruts": 10,
+   "retenus": 0,
+   "hors_champ": 0,
+   "hors_fenetre": 10
+  },
+  {
+   "cle": "elf-participation",
+   "type": "rss",
+   "requete": "",
+   "etat": "ok",
+   "bruts": 10,
+   "retenus": 0,
+   "hors_champ": 0,
+   "hors_fenetre": 10
+  },
+  {
+   "cle": "elf-participation",
+   "type": "rss",
+   "requete": "",
+   "etat": "ok",
+   "bruts": 10,
+   "retenus": 0,
+   "hors_champ": 0,
+   "hors_fenetre": 10
+  },
+  {
+   "cle": "spf",
+   "type": "rss",
+   "requete": "",
+   "etat": "ok",
+   "bruts": 30,
+   "retenus": 2,
+   "hors_champ": 1,
+   "hors_fenetre": 27
   }
  ],
- "nouveaux": 4,
+ "nouveaux": 3,
  "items": [
   {
-   "id": "u877299b2",
-   "title": "Cercle de parole : santé mentale et identité rascisée · Inscription · 31/10/2026",
-   "url": "https://chiche.makesense.org/events/e/cercle-de-parole-sante-mentale-et-identite-rascisee-6ac7b19906b4310007d40e9a",
-   "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcDJtei01UVdGc3VaS3hGOGJseFhxampSRHRnMTdZSTFwUTMxUVNQbTR5a0UzalNJcjJSTDZ6TDJrQ2tyR1M2YlhxQjEyd1hfMmhXS0piM2tzOXpfd2tRVUowQlFoeFNqNWFOLXVIbkhRUWVLa3dxTlVuR1FObGxzczRZQTBFUXRIeER2ZVRfUUdWU212RmJqb0NyblVNeDVYUkY5UEZVeDNrNldBWE11WC1HZ1U?oc=5",
+   "id": "ud148eab4",
+   "title": "Santé mentale. Bulletin mensuel du 21 octobre 2026.",
+   "url": "https://www.santepubliquefrance.fr/sante-mentale/bulletin-national/sante-mentale-bulletin-mensuel-du-21-octobre-2026",
+   "gnews": "",
    "resolu": true,
-   "source": "Chiche par makesense",
-   "published": "2026-10-23",
-   "summary": "",
-   "feed": "communication"
+   "source": "santepubliquefrance.fr",
+   "published": "",
+   "summary": "Points clés Chez les enfants, âgés de 11 à 17 ans essentiellement, les recours pour idées suicidaires, et dans une moindre mesure, les recours pour troubles de l’humeur, troubles anxieux et crise d’angoisse (uniquement pour SOS Médecins) étaient en hausse marquée en septembre 2026 par rapport à août et juillet 2026 dan…",
+   "feed": "spf"
   },
   {
-   "id": "u718cf649",
-   "title": "HHC et psychose : 33 patients comparés au cannabis en Irlande",
-   "url": "https://lecannabiste.com/hhc-et-psychose-33-patients-compares-au-cannabis-en-irlande/",
-   "gnews": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlVkUEtQOURNMTVCUlNLbzhRZzUzVEI2ZElhTXdIUFNEaGFqWEVtWEdLSm9NdXMwVEJTZmtJOHR5YnlicHJKUU44bUtNVktLTVhNUFU5cVVvRzJfcVlITElVdkE4eXI0aEtTU09RQmE2aTUxSE9kanFDeEExWGVMdk9ZRUtZSWgzUWZ0eEp3?oc=5",
+   "id": "u696218f1",
+   "title": "Santé mentale. Bulletin mensuel du 7 juillet 2026.",
+   "url": "https://www.santepubliquefrance.fr/index.php/surveillance-syndromique-sursaudr/sante-mentale-bulletin-mensuel-du-7-juillet-2026",
+   "gnews": "",
    "resolu": true,
-   "source": "Le Cannabiste",
-   "published": "2026-10-21",
-   "summary": "",
-   "feed": "politiques-soins"
+   "source": "santepubliquefrance.fr",
+   "published": "",
+   "summary": "Points clés Chez les enfants, les recours pour la majorité des indicateurs des deux réseaux étaient en diminution en juin 2026 par rapport à mai (en tenant compte de la différence du nombre de jours entre les deux mois). Les recours pour idées suicidaires chez les 11-17 ans restaient supérieurs aux valeurs observées le…",
+   "feed": "spf"
   },
   {
-   "id": "u552aa048",
-   "title": "Le Magen David Adom France lance une initiation aux premiers secours en santé mentale",
-   "url": "https://fr.timesofisrael.com/le-magen-david-adom-france-lance-une-initiation-aux-premiers-secours-en-sante-mentale/amp/",
-   "gnews": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGtXaFBiN0xOblgwRkxXX3dUWkIzUmNway1YWUNxOGZOcnd5b3Zlc281RmJPOWdhOFJ5QUFJSENJaTJFb25vblVyQXpZNzgxaER1WFlSQVhwaEdVaEM2cTZ4bUF6T1UxZTR3RDVzcjRicEc4aGtOd2Q1ZHlsQTd5anN5SHZTY2N1UktsZjdUMGhINGpPVTNUaVhCV3NTYnJNem95Rmtwakc4d0JRaVpwSWhBT1JFeVBvbmI00gG7AUFVX3lxTE9ka1doUGI3TE5uWDBGTFdfd1RaQjNSY3BrLVhZQ3E4Zk5yd3lvdmVzbzVGYk85Z2E4UnlBQUlIQ0lpMkVvbm9uVXJBelk3ODFoRHVYWVJBWHBoR1VoQzZxNnhtQXpPVTFlNHdENXNyNGJwRzhoa053ZDVkeWxBN3lqc3lIdlNjY3VSS2xmN1QwaEg0ak9VM1RpWEJXc1Nick16b3lGa3BqRzh3QlFpWnBJaEFPUkV5UG9uYjQ?oc=5",
+   "id": "u5475649d",
+   "title": "Scientists uncover 3 key brain pathways linked to lasting depression relief",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261017230021.htm",
+   "gnews": "",
    "resolu": true,
-   "source": "The Times of Israël",
-   "published": "2026-10-20",
-   "summary": "",
-   "feed": "communication"
-  },
-  {
-   "id": "u7f3bb15d",
-   "title": "Façon de voir : santé mentale & identités diasporiques · Inscription · 24/10/2026",
-   "url": "https://chiche.makesense.org/events/e/facon-de-voir-sante-mentale-and-identites-diasporiques-6ac7ac5e06b4310007d3eac8",
-   "gnews": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDY4cXFVMVZ2dDh0b1FaN282dElLeHRrMDIwaDBwRXhSdGVzZzgzYjNCZzZmWkxGam5jMjRRZ25lQ2hma0RtVWNObmliTDQ2aXlIQnpEeTVrYlR3Zk05MlhmVkhCVENVVUlKVGsyQmRlWTZyZElFdmVTN0dxUzREZEhDbW1wNDdYQkxLdy1FbzgtZHhTcTJZVDRsNGp1SlFZdGxxZmVmQnpsMFE0UG04Qmo3SDVfc1E2?oc=5",
-   "resolu": true,
-   "source": "Chiche par makesense",
-   "published": "2026-10-17",
-   "summary": "",
-   "feed": "communication"
+   "source": "sciencedaily.com",
+   "published": "2026-10-18",
+   "summary": "Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe, treatment-resistant depression. They also discovered that patients who failed to improve after two years shared a striking pattern: insufficient stimulation of a crucial brain connection…",
+   "feed": "science-daily"
   }
  ]
 }

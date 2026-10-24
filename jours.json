@@ -1,8 +1,8 @@
 {
- "maj": "2026-10-24T09:04:43+00:00",
+ "maj": "2026-10-24T09:12:16+00:00",
  "jours_couverts": 1,
- "total": 200,
- "liens_non_resolus": 20,
+ "total": 203,
+ "liens_non_resolus": 10,
  "jours": [
   {
    "date": "2026-10-24",
@@ -428,9 +428,9 @@
     {
      "id": "ue83c4a89",
      "title": "Santé mentale dans les écoles : des jeunes se penchent sur la question",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdEFLeW9XNl8yTWlaOFVhRWFDZkFHRXluNHZwT2lVYXNaSm15MXNEUUdaSWFUeDhfOGRSeU1FZTJpb25CTDl3bXZnT0VTMGs0dlFUWUJESl9rRklKczFEd1ozZFZVdFZaalNMMXVJNEhOWjlvVERPYUlQdjRtYndnelhiUElkMFRWVFAwaHRfdHllWmZ5T1J3?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://ici.radio-canada.ca/nouvelle/2294707/sante-mentale-jeunes-conseils-scolaires-sudbury",
+     "gnews": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdEFLeW9XNl8yTWlaOFVhRWFDZkFHRXluNHZwT2lVYXNaSm15MXNEUUdaSWFUeDhfOGRSeU1FZTJpb25CTDl3bXZnT0VTMGs0dlFUWUJESl9rRklKczFEd1ozZFZVdFZaalNMMXVJNEhOWjlvVERPYUlQdjRtYndnelhiUElkMFRWVFAwaHRfdHllWmZ5T1J3?oc=5",
+     "resolu": true,
      "source": "Radio-Canada",
      "published": "2026-10-22",
      "summary": "",
@@ -439,9 +439,9 @@
     {
      "id": "u1683233b",
      "title": "Existe-t-il un lien entre le café et les boissons sucrées et la santé mentale des adolescents ?",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkJBZDZEenAxLVpuU05CcFFYVkk4NktVb0NBMWR5aXg4US1jMmhHczJ1elB1bXpkLUlTZU9ZTG14ZElRaEdNeVFHM0s4M3Nxamg4VjljMmVGMXl6TEZPTkdfSFYxbm00WlBUN3U2NF9laDYtelhIWXRjY0poWUloa3pCYmRHa0Vjc21LNmZuNDVrWmY3dkRsUUp2UWtwV0hfSlU0?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.vietnam.vn/fr/ca-phe-va-do-uong-co-duong-lien-quan-den-suc-khoe-tam-than-thanh-thieu-nien",
+     "gnews": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkJBZDZEenAxLVpuU05CcFFYVkk4NktVb0NBMWR5aXg4US1jMmhHczJ1elB1bXpkLUlTZU9ZTG14ZElRaEdNeVFHM0s4M3Nxamg4VjljMmVGMXl6TEZPTkdfSFYxbm00WlBUN3U2NF9laDYtelhIWXRjY0poWUloa3pCYmRHa0Vjc21LNmZuNDVrWmY3dkRsUUp2UWtwV0hfSlU0?oc=5",
+     "resolu": true,
      "source": "Vietnam.vn",
      "published": "2026-10-22",
      "summary": "",
@@ -450,9 +450,9 @@
     {
      "id": "uf61ac808",
      "title": "Placé en centre jeunesse pour ses problèmes de santé mentale",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDdXZE9ydXgyeTVvYXcwSExqOEVDaGNUUzk4a1dmcF9vS3FwMFRwOVRHUzI5YWt3Z1FXb2JZWktuVnctTlh2NFFMdEtIS29NRjI1OG1NVUZsVHM5TExLYldKR3hsaE5KRDdNbkxDeW5IRUR1eFM2RXA1R21NYm5lQXE0WnZucUU?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://ici.radio-canada.ca/nouvelle/2294639/sante-mentale-jeune-centre-jeunesse",
+     "gnews": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDdXZE9ydXgyeTVvYXcwSExqOEVDaGNUUzk4a1dmcF9vS3FwMFRwOVRHUzI5YWt3Z1FXb2JZWktuVnctTlh2NFFMdEtIS29NRjI1OG1NVUZsVHM5TExLYldKR3hsaE5KRDdNbkxDeW5IRUR1eFM2RXA1R21NYm5lQXE0WnZucUU?oc=5",
+     "resolu": true,
      "source": "Radio-Canada",
      "published": "2026-10-22",
      "summary": "",
@@ -461,9 +461,9 @@
     {
      "id": "u7d0bcb0",
      "title": "Brigitte Macron : la santé mentale des jeunes est un enjeu majeur",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMm5mTDh5S1l1SnZSejc3MHhWemJobkVyc1FabzJ3QVhqNmFYck5CaEVIaC1tYzd3Zkx0a2ZXbGRlVTJpc012b2hqb3lacUlmb05FYWxZTjJXQXY2SnpxWjVRMmVQdWNOOG5TUVN5eEFLZ2J2NWtmdC1GME1uU1BYcnBhTDZSZkFrODJtZmhic29zQTBteWZaRFFGYk9EOFB4ZWR6SkoySVBSWnFvYjJ4Tg?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://presseagence.fr/paris-brigitte-macron-la-sante-mentale-des-jeunes-est-un-enjeu-majeur-de-notre-societe/",
+     "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMm5mTDh5S1l1SnZSejc3MHhWemJobkVyc1FabzJ3QVhqNmFYck5CaEVIaC1tYzd3Zkx0a2ZXbGRlVTJpc012b2hqb3lacUlmb05FYWxZTjJXQXY2SnpxWjVRMmVQdWNOOG5TUVN5eEFLZ2J2NWtmdC1GME1uU1BYcnBhTDZSZkFrODJtZmhic29zQTBteWZaRFFGYk9EOFB4ZWR6SkoySVBSWnFvYjJ4Tg?oc=5",
+     "resolu": true,
      "source": "Presse Agence",
      "published": "2026-10-22",
      "summary": "",
@@ -472,9 +472,9 @@
     {
      "id": "u4b92e9a0",
      "title": "De l'hôpital à la psychiatrie, cette infirmière tord le cou aux préjugés : \"ce sont des soins comme les autres\"",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOenJZdjNoMGxvTmY2S2dGU29mTk5RY0tiUlpCcGVTVDJ0T3hNV0dEMGhmWUNIbU56d2tkWGRtU05hX1h4b1psMlotcF9JaUdVYVhTOEttYkhlWDY0QWZJSDNvN01YSzRBd0JWZGJ1Zmp6Y0FZb0xSUTlILWFpZ2J2Mi1iTEowbXg1YWZRVVlGM1lhVTJMZWxDbFpVWHhEV1p3R21wWkRXREtLYk4wcTI3Nl9rbnU4bjFuRENkREQ4NTBHUUVHWVBKaFp5S3FHSUE2dVp5THpBbnVsdVNTMzhmSklqejR5UWpOY2xhTm9uWTkxbHVVQkZFNG15R3Y4QQ?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://actu.fr/bourgogne-franche-comte/dole_39198/de-lhopital-a-la-psychiatrie-cette-infirmiere-raconte-sa-nouvelle-vie-ce-sont-des-soins-comme-les-autres_64957628.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOenJZdjNoMGxvTmY2S2dGU29mTk5RY0tiUlpCcGVTVDJ0T3hNV0dEMGhmWUNIbU56d2tkWGRtU05hX1h4b1psMlotcF9JaUdVYVhTOEttYkhlWDY0QWZJSDNvN01YSzRBd0JWZGJ1Zmp6Y0FZb0xSUTlILWFpZ2J2Mi1iTEowbXg1YWZRVVlGM1lhVTJMZWxDbFpVWHhEV1p3R21wWkRXREtLYk4wcTI3Nl9rbnU4bjFuRENkREQ4NTBHUUVHWVBKaFp5S3FHSUE2dVp5THpBbnVsdVNTMzhmSklqejR5UWpOY2xhTm9uWTkxbHVVQkZFNG15R3Y4QQ?oc=5",
+     "resolu": true,
      "source": "Actu.fr",
      "published": "2026-10-22",
      "summary": "",
@@ -483,9 +483,9 @@
     {
      "id": "u2e685b36",
      "title": "Ingrandes-Le Fresne-sur-Loire. Quand l’art se met au service de la santé mentale",
-     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUER4dF92UVNDSTZTOS1sR0Y3NkwyR2VkZEJUWlFYVGkyVEJMVU5EMVNiMlRNSGY3dHEzQ2QxU0RHaWN6VXlCZWlWdHVkWGlrVVNCRWY0NEp0d2JQbDl0X3RTSjdNOHV2Y3RhM3JXTDlhMm9yc2NRLUNsT3VJQTl3TS11R2NVY1A1SG9FbTNvd2lWWDNDN3ZZdmVyaTA4bjBYMGVFN3FncElCRHRBdzBJZW5rVHkwZUNvVVZCM1Bma2pQeFFTN0Fla1dnQVlHYk5aTVYtajFOcGpYenIyY1hrNVRUOUFVT3NHUTFSb2Q5UHJCRS1wMFlPTllCbXdEcmFvdG8yMFc2UWdzXzNnclFfcGVTMU5tNVctajBZdnYwd1c1dw?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.ouest-france.fr/pays-de-la-loire/ingrandes-le-fresne-sur-loire-49123/ingrandes-le-fresne-sur-loire-quand-lart-se-met-au-service-de-la-sante-mentale-592915f8-defe-4ec8-b7fd-9226ae404471",
+     "gnews": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUER4dF92UVNDSTZTOS1sR0Y3NkwyR2VkZEJUWlFYVGkyVEJMVU5EMVNiMlRNSGY3dHEzQ2QxU0RHaWN6VXlCZWlWdHVkWGlrVVNCRWY0NEp0d2JQbDl0X3RTSjdNOHV2Y3RhM3JXTDlhMm9yc2NRLUNsT3VJQTl3TS11R2NVY1A1SG9FbTNvd2lWWDNDN3ZZdmVyaTA4bjBYMGVFN3FncElCRHRBdzBJZW5rVHkwZUNvVVZCM1Bma2pQeFFTN0Fla1dnQVlHYk5aTVYtajFOcGpYenIyY1hrNVRUOUFVT3NHUTFSb2Q5UHJCRS1wMFlPTllCbXdEcmFvdG8yMFc2UWdzXzNnclFfcGVTMU5tNVctajBZdnYwd1c1dw?oc=5",
+     "resolu": true,
      "source": "Ouest-France",
      "published": "2026-10-22",
      "summary": "",
@@ -494,9 +494,9 @@
     {
      "id": "u627ee729",
      "title": "Grant County Examines Property Tax Changes for Veterans and Mental Health Services",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVRWLXEyT2lyNndGdGotUmhzeHdXdjFsNkoyYm9ycE9XeUFUbXJ5VmN2U2NtVUlsTlh5YTJGOHFkdzRLdC1XRFhwUUI3LVN3R21FSy1Sdm9zaUc2OWg3ajhkQVlTSHI1TnJEdWdFcS1aMjBQa1NXOUhVV3dnUE01a0pycDJBTHFXaE81bnMtQklaZV9vbnZqc0pjMEVXMkdmTmhEZjB3UUlEb3h1ZWZZWl9GN2tqUngtd2JYTjlhYmlkUE9JRjYtWFZ3NENQb2p3RWdZS2V6cWFQbW05Wi1YVlJmeURKQ3hUUXk0Q3pLRWw4OE9GYnVZMDRlMC1KU3JydHh3TzdWOWM?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.yoursourceone.com/columbia_basin/grant-county-examines-property-tax-changes-for-veterans-and-mental-health-services/article_f8f8b574-e74f-48af-b0cc-4e08b3a4bea1.html",
+     "gnews": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORVRWLXEyT2lyNndGdGotUmhzeHdXdjFsNkoyYm9ycE9XeUFUbXJ5VmN2U2NtVUlsTlh5YTJGOHFkdzRLdC1XRFhwUUI3LVN3R21FSy1Sdm9zaUc2OWg3ajhkQVlTSHI1TnJEdWdFcS1aMjBQa1NXOUhVV3dnUE01a0pycDJBTHFXaE81bnMtQklaZV9vbnZqc0pjMEVXMkdmTmhEZjB3UUlEb3h1ZWZZWl9GN2tqUngtd2JYTjlhYmlkUE9JRjYtWFZ3NENQb2p3RWdZS2V6cWFQbW05Wi1YVlJmeURKQ3hUUXk0Q3pLRWw4OE9GYnVZMDRlMC1KU3JydHh3TzdWOWM?oc=5",
+     "resolu": true,
      "source": "Source ONE News",
      "published": "2026-10-22",
      "summary": "",
@@ -505,9 +505,9 @@
     {
      "id": "u271cca10",
      "title": "Youth mental health documentary screening held in Saginaw",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUzdCM2tDaHRnVHVZZkh5TUx3Y3VIamkySlJLSTRCRzhRTmI2cjY4emZITS1rZVFZREFiMzlTQ0ctVDlPSDA0dkRSaXlsdzBJdGZuNVNPZTljdW1lOXdtRmRmdjdkbXFxbDZObDJnNnNudjM3N3BLbmM4cTJOT1ItUGgwWndQNGlrbEJpNWcweUxXdkRiSkZWM040dEFBc0stOG5oUzduWU9mS0lwT1ZySzFrbE02UXBTYWJKa2lRaHJUc3FhVzdodm9RNklMSzJOUlFVbDVMbw?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.abc12.com/news/local/youth-mental-health-documentary-screening-held-in-saginaw/article_b977cce8-6782-47e3-b538-10eb2399e44c.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUzdCM2tDaHRnVHVZZkh5TUx3Y3VIamkySlJLSTRCRzhRTmI2cjY4emZITS1rZVFZREFiMzlTQ0ctVDlPSDA0dkRSaXlsdzBJdGZuNVNPZTljdW1lOXdtRmRmdjdkbXFxbDZObDJnNnNudjM3N3BLbmM4cTJOT1ItUGgwWndQNGlrbEJpNWcweUxXdkRiSkZWM040dEFBc0stOG5oUzduWU9mS0lwT1ZySzFrbE02UXBTYWJKa2lRaHJUc3FhVzdodm9RNklMSzJOUlFVbDVMbw?oc=5",
+     "resolu": true,
      "source": "WJRT ABC12",
      "published": "2026-10-22",
      "summary": "",
@@ -516,9 +516,9 @@
     {
      "id": "ufd4fa43d",
      "title": "L'IUT consacre une journée de sensibilisation à la santé mentale",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ra0NjZ01hVmJyT01KLWNXVnp6b2JDZlJnakctdTR6bW5lSXlMdE9EZnI4T1pCVkVkbmlTd09Waml0SjIxeGd6UjM4Y3poc1dDYUdzWnNxT0h2dXB3elg0UkVB?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://imazpress.com/toute-l-actu/iut-sante-mentale",
+     "gnews": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ra0NjZ01hVmJyT01KLWNXVnp6b2JDZlJnakctdTR6bW5lSXlMdE9EZnI4T1pCVkVkbmlTd09Waml0SjIxeGd6UjM4Y3poc1dDYUdzWnNxT0h2dXB3elg0UkVB?oc=5",
+     "resolu": true,
      "source": "Imaz Press",
      "published": "2026-10-21",
      "summary": "",
@@ -527,9 +527,9 @@
     {
      "id": "uac6958bb",
      "title": "As Ebola spreads in Congo, grieving families face a growing mental health toll",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFg0eG01WUlaTjRLSzVoel9ieER4YlpJVmdMM003VHRiSnYtMGZDZHpfNWZ4Z0JGUGNYY1ZmeGRvZGhqM1d6bm9pVVJrVnJ1Qy1hNEdBV0tMNUF5dVFmbWhoekdSWXRYQV9ERnFMeDJmSGQ1cnZuNGhMcHJXcGJDYUp4WHJlSThBZEhRVENiNlNVaW1GUnFTNlBwdXZTZ0otT0E?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://apnews.com/article/congo-ebola-mental-health-outbreak-bunia-933a503b293dba6f828a5a6f086c025e",
+     "gnews": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFg0eG01WUlaTjRLSzVoel9ieER4YlpJVmdMM003VHRiSnYtMGZDZHpfNWZ4Z0JGUGNYY1ZmeGRvZGhqM1d6bm9pVVJrVnJ1Qy1hNEdBV0tMNUF5dVFmbWhoekdSWXRYQV9ERnFMeDJmSGQ1cnZuNGhMcHJXcGJDYUp4WHJlSThBZEhRVENiNlNVaW1GUnFTNlBwdXZTZ0otT0E?oc=5",
+     "resolu": true,
      "source": "AP News",
      "published": "2026-10-21",
      "summary": "",
@@ -2206,9 +2206,42 @@
      "published": "2026-10-17",
      "summary": "",
      "feed": "communication"
+    },
+    {
+     "id": "ud148eab4",
+     "title": "Santé mentale. Bulletin mensuel du 21 octobre 2026.",
+     "url": "https://www.santepubliquefrance.fr/sante-mentale/bulletin-national/sante-mentale-bulletin-mensuel-du-21-octobre-2026",
+     "gnews": "",
+     "resolu": true,
+     "source": "santepubliquefrance.fr",
+     "published": "",
+     "summary": "Points clés Chez les enfants, âgés de 11 à 17 ans essentiellement, les recours pour idées suicidaires, et dans une moindre mesure, les recours pour troubles de l’humeur, troubles anxieux et crise d’angoisse (uniquement pour SOS Médecins) étaient en hausse marquée en septembre 2026 par rapport à août et juillet 2026 dan…",
+     "feed": "spf"
+    },
+    {
+     "id": "u696218f1",
+     "title": "Santé mentale. Bulletin mensuel du 7 juillet 2026.",
+     "url": "https://www.santepubliquefrance.fr/index.php/surveillance-syndromique-sursaudr/sante-mentale-bulletin-mensuel-du-7-juillet-2026",
+     "gnews": "",
+     "resolu": true,
+     "source": "santepubliquefrance.fr",
+     "published": "",
+     "summary": "Points clés Chez les enfants, les recours pour la majorité des indicateurs des deux réseaux étaient en diminution en juin 2026 par rapport à mai (en tenant compte de la différence du nombre de jours entre les deux mois). Les recours pour idées suicidaires chez les 11-17 ans restaient supérieurs aux valeurs observées le…",
+     "feed": "spf"
+    },
+    {
+     "id": "u5475649d",
+     "title": "Scientists uncover 3 key brain pathways linked to lasting depression relief",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261017230021.htm",
+     "gnews": "",
+     "resolu": true,
+     "source": "sciencedaily.com",
+     "published": "2026-10-18",
+     "summary": "Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe, treatment-resistant depression. They also discovered that patients who failed to improve after two years shared a striking pattern: insufficient stimulation of a crucial brain connection…",
+     "feed": "science-daily"
     }
    ],
-   "collecte": "2026-10-24T09:04:43+00:00",
+   "collecte": "2026-10-24T09:12:16+00:00",
    "sources": [
     {
      "cle": "politiques-soins",
@@ -2238,7 +2271,7 @@
     {
      "cle": "communication",
      "etat": "ok",
-     "retenus": 26
+     "retenus": 30
     },
     {
      "cle": "culture",
@@ -2258,7 +2291,7 @@
     {
      "cle": "the-conversation-fr",
      "etat": "ok",
-     "retenus": 2
+     "retenus": 0
     },
     {
      "cle": "le-monde-sante",
@@ -2279,6 +2312,31 @@
      "cle": "stat-news",
      "etat": "ok",
      "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
     }
    ]
   }
