@@ -26,8 +26,9 @@ import os
 import re
 import sys
 import unicodedata
-import urllib.request
 import urllib.error
+import urllib.parse
+import urllib.request
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from urllib.parse import quote, urlparse
@@ -37,6 +38,12 @@ from xml.etree import ElementTree
 
 GNEWS_FR = "https://news.google.com/rss/search?q={}&hl=fr&gl=FR&ceid=FR:fr"
 GNEWS_EN = "https://news.google.com/rss/search?q={}&hl=en-US&gl=US&ceid=US:en"
+
+# Google Actualites classe ses resultats par pertinence, pas par date : sans
+# cet operateur, un flux rend cent articles dont la plupart ont des mois, et
+# presque tout tombe hors de la fenetre. « when:7d » lui demande de ne rendre
+# que la semaine ecoulee.
+FENETRE_GOOGLE = "when:7d"
 
 # Les requetes Google Actualites, une par axe de la veille.
 # Chaque cle se retrouve dans le champ "feed" du JSON : la tache sait ainsi
@@ -58,9 +65,10 @@ REQUETES = [
      'OR "contrôleur des lieux de privation")'),
 
     ("pair-aidance", GNEWS_FR,
-     '("pair-aidance" OR "pair-aidant" OR "savoir expérientiel" '
-     'OR rétablissement OR "médiateur de santé pair") '
-     '("santé mentale" OR psychiatrie)'),
+     '"pair-aidance" OR "pair-aidant" OR "pair-aidants" '
+     'OR "médiateur de santé pair" OR "savoir expérientiel" '
+     'OR ("rétablissement" AND ("santé mentale" OR psychiatrie)) '
+     'OR ("groupe d\'entraide mutuelle" AND psychiatrie)'),
 
     ("societe", GNEWS_FR,
      '"santé mentale" (jeunes OR adolescents OR étudiants OR écrans '
@@ -83,22 +91,30 @@ REQUETES = [
      'OR "media coverage")'),
 ]
 
-# Flux RSS d'editeurs, interroges directement.
-# Ces adresses n'ont pas pu etre verifiees depuis l'environnement de
-# developpement : le premier passage dira lesquelles repondent, dans le champ
-# "sources" du JSON et dans le journal de l'execution. Retirez celles qui
-# echouent, ajoutez les votres.
+# Flux RSS d'editeurs, interroges directement. Ils valent mieux que Google
+# Actualites : l'adresse de l'article est reelle et le chapo est fourni.
+#
+# Verifies au passage du 24 octobre 2026 : the-conversation-fr, sante-mentale,
+# stat-news. Les autres sont des candidats ; le journal de l'execution dira
+# lesquels repondent. Retirez ceux qui echouent, ajoutez les votres.
 FLUX_DIRECTS = [
+    # verifies
     ("the-conversation-fr", "https://theconversation.com/fr/articles.atom"),
     ("sante-mentale", "https://www.santementale.fr/feed/"),
-    ("psycom", "https://www.psycom.org/feed/"),
     ("stat-news", "https://www.statnews.com/feed/"),
+    # candidats
+    ("psycom", "https://www.psycom.org/actualites/feed/"),
+    ("le-monde-sante", "https://www.lemonde.fr/sante/rss_full.xml"),
+    ("guardian-mental-health", "https://www.theguardian.com/society/mental-health/rss"),
+    ("nyt-health", "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"),
+    ("liberation", "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml"),
 ]
 
-FENETRE_JOURS = 3          # age maximal d'une reference retenue
+FENETRE_JOURS = 7          # age maximal d'une reference retenue
 ARCHIVE_JOURS = 400        # profondeur conservee dans jours.json
-MAX_PAR_SOURCE = 25        # plafond par requete ou par flux
+MAX_PAR_SOURCE = 30        # plafond par requete ou par flux
 RETENTATIVES_RESOLUTION = 10
+ECHECS_AVANT_ABANDON = 6   # au-dela, on cesse de resoudre pour ce passage
 
 UA_FLUX = "veille-sante-mentale/1.0 (+github actions)"
 UA_PAGE = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -301,18 +317,96 @@ def _par_page(lien):
     return None
 
 
-def resoudre(lien):
-    """Rend (url, resolu). Conserve le lien d'origine si la resolution echoue."""
+MOTIF_SIGNATURE = re.compile(rb'data-n-a-sg="([^"]+)"')
+MOTIF_HORODATAGE = re.compile(rb'data-n-a-ts="([^"]+)"')
+MOTIF_IDENTIFIANT = re.compile(r"/(?:rss/)?articles/([A-Za-z0-9_\-]+)")
+
+
+def _par_service(lien):
+    """Voie 3 : demander l'adresse au service de Google.
+
+    Depuis 2024, l'identifiant d'un article n'encode plus l'adresse : il faut la
+    demander. La page de l'article porte une signature et un horodatage, qu'un
+    second appel echange contre l'adresse reelle. C'est un service interne, sans
+    garantie de stabilite : tout echec rend simplement None.
+    """
+    m = MOTIF_IDENTIFIANT.search(lien)
+    if not m:
+        return None
+    identifiant_article = m.group(1)
+
+    try:
+        page = recuperer(lien, ua=UA_PAGE, timeout=20)
+    except (urllib.error.URLError, OSError):
+        return None
+
+    sg = MOTIF_SIGNATURE.search(page)
+    ts = MOTIF_HORODATAGE.search(page)
+    if not sg or not ts:
+        return None
+
+    interne = json.dumps([
+        "garturlreq",
+        [["X", "X", ["X", "X"], None, None, 1, 1, "US:en", None, 1,
+          None, None, None, None, None, 0, 1],
+         "X", "X", 1, [1, 1, 1], 1, 1, None, 0, 0, None, 0],
+        identifiant_article,
+        int(ts.group(1).decode()),
+        sg.group(1).decode(),
+    ], separators=(",", ":"))
+
+    corps = urllib.parse.urlencode({
+        "f.req": json.dumps([[["Fbv4je", interne, None, "generic"]]],
+                            separators=(",", ":"))
+    }).encode()
+
+    requete = urllib.request.Request(
+        "https://news.google.com/_/DotsSplashUi/data/batchexecute",
+        data=corps,
+        headers={"User-Agent": UA_PAGE,
+                 "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"},
+    )
+    try:
+        with urllib.request.urlopen(requete, timeout=20) as r:
+            reponse = r.read().decode("utf-8", "ignore")
+    except (urllib.error.URLError, OSError):
+        return None
+
+    for trouve in MOTIF_URL.findall(reponse.encode("utf-8", "ignore")):
+        candidat = trouve.decode("utf-8", "ignore").rstrip('\\"')
+        if url_plausible(candidat):
+            return candidat
+    return None
+
+
+def resoudre(lien, compteur=None):
+    """Rend (url, resolu). Conserve le lien d'origine si la resolution echoue.
+
+    `compteur` est une liste d'un entier : le nombre d'echecs consecutifs. Au-dela
+    de ECHECS_AVANT_ABANDON, la resolution est abandonnee pour le reste du
+    passage, pour ne pas allonger l'execution sans profit.
+    """
     if "news.google.com" not in lien:
         return lien, True
-    for voie in (_par_decodage, _par_page):
+    if compteur is not None and compteur[0] >= ECHECS_AVANT_ABANDON:
+        return lien, False
+
+    for voie in (_par_decodage, _par_service, _par_page):
         try:
             trouve = voie(lien)
         except Exception as e:
             print("resolution ({}) : {}".format(voie.__name__, e), file=sys.stderr)
             trouve = None
         if trouve:
+            if compteur is not None:
+                compteur[0] = 0
             return trouve, True
+
+    if compteur is not None:
+        compteur[0] += 1
+        if compteur[0] == ECHECS_AVANT_ABANDON:
+            print("resolution abandonnee pour ce passage apres {} echecs consecutifs"
+                  .format(ECHECS_AVANT_ABANDON), file=sys.stderr)
     return lien, False
 
 
@@ -422,7 +516,9 @@ def main():
     limite = maintenant - timedelta(days=FENETRE_JOURS)
 
     sources_a_lire = (
-        [(cle, gabarit.format(quote(requete, safe="")), requete, True)
+        [(cle,
+          gabarit.format(quote(requete + " " + FENETRE_GOOGLE, safe="")),
+          requete, True)
          for cle, gabarit, requete in REQUETES] +
         [(cle, url, "", False) for cle, url in FLUX_DIRECTS]
     )
@@ -437,7 +533,7 @@ def main():
             print("source {} : {}".format(cle, etat), file=sys.stderr)
 
         retenus, hors_champ, hors_fenetre = 0, 0, 0
-        for it in items[:MAX_PAR_SOURCE * 3]:
+        for it in items:
             if retenus >= MAX_PAR_SOURCE:
                 break
             if it["_ts"] and it["_ts"] < limite:
@@ -495,7 +591,7 @@ def main():
     jour.setdefault("items", [])
     deja = {it.get("id") for it in jour["items"]}
 
-    nouveaux, resolus = [], 0
+    nouveaux, resolus, echecs_suite = [], 0, [0]
     for it in frais:
         cle_titre = re.sub(r"[^a-z0-9]+", "", sans_accents(it["title"]))[:90]
         if it["id"] in connus or it["id"] in deja:
@@ -503,7 +599,7 @@ def main():
         if cle_titre and cle_titre in titres_connus:
             continue
 
-        url_finale, ok = resoudre(it["url"])
+        url_finale, ok = resoudre(it["url"], echecs_suite)
         if ok and url_finale != it["url"]:
             resolus += 1
 
@@ -537,7 +633,7 @@ def main():
                 it["resolu"] = True
                 continue
             budget -= 1
-            url_finale, ok = resoudre(lien)
+            url_finale, ok = resoudre(lien, echecs_suite)
             if ok and url_finale != lien:
                 it["gnews"], it["url"], it["resolu"] = lien, url_finale, True
                 rattrapes += 1
@@ -577,9 +673,11 @@ def main():
                   total, len(liste), opaques))
     print("sources en echec : {}".format(", ".join(echecs) if echecs else "aucune"))
     for r in rapport:
-        print("  {:20s} {:7s} {:>4} bruts  {:>3} retenus  {:>3} hors champ   {}"
+        print("  {:22s} {:7s} {:>4} bruts  {:>3} retenus  "
+              "{:>3} hors champ  {:>3} hors fenetre   {}"
               .format(r["cle"], r["type"], r["bruts"], r["retenus"],
-                      r["hors_champ"], r["etat"] if r["etat"] != "ok" else ""))
+                      r["hors_champ"], r["hors_fenetre"],
+                      r["etat"] if r["etat"] != "ok" else ""))
 
 
 if __name__ == "__main__":
