@@ -1,9 +1,256 @@
 {
- "maj": "2026-10-24T10:36:03+00:00",
- "jours_couverts": 1,
- "total": 137,
+ "maj": "2026-10-25T09:17:54+00:00",
+ "jours_couverts": 2,
+ "total": 149,
  "liens_non_resolus": 0,
  "jours": [
+  {
+   "date": "2026-10-25",
+   "items": [
+    {
+     "id": "ub57d612e",
+     "title": "« Quand tout s’arrête, on perd un peu son identité » : Steve Mandanda, ex-gardien de l’OM et des Bleus, raconte les difficultés et la dépression rencontrées à l’issue de sa carrière",
+     "url": "https://www.nicematin.com/sports/football/quand-tout-s-arrete-on-perd-un-peu-son-identite-steve-mandanda-ex-gardien-de-l-om-et-des-bleus-raconte-les-difficultes-et-la-depression-rencontrees-a-l-issue-de-sa-carriere-10745665",
+     "gnews": "https://news.google.com/rss/articles/CBMixgJBVV95cUxObWFjeTRob2h2YjlNWVh1Q21HQjIxM0pVMFRScHhNcEF6ZHUyRUpCNnVaWmxuMEtWMXJaaTFNR0w4R3NsNTFGY2J2enUtdUNzRmlLM1NsLVBFUjRlcnN5bHVHVHdwcm04NXlUQ283U1locWFnVUtrbjQ1bTZiS2hWd21xUEhSUUd4RXl3OXJUVVlWZFBRR2FvdGNjajhVRy1NZlFTdVJ1T01vQnhKZzl2RG9VaGRtS3hLT2c3WjdIakRCTWtTM2pZS2NQUDg4Q3B5a2VYcWVQT0xBODkxeXBUS2p6RFVnUmVWQkxMTmRYZFJlckFCS3ZXS3VRMGQxb0kxQzBhMTIzcHB0U2pGbnhscTJEcFpBaFZwQVhWOEk4ZlhiNjF4NFBoWDdOWFRObnkwdlZaWnFIMGZ0b2tILWJvQ0R1anN1dw?oc=5",
+     "resolu": true,
+     "source": "Nice-Matin",
+     "published": "2026-10-25",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u632012f0",
+     "title": "Hors-Série Les Dossiers BFM Business : Santé mentale, comment agir afin d'éviter la bascule dans l'arrêt long ? - Samedi 24 octobre",
+     "url": "https://www.bfmtv.com/economie/replay-emissions/hors-serie/video-hors-serie-les-dossiers-bfm-business-sante-mentale-comment-agir-afin-d-eviter-la-bascule-dans-l-arret-long-samedi-24-octobre_VN-202610240434.html",
+     "gnews": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNUUEyUDFqb0t4ejFOSms4dGIyOXJUUkJpd0hHY0RFSnVMaTZxZ1FUZG1aUU9POWJZTHJOQzVmSlVXd2M4YUtIT0NlQVd4QjgwUjNpMXpNVGh5Rk5WaWdsMFZsa1A0d2xBSzduNkstYk5ELV9DaktxQjduUjRMTEFScFBrczhNdWJyclJuYVFsakFjX2xQNVU4b3haeW13UldnM1M0UkZFY3V2RVJDWlpaczVlM0FoUDVUUlVrdVMxaEtmQXdUSlhjQmFTcHJpbXhfWXpKR3NQRUhSVWN4b3RVdC1uV2FPN0NqQ2w3QXlGWE1OOWgyc3djOVpSN0NHYWZrb2FFTWlqQjNIZnpZbHcyRFFnTzBhRHQxX05uajZSajZtbUdTOWxkU1cxMHN5aUZvYUtRNA?oc=5",
+     "resolu": true,
+     "source": "BFM",
+     "published": "2026-10-24",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u24c441e2",
+     "title": "Mental Health podcast offers insights",
+     "url": "https://www.odt.co.nz/news/dunedin/the-star/mental-health-podcast-offers-insights-qvq6gciw",
+     "gnews": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ1hJRUNSamZIRms1em54a1hQQXZiWWxMOHU3UVRFOEFFS0ZydERKUlp1aDBTTzVUQXE2RXRPTi0xakp1blZCelY3Z1ZZNzZXVk9meHVzMWEwb2V6M043STcwaTRVbVdaRjh0akNjbXFTQzNfZjJjYmIyVE50d3h3d1JSaC1IbEpTeUZPU0JZUjJaTlNx?oc=5",
+     "resolu": true,
+     "source": "ODT",
+     "published": "2026-10-24",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ue54e53bc",
+     "title": "« Je n’avais plus besoin de m’automutiler pour me faire entendre » : à l’hôpital psy, les patients prennent le micro sur Radio Pinpon",
+     "url": "https://www.sudouest.fr/sante/psychologie/je-n-avais-plus-besoin-de-m-automutiler-pour-me-faire-entendre-a-l-hopital-psy-les-patients-prennent-le-micro-sur-radio-pinpon-31179230.php",
+     "gnews": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcExsNVFsWWtvN3BHLVVpTlRuOEltWF92c2F4Nkg5aDhCLU5ma2ZSSzhHX1hEajgxT2V4Y05sbDFJXzI2b0JrUEFpRXJycWJGZFdNZXVCeG9sU2VxQTRkRFZIZ0NldUVUWDJRWDBMaklPMTJ4ZHFqSmZHR0hWQXNqZFRrWWd1TW9GT0tIVXg0bjlPRjh0amdRaEExVlJab1otdFhKc3VPdWNuOFI5VFo3emRteExwMjlWNFVRal9vVWd3eXdUd1pOaGFyemR1Q3lhUTBDa2dNczlXT1J1S2pxaWJ1VWI0aXAzTVFmZHFFMEp4TUtKVzdlVXUzZ0k3anBOOW1YV3Rld2tab2xDakE?oc=5",
+     "resolu": true,
+     "source": "Sud Ouest",
+     "published": "2026-10-24",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u226cfc98",
+     "title": "\"Plus tu bois, plus tu es en dépression\" : Camille Lellouche raconte comment son mari l'a aidée à sortir de l'alcoolisme",
+     "url": "https://www.femmeactuelle.fr/actu/news-actu/plus-tu-bois-plus-tu-es-en-depression-camille-lellouche-raconte-comment-son-mari-l-a-aidee-a-sortir-de-l-alcoolisme-2212689",
+     "gnews": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQblRidVE3RG5ZYUFId0h1d2pTYXNqOVEzQVdEdm5XNG5kTG9EZGZiTFJvVnp1LVNRRjV4NkJFYWxlU2xOeEsySmlMYnRtUHBVTW85dlhXZHZJaUZtTTQwQ2ZXMkNHTUV4dEcySGNLSzRKZ1lZa2Z3QVEzUlVOdDI4bDJ1cFpaTTJPa1A2WTE0OXlMY0tDbS1MN0x4YVdrbGhPUlhtUWhPamZsVUM3ekwwNEJkRkdxc0J5cWhLQ0xBd3ZUaW5PS0xCMEtIQy1BVG5VU1pENXdfdDEyRURMY0pvSm03N29pdG4zWEtfMmdxMFE1eF8zSkRMT19iTQ?oc=5",
+     "resolu": true,
+     "source": "Femme Actuelle",
+     "published": "2026-10-24",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "udaf64d40",
+     "title": "Ronald Araujo se confie sur sa santé mentale : «Parce que les footballeurs gagnent beaucoup d'argent, nous ne pouvons pas souffrir ni connaître de difficultés»",
+     "url": "https://www.lequipe.fr/Football/Actualites/Ronald-araujo-se-confie-sur-sa-sante-mentale-parce-que-les-footballeurs-gagnent-beaucoup-d-argent-nous-ne-pouvons-pas-souffrir-ni-connaitre-de-difficultes/1738245",
+     "gnews": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPWnE0d3AzbG5tdl9TSTF3RnE1WkV1LWZXZ2RXT253VXdFRGtOY1NKWHFHZTRVOEdfQ0lHcmZxQjFaSG05ZlhxVjNVUEZCTDZwdGszNUhaczZEbDlobk5IT2g5VzNUSVhJYlpIS1U4Q1hiX1dNWEdUd1JZcnI5bk9FQ2M1c3hVdVFlYWF3UnBhTEZhRGNKTmJlcUhUdXZPVmI0cUFMLVdYN203V01KNmF6dVl2V3NZbUpTcHhrYmJnZ1VSei1xeDlKdllUU1VfdU40dGNuSTVvX3RZRU9uamctYzVOb0haLUNaTWxqbEYwVFVfQXFGY3oyazZfamdPbWo0U2JzeWo5SW9zdTktNzNQSjlWVFFGQ3NuTVZ0TVhneTNlYWROTk5LMUhpNjRDdw?oc=5",
+     "resolu": true,
+     "source": "L'Équipe",
+     "published": "2026-10-24",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u456d3458",
+     "title": "Atelier Santé mentale (entre jeunes) – 3rd Space Maison de la Conversation Paris – 24 octobre 2026",
+     "url": "https://unidivers.fr/event/atelier-sante-mentale-entre-jeunes-3rd-space-maison-de-la-conversation-paris-paris-2026-10-24t1600000200/",
+     "gnews": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzlCRGVPclI5aGIxVUxyd0pjelFDTjBLQldBa0pEU3BkOUZsdFB5NXdkenc1dFZ4b3lCXzI2UWxyVy1jMjc1cTJOaDVvVGtiVkk3LWRhY183ZzNQN3VLT2JCRjVXQnVOelpmcWltb1lCYkhyem5ZM2JMbkxpRDhTdV9RaWE1eXZvbVA0bUMyVUhqX09IZ3B4QXllb3NiSHQ5bDllQW15dFRETmJidzRkdW1fQTF5Y0U5UFZiZG1xM0F4M1djSUNFT2xkVHk?oc=5",
+     "resolu": true,
+     "source": "Unidivers",
+     "published": "2026-10-24",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ucaf49651",
+     "title": "La santé mentale des personnes âgées : barrières et différences pour demander de l'aide",
+     "url": "https://www.democrata.es/fr/democrate-pro/etude/sante-mentale-chez-personnes-agees-barrieres-differences-genre-pour-demander-aide/amp/",
+     "gnews": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOelM3eS1DclIyZnlVLUx4czRXU3FNMzBEQ1BDLVltTlR5TjdSOWcyRjhWZWhsWTdhUzdhRHduRXFNSU9UZWpGbEtpSjBWbGNBT3RHaWp3dHB6QW1HRDV5a2ZmMWhNOEJOYzdLX1lBRV9WaXR3UWd4U19CTThwcVJYMS1LVTJnSzVSYktxU3lzRjZac0lkLWx3NGJRdGQzZl9MQ3h1Y3pZS0gwQTZsRWJNZjRzZTBYS2VyWHpxd3dQZkhhSFctdzBYdFc1Ty0wNGM?oc=5",
+     "resolu": true,
+     "source": "Demócrata",
+     "published": "2026-10-23",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u4bec1ff",
+     "title": "Priorité de la ministre déléguée à la Santé mentale : c'est quoi, Agora Déclic?",
+     "url": "https://www.24heures.ca/2026/10/22/priorite-de-la-ministre-deleguee-a-la-sante-mentale--cest-quoi-agora-declic",
+     "gnews": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjJjbDl4YzVyNmhIRDIxNG44MHdmaEI2MjJUeWxkSUVpdXJEaGc0UmoxYnRvNXRVNFlCU0J6WWlDWktLaHFaaXhDQXhlV2R4STV1Mi04Y2UzU3JsNkROdThrZjExbkhJY3FNdnFuMy16XzhrY196M2J1akdzcXotOUpIeDM4ZnpvbXlJa3FJbXJWem1pemJMNDh1TGx3ajY0STNqa1otNDZvaGliU3ZR?oc=5",
+     "resolu": true,
+     "source": "24 heures",
+     "published": "2026-10-22",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u198ada8",
+     "title": "Fresque Santé mentale Troyes 2026 - Le Rucher Créatif : date, horaires, programme, tarifs",
+     "url": "https://www.jds.fr/troyes/manifestations/fresque-sante-mentale-1809326_A",
+     "gnews": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wSUFETWJBWkl3cFNudnkzM0ZWekVqWVB6NGtBZmpERTIxWTREa2QwM19vdmtoVjhObnpIaWRlS3pBRmRVUkNUbG41dllzNmJWVmVhTGloem5RNTVMLWU0RVAzRzZLbGxDMUpvQ1g5MHBqVy04aU5hVXM0RDU?oc=5",
+     "resolu": true,
+     "source": "jds.fr",
+     "published": "2026-10-21",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u82af0b77",
+     "title": "How Greater Manchester Communities Can Support Better Mental Health",
+     "url": "https://aboutmanchester.co.uk/how-greater-manchester-communities-can-support-better-mental-health/",
+     "gnews": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRHV4NWFwN3FOckxTR2hrRUIzQ2NDS3dGaGdzZXJ0eGpnWlR2OUVRVkx4bk16dktfa19LZWhfT2I1cy1mUlE1VXNwalRVVHR6ZTFsOGxFRDczSklRNVh5NlA4d1cyajlEZXA1UmRJM3ZvT2xTTHRfdEJGSlFrdnppVEFPbEVOVnppRThFMnB1MkpkWWNZUnBQRTJvSEV3Y1U?oc=5",
+     "resolu": true,
+     "source": "About Manchester",
+     "published": "2026-10-20",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u80a8a204",
+     "title": "Telehealth for Rural Communities: The Mental Health Care Gap",
+     "url": "https://www.psychologytoday.com/us/blog/brain-boost/202408/telehealth-for-rural-communities-the-mental-health-care-gap",
+     "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYlhTSmhocXlYZGtLdHVoc1ZBa2lKcnU2LWhTN09vZ2JsWnBPZ0Z0WkRFenhVanVidXVlSmg0U2d2OWN2eG9sMWNwNDdLQ29pNTVOdWZhRUUwbTg1WEExYW1xcFJyTXF1Q1ZlRzh3ZzhnSkRHWlE1b18tQTAtY2dMYllPVTRyRV9TajNhT1RaUlQ2NnRwbmpheS1fV2xiM25NV0dNQ2VacS1pMWZjRkFGMFAxb2tsTWkyblE?oc=5",
+     "resolu": true,
+     "source": "Psychology Today",
+     "published": "2026-10-19",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    }
+   ],
+   "collecte": "2026-10-25T09:17:54+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 29
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 29
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 4
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 30
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 18
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 19
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 16
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 9
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 6
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
+    }
+   ]
+  },
   {
    "date": "2026-10-24",
    "items": [
