@@ -1,9 +1,292 @@
 {
- "maj": "2026-10-25T09:17:54+00:00",
- "jours_couverts": 2,
- "total": 149,
+ "maj": "2026-10-26T10:23:56+00:00",
+ "jours_couverts": 3,
+ "total": 164,
  "liens_non_resolus": 0,
  "jours": [
+  {
+   "date": "2026-10-26",
+   "items": [
+    {
+     "id": "udd0bd7d7",
+     "title": "Psychiatrie : les jeunes femmes de plus en plus hospitalisées",
+     "url": "https://www.mutualite.fr/actualites/psychiatrie-les-jeunes-femmes-de-plus-en-plus-hospitalisees/",
+     "gnews": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHF4RE4xR2F2ZVJ2NnVqaTFNMGFIQzVKVnhocmd5U09HUDVqYVFLSTFVclFPU19jMmZFc2tFaklNR2FaRk5qRmxPYU9RbVU5VksxaVlaMXdYSFM0X0ViTHo5SUJmVTl0cHhOMTUxTjhKZ3ppaWkyYnFoQTR2TlF3ZnkzTEoyWjBsMlhEUFJsVVhDNHpPcDVGeGFBX3k?oc=5",
+     "resolu": true,
+     "source": "Fédération nationale de la Mutualité Française",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uaaa6260b",
+     "title": "Construction’s Mental Health Crisis: Why Support is More Important Than Ever",
+     "url": "https://constructionmaguk.co.uk/constructions-mental-health-crisis-why-support-is-more-important-than-ever/",
+     "gnews": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWWpMdnlZLWRVZURCOFlxM0F5WkEtdlFKX1dheE8xaUJWb09FSWVYVmNHbmx6QVJmTEpUOVFWWl9jTTVCc3l6Mi00bDQyNHZ5UjBPZ3I3NWdDeWtTNUpsbV9INjhsNWwzTHRaSXR2X3VBSTdkOEFPdG1tTVFWTFYxczIydVA5MjEtOHFPR3JHMWItbVVmYjgxakx2LUZzUzlKMjZKd1E5bFpfeGc?oc=5",
+     "resolu": true,
+     "source": "Construction UK Magazine",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uf57b8a18",
+     "title": "“Ceux qui restent” : une infirmière en psychiatrie à Montargis publie un roman sur les aidants",
+     "url": "https://www.larep.fr/montargis-45200/actualites/ceux-qui-restent-une-infirmiere-en-psychiatrie-a-montargis-publie-un-roman-sur-les-aidants_15069413/",
+     "gnews": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeDdLdWZNaWNUNXZOTUtPWkFaSndPSEpLWGpFSkQ1SjYtYmdza0hxcXNPWnQ3TjVZYnk4NDZTakI0STFBXzN4VjNHTnZJUUc5bmhMSjZ5cnhueElQSENvZC14Tk5pcU9zS1J2T0FDem9RY05NSW1GV3hNaFUzdWZ5M2JtbDUtUXpVbG5WTk9DWkR0bUpCTGVOWGRFRGRMMWxCam1YU0hEbi1aeWRYc3hBNUYtcTJlOFRXcGtkOFdwTGhDcGtiSU5hQlhRT1Joa29ObXJZeDRDeTVjYUF4X2Y3QTl3?oc=5",
+     "resolu": true,
+     "source": "La République du Centre",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "udffb8a7f",
+     "title": "Onze lits supprimés du service psychiatrie à partir de mi-novembre au CHU de Saint-Étienne",
+     "url": "https://www.ici.fr/emissions/l-invite-d-ici-matin-ici-saint-etienne-loire/onze-lits-supprimes-du-service-psychiatrie-a-partir-de-mi-novembre-au-chu-de-saint-etienne-1643304",
+     "gnews": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONDN0Ty1OUXZXb2ZwRi1VRjY3TF91bGpibkt4TGdUeEY0cHdROUQxTnJhZnpwdFBkLWd3Y1hvZEdzX2RKXzVpS1dRbXI2ZXJ4bTN2YkJONWNUcDBDUnA3bVVTc2pmdnVvVHRxU2xrTWpycWdoSjR2Z0d0Unl4b1B5Wm5ZVFVfZEsxUTBvUVRxeHdIZFROR2hNbXFMYkNESzdFc1NWRTFZd2huUnRRVlJyeHQwM3FCSU10a3RyMXU5Sl8tMmxuR25qSjlTMnBrdkRjZm8wT0tlQmE2Z3E3NDJQMzdtaUwwZWhtYzdhME5wSmZ5V2IxUjFGN2h6VEtJTWYwT3c?oc=5",
+     "resolu": true,
+     "source": "ici.fr",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u280c7c1e",
+     "title": "\"Une perte de sens au travail\" : la réorganisation du service de psychiatrie du CHU ne convainc pas les syndicats",
+     "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-saint-etienne-loire/une-perte-de-sens-au-travail-la-reorganisation-du-service-de-psychiatrie-du-chu-ne-convainc-pas-les-syndicats-2213677",
+     "gnews": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcEpsX2JiZXljV3UwclRRa05EWEtTeXVvODRZN2ZkcE5WSDNuRVZ5OXd1bUtZVTdxRWNXdnlhWlNHZUs2aE5aODlXUFJXSklsUDNtWFVHVXE1aGFzX3RXS1FGbkI4MktyaldzUzVpVGJKdkxEOWtMOFd1NHB2aUZyUS1wSW1xZVhaUnZPUHNQTnJsQW00WWRjRW9fM3dPOU9YZm05Q0ZwVnp4cG9iNkhVdVJtR3V3TE9SWkpJd2lOMmY3aWpGSTlfZ1RjMmhfYlRkSzNCVFNUUFlnUW13MEFiVU9neVBhVkV5QTE1UTlEZjFJR3NkeFRsd18yOXhXWEN3elNGSXdWaVBNLXYta3ljcQ?oc=5",
+     "resolu": true,
+     "source": "ici.fr",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ud49c1d52",
+     "title": "PARIS : Santé mentale - Un kit de formation pour les salariés aux premiers secours psychiques",
+     "url": "https://presseagence.fr/paris-sante-mentale-un-kit-de-formation-pour-les-salaries-aux-premiers-secours-psychiques/",
+     "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0V1ZG5JMkIxZXhOSGl4ZDJXdUNjWmtlbUhQUDFYV0h2cXhOYnNxQlZTVVdLSFA1Y1otcmRJZm1nTWRSY0hGNjJtQVRVbkw4MFpHWjFoUmtJakRmaVZLOC1hdWFrQkJoZVB6OVFpcVZIZm8tRmFXSUtuSkFGdWNKZnVGOVdWUVE1OVNJU3VLaGlUV0JzaVNGQnlFaDktVFM3dEFna2MzS05aNng2ems4S3JQWEk?oc=5",
+     "resolu": true,
+     "source": "Presse Agence",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ua5582073",
+     "title": "Government urged to climate-proof mental health services ahead of future heatwaves",
+     "url": "https://www.centreformentalhealth.org.uk/news/item/government-urged-to-climate-proof-mental-health-services-ahead-of-future-heatwaves/",
+     "gnews": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYUoxNWNsakd2Y1FGY0JmTEJjSV9jeXVKSFVOTUtJTmhNaXZRY3R3cnlBWkdMSjJsNFd0eGd6VlQ5bXJrYkJENkNHNkx6Z1ROSmVXOFZGSG10TWJidXM2WVRoaVNFTXhhbEhkSkNSeTduVFUwZXlpaGQxd1JxbkEtRVpSTklwZzRDaWhaLVI3bVJhWTJ6dkpRY2ZpZXhBcDV3NWhTR2NMWWhrVHVFOXRGOGIyZlNqMFRWSWNUd19tWDFNdTJrcURURFN6QW84NkU?oc=5",
+     "resolu": true,
+     "source": "Centre for Mental Health",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u24534ee3",
+     "title": "Santé mentale : le sport devient un terrain de prévention à Paris",
+     "url": "https://presseagence.fr/paris-sante-mentale-le-sport-devient-un-terrain-de-prevention-pour-les-adolescents/",
+     "gnews": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY3dhRjRucDFseVlqRndMRmZ1cVhrNWRUQktkMWdvMlh5clRVRnZ2T0lYcTZpY25FZUU4ZUlLcXd2b0dDTExubjRLcmxBTU5TempwZTl1YXFLRmtaa2dnb1IxRlFHTVlneDZlcHg5ZFFXMncyRWpHYXEtQWxyQU9HWmpINXZESmRRMXJlQVpZMnVYM1dMNHU5MTZhMlhScXktemlVTTlYYWVXMG8?oc=5",
+     "resolu": true,
+     "source": "Presse Agence",
+     "published": "2026-10-25",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u107c0219",
+     "title": "Santé mentale : un stage de journalisme pour la bonne cause à Couëron",
+     "url": "https://www.ouest-france.fr/pays-de-la-loire/coueron-44220/sante-mentale-un-stage-de-journalisme-pour-la-bonne-cause-a-coueron-8550af3a-d077-11f1-897b-b13214c912e2",
+     "gnews": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdGNwc0tQWnl3ejNYRWtYZG5aTWJSd1k4Z2h4SjJSSXpfOWctLWp3bWwyZ2lyQlZ6cG1KRXhmNTN4bEJKQWhrcVJHZWRybkNFY0duM25nTkNkZEFPTjdTeG5yRUdvVnMwVV9xaXR6c3l6UExMWjlYWWpuNVBuX2ZubW9meWZEcHlDWXVYellrUGpuOEN1X3AwTk01V1ZoemlsenNYS3Jod3c0Z2ZsNjZqU1dMU2hwbVUwclR6VUpRbTliSVNJU1oxUEFxQ2JkU2t3VDRRLXRDc0NGbWh4SDhQblB0M0lqZGRyOTVBT3J4TGQwU1V2eUE?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-10-25",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uc3fadf2e",
+     "title": "L’IA comme thérapeute? Comment les patients en psychiatrie utilisent les chatbots",
+     "url": "https://www.medinside.ch/fr/lia-comme-therapeute-comment-les-patients-en-psychiatrie-utilisent-les-chatbots-20261026",
+     "gnews": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaTNlaUZHTzVsRWlYVlluWVdzb3JtTmUtblNLcGYtLWRBV0phZHRtRDJDU1pvbVQ0dEdmNlo5aGxRVWJqbnR0Mm1tS2VjYVVQNTYydmszWlgtZm1oNUF2VWgybFVmRnZiRjJlc24teE1sNnc2eldUclJraFhtN0Y0N3REaUVvYk11UGNMQk52dFEtVTVqVTF1VU82eU4wcUVhaWVoYnBYYzhGY0dqN2JrUVRwZTBPbzQ?oc=5",
+     "resolu": true,
+     "source": "Medinside",
+     "published": "2026-10-25",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uc5adfa45",
+     "title": "Les dangers des réseaux sociaux sur la santé mentale des ados",
+     "url": "https://www.franceinfo.fr/replay-radio/c-est-ma-sante-conseils/les-dangers-des-reseaux-sociaux-sur-la-sante-mentale-des-ados_8211608.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUHA3R2x0OS1pS1ZYZndGYnpVZkU3UWpvcnk4bTNMa3lGZnNtcTJZS05RREY1TzY4cjhZMmR1X2xqTmlRcFk0dXZxZFo2NEhWRzFmTjcyMHM3Zm80TUFxclhwb3JfZU03VXM4WGtrdjhPOU5QRmVRWHp4dy1rNHBJUDhMWFQ1RjFBOEJISm9sUEFoLXlCdUZyeGUySE1KeWFDaEJiZm5ncHlIdHZvZjA2aUNHajN0dVN6NDBzT1V0T2FqTjlKM3pTenhEZlNjVHJCM3hV?oc=5",
+     "resolu": true,
+     "source": "franceinfo",
+     "published": "2026-10-25",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u19589ac4",
+     "title": "« Je suis allée voir une psy pour la première fois » : dans l’Orne, la santé mentale des agriculteurs mise à mal",
+     "url": "https://www.ouest-france.fr/economie/agriculture/je-suis-alle-voir-une-psy-pour-la-premiere-fois-dans-lorne-la-sante-mentale-des-agriculteurs-mise-a-mal-898d0d1a-c8ab-11f1-b3f5-183597cb1094",
+     "gnews": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNYzZGdlItLTZCM3RSX0Z2ZllFcEtheWZwWVduM1dvU3VKMW9wWWw0TTRJOXR4Q1VST0wwU2tORnpULXdYSW5qQ01aVlBnVHVIUjdfMFJ6S3R0d2piQVdUTWxFWTBvTXhOVXpVd2VxTUt3Q00zeVZLQlFDX05PUU1VbDRxdlY5QXFxN2dlTmJSSmhjVEZXaUxkVlRJN1NYaG0wbV83YnBza1FvbFhZRmRKM0tDRWlHSHJfOGRiMERaT1c5QjV5V2NjU0VEUVdTQ0xCLUZPWDNIbV9aa3dPZnRMSm1TbkozZmJsZ3UyNUZfZ3NSUFlwVU5KQU1Dbm41UGx6UVY2RDRZZ2tBVWxXOVpVNlQ0SlZiZTZt?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-10-25",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uf862d290",
+     "title": "[FIN] Dépression Boléo : une route de campagne du Morbihan fermée après la chute de deux arbres",
+     "url": "https://actu.fr/bretagne/saint-nolff_56231/depression-boleo-une-route-de-campagne-du-morbihan-fermee-apres-la-chute-de-deux-arbres_64973634.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORzlDU25yMWpyb1VqalhvcXY3d1J4MC0xSVQ0ajBMUGtINzBxUkxwTjZKR2swZ082SDYxTkhZWE9tYjVzRWo3UTRQcTlwc2IyMWtzVHlRZlV3MVJNZVNKbmNFc3lzZ2FWOXY3aWdOdm43aUFtRHpyVjBvTlNSY3BYMmMtY3oxLVo4aUdRYlJOQzBFV0Q4VzJDMFBwUEtsb2NITmVvTGxWMWtzN2FIU05NcDVXWFY3RlEweVZsdDRWMHJ1eFdvUUM5allVYVBVUERsVGtMMnZJcFJrQXhu?oc=5",
+     "resolu": true,
+     "source": "Actu.fr",
+     "published": "2026-10-25",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u9fd5e0d8",
+     "title": "« 4.48 Psychose » Jacques Osinski et Sandrine Bonnaire",
+     "url": "https://www.journal-laterrasse.fr/4-48-psychose-sarah-bonnaire-livre-une-incarnation-poignante-du-dernier-texte-de-sarah-kane-mis-en-scene-par-jacques-osinski/",
+     "gnews": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNa1RPUllzcUV6b2h1eGtEejlweXBmY1VpMmtTU1Z4aDdZdmN4cFNoWlpDcjRmVTRaV1QtWjQ3ZS1rblVQUzBjYkxwSS0zMGlFaDdPeWxnd0VTd09sNlRVNVBLVV9BUTZZc0E0V09PekRRSlY3THZzOTVfODFNc1ZkQ2lMV2pmQVFqQmM5emlWYW1kRjNzTURmWjRkWTdMQUphWnJzVHhqallXQWJlc3BPdDFfZVlDajFscHZ5LXNBTDhMR1B2a0EwdmNMTzdvaFFNMDJMenRFQUJiTkJoNlhnd3JwWEVnXzVXTkg1UzNQRUQ?oc=5",
+     "resolu": true,
+     "source": "Journal La Terrasse",
+     "published": "2026-10-24",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u34b95147",
+     "title": "Mon Soutien Psy : 12 séances remboursées, conditions et accès",
+     "url": "https://www.info.gouv.fr/actualite/mon-soutien-psy-12-seances-remboursees-par-an",
+     "gnews": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGtzakl6S1lCaE1iUlBkdXU2N042dXMwdWJLb3pKUk9xVmstWnh3OEo3OG9CNVhULUg2OEI4REx4VV9rMGFWcEFkdFRlUHNXNEZHb1FydXZ0YVN5dFBpNmM4SjJENXcwU2t6Y1J1bmZMaTJ6MjJwcmUzV290a1ZTMUFGRFR5RTQ?oc=5",
+     "resolu": true,
+     "source": "info.gouv.fr",
+     "published": "2026-10-23",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "institutions"
+    }
+   ],
+   "collecte": "2026-10-26T10:23:56+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 30
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 28
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 4
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 30
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 13
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 18
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 15
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 9
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 4
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
+    }
+   ]
+  },
   {
    "date": "2026-10-25",
    "items": [
