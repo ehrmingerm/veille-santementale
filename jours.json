@@ -1,9 +1,292 @@
 {
- "maj": "2026-10-26T10:23:56+00:00",
- "jours_couverts": 3,
- "total": 164,
+ "maj": "2026-10-27T09:58:04+00:00",
+ "jours_couverts": 4,
+ "total": 179,
  "liens_non_resolus": 0,
  "jours": [
+  {
+   "date": "2026-10-27",
+   "items": [
+    {
+     "id": "u62530fca",
+     "title": "Troubles « Dys » : une prise en charge comme un « parcours du combattant »",
+     "url": "https://www.santementale.fr/2026/10/troubles-dys-une-prise-en-charge-comme-un-parcours-du-combattant/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-10-27",
+     "summary": "La Fédération française des Dys et la société Poppins, dévoilent les résultats d’une consultation* réalisée par OpinionWay et consacrée au parcours de vie des Dys. ... Lire la suite L’article Troubles « Dys » : une prise en charge comme un « parcours du combattant » est apparu en premier sur Santé Mentale .",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u7a7fc80a",
+     "title": "« C’est relativement abstrait » : la santé mentale à l’honneur dans cette structure du Centre-Bretagne",
+     "url": "https://sante.ouest-france.fr/sante-mentale/cest-relativement-abstrait-la-sante-mentale-a-lhonneur-dans-cette-structure-du-centre-bretagne-e4aab3b8-d09a-11f1-95ba-26d2045f6620",
+     "gnews": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcTFNNklRcnRjWEFIV2FZZ0lJRVBlSTZNOWVkXzllTzc5TXdnQVFQanpfSzhYdW11UUE5ZEhNeFVuYTVzSTVtZVYxLV9BblpfVnpvbWlqNEdDLVdrY25ndjBsMndZLTVTdWhOMWJWZHZiY1ljMkRHZHBLNHg0T1NKbjVsN2hCdEhURzNDV3pvSEV6TVdTSlhrcG9hNTc0eHZqNWI4Y2RWZkJsQTRhOHBiektMZlhDQ3ZqVDlrTUhHMWZ3UHVBNUVBaUg5VHBFWlRmYXhYdEhKZklDZWY1OXg4aC1Pb182WEg3WVAyNE9VT3gySnJvQVZudUVCUjlPLUQxam5FV3N3?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-10-27",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uefc20e8a",
+     "title": "Comment un microbiote déréglé pourrait favoriser la dépression et l’anxiété",
+     "url": "https://www.nouvelobs.com/societe/20261027.OBS119568/comment-un-microbiote-deregle-pourrait-favoriser-la-depression-et-l-anxiete.html",
+     "gnews": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0hLUTQxTmJ2cHZyN0xab3NrMkxoeHpHOFh2cXVXTW5RNEZUb2FUTDNaa2UtaHpsMG4xXzBKdnA0NXRramhjLThpTmFLUVNFYXdTQ0pZZnFnN212OXJuenhaaGxrSFRCMldEbUQyLVhtUnJRQkFJem9pTy1NZGZDS3hzc0g3LTZqTzNqb1BNT2ZiLTJ1WFVFTkNhRjFWaFN2MGpXeF9GRjgyVVR2MVE1QXpxSkh2SU5XbG9GV2k2Z1pBMVlnRXJ0Y3hvMFFQdw?oc=5",
+     "resolu": true,
+     "source": "Le Nouvel Obs",
+     "published": "2026-10-27",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u1baa7fac",
+     "title": "Une enquête inédite auprès de 1.500 adultes et jeunes pour mesurer les troubles psychiques à Mayotte",
+     "url": "https://lejournaldemayotte.yt/2026/10/27/une-enquete-inedite-aupres-de-1-500-adultes-et-jeunes-pour-mesurer-les-troubles-psychiques-a-mayotte/",
+     "gnews": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORGQ0Z0JKRnVFbUlTRlBTX3N4N2dicVJ3U0dBZF8xd1J3T0xVUzhjalFQNF9qQ093WS1fWHFjcXFvYkx1Mlk5QUNHbWxCWDdXdlQ3MXVNNkQwWVZtTk1odmx4bkp6QnFBZi1uQWxERmJTRFV6ZVUwRDVqb3oyTkt0dlpkVzIxcUw5Znk5a2JKd2RGUmgtdTJtQ2l6RVQ3TTdoVENQTDh1NVgwckt2ckEzZnd4QXphUk1Da2ROWkdsQTVZMUdUQ3cxWVdwalYwQ25FX3c5dmVWdEMzQQ?oc=5",
+     "resolu": true,
+     "source": "Le Journal De Mayotte",
+     "published": "2026-10-27",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uc2799456",
+     "title": "Montfort-sur-Meu. La santé mentale des seniors et des aidants sera abordée lundi",
+     "url": "https://www.ouest-france.fr/bretagne/montfort-sur-meu-35160/montfort-sur-meu-la-sante-mentale-des-seniors-et-des-aidants-sera-abordee-lundi-ff19fdac-cec5-11f1-897b-b13214c912e2",
+     "gnews": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZXBEMjBfdVF0VWxjd19LTGlNenBPUHlrVjRxd0prTXhsbGNzLTZOX0w5aVJUQnp1SENhMGRUcUZCVG5YLUVZRDJSNldDamRjdjNHLS0xd3h2ZGhBeUlFN1RUaUFBRjRKcnRSVzlXREs2RzNrckpyNUpTdDNnaUtnNVQwY1FCdjZ1bDNfczA0dEtyZW5pY010OW9VbE1kcVdaYlQ2WVUxXzcxb3MtUWxQY2pWUzQyZmpwUURvOXcxaWZDbV9CNDY0ald5dk00OE8wT3Vwd1JUUWdGS3N5OVg2TzBMem43eUR2SERYcXpmb2Z5NXZieW1DRGhUQ0phV0ZZYXQ3YXlvUQ?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-10-27",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ub1c5b81d",
+     "title": "Parcoursup, classes à 28 élèves, santé mentale… ce qu’il faut retenir des annonces d’Édouard Geffray à la mobilisation lycéenne",
+     "url": "https://www.lanouvellerepublique.fr/a-la-une/parcoursup-classes-a-28-eleves-sante-mentale-ce-qu-il-faut-retenir-des-annonces-d-edouard-geffray-a-la-mobilisation-lyceenne-1793042432",
+     "gnews": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdjBhVHhRUXpLX09US0NNbUxTNjM5dGZpQ3BsZ3I3TmtKaW42R2RtczIzTFowN1d6VThaRTNPT1hwYnI0WXpSNjRPM3M1R1dvRkxSR2U4T281VlBvRWJGTGZDVi1QWlViUVdWdHZONFBXNUxwQWxvYVNsQjFvOTdPbVJWWWt0cDNWQ2EzVW5fa1F3THdMSnpwLWNLV19Lb3h0VHktaW5YbjZLYTIwNkFDS3cwWHltSFRWTDl1T1dqa2ZLUHA1Vjc0Sl9PdGVFdjFMemhtZkpSWGltWmhuS1REZUxPY0I5ei1yZHBKWnBrekNzX2VYTTNZY0J5dWRnVlNGMnd0QVhYV3VfUXMz?oc=5",
+     "resolu": true,
+     "source": "lanouvellerepublique.fr",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ua54172e9",
+     "title": "BD. Ta sensualité (et ta santé mentale aussi…)",
+     "url": "https://www.paris-normandie.fr/instant/755231/article/2026-10-26/bd-ta-sensualite-et-ta-sante-mentale-aussi",
+     "gnews": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTlkzWExmMGNmWjNSZ2lRMG1nT2Z2aDN2djJNWGF5RmlLdUhqTENnaVhyZVh3OFRMbXVhVTB3R3JlWEhrTDlOMFJHUVpLd0cxOVJzYXVLSDhQVFdWbFpUTnhDcWVseUZqN2FoS1FZVUdIc3ZUNVdjNzRhNkZnVHFnaUZFak52djhnOUpTYmhFMUNqaGJYT3VEczNoTnc5REYxZEtwVW1qNkVBcE0?oc=5",
+     "resolu": true,
+     "source": "Paris Normandie",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ua9f11762",
+     "title": "L’art et le soin se rencontrent : des patients d’un hôpital psychiatrique créent un spectacle nocturne avec des artistes",
+     "url": "https://sante.ouest-france.fr/sante-mentale/lart-et-le-soin-se-rencontrent-des-patients-dun-hopital-psychiatrique-creent-un-spectacle-nocturne-avec-des-artistes-72acb61c-cefb-11f1-a953-ed5fcc297d72",
+     "gnews": "https://news.google.com/rss/articles/CBMiowJBVV95cUxORDdkVnVjQUVqbkQ5TlB4TTkyZGNwaU5ZS0tBQ0tOMnNwSHEtUFNpODBJYmdvc2YwVC00S21zTkpqVzd3WHZqTDl5N1BUOXFXbnZEZk81a3p1WFNwRHhGazVqVnl1LXNIbTItWldyUHlJSzZ1QkUwdDdvRS1DMXhFRC1oVTJObXFBb00tbjg2Uk92RWJ4eHdNMmNPano2bmNSNmd5MGNjeER1YWJYRzV0aEwzdFJPdUZnY29VMk93UlFnVUxmYjB3ejV4R3NzdWgxN0NMdmxLanZFR0J2VXBuZkplZjdZRDc1cW13a0RsSTJEb0NXdTlyU0FpenJpYUlLeUI0R3ZhYkZTQW8tNFJzSTRSYlNXTm5xRGZnWVpvX0plUkk?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u645dad26",
+     "title": "Kerry’s ‘unconscionable health crisis’: Psychiatrists warn on Traveller mental health services",
+     "url": "https://www.independent.ie/county/kerry/kerrys-unconscionable-health-crisis-psychiatrists-warn-on-traveller-mental-health-services/a/163350312.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPakFFZlhCekdycDFDWlRVR1MwdHN6WkdBWmxBSTA0S0tjUGlpRG44YU1peXJXX2ZGMmt6dVJjY3hGZGFxd1diYXRfcFBOeW9DZVJyclRLblZUOGl5aHR6ZVhCUFBMYWl3amVSUG95MHR1V1EwT2pDaFozcUVSMlFzLUo2SUUxUFZYUnlmRnVxRDFKUHhsYy1Ma2JzRHRhSFRvQ0hRaEtrRF9GaEZJTGxHOHJFekdSVUN2OUJsTWJSMWotanJaRkVaYmJjakpLU05nWVkxbDFuU0JPYkliM185dw?oc=5",
+     "resolu": true,
+     "source": "Irish Independent",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ua078a2bb",
+     "title": "“Ce mouvement lycéen ne parle pas de psychiatrie, mais il dit l’essentiel sur la santé mentale des adolescents”",
+     "url": "https://www.nouvelobs.com/opinions/20261026.OBS119547/ce-mouvement-lyceen-ne-parle-pas-de-psychiatrie-mais-il-dit-l-essentiel-sur-la-sante-mentale-des-adolescents.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQLTltMmV6V0NiN05fSUNzbWlaUWNReUJfalY4QU5kbzdKcV9mR0pCeld1U2ItYl9QaEJBei1NSTB6NGt6aUVzcDBqNE9Razl1X3BNZnFvX25vcXo1WVphX2NQNjlMTkVmSXdhNWhhdzdmcFVPNDdqZmwteWw2QXhZaE5YeWs5Zk0zQm9DdkNaOHhwbnBjSFAzSFBvQjh1cy1qazQwUnV6a3V6ZFJ0V2o0ajdLakYxTlFRc0NsYUxHa2dDd3ZCakRMbjVmUERNcGxJcWI0anBaU2RiWnk1enVsRk4wUWpwZFo1N2NCYTBSblpZWnNVX3h1N3Y4WQ?oc=5",
+     "resolu": true,
+     "source": "Le Nouvel Obs",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u4c560db0",
+     "title": "Lorient–Quimperlé. Trente-deux signatures pour la santé mentale des jeunes, mais combien de rendez-vous",
+     "url": "https://unidivers.fr/lorient-quimperle-sante-mentale-jeunes-convention-acces-soins/",
+     "gnews": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTBma0JOcVFyTzNnWHNneDkzRWhmRldVQ2FMYWlNemFIYWxCVzJGUGE0RHZHZ0tBMmNZVHEzTEZjQkgtNWFiVjItdG0wbnZ6QkZ0WlA0aTMtZ2V5QWNDcUhwUXRteVBHSENZbXNoWjg5N2FMZDdxMGp2SGg2dS00LTRxRGd2RHdwVHVv?oc=5",
+     "resolu": true,
+     "source": "Unidivers",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u1d65b38d",
+     "title": "En psychiatrie, des cliniques privées survendent la thérapie par électrochocs",
+     "url": "https://www.mediapart.fr/journal/france/261026/en-psychiatrie-des-cliniques-privees-survendent-la-therapie-par-electrochocs",
+     "gnews": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXo0UFJpYm9laHlxeER4M1A4RFJ3MGpaUUQ1eEZJcU12Yzl1VWhVRHFpVVkwOGlLa1NOQUhJVndXTkdGLV9wejFtVHhFazgzbV9ZZ0l6OWpIRnc5MHlObDdfdWJVM0kzMmE4WXhwMEZaNWRqYnZIb2VfVlU2bDEtdFdDNUJZeC1oeTJqWFRQb2U1WmZmZm5lYlpGeE1LcGJ0RTkzZFk5bTh3WTRKYVp1bkhpazlfc2pRb2VKQ29laXA?oc=5",
+     "resolu": true,
+     "source": "Mediapart",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "ua1145b1b",
+     "title": "Lived experience takes centre stage at Luton World Mental Health Day Event",
+     "url": "https://www.lutontoday.co.uk/your-world/lived-experience-takes-centre-stage-at-luton-world-mental-health-day-event-9309542",
+     "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZW9mSlluLXFCWUVnNURUMmtBYWEtaTBuUWZ6THk2Q3RQQ3JwbTV4TjZtRVdzVWhXVmI3ZTJTbzFSN3ZpV1F0ZDJfN3plNF82eUJYOHBEcEthREcyV2F0S2dQNlZZbFpNMDRMbmJiSm5BVjU5ZlFTWUh2QTBMTmlkN0Vpem10dzUwVkZHWFBreWFwUGxETXRFaWNsNDNaWU1KcmMyUjN2WUlhYWtsOG9DMHVnVzkxdnBSb1VyZmZyVQ?oc=5",
+     "resolu": true,
+     "source": "Luton Today",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u532a4998",
+     "title": "Fatigue, dépression, perte de motivation... : Un médecin livre ses conseils pour lutter efficacement contre le coup de blues d’automne",
+     "url": "https://www.tf1info.fr/sante/fatigue-depression-stress-perte-de-motivation-un-medecin-livre-ses-conseils-pour-lutter-efficacement-contre-le-coup-de-blues-d-automne-2471978.html",
+     "gnews": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQdGhPcms5eEJ5dG9QN1Jnendhc0lwSVRyc0QxME0zdFFVWVR6V2NnUkZSY0tObDB6TFNkU3l1MWJOOHU2bGc4VTh3djE0T3JmNGE4RUlpU1A2TW9uRDZiUGxhRU1TTlF6NnN6QUFmR3NLN2o5WUF5UmhUVFJCc1AwZUhfYm5mNUJFcVJuRjNtdmFUMmFQMGJfX2N0UWlFU2p6cEhkenJaSXhmeFc4cnk0NG5wM1Nld2tNUl94WnBpQWpnd0ZXUWdLek92RVFnUTZCVzRveE0yQVpLSFhleTVsRXVDTVZwdkZpNGtUS0xMOE4xcWVESS03NlBZNWxVUnpIVTZQajhUWQ?oc=5",
+     "resolu": true,
+     "source": "TF1 Info",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "ubb0d64f2",
+     "title": "Scottish Mental Health Arts Festival gets underway for 20th year",
+     "url": "https://www.clydebankpost.co.uk/news/26657899.scottish-mental-health-arts-festival-gets-underway-20th-year/",
+     "gnews": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDgxWFNiTnFoTmo4ZllFTUNaSGhLTFVEMXgwcDdsWjMyal9PcVNwRFVJLS0tYm9UcmgxbEhGWWNTQktWVDVXdjAxRHlJRmlBRE4xMURlVE80M1JaZm9tR3o1VjdDMVJ4M01aOGNkZHJ4VFZ1bFJJajA0SHc4Qk9CODZDdjZHNzZNN2Q2ck9KN3A2RTQ0MWdxcjRxVUVyNVNBZnhSZkdiNjBSeTA?oc=5",
+     "resolu": true,
+     "source": "Clydebank Post",
+     "published": "2026-10-21",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    }
+   ],
+   "collecte": "2026-10-27T09:58:04+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 16
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 25
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 4
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 30
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 12
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 12
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 15
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 8
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 4
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
+    }
+   ]
+  },
   {
    "date": "2026-10-26",
    "items": [
