@@ -1,9 +1,376 @@
 {
- "maj": "2026-10-28T10:44:46+00:00",
- "jours_couverts": 5,
- "total": 225,
+ "maj": "2026-10-29T11:01:35+00:00",
+ "jours_couverts": 6,
+ "total": 247,
  "liens_non_resolus": 0,
  "jours": [
+  {
+   "date": "2026-10-29",
+   "items": [
+    {
+     "id": "u53fd9326",
+     "title": "Influenceurs et santé mentale sur TikTok : les dessous d’un business toxique",
+     "url": "https://www.rtbf.be/article/influenceurs-et-sante-mentale-sur-tiktok-les-dessous-d-un-business-toxique-11806717",
+     "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeUUwNUlNVzVuQnpCWDdKVEpWVWFGdmdFUjMtOUdZNEJOQU1HMkVQd3JGRlN5MFRhb2pubHRvLXJTQmR6eDFjOUFXXzlRQUdpYXpBOXNyb0ROQWp5S1Nrck1aMDZnV043Yk9FaWczcHE4VmtSQmFfcnFrNDRfa291elFHV3g5UEtMbllLWmx6MlBCUlpxY2JDSWoxV3dlc0dmSXUxX0c3c3lYZ2M4MkFwNQ?oc=5",
+     "resolu": true,
+     "source": "RTBF",
+     "published": "2026-10-29",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uefcfbd2a",
+     "title": "\"J'ai broyé du noir pendant 4 ans\": un ancien joueur du FC Barcelone se confie sur sa dépression",
+     "url": "https://www.dhnet.be/sports/football/europe/championnatsetrangers/2026/10/29/jai-broye-du-noir-pendant-4-ans-un-ancien-joueur-du-fc-barcelone-se-confie-sur-sa-depression-CD7DPPWGAVF6LOMSDYIGWEGCDE/",
+     "gnews": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNMlZHQVJqMldCNUFzRkZ6a2c0aE5HbXE1MEM4SGZaWktTMlRSOGVudWs4OElydkppWWJyWE5uMDlkVWpJeHpaYzhJODZQOEtoamFrRTExRThOMU84ZElOcEdQbmgtRXBwMGowSVlDaVhxZV9vMGEtYnI1Q3hCeTNndjdMRmp6aWY5ZVhWdXp0Q3JtY1JPdGphN212THVGcVFCRnJvNWpJSHV0cEgyOEE3QjNNa2MwaXBEX2t0ak5XaERVOEJibjNpVkI4R1AyVm95YXFNaEZlZnFHcmktSFZwNWh0SVc2dFkyZVE2aVpaMW9BQ2R5bzNkODBjcEhuQUhWSFV3bklKM0dqenNfNVRLWXFOdzVZUFAxZS1icGpHbklSeEE?oc=5",
+     "resolu": true,
+     "source": "DHnet",
+     "published": "2026-10-29",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ub9ba6f3c",
+     "title": "La santé mentale, nouveau marqueur identitaire de la Gen Z et créneau porteur pour La France insoumise",
+     "url": "https://www.lefigaro.fr/vox/societe/la-sante-mentale-nouveau-marqueur-identitaire-de-la-gen-z-et-creneau-porteur-pour-la-france-insoumise-20261029",
+     "gnews": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ2t4T3k1ZndLaE1SN0JseXl1c0ZsZnRTMTJKYzVQWmw4V2dKckFoYXRIeFZwb05QSzBrUXl4QjFFSy1wMzM0QXd1NE90ZFR4eFhOMXNoSFdnSzRzbF9Ga29VQWdlZXNJcnlQM3p0QS1WVnhPUWtaY2taTTdQUWNFekRuYzVrU1M5NEluR1lfTUhPOVJkazdCRG5YaXRvQnR0NnJyeVh6dkwyc2tjRGllTUl4THRQQlI5bmV0NzBHdmw5bWVRNGZyOVpiZEpyQXNBZXBVYTl2ZGNpY09ZZS1Z?oc=5",
+     "resolu": true,
+     "source": "Le Figaro",
+     "published": "2026-10-29",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u697ef534",
+     "title": "Plus de soins en santé mentale… et plus d’épargne",
+     "url": "https://www.avantages.ca/sante/sante-mentale/plus-de-soins-en-sante-mentale-et-plus-depargne/",
+     "gnews": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZmFKeS1KdFJNNEhfNTI4RmxuLWFIb21pVXRFUDFiSTRlOHFhbjl6YVRzUUFsZzJxWmFCRFhWREVodFhnelk1NFJTbEpjMDNGS2RMS0NFRUxNZUF0TWlFcnNFMFJwTXdXeTRvNWNKNXM5WmJWd29MSUEwV2NNR2I0TXZxR2hRZWJzYjNWM2dnMWZxZWVPSWlQdw?oc=5",
+     "resolu": true,
+     "source": "Avantages",
+     "published": "2026-10-29",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uaebb41f8",
+     "title": "Psychiatrie : la nouvelle directrice de l'hôpital de Laval assure travailler \"d'arrache-pied\" pour trouver des solutions",
+     "url": "https://www.ici.fr/emissions/l-invite-ici-mayenne/psychiatrie-la-nouvelle-directrice-de-l-hopital-de-laval-assure-travailler-d-arrache-pied-pour-trouver-des-solutions-2014052",
+     "gnews": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWGR2dVR3YUJ0SG5kMzVZTnVCRTZNTVBfRXdkRnJDWlhoYUExaXp5d0o3ZlExcldvdnRyR3IwNUZNd2FXZzVwbkwzVTZxOEVQRDRMckRHVlBwMWVFTmUwWndjREkwc0xNYjUxMXJYNWxfejBBZG9HMzRKcmxjaDkxX1Jtck1CMlp0SUJhTzF1VEg3UGlVTVhSZkxSaVlEY1NCbTFxdUFwaEdVaXVjZHBCajZiZk9ZMFcwdUpSVDd3LUQ3ZDNQNHIyYlBfcl9GRWttelJWTU43RTIzUExFZ0d6dk9oTHU0TWFuZk9tVlFHUzJ6NjVxUTNPQ1dfalJGZ0dfT1NfMA?oc=5",
+     "resolu": true,
+     "source": "ici.fr",
+     "published": "2026-10-29",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u91674428",
+     "title": "Neighbour of new Montenegro embassy in London sues council over impact on mental health",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/29/montenegro-embassy-pimlico-london-neighbour-sues-council",
+     "gnews": "",
+     "resolu": true,
+     "source": "theguardian.com",
+     "published": "2026-10-29",
+     "summary": "Exclusive: Case in Pimlico is latest instance of tensions between residents and small countries seeking a space in the capital It is not a classic neighbour-from-hell dispute, what with the protagonist inviting everyone over for evening drinks and canapés. But the sudden conversion of a five-bedroom family home in Piml…",
+     "feed": "guardian-mental-health",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u4404f551",
+     "title": "Hautes-Alpes. Plus de 8 000 personnes suivies par an : « Déstigmatiser la santé mentale »",
+     "url": "https://www.ledauphine.com/sante/2026/10/29/sante-mentale-le-chbd-renforce-la-prise-en-charge-au-plus-pres-des-patients",
+     "gnews": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGVEWDJPSG5oTTNzUmdGcUdTSlJMQUlIUXBUMmgzdjFUVEpzeVhfcXEzazRaWl9hemI1SjFrb0ZTZDJnckNzMndGQmpHWW1IVWhNNkk4OGhPSUpJelVRa0dEbkVoak8zMThUYnJjdTlNSnFhWmFvY3FDN0hiSlZ4bmtTaHhEV1Zzb0VPdnpHeWV1dWhjV2NfLXVHT1N6UnVjd3VNYVpfX20wQVJXOGktUVFpSGpRNi1fYTRF?oc=5",
+     "resolu": true,
+     "source": "Le Dauphiné Libéré",
+     "published": "2026-10-29",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ua2687c49",
+     "title": "MENTAL HEALTH MONTH: Lived experience breaks barriers",
+     "url": "https://portpirierecorder.com.au/sa-government/2026/10/29/mental-health-month-lived-experience-breaks-barriers/",
+     "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbkw2NktwT3MxVFBzLXpKSWNGRmxJNkZfRmJ6bWlmbUtmUk9vaWYydUVpblBoYzM2S0Q3ZHlMVC1tcEhXcEgwd0daeWhsMzEzWFMxcmZDU1FkMG5Ib0UzSm1QNkhzMW9lemdXbWpMVkJHQkk3Szg3aWxuQmFKVXB1ODc5OExlRjMybG9HRGJCWDNJOE1tY2V0ZzBVdS16TE5RT01aSUpJZXlBSUNIdF9MTQ?oc=5",
+     "resolu": true,
+     "source": "The Recorder",
+     "published": "2026-10-29",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u3bc1c646",
+     "title": "Milano4MentalHealth. Le tramway de la santé mentale est de retour : musique, radio et témoignages amènent le sujet au cœur de la ville.",
+     "url": "https://www.comune.milano.it/fr/w/milano4mentalhealth.-torna-il-tram-della-salute-mentale-musica-radio-e-testimonianze-per-portare-il-tema-nel-cuore-della-citt%C3%A0",
+     "gnews": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQTlQQUd0THVxa1N4TVJjT3R1T3M4Vm1Ld3VpQmhZeFpaTEpMdE1OcThQMkhTQW1mb3I5eHFpNmdDWEVkUUVNTjI4emdfQUYzQTgxejBnel9FUGl4WWUwUVVNZHBwM2J5WnNMaUxTa05fXzZyaDhvMGVhUWRyYUVnN2RyVVp6dWVfd3RiSjFKSkZPRWgzNVVHUzNPRXNnWHp5eExsX3lmSk1PVVFHQ1VHeEdaOWVqN1ktWTl5d1Z5NG9RS0xMVjRhaDhiSDlybllKUDdLZFVfUlh4aXVaWV93a0RaZE9pTTg2NFV2cHJHUDE2dy1nR2J1aQ?oc=5",
+     "resolu": true,
+     "source": "Comune di Milano",
+     "published": "2026-10-29",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u3525b8d6",
+     "title": "Psychiatrie : des experts se réunissent pour faire progresser les soins en santé mentale à La Réunion",
+     "url": "https://imazpress.com/toute-l-actu/congres-innovation-en-psychiatrie",
+     "gnews": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04YndUbzlONklOcEN6ZjMyX1VQbGo1RDJnNXVXYU5qc2pyT3V2R1RxM0cxUHhNX1FidGtpbmp0MVhuU2R3enNBWlNJWTlNcHdpSDMzUFdyMUtUcjQ0ZUdfQ001S01KRC1UckFPLUxlX3Fsd016alBr?oc=5",
+     "resolu": true,
+     "source": "Imaz Press",
+     "published": "2026-10-28",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u1563871e",
+     "title": "Chronique réseaux sociaux | Santé mentale des adolescents: nouveau procès contre Meta et Snapchat",
+     "url": "https://www.985fm.ca/audio/811797/sante-mentale-des-adolescents-nouveau-proces-contre-meta-et-snapchat",
+     "gnews": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVkxSzJXRW9SUVp1T2FpTXphaEZ6Q2xHT2pkcm50Smd6X3VxVkI1bk1SS0cxMjZpUDg0SXZPTHdMdEFVNmYzUGV5emdVcmg1U3FSODVpT2h5QWNfdWNkTUw5NkRUV3FvYUdjZ0lqb1VfY3ozTUg2cUlTNm9lMXVqR2FSQjBxekNuR3M4R3RmZTdRSlFXeFhHT2kzclEtR2RMemtsaQ?oc=5",
+     "resolu": true,
+     "source": "98.5 Montréal",
+     "published": "2026-10-28",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ucbe9d35e",
+     "title": "Milano4MentalHealth. The Mental Health Tram is back: music, radio, and testimonials bring the topic to the heart of the city.",
+     "url": "https://www.comune.milano.it/en/-/milano4mentalhealth.-torna-il-tram-della-salute-mentale-musica-radio-e-testimonianze-per-portare-il-tema-nel-cuore-della-citt%C3%A0",
+     "gnews": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUUFsZmowQ3VqZlVmYlpfa0dsckx0NlNDazlMSFdQMzhONXV0d25rZF9WQXZVeG4zd2VYeGJVZnFNOUNwMUlyZWlJTl9rbldFYTVDVWJoRlptUWVwUjFkeWctOEFTWlBydVRzaG9NN0JyOTVpcmRxSGxDVkJ4eWZ6ZTJyTG5iaGFVMW5ibF9fVW9BMzZCOUJCMm9kR2VFRUgwSzNBSGYxVWdtSlZHV1F3cG12THhsWW4yQ2pkbW5BX2dzZjhuRGUyU2p2NzBVSmNqeFhZaGMxcXFyNVVJaVl0bkljbzkycF9uWW92OGxsWWdMOVlnVTlUdw?oc=5",
+     "resolu": true,
+     "source": "Comune di Milano",
+     "published": "2026-10-28",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u9e42477",
+     "title": "Support unpaid carers so they aren’t pushed to the brink of suicide | Letters",
+     "url": "https://www.theguardian.com/society/2026/oct/28/support-unpaid-carers-so-they-arent-pushed-to-the-brink-of-suicide",
+     "gnews": "",
+     "resolu": true,
+     "source": "theguardian.com",
+     "published": "2026-10-28",
+     "summary": "With almost half of parent-carers contemplating taking their lives, Dr Louise Lawson calls for urgent action by the government Reading the report on Matilda Davis’s death was heartbreaking ( Burnham backs mandatory suicide prevention training for social workers after parent-carer Matilda Davis’s death, 21 October ). Th…",
+     "feed": "guardian-mental-health",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ucab800f7",
+     "title": "\"J’ai broyé du noir pendant 4 ans\" : Mathieu se livre sur sa dépression",
+     "url": "https://www.eurosport.fr/football/jeremy-mathieu-ex-joueur-de-lequipe-de-france-de-football-se-livre-sur-sa-depression-jai-broye-du-noir-pendant-4-ans_sto23350092/story.shtml",
+     "gnews": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaHpVRVgtUVN5aWdyR1duREVHRHhKVHNBN0tZSWdBSEM2WU1COTd2WXNuM3FBbTBiV2JZTm9EQmtCNzhRNi0tdHpPdzVXdVRTcXRUanlOT0U4cHdWaG41dkk1SkU3Ulo3cVRnZXAxeFk4NjFjMDJ4R0licm9TeHNDT3FRdVAtaEVYOXoxZklRYmU5VUtEU2tzczM0b3o1U2RHRi02X3JoSm1GRXowSGszb2dXS3dDU2lUYjFwNHVhUFJpWnk0d3laQnZMUUV3b2MxRXZVVFZXWUJQMVlnNGVHSnVYRHZzSmVFbjh5a0xENmJodzJPSFJSanplZVdaMThvZjJ6bg?oc=5",
+     "resolu": true,
+     "source": "Eurosport",
+     "published": "2026-10-28",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uc68a7fee",
+     "title": "Après Instagram, Snapchat va devoir répondre de ses effets sur la santé mentale des adolescents",
+     "url": "https://siecledigital.fr/2026/10/28/apres-instagram-snapchat-va-devoir-repondre-de-ses-effets-sur-la-sante-mentale-des-adolescents/",
+     "gnews": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHdXcktWTGhzUFNkRVZWdUJTYTM3cEtFZG5EWEx2TTMyUGswWGdwVm9LZjkxY0pzXzF5MjdPck1GcWlLZ210Y3g2VVBzRHcySFBhQlltZ3pUa21qNE54cFpzNklGU3RpTmVIbWctdjFlc3FiYUpwYThTcmtqWEJMRk9lVjJ5NDY2SDFqSlI3bUo1ZXFZY0RrdDhCQzRmZzJHUnNUVzBiNWxIOVVfOHpIRFJQVEV4NTFGTm0yMldPZ1AyV3VkSnd2eXBvNA?oc=5",
+     "resolu": true,
+     "source": "Siècle Digital",
+     "published": "2026-10-28",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uef0766cb",
+     "title": "TÉMOIGNAGE. \"J'ai beaucoup de mal à me reconstruire\" : il court le marathon de Toulouse en hommage à son ami d'enfance qui s'est suicidé",
+     "url": "https://www.ladepeche.fr/2026/10/28/temoignage-jai-beaucoup-de-mal-a-me-reconstruire-il-court-le-marathon-de-toulouse-en-hommage-a-son-ami-denfance-qui-sest-suicide-13620862.php",
+     "gnews": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYVdnMFRqWGE1SkVPZTBOd0hOSEMwYlBPS0tvWVdPSmh6MjM2R0dyMEdFVzBTWFlRU0xlMTRqZW9Da1lSWXZOTndkY1JzcVFLeDVrVGRieEMtajlXN19yRTJkZHh3R2p3azJKb1lqYVJlSE1wSVVYQVAtREtrZUZqWk1lLXdjaERSWVJIM1VaMmVYOFJqZUgtS0ZEWDM5R1RZcnFsa0xhb1ctZUNLYlpRQi1WdWVzRGJMOW1CdzN1OHhMSnVrUDhBc0szeG5lOVFyNFF4azVkMGUtNTJKWGs5OFpKUXdNZUV3NVdrVmNfLVJCU3dCempGSXhmZ05nb1doQ1o1TjhkMzg?oc=5",
+     "resolu": true,
+     "source": "ladepeche.fr",
+     "published": "2026-10-28",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u9cb4bdc4",
+     "title": "Alpes du Sud. À Laragne, comment la géronto-psychiatrie redonne espoir aux aînés",
+     "url": "https://www.ledauphine.com/sante/2026/10/28/a-laragne-comment-la-geronto-psychiatrie-redonne-espoir-aux-aines",
+     "gnews": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU1pjZnBnOXY5a25SalB5VTROTnpmd25jYy1DLVpSaXRYZzk5ZEVVNjJQYUUwWURaNlFmUFVzeW1FQmgweEhoN3RNVi1QdFBlbzFuMGQwOW1PTGNJal9LYm82ajBVVF9yZmhZYUJQU0d2MVl5U1NPd3BEM0dKdzIxN213bmM4Tzd5bTZleVgxcGRBSDdySjJMcE9UVTFtd1JCc2tUclZEVXpsdS1zRFE?oc=5",
+     "resolu": true,
+     "source": "Le Dauphiné Libéré",
+     "published": "2026-10-28",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u7bf449aa",
+     "title": "Mental health services must prepare for future heatwaves, new Manchester research shows",
+     "url": "https://aboutmanchester.co.uk/mental-health-services-must-prepare-for-future-heatwaves-new-manchester-research-shows/",
+     "gnews": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGtQN0hjdlU5ZDZPRkd5bF8ycWNVa19jdVJTUmpzYWpzalpFbXU5QmxVa3Z1OXhCcS04dE9MMEhoOEFCdzA4alBXSW5sbGNfZ1NRMDdoQ3dtQmFZMmlIeDZ0aG1fOXp0RkZkZktNN3BBaTJDUlpaVmh0UU9QZHJOLV9jclZlSTU3cWxYbldzQXlLSjZiRnJqUDdWWXJXSENiRmZyMHBsOGVhZnJVb0dWcmMxQmdtZkZf?oc=5",
+     "resolu": true,
+     "source": "About Manchester",
+     "published": "2026-10-28",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u48756480",
+     "title": "« J’ai fait une dépression », travail à Intersport : Jérémy Mathieu se livre sur son après-carrière",
+     "url": "https://www.ledauphine.com/sport/2026/10/28/j-ai-fait-une-depression-travail-a-intersport-jeremy-mathieu-se-livre-sur-son-apres-carriere",
+     "gnews": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU2ZzWG13NVc2czRvbVZJSi1zMGkzaTlMUXZBZnA5ZEsxRkJpWkFBak5vU19BNEpFWWpZcjMtakNSTFd6Q2RCOXFDRlhXbHV5bFkxWFNOTjE5NWhwbWRwLXlMUEUxelVZblNKQjdfYlFuNHhHc2Z0SV82TzZYV2FaQURsa1Fwdm5lbGgtRFZhMEFBUWtvWmV5WFc5NDFwdUVnTmtaNDc3cjhrRnlGZHNwekQyaEpCX190OU9aV3AtZWMyNFQtT3ZlOUZNM2d0ZGxZTkE?oc=5",
+     "resolu": true,
+     "source": "Le Dauphiné Libéré",
+     "published": "2026-10-28",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u48494940",
+     "title": "\"Ça ne change rien à la gravité de l'acte\" : l'admission en psychiatrie du suspect de l'attaque de Trappes n'efface pas le mobile \"terroriste, raciste\", assure Laurent Nuñez",
+     "url": "https://www.rtl.fr/actu/justice-faits-divers/ca-ne-change-rien-a-la-gravite-de-l-acte-l-admission-en-psychiatrie-du-suspect-de-l-attaque-de-trappes-n-efface-pas-le-mobile-terroriste-raciste-assure-laurent-nunez-7900689343",
+     "gnews": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQNzZoemVzaGlSX3dYMWk2LWQ5a21YSTRCb0JrZk1GTnRxMW9CYjhqRTdaWFVQVkFoMHEyLW9Pa090Q1VvSTY4RzZFZ05rSmtGTU85Xy1Mc3dCWG9Fd0RiNUpZRTRyUU52all1d0pxT20yWlJuT0dQOG9IUGZ5Y2gzUHNFZzh2bUpjOTJRTW83RVp6Q0VFRHlvQVVOM0tUQ2JDZGJzR3N1ZDFRcnJZSHYtcVYtQ1lQQWd0SW5fcEd3ZHdZVV9tR2VvVFZONG9jQTRqT0F6V2xvOFZBWEFiM2dDWldkTTRZdlFkbDJjV0xlMUM5RjVGZjktdjNOLXVnc0pfTjA3eFk3WWl1YUpZcGNxelA1ZlFONXZqR0FQcUVyT3A1cTNZRXp1N05kRXFCdFZhVUZCeHJBaG9CSzJQVG1mZnRfWQ?oc=5",
+     "resolu": true,
+     "source": "RTL",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ud711b95",
+     "title": "Connaissez-vous Kaleotopia ? Ce jeu promet de prendre soin de votre santé mentale",
+     "url": "https://www.santemagazine.fr/actualites/actualites-traitement/connaissez-vous-kaleotopia-ce-jeu-promet-de-prendre-soin-de-votre-sante-mentale-1158580",
+     "gnews": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdlU0NWZWcHpObmxoQ3lpclFGVEdSU0xMTVQ3SFkxZnh6aFp0djlYMWU2d2l3Z215dzhQTjRBNGtpdjJEUUhrcVlwVlpIMFRTbXYtQW1lTnhjTlpCOEJPRmVaandBbGN3VUMwY0xHS0xQcGtDTG1ObWNtVndMa05Rbmk5TTV4VGgxakVhdmw4R0REZTVxSGItSjdKeTU3MnJ0XzVvWHdJRFlHTm5YaVEzSHlneFJhdkFLeDNoMEppNWVqYlBwM3lBLU0weExKMVY2S29YMFZEeVpKaDhISjRNNWxHdw?oc=5",
+     "resolu": true,
+     "source": "Santé Magazine",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u8c2d7a75",
+     "title": "Tempête Austen : \"une dépression très creuse\"... La France se prépare au passage d'une nouvelle \"bombe météorologique\", 15 départements en alerte",
+     "url": "https://www.lindependant.fr/2026/10/22/tempete-austen-une-depression-tres-creuse-la-france-se-prepare-au-passage-dune-nouvelle-bombe-meteorologique-15-departements-en-alerte-13615535.php",
+     "gnews": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPREVyWVNSNktTQkVMSWxMcjJfTFhlcGJQTHcwM2hpOG1FdDBWSXc0aG81MHIyamlHWTA0Y09oTzZpLUd4RW9aTGZoVm9XQ2dZRnVJR3JMOHI2aXM2b0hPRlN1NEUyajRoczNRaW42bnNBWnQzU1pFQzRBcUxmVm00bGY5Y181ZWxtZTBqZ2dQSUV6QnduX3NUdS1kalltdTJjblk0YVVSRHZJaV8yNlFQWVBxMDc1d0FpU19EcjRyc29fYlViOGx5UVdxa3I1ZkhmT0RiMy11SnZiYTVlQVRoWXRYU2RLMGp4YlNaRFg0dVp3Vm5JR3dRTWVaOEJmSDFuR1lKbzNrREZkWDBHY3Bsd2xrTko?oc=5",
+     "resolu": true,
+     "source": "L'Indépendant",
+     "published": "2026-10-22",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    }
+   ],
+   "collecte": "2026-10-29T11:01:35+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 28
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 14
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 27
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 11
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 27
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 13
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 9
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 4
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
+    }
+   ]
+  },
   {
    "date": "2026-10-28",
    "items": [
