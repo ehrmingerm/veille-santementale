@@ -1,9 +1,364 @@
 {
- "maj": "2026-10-30T10:58:32+00:00",
- "jours_couverts": 7,
- "total": 270,
+ "maj": "2026-10-31T10:31:10+00:00",
+ "jours_couverts": 8,
+ "total": 291,
  "liens_non_resolus": 0,
  "jours": [
+  {
+   "date": "2026-10-31",
+   "items": [
+    {
+     "id": "uab018ee4",
+     "title": "Northamptonshire man who took his own life was 'let down' by mental health services, coroner rules",
+     "url": "https://www.northantstelegraph.co.uk/health/northamptonshire-man-who-took-his-own-life-was-let-down-by-mental-health-services-coroner-rules-9319289",
+     "gnews": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVmRzYzVHc3ZYUlY2aEdnWGkydGxidzNhSnY0X3hvd1JjSjhjVU1iYTZxNC1aN2t6OXhKSFVYZHV4LTIxRTRxY0R0R2JabjlyM0dmWEhsSl80ZVBUU2l3VVpwYWJVTXpGUlE5WV80TkR0d2pHUTl1cWhLY2E3WXhITkl6dE9QUUVrdlVjME05RGM2aXV5UHBtZHIyX2Nvajd4bE9ZZV9UbE9ENU40ZnFWS244Q0tETklwRkM4cmhseHpTSC14bTc3bVlFVVhSeDU1bC0zaWM5d29CNUluOU41cA?oc=5",
+     "resolu": true,
+     "source": "Northamptonshire Telegraph",
+     "published": "2026-10-31",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ueeedee23",
+     "title": "Dad slams 'poor' Stoke-on-Trent mental health services after death of son, 30",
+     "url": "https://www.stokesentinel.co.uk/news/stoke-on-trent-news/dad-slams-poor-stoke-trent-11220358",
+     "gnews": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRHoxSWhuSEpCdkdWU3Njb1ZXSG81WDdvMWx1VzI2WEFYN2dMRFdQcjF0VUczenVxT0lJcmpDQ3gxTTl5OEF4VDRDWTlOeFBScGZMbHU4WEtqOXB3b280LVpMUV9kNGFGaFBvUlNvdFBqWURzUE9xZGpvQW92ZlQ4U2dUMjdFR1dVYkRndHJmUG9qLVVGZVN30gGcAUFVX3lxTE1uVkhjX2F5YzNEXzQ4aGZyRGJZazZYS2s3QnNIV0owSDhnRjVPTHlybUx4QS1HNFAtMW5JTkdia05XN0xNQkZEVDVXY2FKUGlmeTJvdEkzVVE4RElUY0NuZG9iOFBORG1BbXRTd0VvVklzVGN5ZEdZNGRwWHVDbjdDV0dxYkVRZ2FlalViX2NQQUtscGVPa0I1S0RlZw?oc=5",
+     "resolu": true,
+     "source": "The Sentinel",
+     "published": "2026-10-31",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ue8a4922d",
+     "title": "Aubigné-Racan. La 37e semaine de la santé mentale a mis l’accent sur l’art",
+     "url": "https://www.ouest-france.fr/pays-de-la-loire/aubigne-racan-72800/aubigne-racan-la-37e-semaine-de-la-sante-mentale-a-mis-laccent-sur-lart-c6448c87-306b-430a-9d0e-12a690de4d55",
+     "gnews": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNa2Zpb2RqQm9BTkpfY25TMjkxVzAzbFJWQzQtczlyNjhGTVdhUTEwdjVBZ1BmamMzbTZITkhqVjg2NTZHLUF2cmUwcmRVSTBRLXltLUphMVNXS2czNlBTTmEzeGF1eGtzT3gxY29HbVBtb3JmcmRlQ2ZnbmozQWVEemJQR3RWYTllTDVEaUtlMm0tZGE2NGU3dzNHc1dIdGJTWE1ocmE0QW13ZDU4V3VfbEtJZ25aRmNrT253NDRTLU9tNm9XaVdrWFdzZTJwLWhoRDZnTmViTkdtMHpZS0JlZmdiOUc0Y1YyeV92UjE3WlBya3VQaHFubXpOSHVQVGtUSEdJ?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-10-31",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ue3c80cb9",
+     "title": "Où va la psychiatrie",
+     "url": "https://www.santementale.fr/evenement/ou-va-la-psychiatrie/",
+     "gnews": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NcGxEbzAyOWJyZUhHYmJHUVRNaVNqM2lZYlExbVdGSFBxQWNFcGxBaXRTODl5Nm9PekdROWhRZy1GVk43bmRCeDB6TGtwX3hTYlVDenBFYnF2cGhjSUZwaUtGTEh4NEphWFNJ?oc=5",
+     "resolu": true,
+     "source": "www.santementale.fr",
+     "published": "2026-10-31",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "ued7291df",
+     "title": "Forum aims for improvement of youth mental health services",
+     "url": "https://timesnewsgroup.com.au/ballarat/news/forum-aims-for-improvement-of-youth-mental-health-services/",
+     "gnews": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXpYQy1hMTFXSHN0WlhBT21wemNheU5IXzljcHRkT3JNYVJCYnhfaDNjSEZ0YWItUHMxTHBIN01iVDNScDJEVE1QREVKUkxIYjJqSnNkRXQ0ZkplV1J6SzlpNU5tUHNvckt5VEpsaGRBTjBjT1pHaHM2VF9ZUjJqVDg5RmRxR19YMEZfeVk5ZjFQM1FpZDBwWVcwc1hKZjdMQWVRd1VB?oc=5",
+     "resolu": true,
+     "source": "Times News Group",
+     "published": "2026-10-30",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uffa43f64",
+     "title": "Sea swimming programme makes a positive splash for mental health",
+     "url": "https://avondhupress.ie/sea-swimming-programme-makes-a-positive-splash-for-mental-health/",
+     "gnews": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTlNfVWgzLWpYUGg1OUdpQXFsSzNYUnQyMGk5MnktZ0Y1MnFYb0ZVY0ZmRGg5aWM4Sko0dC1walBCNnltQ0cxLWZpOXZCMHNQSXdvbzh4Rzl6REVEZ1k3S3Z5cVpTUHN3NWJkOW5Da3dtTGlEVXhQemZqU2ItQ0trRnR4SVBONEZ6MjhGdUZvOTdqY3M?oc=5",
+     "resolu": true,
+     "source": "The Avondhu Newspaper",
+     "published": "2026-10-30",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u42ba05a8",
+     "title": "Bipolarité : la maladie racontée avec humour et émotion",
+     "url": "https://www.santementale.fr/2026/10/bipolarite-raconter-la-maladie-avec-humour-et-emotion/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-10-30",
+     "summary": "Entre récit autobiographique, stand-up et art clownesque, Patrick Loiseau transforme son expérience de bipolaire diagnostiqué sur le tard en une aventure théâtrale drôle et touchante ... Lire la suite L’article Bipolarité : la maladie racontée avec humour et émotion est apparu en premier sur Santé Mentale .",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u2f58f1bc",
+     "title": "À Redon, des jeunes de la Mission locale inaugurent un ballon de lumière pour libérer la parole sur la santé mentale",
+     "url": "https://actu.fr/bretagne/redon_35236/a-redon-des-jeunes-de-la-mission-locale-inaugurent-un-ballon-de-lumiere-pour-liberer-la-parole-sur-la-sante-mentale_64996827.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORU9ESzk3S3YwUVVrM3p6Vkd2ZEE5emFNWFNKTkt5RjRuLUVEWWRUN20wTEh3WE9TLUpWVTFQSFNXX3FHSXQtYzhucG5ES1Z1S0pQWlM2bW53S0EyNFg4aUF4bEhPRGNNM1AxTUdXSmNWenB0bzVzb0tKOC1iX3dsT2V6dzhpdG1PYWdmZWZoTnFCZ2lySWRnZklISGFGcExLQ1ZJZnNKLUFvWmswejlOLUdzYlM0UWdPMUFJQzNPV2lEZ2UzbG93V0NLRGhXWkxyMnJxaTZVWnJ1R1RCbjItc3g1Z1IwUmlMQnNBS2tIVk9UZU9DZFNVVU9n?oc=5",
+     "resolu": true,
+     "source": "Actu.fr",
+     "published": "2026-10-30",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ud1bbeede",
+     "title": "Concerns as new policy changes response to mental health call-outs",
+     "url": "https://www.belfasttelegraph.co.uk/news/northern-ireland/concerns-as-new-policy-changes-response-to-mental-health-call-outs/a/163836570.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQblhSR1ljU0x0YlphQTdMOElGd0l0aVk3enNSMFgzNzFaMFFVWmRzN3JhQk5tdWF3eC1uS3M5cE5nQmpDcG00LWN5TXZiUl9iTmpSLTFkWTZlWFFMSGVUU3FJTDRuem15andXVnpKRllITHkzMlY4SldVWDNzckNpcVhKRUg5eWswdHNVQVpuNllkV3ZuYldKeVhCZ0tlc2pwdnZleElkMmtUYmJHM29aMzlCWTVaNnlQaTRLbHZRQmZPblZZZjdGQUhFWVlkTUhkRGNRR1M4bw?oc=5",
+     "resolu": true,
+     "source": "Belfast Telegraph",
+     "published": "2026-10-30",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u7d822a72",
+     "title": "Enfant victime : un guide pour détecter les violences",
+     "url": "https://www.santementale.fr/2026/10/enfant-victime-un-guide-pour-detecter-les-violences/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-10-30",
+     "summary": "Le Haut-commissaire à l’Enfance publie le « Guide-Détection des violences et recueil de la parole de l’enfant victime ». destiné aux professionnels qui accompagnent les enfants. ... Lire la suite L’article Enfant victime : un guide pour détecter les violences est apparu en premier sur Santé Mentale .",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u1e6e4646",
+     "title": "Nancy : le SMPS au chevet de la santé mentale des dirigeants hospitali ...",
+     "url": "https://www.lagazettefrance.fr/article/nancy-le-smps-au-chevet-de-la-sante-mentale-des-dirigeants-hospitaliers",
+     "gnews": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMktMUV9mODhNUGloVlF0b09VVG9oZVZZZVBqbkZzLUs2VV9zMGQ3TVZGcm9VVHVYbExZZGo3MnJFZDU1ODEyWEJLYnB6Q1JtdGV1XzdQcGM1dTFDcHVJU3RvVGpXQ0J6RkRjQWFVUjVJM2czamhlYThxc2x4YUM3NlhKTzNodEZiYzBacTVPZ1p5SnVpYWRlcERrV3BaZ2oxRnVhc3JjWnBxQWhSQTVr?oc=5",
+     "resolu": true,
+     "source": "La Gazette France",
+     "published": "2026-10-30",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uf357aef9",
+     "title": "Violences sexuelles : vers un parcours de soin intégralement pris en charge",
+     "url": "https://www.santementale.fr/2026/10/violences-sexuelles-vers-un-parcours-de-soin-integralement-pris-en-charge/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-10-30",
+     "summary": "L&#8217;Assemblée nationale a adopté le 29 octobre la proposition de loi créant un parcours de soins intégralement pris en charge par la sécurité sociale pour ... Lire la suite L’article Violences sexuelles : vers un parcours de soin intégralement pris en charge est apparu en premier sur Santé Mentale .",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u7f686bf9",
+     "title": "Santé mentale : est-il déjà trop tard ?",
+     "url": "https://www.lepoint.fr/video/l/sante-mentale-est-il-deja-trop-tard-NTRNABWQTZAZZCPD5Q3FWWLRVM/",
+     "gnews": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU09UXzRoOE5Hc3JMSHNmWmJrSUNtSHJoVFVYMDRETjkzWWpLb2EyNGM3cWZCXzFJaXpnNHgzUnF0VjA5SEh0c2IwODFwRWhMbDRvZVNJelNIenRXZGw0VnM2Vks2V213NmR4Uk1EaGJhcmJfRmF2Uk1meHNSZk5GYjAxcG1NTC1kcndsQ0lfUUNIbkwxazVYaXVR?oc=5",
+     "resolu": true,
+     "source": "Le Point",
+     "published": "2026-10-30",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u83df917d",
+     "title": "Doctolib sensibilise sur la santé mentale des aidants avec Guillaume de Tonquédec",
+     "url": "https://www.strategies.fr/actualites/marques/LQ6823902C/doctolib-sensibilise-sur-la-sante-mentale-des-aidants-avec-guillaume-de-tonquedec.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZUJ0VVFPTXRUdzhSS0l2dDFQX2QyNUQ0djJqR1ZwdVNEempfVllFRVJfb2ZvSEhjVmRhdzRKRzBrZy1xWTJBQVNWaHFnTFE1VmNNVE1pX0tnM1VmLW5KYmQxaEl3ZG9kaTNSZXoyLWtxMHZ0VXYyNFJJMm9VNlpQUTlLSFpVWTRrQk1lU0pvMHBTSkJsLVZiRldBUXJFaXRCQnRhTzlhU1dqOTcwSUNBOU9Lam1Sb29idjlYU0pDWlloRXFCSndPeW1LTkVEUEFoR2Raek1oNmJZQQ?oc=5",
+     "resolu": true,
+     "source": "Stratégies",
+     "published": "2026-10-29",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u841637c7",
+     "title": "Concerts, ateliers... Un festival autour de la psychiatrie au Mans",
+     "url": "https://sante.ouest-france.fr/sante-mentale/concerts-ateliers-un-festival-autour-de-la-psychiatrie-au-mans-59cd959a-d2fb-11f1-b004-679a0ab3d8ab",
+     "gnews": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbzJjN2lHZkEyVDNvMlQ5QkMyR1NzcGxHdVAtYlN3QkpDRzhaTTJwXzc3cUllT3VkaFZfaF80OEQyT1MxSjZrZVBmR2JqdTlwUFUtcHFnY3VmQ3lTZnVRWmxKdmhVbUExNW5tSU1DdTdyTWM1eG1Ic3h5YTdpcC1YR0E5RC1YeTZ3UEloLVFQNUpEaFQtZG9RNkFEdld1dlBNTk00MEhFU3FLcGRKc3h2dHNVOEFCMlN6LTFfRF9yR1ZLYTFFWk53N1FyeFR5aDN3QWJlV01hR1kzeU0?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-10-29",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uf3c1224c",
+     "title": "Initiative contre le burn-out et le stress au travail",
+     "url": "https://www.evenement.ch/articles/initiative-contre-le-burn-out-et-le-stress-au-travail",
+     "gnews": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFBnS3VJeDZWMXN1S2tkTTRrTDg3YjMtX0xnOGRiMG9jeXdqTDFxQ1JvNDVfWWZMRmFXdHpyS3Y0bndVVWJsaUlPRXF5dm43Zmp2YTM5NXFsNm5GZUJFcHZlczUyWUsxXzVUQU5UTF9fZk51MEJOcFZTMDM0U0h0RUNYUlYzZFhTZ2pRNXZBOFg?oc=5",
+     "resolu": true,
+     "source": "L’Evénement syndical",
+     "published": "2026-10-29",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ub1f77bf3",
+     "title": "À la une de ce jeudi : incendie à Savannah, priorités du Département, catastrophe ferroviaire , psychiatrie, Tri Salazes et météo",
+     "url": "https://imazpress.com/toute-l-actu/-la-une-de-ce-jeudi-1-2-3-4-5-et-meteo-20",
+     "gnews": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa1NqM2dHOUxaS1ZuN3M5ZHlzVmJQekxEY1A1bTRDYXkzV1J4eW9PelUxZXNJMmZXa096SThaVVJWREJVTmJTSDhQR21JSFpSR3NWb2dXMDYtb3VFUGJHaGhteWduMVMyNHRxUE9NeGZtazVwNmYzUnBfb0kxMkNMX1Z3?oc=5",
+     "resolu": true,
+     "source": "Imaz Press",
+     "published": "2026-10-28",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u7a56a023",
+     "title": "Un obus découvert lors de travaux à l'hôpital psychiatrique de Jury, les patients confinés",
+     "url": "https://france3-regions.franceinfo.fr/grand-est/moselle/metz/un-obus-decouvert-lors-de-travaux-a-l-hopital-psychiatrique-de-jury-les-patients-confines-3440787.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbEhwQjBPMXRHMlgtR1FReFpfaUlrd3pHSkl5eThPNDdfSTBIWFhwUWt0Z2Q4bzVnWlRvcnY5OGtJTnNSZ05GY216eFlVNWFxR2ZVbmM0cktWSWFfaXB5MnR0S2wtZDFIVFF0MUhwbExoa2VoRzRIWTBka29pbkJJdWtYakQ5d2VKSTRfbEtRdDdEcHVYTVYxNG03RkMwNnlrV214N211Rmo2bnBVOUU0V1NCYUdrc0ZoVDQtSjJoTWJIeFAyQjFLUlJTYmVhSldKazJ6UlhvYXJwLVNfZlVUbHpZUjhuODl0T2JmQ2Y5T3BmejZVcWc?oc=5",
+     "resolu": true,
+     "source": "France 3 Régions",
+     "published": "2026-10-28",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u1bc803f",
+     "title": "Tips For Stigma-Free Communication About Mental Health",
+     "url": "https://www.cdc.gov/niosh/healthcare/communication-resources/stigma-free.html",
+     "gnews": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc1JPVGl4M1N5R1l6M0VSdnlMOTdLdDJ2QWVpVlB1aW5TX3lCUm5JVWRZbzFKSWIyZmRZc01GRUcyRW15U2diaWY1dHR4MkJwQTkwM2RBN2Q3Mi00T2hOQzFjWVlCNlZoQmxLT1FtS21DUHNodkR0R2pOc3ZGYTZsN01MYw?oc=5",
+     "resolu": true,
+     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+     "published": "2026-10-28",
+     "summary": "",
+     "feed": "international",
+     "categorie": "institutions"
+    },
+    {
+     "id": "u97d263ac",
+     "title": "Santé mentale : la loi 27 entre en vigueur au Québec",
+     "url": "https://ici.radio-canada.ca/en-bref/90-14192/sante-mentale-quebec-travail-loi27",
+     "gnews": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUxrQjBaTmg4bEpqSlUxTnlHeUhMTDhOdDNyX3hGZUVkVU9wVDZ5Q08weUUxTzZORXdXN2pVYnU2YnRrVjBWMnpzZWZCWFJRUlNHU2g3Qk5NNUtKdkh6ckdxTzZrOHJ4WmJRT1p1UnNHcDBRajc2Z0prVENkTDZhOVYtSWI4QQ?oc=5",
+     "resolu": true,
+     "source": "Radio-Canada",
+     "published": "2026-10-27",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u299cb6c6",
+     "title": "Luingne : Le cabinet de kinés Studio Santé ajoute une nouvelle corde à son arc avec la santé mentale",
+     "url": "https://www.dhnet.be/regions/tournai-ath-mouscron/2026/10/25/luingne-le-cabinet-de-kines-studio-sante-ajoute-une-nouvelle-corde-a-son-arc-avec-la-sante-mentale-3G2KNIUYG5GLZFDCSIQHHXL3OY/",
+     "gnews": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPUVVFRnBUWmNmNFprbldiYV9iZjkyWDhCZUVSNmhyOXlTdHdwSmJxQmVGcldha0JDWkJtbG9JNmw3c2tmVTRKdGxJemphTC1Yc2hURU16eXFhU0VDQUM3cXhVM2FXSW9TWUV3NDlmQmoxY21hcENkdlE1QVN0RGQwaEM4V1N5RGk4M292R0t2T0FtUGtjRHFFV3NyQWVLVW9jQ1dtR2tKeWlsUFZZVzluZ2ZpUUZmN2NoclVmTUk5RzA3TXEzXzRFWmNXalBtazFpbE5zcUtNbTBxVFFkMnZZVmVCeWRpUEg3SHFEVnl6Q3dIZGtGM2ZWOGpocW1fenFudVlRdFFBZGs1amczNTY5eVFQSmptUQ?oc=5",
+     "resolu": true,
+     "source": "DHnet",
+     "published": "2026-10-25",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-etrangere"
+    }
+   ],
+   "collecte": "2026-10-31T10:31:10+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 27
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 13
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 30
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 13
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 20
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 16
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 9
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 5
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
+    }
+   ]
+  },
   {
    "date": "2026-10-30",
    "items": [
