@@ -1,9 +1,244 @@
 {
- "maj": "2026-10-31T10:31:10+00:00",
- "jours_couverts": 8,
- "total": 291,
+ "maj": "2026-11-01T11:26:06+00:00",
+ "jours_couverts": 9,
+ "total": 302,
  "liens_non_resolus": 0,
  "jours": [
+  {
+   "date": "2026-11-01",
+   "items": [
+    {
+     "id": "ued93721b",
+     "title": "La santé mentale, un défi à surmonter pour les immigrants",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297356/winnipeg-sante-mentale-nouveaux-immigrants",
+     "gnews": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmlCQ3RiMlZsYW1ZZFBucDRYZkVzcE1fWVd6TXdfRHhGZjNjZlRlSzRpTUxlTjlHaVozWmFHVXNMQ0Y3d3pqN0g0RnJjU3R0UlVxN1Q2UmhmdXd5d2lIaElGZ2RHVkVqQlNkSEFkSlEtU2tHZ25veC04LVcxWjVac21LQXVESGJoZ1NJZFFhVlk?oc=5",
+     "resolu": true,
+     "source": "Radio-Canada",
+     "published": "2026-10-31",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u21d594ef",
+     "title": "Santé mentale, logement, fuite de la jeunesse… Les axes de travail que souhaite mettre en avant le collectif Nous Carcassonne après la publication de son rapport",
+     "url": "https://www.lindependant.fr/2026/10/31/sante-mentale-logement-fuite-de-la-jeunesse-les-axes-de-travail-que-souhaite-mettre-en-avant-le-collectif-nous-carcassonne-apres-la-publication-de-son-13627763.php",
+     "gnews": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQMVl2ZnUxWWVZWTVYd2dmVU5aN3djdEJab0IxV3dTcDFTRm1EXy1odkJvbUk3d1RDazZCbjI2UHkzcWFNNGZXajEtMktEbzZWUnYwdmdIMVJGTHFvQ2gzZ2FnTUV2dnRuX3FLSUNpbk5zcEhSbkpTZ0NrdDhRMjhldGc1QXU2SDk1d2hrZndnTXFGRU1xbW1Lc3RvTDJMWXJHMmFTVTVGbEdqRVBSOXZDVXZUbmloVmgwaHZHSzJZcU5hZmo1SWxVRlFwM0JYRmlJcUEyay1peVZUS09EeHdVbUt6NHhFVzhNdHpmZXNYXzZzdTZ2UE5uaXB1RThMakw5dDd2OEs3V1lEa2ZDaFpIYlZocTQ1Uy1PVTZ5bEZXWnpST2VvWXNFY2RR?oc=5",
+     "resolu": true,
+     "source": "L'Indépendant",
+     "published": "2026-10-31",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u3d7eb68d",
+     "title": "Les étonnants bienfaits de la peur sur la santé mentale et physique",
+     "url": "https://www.qub.ca/article/les-etonnants-bienfaits-de-la-peur-sur-la-sante-mentale-et-physique-881107236",
+     "gnews": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeXlYVDMzZTlPZS1rZk1SNTNYdjYyTHRaQ0E3a0VGMWZwbm5jVkVYTnNyOHlMQkxmNGk3SGlXTEZyREdhZ25zeTJsakRTNk5vd2NxMzhjcFE2QUt6SHBRMVI4UXJGQXdRVU5iU2F2bHR1bG9jOHJxM2hkN0ZNeER1TEV1azVaOWNubmdKMmV1SmxxYTBIbGdydzQxT0xTdnZta1FiaFV0dw?oc=5",
+     "resolu": true,
+     "source": "QUB radio",
+     "published": "2026-10-31",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uc371ae5e",
+     "title": "L'éco-anxiété au cœur d'un procès historique à Vancouver",
+     "url": "https://www.tvanouvelles.ca/2026/10/30/leco-anxiete-au-cur-dun-proces-historique-a-vancouver",
+     "gnews": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY2FLNUFuT2pfaVBWVk92Y0kyaUwyVEpwUml5cHBKODJUWEswZDdsd0lURjJEemRLQWdoV3dZVG1zS21ENE1IZmc2Vy05MWZNeS1FNFhXaGZyeWFrNVJHeFlab1NtUWpMZlNxcDVjTkYzTURXR0tEaldZbnZQbWpqQkdEWDVkQ0FoYVRDbzE3VUtZSEM2czQw?oc=5",
+     "resolu": true,
+     "source": "TVA Nouvelles",
+     "published": "2026-10-30",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ue61e8410",
+     "title": "One year on - family of Blake Gallier call to change mental health stigma | News - Greatest Hits Radio (Kent)",
+     "url": "https://www.hellorayo.co.uk/greatest-hits/kent/news/blakes-pink-promise-one-year-anniversary",
+     "gnews": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3RtaUM5RUxIWFY2V2hrTHQ5ck1OLVRUX3g4TlBkcldDSi1BOWZjMG85RDJiZ0VvamlkUERMNUZId3B6TklxT2JHT1g4eEtENmI2eFhsYkEyRDFaUkVsWkJ5XzRfSWlFcXRpeWNZYVYzTnpnbjNWMVVNWVEtanlDeE11c0JadzdEM1pVX0I3czl4RTBMbkhj?oc=5",
+     "resolu": true,
+     "source": "Rayo",
+     "published": "2026-10-30",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uf6df85d9",
+     "title": "Troubles psychiques, remèdes chimiques: Dépression - antidépresseurs - anxiolytiques",
+     "url": "https://www.echosciences-grenoble.fr/evenements/troubles-psychiques-remedes-chimiques-depression-antidepresseurs-anxiolytiques",
+     "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWW5BUDBXS2dnQ09tLXlNSS1wM3NHN3BiTmtNd1NhbkNhZVBtckxlaHNKZU5oc1BPMkZGREdVVFhnYkR6YWlqNUpaWU92blpYbG9DUHY0Y0xDM0lKWWR1RkIxMUU0ZUh3dEt4SC1uNlBrSzFYUUg1WUhHb19tNEREVHkwblVVZkFzM0RfLUZOb1JaSDVaVzVNU1MtU2pNSnlEYkl0WGhqM3VQZ1Rha3VCaW94TTlrUHhZQzFhVFRKMll1YTNy?oc=5",
+     "resolu": true,
+     "source": "ECHOSCIENCES - Grenoble",
+     "published": "2026-10-29",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ua021a90f",
+     "title": "Mutua Universal et Université de Deusto abordent l'impact des arrêts de travail pour santé mentale",
+     "url": "https://www.democrata.es/fr/democrate-pro/communiques/mutua-universal-et-universite-de-deusto-abordent-l-impact-des-arrets-de-travail-pour-sante-mentale/amp/",
+     "gnews": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSVI4QUI5cFE2UTRxNy1qa1JwMHNFa1hSd1lrTE9yOHg1SVp3aThVcEgzZ0pMTnFyWjhXcVlTbjVaWldNejZGaVN1eEYzbGRENUJmYkxrdkp3T0tBZ0FHR2VTenFaaTZtYWMtZTV2VmlUT05memxOOVdUVldYX1lhS1N5T2R2NE5OX1Nfa2JZcE1ybzRVQWZ5UF92eWZ4NVM4UFlsa09fR1UteE5iZlh5UVBMNEFUaDlnc3N3RTNzVW5FNm81SF9vYS1wTU1IdzkzZEdvZkFCejg5QkJWa1RrVW9FbWJYQjhFdnprajln0gHuAUFVX3lxTFBJUjhBQjlwUTZRNHE3LWprUnAwc0VrWFJ3WWtMT3I4eDVJWndpOFVwSDNnSkxOcXJaOFdxWVNuNVpaV016NkZpU3V4RjNsZEQ1QmZiTGt2SndPS0FnQUdHZVN6cVppNm1hYy1lNXZWaVRPTmZ6bE45V1RWV1hfWWFLU3lPZHY0Tk5fU19rYllwTXJvNFVBZnlQX3Z5Zng1UzhQWWxrT19HVS14TmJmWHlRUEw0QVRoOWdzc3dFM3NVbkU2bzVIX29hLXBNTUh3OTNkR29mQUJ6ODlCQlZrVGtVb0VtYlhCOEV2emtqOWc?oc=5",
+     "resolu": true,
+     "source": "Demócrata",
+     "published": "2026-10-27",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u634f5ce2",
+     "title": "La santé mentale des jeunes se détériore, et ça inquiète",
+     "url": "https://ici.radio-canada.ca/en-bref/90-16928/sante-mentale-adolescents-tel-jeunes-portrait-croise",
+     "gnews": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWZNWXNYM2Z5aTBqOXJtUl9iR0JvS3VMdUFtQndqTHRQNVBkaHBvSVFBZnRLYTNrU080UFVZTktqRzlFelp0MXFKNUFCTHVwNmhqLVJtZmNUNlc1aXFyWklfMXBwN01BQjJra3dBMkpaTVlEdnVieXZzdFk4QlcyWW1TVXBrdzNqYUoxMnhRTHlES2swNzhnYURsNTBpZw?oc=5",
+     "resolu": true,
+     "source": "Radio-Canada",
+     "published": "2026-10-27",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uce74d296",
+     "title": "Les Semaines d’Information sur la Santé Mentale (SISM) 2026",
+     "url": "https://www.macon.fr/information-transversale/agenda/les-semaines-dinformation-sur-la-sante-mentale-sism-2026-13008",
+     "gnews": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOclZoTWk2dlEzQk9jbVZtZm8ya3NYa21zT3BBN0FPZjI0NUJTcHZCUDJwRFB6UHo4elhFZ3o2amUyUnd3ZnNzNlVPVFRaTXJoVWZnckFxelJJQnlBemtTN1hKNHJRTGltaVItVzRSOTRWVDNDRUpxWGhzTW5aVUZCWDRncUxuSVhyWENnVnNsU1E1cWlsRFZHd01SOXV4Rjh3S3NiMGlERDRDNkxyb1FBTWFxMzlPZw?oc=5",
+     "resolu": true,
+     "source": "Ville de Mâcon",
+     "published": "2026-10-26",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ud7b85eb4",
+     "title": "Bar-le-Duc. Semaine de la santé mentale : un partenariat sous le signe du partage",
+     "url": "https://www.estrepublicain.fr/education/2026/10/25/semaine-de-la-sante-mentale-un-partenariat-sous-le-signe-du-partage",
+     "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLTBkcW5ya050a0V3c252RjY0VGppaENwemtJR190dGwxd3l1LW10NTE2VUZ4VGRVT2lENzJvU2ZDQ2NKdU0yLV93dkQ2T2FWMG9ZQ2xoRTVrVWxIMjlORkZBc2RyamRRV3hTaTkxbGlRLUxPWl9qSE5QeE9FaVZUUU1EdGVlLS1Sa1hvVnVJbHc2bTQtVnB6dThFRkdCWElnTEFBMm92OFNqMDRUc0JncUc3b2RRZjBMU2c?oc=5",
+     "resolu": true,
+     "source": "L'Est Républicain",
+     "published": "2026-10-25",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u25e6545b",
+     "title": "Valence. Santé mentale : « Le manque de moyens tue des gens »",
+     "url": "https://www.ledauphine.com/sante/2026/10/25/sante-mentale-le-manque-de-moyens-tue-des-gens",
+     "gnews": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1cyQ2JhdWd6elUtWW5nTGtIVlFfR01qaHFRWkJjUmZCLXFGaXk1TXhtb3h2cmRQbE55R01rTDUyUzBIa293TXNzTkRYWTZPQVNIODRaN0l4Nm85c1RtNnY1VjBSMlZkcU1xcmM4eXlHQ2NuS1o0T0JqVmpyWC1nb2tvNy0zYVpZdmIxYkh5TUJfWWFs?oc=5",
+     "resolu": true,
+     "source": "Le Dauphiné Libéré",
+     "published": "2026-10-25",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    }
+   ],
+   "collecte": "2026-11-01T11:26:06+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 17
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 18
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 30
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 11
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 17
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 14
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 9
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 5
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
+    }
+   ]
+  },
   {
    "date": "2026-10-31",
    "items": [
