@@ -1,9 +1,148 @@
 {
- "maj": "2026-11-02T12:46:47+00:00",
- "jours_couverts": 10,
- "total": 321,
+ "maj": "2026-11-03T12:12:50+00:00",
+ "jours_couverts": 11,
+ "total": 324,
  "liens_non_resolus": 0,
  "jours": [
+  {
+   "date": "2026-11-03",
+   "items": [
+    {
+     "id": "u48e3ab1f",
+     "title": "‘This is direct’: positive early feedback from pilot community mental health hub in Cumbria",
+     "url": "https://www.theguardian.com/society/2026/nov/03/early-feedback-pilot-community-mental-health-hub-cumbria-whitehaven",
+     "gnews": "",
+     "resolu": true,
+     "source": "theguardian.com",
+     "published": "2026-11-03",
+     "summary": "Hope Haven in Whitehaven is one of six trial open-access, 24/7 schemes in England offering preventive care The night Tamara first walked through the doors of Hope Haven, a new community mental health hub in the heart of Whitehaven, she was afraid. “Terrified, actually,” she says. “Like, my life was falling apart. I did…",
+     "feed": "guardian-mental-health",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u7bc5feff",
+     "title": "STAT+: Psilocybin’s lasting benefits prove elusive in mice",
+     "url": "https://www.statnews.com/2026/11/02/biotech-news-psilocybin-lasting-benefits-prove-elusive-in-mice/?utm_campaign=rss",
+     "gnews": "",
+     "resolu": true,
+     "source": "statnews.com",
+     "published": "2026-11-02",
+     "summary": "Five Bay Area labs teamed up to compare lasting effects of psilocybin on anxiety and depression-like behavior in mice, with limited results:",
+     "feed": "stat-news",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u5f68e0e9",
+     "title": "Interventions de recherche d’emploi fondées sur des preuves pour les travailleurs et les jeunes sans emploi",
+     "url": "https://www.santepubliquefrance.fr/index.php/sante-mentale/depression-et-anxiete/article/interventions-de-recherche-demploi-fondees-sur-des-preuves-pour-les-travailleurs-et-les-jeunes-sans",
+     "gnews": "",
+     "resolu": true,
+     "source": "santepubliquefrance.fr",
+     "published": "2026-11-02",
+     "summary": "Cet article décrit le développement, la mise en oeuvre et l’efficacité du programme Jobs, une intervention psychosociale fondée sur des preuves et basée sur l’apprentissage par les pairs. Ce programme vise à soutenir les personnes sans emploi dans leur recherche, tout en préservant leur santé mentale. La perte d’un emp…",
+     "feed": "spf",
+     "categorie": "institutions"
+    }
+   ],
+   "collecte": "2026-11-03T12:12:50+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "echec: HTTP Error 503: Service Unavailable",
+     "retenus": 0
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "echec: HTTP Error 503: Service Unavailable",
+     "retenus": 0
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "echec: HTTP Error 503: Service Unavailable",
+     "retenus": 0
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "echec: HTTP Error 503: Service Unavailable",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "echec: HTTP Error 503: Service Unavailable",
+     "retenus": 0
+    },
+    {
+     "cle": "communication",
+     "etat": "echec: HTTP Error 503: Service Unavailable",
+     "retenus": 0
+    },
+    {
+     "cle": "culture",
+     "etat": "echec: HTTP Error 503: Service Unavailable",
+     "retenus": 0
+    },
+    {
+     "cle": "international",
+     "etat": "echec: HTTP Error 503: Service Unavailable",
+     "retenus": 0
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 9
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 4
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
+    }
+   ]
+  },
   {
    "date": "2026-11-02",
    "items": [
