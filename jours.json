@@ -1,9 +1,604 @@
 {
- "maj": "2026-11-03T12:12:50+00:00",
- "jours_couverts": 11,
- "total": 324,
+ "maj": "2026-11-04T12:24:59+00:00",
+ "jours_couverts": 12,
+ "total": 365,
  "liens_non_resolus": 0,
  "jours": [
+  {
+   "date": "2026-11-04",
+   "items": [
+    {
+     "id": "uebaaaf03",
+     "title": "Mal-être des adolescents : organisée en Loire-Atlantique, une soirée pose des repères pour savoir quand s’inquiéter",
+     "url": "https://actu.fr/pays-de-la-loire/gorges_44064/mal-etre-des-adolescents-organisee-en-loire-atlantique-une-soiree-pose-des-reperes-pour-savoir-quand-sinquieter_65012030.html",
+     "gnews": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZmhNT3RoTVFyeDVoOWViSlhkTFJyYXMzQlNoeDI3NGtUVU1QVXBDaGhmendZYzBsclgyemY1LTY1cDZ1VkltLWZyWmgtS0J1YXNlTWVRVnppRzdxV2hQLVd1OGNWVHZJdWx6VHA1RUV4eXkyTkFWc0ZaQXZkb3U0Z29VdFVfM2NTX2ktWVlZVjdoMnNKU0hqZVItc09DSDZuaXR6Sy1Rcm5ZLVZ3b2ZOTmJWcFF3eENkcDZFZzFwQnB4bHUzVm1Wa3c2VjFfQW1LdzROdzJ5M284ZS1Qb0Y5bmgwWkd2UXdvdVdqVHFMb1J6cUU3aGZVazhXa0RiZ3hr?oc=5",
+     "resolu": true,
+     "source": "Actu.fr",
+     "published": "2026-11-04",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ub3eb1340",
+     "title": "VOICE 4 Change 2026: Black Men's Health Collaborative announces landmark Northampton conference to tackle mental health stigma and health inequalities",
+     "url": "https://www.northantstelegraph.co.uk/your-world/voice-4-change-2026-black-mens-health-collaborative-announces-landmark-northampton-conference-to-tackle-mental-health-stigma-and-health-inequalities-9329213",
+     "gnews": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNczFVNFpnQ3dxTVRnb1FWS0RickZ6TXp6aXpsNk5HRFI1UkFHSDdBcDdOVjVVQlA3Q1ZHemdqSnNpUDM0V2dNZWJ0M2o1LTE0OVY2U2tWVzVBQzFEUWlPRHhBeDhKQTZfcDYtYVdWQXplQXlZZy1oZ0dsczMzWS14bjJzSmRkWDFuMDBBQ1dHZ0ZTRFE5d0RiVng1QzE0QTlxY0N2MzRzRkpHbFRuWURkcWRKRmhnN3drWHpZZUpMdk1mWTA1Y1pJaV9oeHVSUXZyVXV2OEpuZlNqc2JETzFqOXJPaDdVTVVLc0l4YmFoaEdEWl81WDhkazZFbUNjSVRHZkRST0hSVDZPRXJWLUh6MUI1dk1zalFid0Q4X2oyTFFvSWJ0T0lrbnVycmI?oc=5",
+     "resolu": true,
+     "source": "Northamptonshire Telegraph",
+     "published": "2026-11-04",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ud1a7fbe5",
+     "title": "Jeux Olympiques de la Jeunesse de Dakar : santé mentale et sport, prévention en santé mentale chez les jeunes",
+     "url": "https://www.rfi.fr/fr/podcasts/priorit%C3%A9-sant%C3%A9/20261104-jeux-olympiques-de-la-jeunesse-de-dakar-sant%C3%A9-mentale-et-sport-pr%C3%A9vention-en-sant%C3%A9-mentale-chez-les-jeunes",
+     "gnews": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOS1ltbzdhV0lJbjY4Rm0tYjZ4SDg4ZkRYQm1iSEFxUnVjRGJCc1VfZTB4VHludlg4SFBwc0dybjF3c2c4S3lxRUYwNHdrY0pHWk5HMlRLaEdjQU5WZnFxaDRBT05ERWJyZXFpRmM0OW9CdEtZdzVzdVR3aC0yV0Vmb2tZWGpJOHZkZkNBSjZwRy1JcGdoU2VSWVhrdTZqcV92X2lVS1dzSjB3bG91aExoRHdJbUp5aE8tNVN3WTV4M3ViejRLVXczMXJJUlBVd1pBV0ZubDdFNTBxWFBMbWxYcEdFcG5sS0kzcGFJalNQVmE4dEU1SDVlQVlVLXNPSERuelFXTTlPN1RVRzVFa1N6cVVhWGo?oc=5",
+     "resolu": true,
+     "source": "RFI",
+     "published": "2026-11-04",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u86261701",
+     "title": "Santé mentale des jeunes (3/4) : \"une profonde dégradation chez les jeunes femmes de moins de 30 ans\"… L’alerte révélée par les dernières études",
+     "url": "https://www.midilibre.fr/2026/11/04/sante-mentale-des-jeunes-34-une-profonde-degradation-chez-les-jeunes-femmes-de-moins-de-30-ans-lalerte-revelee-par-les-dernieres-etudes-13620999.php",
+     "gnews": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZ3dPZmtaNHh3LUJHYTVfM0l6bmp1MmRXY1hLeDRwQ1pvRk5qX1JIYllfYmtUWWFfbFVkUW44blRRcFdCLTNYcHZnSUtjbG5PUVNIZTV3U0VHbE5CUHpBblhocEkwVmZUUmJYSGFRSlhPY3lKcUdlZnJKb3BIeG9SMjFPSFB4Z0RJRmVwMVhoRFZiWEpybHVJTjdpLVo1SFVLdk0tZHVrVGhTck56Mnp6OGVSZTlLQzU3NFdCb0tvLTlXYWt1dUI5cW8xc1M2cEQ4cUJhci1VS2JxdEtZajBPTVJpZ0tSODd6c0h0WlVLSUVLcVpPX3o0aENBMzJROHRpVjB2Q21VT211aGJ6ZWtZQ19R?oc=5",
+     "resolu": true,
+     "source": "Midi Libre",
+     "published": "2026-11-04",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u78a7c3db",
+     "title": "Des maillots dessinés par des jeunes patients : le MHFC rend hommage à la santé mentale",
+     "url": "https://www.coeursdefoot.fr/event/des-maillots-dessines-par-des-jeunes-patients-le-mhfc-rend-hommage-a-la-sante-mentale/",
+     "gnews": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOby1ubWwzdHR3Qk5xSWkxalMzYVhycDRJZl81TmxKcUhnbzZvOE9BMnUzeEx3cDJDZkhZUE82ai1xNnhtUFFZUlZfTDhaR0RXZW8yYnp3Zk1QdmVwR2lwMVRic3VOSzZsWEY5NXN6YmFjVTFZeldWTWdkdkRNSWJJcFJhN0V4TWtNTTRsSnV1dHdCblNQSWgwdVB3alR4QTRieXkyWUxZWUlZcVExUHZzWUtBSVRFanJqWVpDOQ?oc=5",
+     "resolu": true,
+     "source": "Coeurs de foot",
+     "published": "2026-11-04",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u3c28eee2",
+     "title": "Mental health service concerns amid 'significant financial pressures' ahead of budget",
+     "url": "https://www.clydebankpost.co.uk/news/26684210.mental-health-service-cuts-feared-west-dunbartonshire/",
+     "gnews": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkNSVHFNb2dWaENtc1JtOFpfZUZma2Y3U24zdkE5QWJRUzJIa0NBUnN5Uk5xM056amltQWRoOXRtcUcyQVVXa3dVV1pReGZEc1JBRXhYcnFjVVo3ektFR0g2LUp5akRpRk9UQUlBNm00aGtrRkRVVVQ2WXgxSzRQeXcyM3NLaktFSUc5a1hKS0FwcWdfQVczRWxEMkwxYVB5Vnc?oc=5",
+     "resolu": true,
+     "source": "Clydebank Post",
+     "published": "2026-11-04",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uad64fd7b",
+     "title": "Une députée de la Sarthe veut faire de la psychiatrie « une urgence absolue »",
+     "url": "https://www.ouest-france.fr/sante/une-deputee-de-la-sarthe-veut-faire-de-la-psychiatrie-une-urgence-absolue-3e0e9168-d6e5-11f1-84f3-5611f158a658",
+     "gnews": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMDdHMGpoLVk3RzBmRHJtZ0VqVFNZS1ZwNjZlcXZZU2N2anplVHlRVFp2VnMwbE1VVHZDamFjSmt5X1k3QVp4YVFZaEhpTXBDbVo1UkZPdGE5dEt0MldCQThUMWpxV3ZpbEt0YkFvRUtxeFFIVGlxcEF4TDRWWUJLUk5qUkwzNzVpRlUzZEE3bEotWFBraHV3WUJJWHNuSFhRTi1yQWw4QzVTQnl1TDFoMnFfZFV0LWV4dDJYMjlxdkk5T3pqMTBWNzd6WVE0MmpLel9tRk5LNjZwUm1J?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-11-04",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ud6641807",
+     "title": "Safety and staffing breaches trigger CQC downgrade for Hull mental health services",
+     "url": "https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/safety-staffing-breaches-trigger-cqc-11225410",
+     "gnews": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHhOa1pYVG9tOUlXTFpHV2hzSVpvdkI3VTluSWJxQVF3TUhtcWtfSWpwTjBnbmRxY2F5Q1lBNXFCRkVzbTVVeFU5aGUwdlF4WWE2aktEUTYwNlo1TXhmMFhWVEc0THEyQkJQWXN6bElaRVZ6TWwxc2tUZlNNTE9EMHRHc3J5cE1MU3Q1TWFFRFM1R19Yd3NZT0ZzUkVYVVFDYkxLcEotWC1IaDjSAbABQVVfeXFMTTNUOXlEMGJHREVDWGdidUw5OFF0OXBwcUpTWDlhQWI0amtKeXhWZUVzYm1faEltbk5mSXJOZHBjTjR6ZGY0OXJUdnJiaVZmYXRUMkJzWHd4dGt0VmVIbGNlUnRmRGlZdG80bVNSd1Vuekc2RWlJVkVnSllCb0JxSEl4dGhOZDZQUDBlMWZ0SGVsUnBqMzlfT1ZZU0U2d3owaWpQS2dDalEzWXA5cUxzX0M?oc=5",
+     "resolu": true,
+     "source": "Hull Live",
+     "published": "2026-11-04",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u14f0cc94",
+     "title": "B.C. teen aims to break mental health stigma by embracing vulnerability",
+     "url": "https://www.cbc.ca/player/play/video/9.7408085",
+     "gnews": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WMEN4Tzk5alF1NDRJVXp0eWhOakxlZEg5bDJnUGFBeENvWE5sdUpfc2d4RWd2eXVXM1J5dkVsRG9NYmRxUTBaS2toQnRUeWZPRkc0U2YtajFiZw?oc=5",
+     "resolu": true,
+     "source": "CBC",
+     "published": "2026-11-04",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uc64b4c98",
+     "title": "L’incroyable essor des compléments alimentaires, porté par l’anxiété des Français",
+     "url": "https://www.lemonde.fr/economie/article/2026/11/04/des-rayons-en-pharmacie-a-la-vente-en-ligne-l-incroyable-essor-des-complements-alimentaires_6805902_3234.html",
+     "gnews": "",
+     "resolu": true,
+     "source": "lemonde.fr",
+     "published": "2026-11-04",
+     "summary": "Stress, troubles du sommeil, manque d’énergie, problèmes de digestion ou douleurs articulaires… Tous les prétextes sont bons pour prendre gélules, gouttes ou comprimés. Ce marché a triplé en quinze ans pour atteindre 3 milliards d’euros de chiffre d’affaires en France, attirant quelques grands groupes et une nuée de st…",
+     "feed": "le-monde-sante",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u6b960882",
+     "title": "Santé mentale : pourquoi les hommes se taisent au travail",
+     "url": "https://presseagence.fr/paris-sante-mentale-pres-de-8-hommes-sur-10-cachent-leur-detresse-psychologique-au-travail/",
+     "gnews": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZzdiMUcwdzNlQWxCcURic251MXlXcXZsaVpsOFp1VVJ0U2c3RnViSmdVbVZwUVljRDBzS1AycHBnLVczMDZVZTRNRjAwbGpCbGQ3YVZhLXFvNl9ENjExTE9tMEc3SExuMHFLb1BHRXVueDZIbjE2SnAzSFVWZnpaWm5oQnlyMnFlOENyRnZVbVZXQTNUb0IwNkZNSW4yTml5eTJBclNLQi1oRG9RRjdWb0t0SV9lZw?oc=5",
+     "resolu": true,
+     "source": "Presse Agence",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ub26c851e",
+     "title": "AI tool to find mental health services enters final testing stage",
+     "url": "https://www.nzdoctor.co.nz/article/print-archive/ai-tool-find-mental-health-services-enters-final-testing-stage",
+     "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM182ZXRXejlPTUJoTDk3NlhzeFE4MExYa2V2TXIwWWtNSFgyUGJWVUhKSTVHdmN2R2YzTDM4d1piYk94MDVXZ3BTZ0Y2aWhyREpBZHhjWWRBWmp0WGVGc1JXcElIZDdtTnNkUnBjZkNPVXZ3aXR3c1pUeUNTN3Q4SDVtUnlwcnJDM2Y2TDZmM2RiRFlFdGp1aU5SME1ocXRNUm1mLUhmbDFSNWF4cHhBNA?oc=5",
+     "resolu": true,
+     "source": "New Zealand Doctor",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u73b4409",
+     "title": "\"Pas très loin de la dépression\" : Vianney se confie sur les idées noires qui l’ont poussé à se retirer du monde",
+     "url": "https://www.femmeactuelle.fr/actu/news-actu/pas-tres-loin-de-la-depression-vianney-se-confie-sur-les-idees-noires-qui-lont-pousse-a-se-retirer-du-monde-2212960",
+     "gnews": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMlphYkZwSE1rNEMxNEJuSW9vNVg4MUtyZlhwWlZscDhmekMtYWN3SmRRMUtkLXp0NmdlZE1JTjB4dEVRajFTN29SZENRQkpNcWNicWREZlB1aXN6U3A3aEplZ3dUeG9LLVBjcEg4VzI4azYtZTk5RWtTQUdYSzQwNUhBNjRrdXFiaEdTSnBSZUhOMWN2R2VKZUI1Wmt4Tl9JYXV6Z0RQUXZzNTFHRlJyenI2ZXN3WFZVMDd5akZTT3Bpa0psQkxWb1RsVVRwTzE2WUtLempwaWV4ZE1oSlZIQzYxT3J1MTlFcTVpT0JYSEQ?oc=5",
+     "resolu": true,
+     "source": "Femme Actuelle",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u6e6ee3a1",
+     "title": "STAT+: Who will get the first psychedelic approved?",
+     "url": "https://www.statnews.com/2026/11/03/biotech-news-who-will-get-the-first-psychedelic-approved/?utm_campaign=rss",
+     "gnews": "",
+     "resolu": true,
+     "source": "statnews.com",
+     "published": "2026-11-03",
+     "summary": "The biotech Compass Pathways has been seen as one of the frontrunners in the race to get the first psychedelic drug approved. But it could be a tight race, with a non-profit&#8230;",
+     "feed": "stat-news",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u8271e05b",
+     "title": "Mental health peer support group resume meetings",
+     "url": "https://www.limerickpost.ie/2026/11/03/mental-health-peer-support-group-resume-meetings/",
+     "gnews": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTGJkbjBaR29fVExiVWktMm1FSTMzeVdveDZvRFJJcW1yMk1XdjluYmY0MW95TmV5OFNNcko0MmYzQVVsLUM5Yk5JQTRlSll3OFRELXpXOUJaZzFsNGxOOUdBd0NJX1lTSi1ocFNjbW9SYVV3NnRWZGpQd2lwSzNiYzlkTEFoSG1xYUNiZUZodHUwZw?oc=5",
+     "resolu": true,
+     "source": "Limerick Post",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u1637d87d",
+     "title": "« Cette histoire m’a abîmée, ma santé mentale a été en jeu » : Lio revient sur sa relation compliquée avec Alain Chamfort alors qu’elle n’avait que 17 ans",
+     "url": "https://www.sudinfo.be/id1220173/article/2026-11-03/cette-histoire-ma-abimee-ma-sante-mentale-ete-en-jeu-lio-revient-sur-sa-relation",
+     "gnews": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeDIyTjVpcHFqcjZvNUh4YmJfODJGRldCb3pQbjdYbjV5M1QtX3FwZnpwS2owelpiX2Y1TnVVa3ZlYWp2Yy1YajdmM3R5d29fSE9oenFranpGcy05eDBETThLWkNVaVByb2ppaVNzNjBLdFhCN2tRMExiWUlGYUcyUk12R1lIRXFIaldRb1JIUGZMbGwyYUV5SWU2WVJQdkdxM0N6ZWlWN1VfUWluRVpxVHhiX29PZGc3ck0ycGVzU3JyOWFtaTBvSnJGWVo?oc=5",
+     "resolu": true,
+     "source": "Sudinfo",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u2584ecf3",
+     "title": "‘The output of a lunatic asylum’: what the Bloomsbury group can tell us about mental health",
+     "url": "https://www.theguardian.com/artanddesign/2026/nov/03/the-output-of-a-lunatic-asylum-what-the-bloomsbury-group-can-tell-us-about-mental-health",
+     "gnews": "",
+     "resolu": true,
+     "source": "theguardian.com",
+     "published": "2026-11-03",
+     "summary": "From Virginia Woolf’s horrifying views on eugenics to James Strachey’s seminal translations of Freud, the Bloomsbury set didn’t only experience mental illness, they shaped how society thinks about it ‘As an experience,” Virginia Woolf wrote in 1930, “madness is terrific and not to be sniffed at … In its lava, I still f…",
+     "feed": "guardian-mental-health",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ud5014b69",
+     "title": "Folles alliées : immersion dans un hôpital psychiatrique pour femmes",
+     "url": "https://actu.umlp.fr/agenda/folles-alliees-immersion-dans-un-hopital-psychiatrique-pour-femmes",
+     "gnews": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWtJWHBKRDQ4UGZfX1hEVlVycU1nOHFjc1NHNWE2RVBUMjR2RzRUYmtJRWhKQ2xDdWlMSHVFNFB5T0o5R1FXc2ZtZ296UFY2WjBSMERiSHpjNFpBb2o0RWVoWU1EaTgtQ2pHdGloS0tfMzE5c19nT3VjQXlaTkhhRE9rdXlJeWNiaEFtZjJINk1QeW1EWTdpOVJn?oc=5",
+     "resolu": true,
+     "source": "Université Marie & Louis Pasteur |",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u86a53823",
+     "title": "Santé mentale : comment va la planète ?",
+     "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/56194-Sante-mentale-planete",
+     "gnews": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdWpGWkF3Yi11WmJKalM1UWxQcE5JVTh3NTFIM0Jya2dWUk9KVk5KRXV5cXktWGdmaDloOGIxcGIyQ1NrM3JkaVdPLXJsX0czejByNUhMQy1HeHM3YXZzWVB5NVlxRVpUZXB0UmpSZWhwWjdQcUpYWjJUZkJBazlaVDRseTljdlRYZzBr?oc=5",
+     "resolu": true,
+     "source": "Pourquoi Docteur",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u262fcfc7",
+     "title": "No significant improvements in mental health services two years after inspectors raised concerns",
+     "url": "https://www.deadlinenews.co.uk/2026/11/03/no-significant-improvements-in-mental-health-services-two-years-after-inspectors-raised-concerns/",
+     "gnews": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaER1T0JESjQwOGZ2QTZZZUxvOVNJNjNQc2doTWw4VERjMzFjeWwycW9xUlIzdFpKd2t2WVprLVlNVmhCM3hINVR3N0syMlA2TG9YUVlIQ0dKZXB0T2IwdFNzYXRCb0tjenBRY0dGODZQcXZaUjZabmNBaTUycnB6N2xJOUZpNTRGLVhBamVFUXB5YWxnNVNLaVJyV3VUaFFQdTFFQU92NUdZQzBkd1ZDd3R5UWxsYnpsVzgyUm1XbEd4R0FwWVl2dFJRdDdtanRWZlZTQ1NR0gHeAUFVX3lxTE5aQUx0SHB6eUo4T29ISzRHckx4S1JwVnlfUUh2ZTJ5OVJxVXdXNHlHeXV2U1FSZ3V1LTNWYTBTNmtDcVlUX3ZHb1U0a25ONUtlOXhUYm45Qm9RaXFqRlV1MlVTTFVQcERSd0c5Q2lMR3k1UndTbWNDNXRUUjF6a1VtUnFQcXVSUTB3dnh0RUFzRGVPT285WEFNUVdkOTF2ZVRrTEpkOWdQM2J3cUotSjRZYjVvdUtWOHBYREJlbmxSRk52UFJURmZqZDRFVlZtaURlRFZhWmhOT2xRcW1QQQ?oc=5",
+     "resolu": true,
+     "source": "Deadline News",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uaf2209b4",
+     "title": "Santé mentale : l’étude qui mesure le coût humain du chômage",
+     "url": "https://renseignementeconomique.fr/sante-mentale-l-etude-qui-mesure-le-cout-humain-du-chomage",
+     "gnews": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDdtN1VPVjVFcFpLNjRRcTJLUkN2R0swNDRtanlCbkVkc09zYTF2VFd4c3Z1eUNNSEtlTy1tT00tX1BIRV84dVYxMlU1aVptbXNFeXJaYTNQV25RMlRwcTl6LXpibzZUclhxb0NtQU5rcWF5MmlWWEdyTmJJQmYxcTgxVmJla1NfZHB2RWVYQ0ljZU5FaW04NQ?oc=5",
+     "resolu": true,
+     "source": "https://renseignementeconomique.fr/",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uc7ee7214",
+     "title": "Pourquoi les femmes sont-elles plus touchées par la dépression selon un rapport?",
+     "url": "https://www.santemagazine.fr/actualites/actualites-sante/charge-mentale-reseaux-sociaux-ces-injonctions-qui-expliquent-la-depression-chez-les-femmes-1158977",
+     "gnews": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeUNiSi0zbmhEbEU3QWFNdU5iRm12QXJXQm5VeXNMQy15RGp3cl82ZnFsZ0FERk5RbjhNT05tZTFzWmhvYy02OFV5ZHlWNHphdzcyZ2NjVDNuMTJjWEhjSDluNXpwZ3VtRTJpVGs3TjJZdGFhdUoxR1dSZ0xhZkFjemRVVV8tUHFHN0pDckhqcXJmbTRsX1lMQWFqbUhsNmR1OEFyNkZtZ3JVNjhFTmlfQnlHektVNnJRb2RXRWR3aXJVbWI1SVhLZUVBUU5BbE4wd2ZDdnVUSnU2VFM0N0hRQ241NWFYYmtqWDNiaQ?oc=5",
+     "resolu": true,
+     "source": "Santé Magazine",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u3aec20fd",
+     "title": "Pratique - La santé mentale des jeunes talents, facteur de performance",
+     "url": "https://www.lalettrem.fr/actualites/la-sante-mentale-des-jeunes-talents-facteur-de-performance-0",
+     "gnews": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaEttY3ROUnJ6czkwSFlFa2xxYUN4Q3dGNnozeXhEci1GSDFVdVFPd3ZLRjZHMUVDODFsMkxwN1JfWmFvZnFYRElNc2FLZWpZMUlQdng0Si1RTEhlcmdnNE1OYkdLTGIwTEhxOGFPSkNVVERyVHJGWjZjclVZTDdxZzcyQWpJcUN3QWlrVE9ldldIakI4Qk5VWTBoYTQ?oc=5",
+     "resolu": true,
+     "source": "La Lettre M",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ua376dc8c",
+     "title": "Money and Mental Health Policy Institute appoints new Chief Executive",
+     "url": "https://www.credit-connect.co.uk/news/money-and-mental-health-policy-institute-appoints-new-chief-executive/",
+     "gnews": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjNYMnAwaG9XZTBMVFg3N2U0bGphSVE4VmstVW41T3VOMUxVUDBweHM2THJXQ2dLWDk0SmI0N3d3UHJHNnVuYkdkOVNsZ0p2Q3U2RndkR0JUSFo5QldRVWFZaC10RWp0b18yX3dlV2hVb3Qzc21VM0hrMWppU0FySkpLYVZCemlVUEM1NzBkcUQwbVphTjZNZzU3TjV6Z0Vvb1pCRHRlMC13Yklq?oc=5",
+     "resolu": true,
+     "source": "Credit Connect",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u99a2b6e7",
+     "title": "À Marseille, ces collégiens qui prennent en main leur santé mentale",
+     "url": "https://www.lamarseillaise.fr/societe/a-marseille-ces-collegiens-qui-prennent-en-main-leur-sante-mentale-OM20869337",
+     "gnews": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXJOalVGcy02RUJrNThBVnZKb0lHSFZ0YjUtQTVvdS11dlZFaW9PWXhQOUtNM1FLWmtzYlJ2YlIxN2pMMFNsTHdZMmR5dHhFRzc0b29PZl9STFo0YzlfNEwtX2dkVU5qYnZOQlo2Zkxma1NGd1h0aGVCZGk1emQyc0lKVVFwUTRQVWI5SUp2TGhRWnRFS0tYbUdlVTRrcDJBRjVvY0hhU2ZKTDM1MDMzQjNjNlJfUQ?oc=5",
+     "resolu": true,
+     "source": "www.lamarseillaise.fr",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u55728a82",
+     "title": "« Parler de ce sujet sans tabou » : à Ploërmel, une conférence sur la santé mentale des adolescents",
+     "url": "https://www.ouest-france.fr/bretagne/ploermel-56800/parler-de-ce-sujet-sans-tabou-a-ploermel-une-conference-sur-la-sante-mentale-des-adolescents-ff532418-d6ba-11f1-84f3-5611f158a658",
+     "gnews": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObk5jamhyWXpVNUlia0RaS0xMRFBSd1BYVi04NW9QdkVQTllyNHdDOVlZako1eDhaSjEyU2N3NE9XdEhTWFV5MkUzeUxCWEZxSjJWc0ZXMTc0MWlEVmQ4T0RkcFdXZ0hZTUhYX21sZHdsdE1TYzAxbXRPcDl1d2lvT2prZjFyWG42SXp3bFk2cVNpa3JuNTNZQTU4d2xkRk93WGNCX0ZYbnZhdThCMGhuZFhTRFRwSUN2cXVnX0pmZ2lTZzllSUZJalpPWVpmNG9Mdm9tZ2lEQ1MyVV9fX1VaU3dyMkRvQ1FvU2FLTlgyT1VQS2RYZUx1cWN5WlB1dmVLVmxJM01SaXVybTNkelE?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u6dd4d971",
+     "title": "Paris : le sport au service de la santé mentale des jeunes",
+     "url": "https://presseagence.fr/paris-sante-mentale-des-clubs-sportifs-deviennent-des-lieux-de-prevention-pour-les-jeunes/",
+     "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSlE2ZkFrTEdCZTJyc1pDcUJTaEF0Y0dBWnpNRGQ1VF9ONzItWmozWjJYcDg1cUhuNzlIWC1LeE5odkpkTlVac0hvb0J3dUg3akZqNGE3anJBM3FCMXZRMVhtdVhwaFpUaDBDYmxkOVJKdEpHUE1sWnRlN2VxZEI0NWVsYTRaSzF4aE0ya1NESWtia3dQUXdBSVpVTmdnSVp1OHNmd1RTOW9SM1dDa2huSFdJUVE?oc=5",
+     "resolu": true,
+     "source": "Presse Agence",
+     "published": "2026-11-03",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u8b994d45",
+     "title": "Réseaux sociaux et santé mentale: Snapchat transige avec les plaignantes et évite un premier procès devant un jury",
+     "url": "https://www.tvanouvelles.ca/2026/11/02/reseaux-sociaux-et-sante-mentale-snapchat-transige-avec-les-plaignantes-et-evite-un-premier-proces-devant-un-jury",
+     "gnews": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdllFRFJwTzNtQkpXZW12TDI1WmpYQjhXMVBUOS15UWxydk5FMGpLeEh0QjNRU3lSeGdlNlBtdjFYa0lBcURsd3hhQkZQX1p0MVY2eTlEVm1NMEs4SW5mRk5USWZWNFdfTEJNWjM3aGg5dmI3cUc4aE9fb1E1NFQ2bjM3cGZtWEI4SENrX0VPT3dhSXZnOW9LT0FBa29HaGtUOXIwVk5xZi1IaUtGVWZoNVdJME5WV19NbVR0cE82bHJiM01FMUhtQjAtbUVvYzdPMENZcTZTR2JoZUZVLWJrbnVLbGdTYjg?oc=5",
+     "resolu": true,
+     "source": "TVA Nouvelles",
+     "published": "2026-11-02",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "udb489a57",
+     "title": "La psychiatrie publique célèbre 200 ans d’histoire à Quimper",
+     "url": "https://www.ouest-france.fr/bretagne/quimper-29000/la-psychiatrie-publique-celebre-200-ans-dhistoire-a-quimper-4e9336e6-d6c8-11f1-84f3-5611f158a658",
+     "gnews": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTGJwYXFkOVJpS2puUUlLdFNuUTRfUmZiVERYak9scGFVWTZLRHFPcHp5NzFqbjFWODI3a1NDc3ZHZVpaZVFMbkFIUmI1RDZXaE1PUmV4RWxUQnk1Z2hZR3dxYWhUdEFuUGowZXUwM1VOajIzaHQ3MjhwRkZaZDd4QzJmM0JDamFEZGQzQ1lUdUFSZEtHSkJoOXJ2ZG8yMUNCQW81R0t4RjVlVGlGZFNPSFBCLU1uSmpqcGtWNlFOYVE2cllhWG5kV3BhT1hkMTRacFFLTUFRdEotS256RDdJbg?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-11-02",
+     "summary": "",
+     "feed": "droits-contrainte",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u7ab74fee",
+     "title": "Dans le Boulonnais, quatre rendez-vous pour parler de santé mentale",
+     "url": "https://www.nordlittoral.fr/303002/article/2026-11-02/dans-le-boulonnais-quatre-rendez-vous-pour-parler-de-sante-mentale",
+     "gnews": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEtCYjk5RU5Eaml2YlR0U2VRR3pYcDFhNmN3aW9BSmxydTNTRlVvLVpKa015aTA0S1VBcGJBc0lDTHV2d25sZTJXaWNrS0VpbTVCenhtbF9vb1phYmJjX2d2YVFkVlF3T0pGa1ZNSC1ta0djbklua2RXcDJpcjFyS1R0TmNKZnB2YTVxN0Y0WmNRcU5uYjVqbVZJeDRiTmJUTWs4RllMaTdGNmczWDZQOTVzeV9wY0NWblAxRQ?oc=5",
+     "resolu": true,
+     "source": "Nord Littoral",
+     "published": "2026-11-02",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ud64d367e",
+     "title": "Santé mentale des femmes : le HCE veut \"faire reconnaître les troubles psychosociaux comme maladies professionnelles\"",
+     "url": "https://www.aefinfo.fr/depeche/759538-sante-mentale-des-femmes-le-hce-veut-faire-reconnaitre-les-troubles-psychosociaux-comme-maladies-professionnelles",
+     "gnews": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdk96aE1KbmJGV0g3dXBDMnYyWWxmX3lkbFRlbVNRdlluSFVDSFZBdE9tb3c0dzN5V1lLNXc1WFVJc2EycEpNWlRqQTBmbmVKT1NOWHFiU0RQNWhybkFmY3ZHczhVb3FsU3pLLUhPQ0p0akd6c2NzVzNKSFV1TFdOLWJ3QVRkX0M5dWNVWTFrSUhlVTl0c3ZZNHBwamlXaWs1MWZ1blFPSFEwMTFnN25tSWVSeUxDNzZVQVBrOUx0YkczNlQycElwaERVU3dLUWdOOThSWHNRYUgtakJqd2NtVUlBdlZBUQ?oc=5",
+     "resolu": true,
+     "source": "AEF info",
+     "published": "2026-11-02",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u5f3e9c1d",
+     "title": "Santé mentale, suicide, cancer : les hommes face à 3 combats vitaux",
+     "url": "https://www.sudradio.fr/sud-radio/sante-mentale-suicide-cancer-les-hommes-face-a-3-combats-vitaux",
+     "gnews": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV2FlaWdPSWx4dTViLUkzbEVHMWJMTmRTaWxhYTNCaUE0dlZ4emZubDlUYUNvUzdzbzZVbDB1UG1LSjNWUk1PWGFqSGRxN2FTYjFpNmhfdUFLQXBzR2g5MTBCZWFweDN5WWZmRHdmZGR4ZW5ZeDVGNGEyQjNmcl90aUlxZnFuYVkzWC0yLTAzQThqWWg1U19DcGJyVkxmZw?oc=5",
+     "resolu": true,
+     "source": "Sud Radio",
+     "published": "2026-11-02",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u174f501a",
+     "title": "L'éco-anxiété des jeunes dans un procès inédit au Canada",
+     "url": "https://www.sciencesetavenir.fr/sante/climat-la-sante-mentale-des-jeunes-en-toile-de-fond-d-un-proces-inedit_195781",
+     "gnews": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU0lkdXVSeXJjd2lTcWk0MHQtZWdpT0U0RjlNQ1ZHdURvVEdRSjF0blVONmxiU19jSkFpNHd1ZkxTY3Yzd0gxVmxvcmNUR3E3SnJHcUNuaXNvblppdC1kTU1HR2Jva0NNN1YzX1VRTkIwNC16NVpObjk3ckVKaVRiREFtYnhWR2ltdE9aTERsR2U0S1VXSm9GOXlZd1VhMHVjanVrbDJnLVpGYUZUUDFMcG1pdUtfZw?oc=5",
+     "resolu": true,
+     "source": "Sciences et Avenir",
+     "published": "2026-11-02",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u7c701a15",
+     "title": "Vidéos : Ce jeu de société, fabriqué dans l'Aube, contribue à préserver la santé mentale des jeunes",
+     "url": "https://www.lest-eclair.fr/videos/general-ee/ce-jeu-de-societe-fabrique-dans-laube-contribue-a-preserver-la-sante-mentale-des-jeunes?param01",
+     "gnews": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPV2NtUkxBVWdSZ3JJc1FMZ19GazNPdk0wLTFKWlNLNGVDejZDMkkzMkZUUkthMjB6YVhyYjB4YS14TUd3MV9vcndCMkNUTjdQTXc5UENIaWtGYjY1eS1QTGl4QzVFb1o0ck1jMDRncEJuUGJMY2R5VEJOLWZibXFXV2RydUc2U2tGXzk1bTFGREM1WVdHSWFsdmtGMFVUMzNCTGN3SmlLZDllWEhIS3Y2M1dfRVpvS2Vnb21IaHdGRm5wWnhBeHV4QmNKM0hhS3RZZkE0ekZmcHIxZG5tOC1qN3VRa3BiRXZpMzJSaHFLTGNMOTduLWZaZzYzQmVBeTBkLWl5NGJndw?oc=5",
+     "resolu": true,
+     "source": "L'Est éclair",
+     "published": "2026-11-02",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uaa65f5e1",
+     "title": "On sous-estime l'impact que ça peut avoir»: Olivier Dion invite les hommes à chercher de l’aide pour leur santé mentale",
+     "url": "https://www.tvanouvelles.ca/2026/11/01/on-sous-estime-limpact-que-ca-peut-avoir-olivier-dion-invite-les-hommes-a-chercher-de-laide-pour-leur-sante-mentale",
+     "gnews": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbUxDUU5EaHoxZlpaM0FBdnlLbG1tY3BIYVZPeGFJd09LVXRua3QtUkxzU213aS1tdnZucktPbk5kTkw0SUR6TGJEQldVOE1oblg1SFhjYy0zbXFfUUpwRmJHelgycXVtOTNLR2N3a2lldFI4YkxMWTZjNnlGLXJ0ZUZIc2NLanY3dGtId2gtQlc0dk1Yb0RNWHlHZ0VpLVc0WGFuXzd2d29VeFN3VDdnSzZEbmo5WnRtSzl5UDZMQnZWNGRNTnNYLVZ4cGhYSW9nYXFEbXVZOVpZclpWREIyWHRJMjI3UmdpSGc?oc=5",
+     "resolu": true,
+     "source": "TVA Nouvelles",
+     "published": "2026-11-01",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ud0c834c8",
+     "title": "Santé mentale : comment évaluer l’usage de l’IA chez les patients",
+     "url": "https://www.la-liberte.ca/2026/11/02/sante-mentale-comment-evaluer-lusage-de-lia-chez-les-patients/",
+     "gnews": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGVLOUQ3bk1sN2F2bENkdmQ2Q0VJM2NJVWE2aVJkT2tyMkxqRWpoaWR5VjJFWmtsRVkwMFFtOHdPLXFuZ05YNm1KVmQ5dTZnb1dmWEdEeTA4Yk1LSjd6a3pqaHNrVWd2amw1RWZXQ1ljaHVKQ3ZQNmVXU3JjeGpjS04xWUNYVDFoOWdhYWVhcmFFbVgxRjZUdm00dUt1QWU1?oc=5",
+     "resolu": true,
+     "source": "La Liberté",
+     "published": "2026-11-01",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u7753b405",
+     "title": "Santé mentale: une campagne pour briser le silence et l'isolement chez les hommes | Entrevue avec Olivier Dion, chanteur, auteur-compositeur et animateur",
+     "url": "https://www.tvanouvelles.ca/videos/6407757456112",
+     "gnews": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mNnVfUldVSS1NTy1YNWI5YUFJMEdkRFhqWGx4c09LTm5Hak00ZUlpdWc1Y2VWUWZzSm9kUjBZYU1vRm10cERMSVEwaWw5N1YwZTFRZHYtdmZVMVV0?oc=5",
+     "resolu": true,
+     "source": "TVA Nouvelles",
+     "published": "2026-11-01",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u50d3626",
+     "title": "La chanteuse Hoshi dévoile sa santé mentale",
+     "url": "https://www.franceinfo.fr/replay-radio/ces-chansons-qui-font-l-actu/la-chanteuse-hoshi-devoile-sa-sante-mentale_8221669.html",
+     "gnews": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQek1rMzVyb0VfdjhiT2ROYmRySldBZk5ILV9QQ0I2UF9KZWpSZDhhS0lhTGRlckp1SmxGTkNYaGFuSFBpUFNSMGNwM2l6QXlYbUlYMTM1SXB6cXR4N3MwUmlad2JZbzZWSXFXVmR0WmppTGNkeWdRRHZQREhtdWotZWpvSzdxU1M1aURMekM3M3ZURHRBdEFpSjRTTDlITnRhanViQ1hNSGRsd2lXb1pyeTYtdmljVHBocjJMOWhnenVRZw?oc=5",
+     "resolu": true,
+     "source": "franceinfo",
+     "published": "2026-11-01",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ubf100aa7",
+     "title": "Les Conseils Locaux de Santé Mentale (CLSM) en Île-de-France : stratégie de soutien au développement",
+     "url": "https://www.iledefrance.ars.sante.fr/les-conseils-locaux-de-sante-mentale-clsm-en-ile-de-france-strategie-de-soutien-au-developpement",
+     "gnews": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFFjR1hkbWpwR1YxQWdiVGZBZDhyOVFSUGhnZi02T1E4Y1lyLVZYb29WQmZnTlVQU2l0QnZmUUQtdXZBTFd5WEVpUmNHenRGeW5CeHZPc0ZCU2xCbkJlTXVWN1hWZTBJdXhFc1BaeVRkYmJXTnIzSEFCOHB2alFuWG82amdqN1lHcmVkVktfUHd4c0FRSzhoMGdSZjZjMDRSWWJfcm5IRE5xUEZkSko1QWNrVGFTMENXLTNuTFA3aDR6Ul9LdzdkLUxHOFdNZw?oc=5",
+     "resolu": true,
+     "source": "Agence régionale de santé Ile-de-France",
+     "published": "2026-10-30",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "institutions"
+    },
+    {
+     "id": "u20521475",
+     "title": "Nightline : une association qui prend soin de la santé mentale des jeunes",
+     "url": "https://www.iledefrance.ars.sante.fr/nightline-une-association-qui-prend-soin-de-la-sante-mentale-des-jeunes-0",
+     "gnews": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY1c5VnFOTEZYNGROTUpiUUFRU3FKRGRQcmtwZmNKZ21ZWkR2Vm5OVjJ5b3lUcXdnOFNFVkMteEdQa2xHbGZIUHNEbEdmUFV3eVJ4MGFDV25CUEx0V0IwcnBJeGpRTVVHdGwxRUUzZ2dQSGZFUVRDbnU0VWJ6WGlESHdZQ0s1NV9BYmNMdDZuejVVdTc0MUFPWEFMZ2dmUHgwOVdFTTlid3VpbGVWTFBF?oc=5",
+     "resolu": true,
+     "source": "Agence régionale de santé Ile-de-France",
+     "published": "2026-10-30",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "institutions"
+    },
+    {
+     "id": "u4e57f6cb",
+     "title": "Nous, schizophrènes et combattants",
+     "url": "https://www.francetvpro.fr/contenu-de-presse/78790484",
+     "gnews": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GQ192X0VjQTAtMVJJX1FaeXBCQzFIZkIyWnJycmc4dldOb1FrQWpTT19nYU9zU3dXaHczaEZoZ1RwUmVnTkcwcEFTVWpzSVhOVmJWZnVaTjZubGttY1UxeGFPSQ?oc=5",
+     "resolu": true,
+     "source": "FranceTvPro.fr",
+     "published": "2026-10-29",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    }
+   ],
+   "collecte": "2026-11-04T12:24:59+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 17
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 6
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 4
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 28
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 7
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 15
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 12
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 5
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 5
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
+    }
+   ]
+  },
   {
    "date": "2026-11-03",
    "items": [
