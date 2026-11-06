@@ -1,9 +1,268 @@
 {
- "maj": "2026-11-05T12:39:38+00:00",
- "jours_couverts": 13,
- "total": 386,
+ "maj": "2026-11-06T12:21:42+00:00",
+ "jours_couverts": 14,
+ "total": 399,
  "liens_non_resolus": 0,
  "jours": [
+  {
+   "date": "2026-11-06",
+   "items": [
+    {
+     "id": "u8fae4eed",
+     "title": "Santé mentale des étudiants à Amiens : une équipe mobile assure des permanences dans les établissements",
+     "url": "https://www.courrier-picard.fr/id757559/article/2026-11-06/sante-mentale-des-etudiants-amiens-une-equipe-mobile-assure-des-permanences-dans",
+     "gnews": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeXVwLURWcE5zNFR1UlVTbl9mWHpzaVVETmw2X3pjZV9nQmFYS3kwX25DNmZ4aElydlFHWlV5UEYyTjlDVUtYQm9iZXc1UVJ1Ukt0SUtnbi1jRnp6RlJ1R1p6VzR0RGd4LW1kSDA2dEFjQ0J2OUFUdjNlUTRKNi1kUk83NnJGWV9RRGRuS21KSDVpbFQzcWpyOTBsWndPenVMWDU0MmZqTmdTLXJvdlFmckpaRVdDaHJlRnBVbm9NdmFuMi03NDFOZndaYnNoeW1mdHNUU3l3?oc=5",
+     "resolu": true,
+     "source": "Courrier picard",
+     "published": "2026-11-06",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u7c14a6c3",
+     "title": "Santé mentale : des jeux pour libérer la parole à l'hôpital René-Muret AP-HP",
+     "url": "https://www.aphp.fr/actualites/sante-mentale-des-jeux-pour-liberer-la-parole-lhopital-rene-muret-ap-hp",
+     "gnews": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUTBXWkVMZTZkaG5fN2NQLUZFTWE5QTNubVYyVnBvNl9Hc0d2NGYzaDdySFdLb2x4ekJiV0J5M0hHcHIwbjZBT0owMURKLWtLR25ZaS1pY1BuNXJMQjBqdlBDY0Y2dWtmWG9VQjFYSFY0RGpGSTFLSEdVZnljbkQwM0J5WGlyT2dlbUhCeGdUdFlFRzhpVm0xZmhTRDdiWnFGaENnXw?oc=5",
+     "resolu": true,
+     "source": "AP-HP Assistance publique - Hôpitaux de Paris",
+     "published": "2026-11-06",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uf50f093c",
+     "title": "Les manageurs publics de santé font le point sur leur santé mentale à Nancy le 12 novembre",
+     "url": "https://www.lagazettefrance.fr/article/les-manageurs-publics-de-sante-font-le-point-sur-leur-sante-mentale-a-nancy",
+     "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOelhNTE5XeEdoY0g3dnBETERmQnh5TmNmbS1rSXkyVVpya3JrM2hPZzNURklhUnlWOGVOLVRrUG1wYUtzRHYyclZ4cWFSYWpKNFZJYkU4ZDRGaUoxWV9CS2hiLWhacnlfY2lYUHZQUnQ2dXhzOGRzSVBRcm9OelJuenB2VEQ1UkVfM2xKYjQtTFR2SG0xTVJLWGo3dkdJN1YteDVPWDlNSGU4YUJ3TldkRndGa0I?oc=5",
+     "resolu": true,
+     "source": "La Gazette France",
+     "published": "2026-11-06",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ucee15d2a",
+     "title": "Psychiatrie en Béarn et Soule : le volet addictologie du Centre hospitalier des Pyrénées s’étoffe",
+     "url": "https://www.sudouest.fr/sante/psychiatrie-en-bearn-et-soule-le-volet-addictologie-du-centre-hospitalier-des-pyrenees-s-etoffe-31397765.php",
+     "gnews": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSXRKbWRCa1F2S3lDWkFoS3ZyeFN4U0xZeEdLQ1NVOTlLV0xia2dfT1FYMXEzTzJJejljVzgtZFJxZ21yb1J5V2VGMm9UQTRtYjlJWkdDNkdvT1ExVG45MWNHYXE4YmtqWXRMV3I2SzJlQ3ljanJHYzBkSHRuU3lKNThDd1U2WXM0aTlrRkRIbUhLaGZwMTJnd09Nb1RidjVWbG4wUjFBRW0yTTltYTBNTWZESUN6RENaMkh5VjNyWjY4cUtZb1daZVhQbXpYNkJtdV93LQ?oc=5",
+     "resolu": true,
+     "source": "Sud Ouest",
+     "published": "2026-11-05",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u8e2a3dec",
+     "title": "Regulation of counsellors and psychotherapists would protect patients | Letters",
+     "url": "https://www.theguardian.com/society/2026/nov/05/counsellors-britain-should-be-regulated-to-ensure-that-vulnerable-people-can-trust-them",
+     "gnews": "",
+     "resolu": true,
+     "source": "theguardian.com",
+     "published": "2026-11-05",
+     "summary": "Readers respond to the recommendation by an independent commission that the profession be regulated The independent commission established by the professional bodies that represent counsellors and psychotherapists in the UK makes a case for statutory regulation that is long overdue ( Report, 2 November ). Ella Janneh,…",
+     "feed": "guardian-mental-health",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u7e9ed6fd",
+     "title": "L'Université marocaine Al Akhawayn pilote une initiative africaine d’IA responsable pour la santé mentale des étudiants",
+     "url": "https://atlasinfo.fr/luniversite-marocaine-al-akhawayn-pilote-une-initiative-africaine-dia-responsable-pour-la-sante-mentale-des-etudiants",
+     "gnews": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORVNIVXNUQ2o3X0J3Ql9FcE1wNUJpYjg3YWR5RDMyNnZ0eTZrX2tXRlNidEdma0F4TjlXSlFWYkJDNmVzWnR2OC1kQ29jOVNlTzFROC1nYWZfYmF4MUN6QURZdkRmZ25tUHQ2X0prUXVrM0FENzdNcklvMDBNejNsR0lIVXBKaWx3a29NZEhnbkJFeFg5TDI1akVobEdUNjhBa2xvY0k5M1E0bm10LWRJOVJxbGRQV1dQZ0phSEk0Z2JYa0lXYVNCd2g1RWt4TGZtNXdtUQ?oc=5",
+     "resolu": true,
+     "source": "Atlasinfo",
+     "published": "2026-11-05",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u374dc097",
+     "title": "Inde : lever les tabous autour de la santé mentale au Cachemire",
+     "url": "https://www.msf.fr/actualites/inde-lever-les-tabous-autour-de-la-sante-mentale-au-cachemire",
+     "gnews": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY3loa1pVNDFWYVNScldrR3MzT2ROM0twZEhYRDYzQ1ZJeUIyYjE4WWFISXphcHFHci1oUXlFTGg2bVBPZmJPZC1RRDJRY2xoVnVwR3VFdHY1NTRPZU5iVFJOajJydHRzTXBDclhUalhjc2Z4VWlISGZpbnl0UmVsNTE5YkFJaHlLd2syX1MxbHVIWmVzcmc?oc=5",
+     "resolu": true,
+     "source": "Médecins Sans Frontières",
+     "published": "2026-11-05",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u1a5a7980",
+     "title": "Monthey: l'architecture et la psychiatrie à l'honneur pour la deuxième Rencontre Internationale de Malévoz",
+     "url": "https://radiochablais.ch/infos/chablais/103165-monthey-larchitecture-et-la-psychiatrie-a-lhonneur-pour-la-deuxieme-rencontre-internationale-de-malevoz",
+     "gnews": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZDd2d25rN2tpUkd1VkxqdFhCQkFqLXFiczlWbkdVUUtUdm9wdFJWYWhsbkhuZkNwZmxzR0VPX0diOG0yT1VqbThCREtydnh5LVlra3lRdXJMQ0o0MTNTQkt5NU5nVzZXYm8yNjlzb1JPamdtMi1DM3plSTI1VGdKazJVcWVPOF9zR09GRlBwbDkxejVOUUdNUkJIV1lGRmpFZHcwYWU2QUVLSGxCeVNHN1Z1aUNYUU1Hd0VkVE8xUU11TTdESmJHNFBaMWhSdEFMYnowS3hqS2pTNEFKekFWUXFldDI?oc=5",
+     "resolu": true,
+     "source": "Radio Chablais",
+     "published": "2026-11-05",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u1a9b16d8",
+     "title": "À Pont de Bois, les étudiants parlent de l’impact des blocus sur leur santé mentale",
+     "url": "https://www.lavoixdunord.fr/1752159/article/2026-11-05/pont-de-bois-les-etudiants-parlent-de-l-impact-des-blocus-sur-leur-sante-mentale",
+     "gnews": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY0RZTmJBUjYtZ29FOXZqZks5WkFidHBTeXg2Q1dsdEJhYTJiV0tBVFdJa1ZQcW54eWtpRGdmTTRfSlNBNGJEWTFMYWEtR2loNjNiVFQwRkpXRWhVWkprYkhaYlhNUFJyNWtqOHJJS0lrMGhrQ0hIYTFhMUV5eWRXUHRUODFLVlY4NXlTcDB5NXJDWkYwc01TanBuSkNpOWtyQWtLU2xwMEp2dUZiUm1wQ2phRUJWTW9LanhLazNsM1VNa1NWUE1lX3lXVVkzTmlQ?oc=5",
+     "resolu": true,
+     "source": "La Voix du Nord",
+     "published": "2026-11-05",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u5a4f2e2a",
+     "title": "Psy Pride à La Rochelle : un village pour la santé mentale",
+     "url": "https://www.airzen.fr/psy-pride-la-rochelle-village-sante-mentale/",
+     "gnews": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4TXI2NFdMQUxmQ3M1YmdySzVHMDhUVFFkZnVYWXNhR19YV2RWNkNUcXZWTU9zYUE1WTlGV3p6Sm1kN0hJcDJ4bk5sNkRhZ01zMFpPODhiRnllNGZ4MlBmNkNEV01uYTlpQ2FVWjJia09lQmxr?oc=5",
+     "resolu": true,
+     "source": "AirZen Radio",
+     "published": "2026-11-05",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u700c16df",
+     "title": "Santé mentale des femmes : le Haut Conseil à l’égalité appelle à agir sur le travail et la précarité",
+     "url": "https://www.politiquematin.fr/hce-sante-mentale-femmes-travail-precarite-politiques-publiques-20261105-0531",
+     "gnews": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUtHWlRwSnFmSFBiQWRPYlZiNlR0N01qZ2JrTjd2Mk9xQWFYcFRHOGhzeU5FVkFZOVRJb1FUQzN2TTEwZHZiSFlvclRqMEpmNGtuZnJod1JYNElXQ19yOFg1dExKblpUUlpLYWluNGUxN2xzZXJKRzhmVnFRQWVJQ2lDNWpJcnQycVpnMmtyRlhVMk9KOUNkV0RMaEx6cF9mNGZXT0xsb3l2ek0?oc=5",
+     "resolu": true,
+     "source": "Politique Matin",
+     "published": "2026-11-05",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u49bd6f1a",
+     "title": "La santé mentale des jeunes",
+     "url": "https://www.rts.ch/education/sante-et-medecine/maladies-et-traitements/la-sante-mentale-des-jeunes/",
+     "gnews": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDh6TmZhS3lMcGZxeHFLQXFwUlZfR2pEd0tIajQ5Slo3amNISXpfTy1mbkcwaEZDOGJJUGVjdE9NR0JwWFVWYzdHRTBQc3lPMzhPUjVuc25LXzhQODVZcHpCTUt6aEpLT01WMlZGdHVuRFozTFp6a0FlTml5bHhsWEpGZ2h6MmN0R1BpeUZldjdpbE1kUmZ4WlVzNGxxR3gz?oc=5",
+     "resolu": true,
+     "source": "rts.ch",
+     "published": "2026-11-04",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u1ccd0e13",
+     "title": "Dépression post-partum : un enjeu de santé publique au cœur des priorités régionales",
+     "url": "https://www.iledefrance.ars.sante.fr/depression-post-partum-un-enjeu-de-sante-publique-au-coeur-des-priorites-regionales",
+     "gnews": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQVFJb2ZWNGFyMWVvSG9aaGFERkJwdUs2WTY3Y0dzS0FYY3VhZExkWjFJRTgwdHE3QXcya3g2SU1XV0lxRGtGMi1ZZGYxMnRDZUZ6NzdkMG5tZlJTRnZPT3dKM2tQeGI4TWktN3Z1VFRxWHNiNkRJQ2luWU5EVThtSGNJN0lacTRZXzBFbk1PRDQxNXFjT2Zma2ZPSTN6RkUtSXFGYzRkd3N3bVVROGVLMEZ2NnE3Z18zRlBpYw?oc=5",
+     "resolu": true,
+     "source": "Agence régionale de santé Ile-de-France",
+     "published": "2026-11-02",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "institutions"
+    }
+   ],
+   "collecte": "2026-11-06T12:21:42+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 13
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 10
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 4
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 28
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 15
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 12
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 12
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 3
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
+    }
+   ]
+  },
   {
    "date": "2026-11-05",
    "items": [
