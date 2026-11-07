@@ -1,9 +1,256 @@
 {
- "maj": "2026-11-06T12:21:42+00:00",
- "jours_couverts": 14,
- "total": 399,
+ "maj": "2026-11-07T11:15:16+00:00",
+ "jours_couverts": 15,
+ "total": 411,
  "liens_non_resolus": 0,
  "jours": [
+  {
+   "date": "2026-11-07",
+   "items": [
+    {
+     "id": "u533c5906",
+     "title": "\"Les symptômes sont vicieux\" : Malik Bentalha raconte sa dépression à Audrey Crespo-Mara dans le podcast \"Aura\"",
+     "url": "https://www.tf1info.fr/culture/video-interview-les-symptomes-sont-vicieux-malik-bentalha-raconte-sa-depression-a-audrey-crespo-mara-dans-le-podcast-aura-2474438.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMmpkUFFXUzBoczZ5TFAxSmNJNmducEpwM3d0WnBkNFE3S2N5MXhxdTNYWTlfVXpEQS1kWS1xY010WElza1FMaUpwRGE3bHNsSkp0LVFlNUQ5UzVVRDZEREpubXNXSGF1bEluLUNrVC1tX2JXdER2ZFNjN3RYSkJfT2djYTJQZThoQWJ6V1d0WXlSdl9vRmt0NGFnT0NRTUZvRUtFT1FYc2pvZEdPNlFlQlJQRmowMTVrRWRraS0yZ0hGOHFNc2hMTFdTdGNHOUpLUWd3UnRsb3B5TUU1TVhha254LVF1OHQ2VWNfWHlHd3dyeEdVUjR6ag?oc=5",
+     "resolu": true,
+     "source": "TF1 Info",
+     "published": "2026-11-07",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "uaafb326b",
+     "title": "Tourner une fiction au plus près des adolescents en psychiatrie : le pari du film « 15/18 », de Cédric Kahn",
+     "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/07/tourner-une-fiction-au-plus-pres-des-adolescents-en-psychiatrie-le-pari-du-film-15-18-de-cedric-kahn_6808240_4500055.html",
+     "gnews": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQTk9SY1A0dVQ4WEluWDd5clZtVDFxdXpGT2VOUkVhZkRoTm41d1daSmpZbHVzQmxQamQ3MWRLbl9ydmh1ZEtLRUozZ2l5cFNmRG9WTUJRcXV2STdhczRxMDNnMWJkcFh2amVHY1ZKVmN2OG1yd0dsUk8yZWp6YTZKTXFRWnlrdE5LeU10VTVpSVhtUDNJdzdTUUdWNmcySGRycVNCU1FzY0ZOME4zV0NROFE1MFByYUFtZ3l0ZGZDNTJxc2dMZW1ZcnJ5Ul9xYmhmRVpwN3hYWXJCRUFPOWtqLWFGRDlCVS1reEs5X0pwQm91dnoxanI5WWRqVzlQd0MtUHc?oc=5",
+     "resolu": true,
+     "source": "Le Monde.fr",
+     "published": "2026-11-07",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "ua1d394d6",
+     "title": "Invités - Malou Khebizi et Eloy Spinnler : santé mentale des ados d’un côté, chou-fleur déguisé en steak de l’autre",
+     "url": "https://www.tf1.fr/tmc/quotidien-avec-yann-barthes/videos/invites-malou-khebizi-et-eloy-spinnler-sante-mentale-des-ados-dun-cote-chou-fleur-deguise-en-steak-de-lautre-08031179.html",
+     "gnews": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNczhrTnM2TTZydXVHcXFqcm0wOFRoZE5CRGpUT200WEwtV3RvWVNFVXBfS2owTEtuUTZneDBYTGYwSzJpRk53NlYyXzhvTzUzYVpraW00dnZGamxyek56VE5lbV90MVBqZkM3amFtUGNYNEJ0QjF3bUV5YXJfQWlGczBoRGJtYmJaNTVxRV9tWHZjUUF2UXFtRG1Xd2dleDQ2ZFdrQlBzbWcwdjM0X3VXWUQwbkdEYTRyRUQtdWt2cGhNQWxjdlctS1J0d2lQanZWUWtOU0lYZGZPYldSV293c3hMNGxnaTUxRFc5RXN3bEZ5T1RTS2E4RUhDU3VNWGEyTHN3Zzljc2paT1pn?oc=5",
+     "resolu": true,
+     "source": "TF1+",
+     "published": "2026-11-06",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u86f99577",
+     "title": "Le chômage, une situation à haut risque de dépression",
+     "url": "https://www.santementale.fr/2026/11/le-chomage-une-situation-a-haut-risque-de-depression/",
+     "gnews": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNnZSUlZBVzFGNUI3NGFGV2owREJ2eWpLRk1hQnhWRTdEMXRUVk95N3RvWm9wNUxDcWxfZktNWHk2ejZmbGc2WS1ESVhCa2RuTy1STlJXdGVyWTVYT3RxT3NtanFmTV90TzJydHREOVVrdlhydUlIdEdvZEhyVTB5MlBMNG1CM3JIWGxyNk9xTGhDV3c?oc=5",
+     "resolu": true,
+     "source": "Santé Mentale",
+     "published": "2026-11-06",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u2e9ea60a",
+     "title": "Santé mentale : un adolescent sur deux à risque de dépression, un nouveau plan d'action lancé jusqu'en 2030",
+     "url": "https://imazpress.com/toute-l-actu/ars-sante-mentale-prevention",
+     "gnews": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tRGhIVTFaeEVUVUJ3TFZWUkhpSEptaU5lWm1CTzdBSE9tN2lvTVczZlBPRFczY3g1U1FJNVB2dEhKYkp3bEJIRURTak9MNGJyMU9rdVM0Nkl5VnpfRHZGZHZHMUFzMW00TXhGQ1kzOTE?oc=5",
+     "resolu": true,
+     "source": "Imaz Press",
+     "published": "2026-11-06",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u1ece9b95",
+     "title": "« Une urgence sanitaire » : une unité psychiatrique d’hospitalisation dédiée aux 15-21 ans va ouvrir en Mayenne",
+     "url": "https://sante.ouest-france.fr/sante-mentale/une-urgence-sanitaire-une-unite-psychiatrique-dhospitalisation-dediee-aux-15-21-ans-va-ouvrir-en-mayenne-38b3df7c-d9e5-11f1-81f5-8e32b0872d76",
+     "gnews": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUllpYzhyV091RGo0azZ1dHFfeUVZSzlrUlQxNWdIdlY0S2Rkd2xFY1Bnd3ZQOFVJdVJ2Q0lqbnZGd3NMLUFLMzUxaG1hUUxsZElWdlhRZTg2V1JQLXJQV0dmU3Q5MS1rWEtfclBKSk1YT1VHRU5YS1RKdWdfaURKWGZNcXFvN0VqYXVZcFlfMFZRQWo2cjZWOU5WTlJNem5idWEyb3BLdFBaSjhDaHozNndTNUphbVJPMEgwOFhNcEM0RWtXQkxkaU0za0o2QUl1dEFqbmRxVVI0aXdYcElNUGhJMXFLdjVXLVFCaUVlZDFRUkdqc0pHV1FST08yUHozQnd1VTMyQlFEMW41YUdLV1hoNA?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-11-06",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u4d8c8277",
+     "title": "Grippe, santé mentale, cancer du poumon : l'ARS de Vaucluse en actions",
+     "url": "https://www.laprovence.com/article/region/81596676622898/grippe-sante-mentale-cancer-du-poumon-lars-de-vaucluse-en-actions",
+     "gnews": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVDNYa0daYmFOUW9zcVhicUdDT0xKVmV4LUxuMC1FeHd6N2hGN1RETXRyMU1tVDZPV3BfOVlhbldaTUNNc3NsZEhfemhoVTBYNGliR0t2T2FzOUpLaENZaHJPMUI1V3oxZVVobzl2VjJMYl9wTlR2eEYwME1CUDBuZGpCYXVNd09weERzRDNxb1FPRW5mb2JWR1NRUEJYZ253WWtWWGQ4d0FyemNVS05URGZJZ29LclhkNGFSSU5SOA?oc=5",
+     "resolu": true,
+     "source": "La Provence",
+     "published": "2026-11-06",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u147fed25",
+     "title": "EU charges TikTok with failing to protect users’ mental health",
+     "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+     "gnews": "",
+     "resolu": true,
+     "source": "theguardian.com",
+     "published": "2026-11-06",
+     "summary": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’ TikTok has been charged by the European Commission with failing to protect users’ mental health by exposing them to a relentless stream of content that risks worsening eating diso…",
+     "feed": "guardian-mental-health",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uc2f9bf05",
+     "title": "Effet “rabbit hole” : l'impact de TikTok sur la santé mentale des utilisateurs pointé du doigt",
+     "url": "https://www.femmeactuelle.fr/actu/news-actu/effet-rabbit-hole-l-impact-de-tiktok-sur-la-sante-mentale-des-utilisateurs-pointe-du-doigt-2213070",
+     "gnews": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQN0hSN1BqLVhDdjRhVUlwVHp5UTFNOGItUFFmUUwzLTc2cXJiZ0NlOXBFbC1qTm1TU2hmNWZNdG5pMWNfZFIzUXVNNkFVU09EclNhX3Z2T1gxQjVLRmp5ME80TURXYzczTGtocTNnQ0Fyc3J1WV9uSVNQbUlmNnpmQTVMX3NGazlTdkl3dGFsR0huUWZiVmp3WVNfWUM3bFZqbmQxNkhVa0FjM1Q4cWd0SlV4QlZWbEVQUW1oa2tpN3dFOEFlSXBTNEh6N0NrTUhzOWhwT1FnNjlXUQ?oc=5",
+     "resolu": true,
+     "source": "Femme Actuelle",
+     "published": "2026-11-06",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u582ec887",
+     "title": "Une unité psychiatrique pour les détenus à La Réunion ? Le ministère reste prudent",
+     "url": "https://www.lequotidien.re/article/sante/2026/11/06/psychiatrie-en-prison-le-ministere-etudie-les-besoins-a-la-reunion",
+     "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEZzWGh5WjB0clpGci14TWNJT2ZuMmpvcE1ScXJ3WmNLMlRfdUFQMUh3c2NTZ05KUmZZOUVkUEZtOEh3cjZ0Z1hIVGVIakY1by1xSXQyRjZON3BjNXR6LVV2UU92ODlVdW8tU3VybEhORlhOQ216dkY0VzdhV3o2NWJnX21xSGtXTmpxT196X2U1VVl1V1c5ZHVKNTZfRGZ3NGNPUDRaZXpYeHJCWWlPSnduNEdUd1VpcUE?oc=5",
+     "resolu": true,
+     "source": "Le Quotidien de La Réunion",
+     "published": "2026-11-06",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ud5517b78",
+     "title": "Des clarifications sur l'isolement des mineurs en psychiatrie deviennent impératives",
+     "url": "https://www.hospimedia.fr/actualite/analyses/20261106-psychiatrie-des-clarifications-sur-l-isolement-des-mineurs",
+     "gnews": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmVuX0tDUHpnSWliRnNCelNoRkkweldYa0xQcUFsalFKcFBOT21hMWFXUTFDX29GNkRFYTdTSlhoWS0xYlhaNUp6dTJ2UmdMdktMYkFzV19oM3JmdEhtYlFWb1Z5bzBnVUp6S0I4dUdzWkZaVTNuQVItZmt4aDF2cWRqaEtPZ29PY1dqaXFaUDhUcUNOLUVNSWdVSGpGTndnMG5yNEJnVmJEbFUtSHpaUEt3?oc=5",
+     "resolu": true,
+     "source": "Hospimedia",
+     "published": "2026-11-06",
+     "summary": "",
+     "feed": "droits-contrainte",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u117013a5",
+     "title": "Christmas fun run hopes to beat £9,000 fundraising total for mental health",
+     "url": "https://www.theargus.co.uk/news/26700144.west-sussex-mind-festive-fun-run-returns-worthing/",
+     "gnews": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY190ZmY1OFoyZVV6Z084TWN3d0ttajBmYTVCTEtxa0RITm43N3ptbF8zd3BJSVBuWUpuN3NXcV9RWHFrUzNpN1pGY1o3aGRhSGlsam5JaUZwVXE5Mk5rM3l0dzRrSmt6SE9lN1pCeWYwMDZVSldkNXduM3czQUhQSUNtbElzUVBSanJmMzFEN0ZCZkpVTWc?oc=5",
+     "resolu": true,
+     "source": "The Argus",
+     "published": "2026-11-06",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    }
+   ],
+   "collecte": "2026-11-07T11:15:16+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 15
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 12
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 5
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 28
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 15
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 12
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 9
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 4
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
+    }
+   ]
+  },
   {
    "date": "2026-11-06",
    "items": [
