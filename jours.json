@@ -1,9 +1,292 @@
 {
- "maj": "2026-11-07T11:15:16+00:00",
- "jours_couverts": 15,
- "total": 411,
+ "maj": "2026-11-08T11:27:07+00:00",
+ "jours_couverts": 16,
+ "total": 426,
  "liens_non_resolus": 0,
  "jours": [
+  {
+   "date": "2026-11-08",
+   "items": [
+    {
+     "id": "uf7d2d925",
+     "title": "LFI : profiteurs ou instigateurs de la mauvaise santé mentale de la GenZ ?",
+     "url": "https://www.bvoltaire.fr/lfi-profiteurs-ou-instigateurs-de-la-mauvaise-sante-mentale-de-la-genz/",
+     "gnews": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX29rNW9ZNWhuVnVhYUJwOVBYV2UwYzUweldCaEJGNnVHVFloUzVOQUxQYUZBZzdzOFJmNk04NXZuOTRLZjVHS2l5RHR4cXlfVHpPOEMyVWlPZUJlZl82bGo4S216eUZPcmNjX2RTMmt1S1M0SXNNN0Z2VkxscVNnVWtMYi13Sk5nUGRhZTRtZmpKTGk2cGluQzFlSFc?oc=5",
+     "resolu": true,
+     "source": "Boulevard Voltaire",
+     "published": "2026-11-08",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ud8ec8c23",
+     "title": "‘What is this emotion telling me?’ How anger, fear and jealousy can point the way to a better life",
+     "url": "https://www.theguardian.com/lifeandstyle/2026/nov/08/what-is-this-emotion-telling-me-how-anger-fear-and-jealousy-can-point-the-way-to-a-better-life",
+     "gnews": "",
+     "resolu": true,
+     "source": "theguardian.com",
+     "published": "2026-11-08",
+     "summary": "It’s tempting to ignore uncomfortable feelings – but maybe they’re the key to a happier, more successful future. Time to increase your psychological flexibility … Something infuriating happened to me recently. My local gym closed down, and overnight what I laughingly call my fitness regime was toast. Quite literally, b…",
+     "feed": "guardian-mental-health",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u6f866a1d",
+     "title": "Dépression, alcool, violence : l'ex-rugbyman Rodrigo Capo Ortega raconte sa descente aux enfers après l'arrêt de sa carrière",
+     "url": "https://www.lamontagne.fr/paris-75000/sports/depression-alcool-violence-l-ex-rugbyman-rodrigo-capo-ortega-raconte-sa-descente-aux-enfers-apres-l-arret-de-sa-carriere_15077682/",
+     "gnews": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTDNpUzFXX1BDMGp6ZU5lLWl3VDNzS18yT2hPZkhSeV9sb2tCSmNwUnNXQzloV3ltdlRqbFBrV0E2OHNRV1pMLUt0RVJ4MHVSUGs2Zzg4aVdxdTktQ2d4YmFkd1RZLXh0dGpBejNwSWo5NFhwTDlkbkhpVEszbnZ5VnFOTzRacVpVRER6cmt1RFNmeElSS1lRZkhpaVNnNjNtYkRVdHl1T185SllSaHN6dXFIdW4zTVhNM1dGMnZQSEZLaUVPNmFLSjAtMy0zc2p4UTRsdXhWRFd1ckJnMVVTbFpENWZmRFJJM0lIZEZIWl8xZzdkcjlLT0lHOVZhM3ppMW5aNHBB?oc=5",
+     "resolu": true,
+     "source": "La Montagne",
+     "published": "2026-11-08",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u6d5047dd",
+     "title": "Valérie Felices veille sur la santé mentale des jeunes au collège Charloun-Rieu de Saint-Martin-de-Crau",
+     "url": "https://www.laprovence.com/article/societe/97231482212962/valerie-felices-veille-sur-la-sante-mentale-des-jeunes-au-college-charloun-rieu-de-saint-martin-de-crau",
+     "gnews": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNR1hmUHlLYzdCMWVlTG1PSWZ3MldkeC0teVAxeGtFMkpKaTZDOXFibFh3YVB4YW1vc0dzejdNeHVDY21FT2c5UVlkdnlxSmhlbnhoMmRMZ3VDMjJGVkctV2FXR1hYTkpPbk8xZGVBUlljdGdOQVBmQ2ZJaHZsWjZqNFZteFp2ZDMxeXBxemZtRmxTNElyWFNTREMxR3RqMjlTeFBWcmxoc2tOV0ZlQ1MtakQ1dlJ4d3pMREVRY245aHhLVEt3YldZU0hDTnl1S0YzY0dCSTR6ajNGUy13Y1VKbzczY0VjTlppb1NrNjFjYXZXSmc?oc=5",
+     "resolu": true,
+     "source": "La Provence",
+     "published": "2026-11-08",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ud319bbca",
+     "title": "Santé mentale des lycéens : et si leurs conditions de travail étaient en cause ?",
+     "url": "https://www.wedemain.fr/100-pourcent-ados/sante-mentale-des-lyceens-et-si-leurs-conditions-de-travail-etaient-en-cause-1159174",
+     "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON25BM0N4Qjk2U1Nmc3lyVTdrV0J2NVluYk92b2N1Uld4MjFndm9ueDJINHA3QXpZekkzTk5XOGg0cUN1M0pCb1BTS3VmUktYYURHRjZiOURYZjFJQlN1aDJpM1NtRVJrNnZOazl1Xzk0dFVVUGFmMHBWdUo4TGpSV0NxdWdJM0JHclYyTlhkN0EyMjdJY016Z2NXTVVyNFY4Q1ZFNkh0c3kzQVVBOVh0V2IxZTU2Tno3WGZmZVQySzQ0RVN5?oc=5",
+     "resolu": true,
+     "source": "We Demain",
+     "published": "2026-11-08",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u44b7f132",
+     "title": "Soigner la dépression pendant la grossesse pourrait favoriser le développement cérébral du bébé",
+     "url": "https://theconversation.com/soigner-la-depression-pendant-la-grossesse-pourrait-favoriser-le-developpement-cerebral-du-bebe-296078",
+     "gnews": "",
+     "resolu": true,
+     "source": "theconversation.com",
+     "published": "2026-11-08",
+     "summary": "Proposer une psychothérapie pendant la grossesse aux femmes souffrant de dépression pourrait également être bénéfique à leurs futurs nouveau-nés.",
+     "feed": "the-conversation-fr",
+     "categorie": "recherche"
+    },
+    {
+     "id": "u8c4d5ad6",
+     "title": "Mental health services are still sending faxes. The solution is late, over budget, and may not work",
+     "url": "https://www.smh.com.au/national/victoria/mental-health-services-are-still-sending-faxes-the-solution-is-late-over-budget-and-may-not-work-20261108-p61byb.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaGg2WGNSSG1rdzgwM3hvaG1WdGllcmJ5YkVWTElKV2ZKZVd4N0xJalRMb3NjaWZOUWRCQXJZemtmTWVTZE5Rb0xiSW1WcXQ3MGZWdW1VQ1VGcHN0M2RzWERORWxJcE1RcUdyU3pHSDlFUXh1QjMxOFR2d01NRnREcWJhUDB2eXNEc08xWVJwWFM0YV9pWkV3VFcwOVlyNGJlc1BqQk8xaHdiNUtYSWRZOFZyNE4wWFVPbUo2SFFzeVBnUlgxQXNaZlFEUmpBNFAyczlUNzJHYUVxNDdrelE4bm5mM1VWRkVHQm50THdQTQ?oc=5",
+     "resolu": true,
+     "source": "SMH.com.au",
+     "published": "2026-11-07",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ud913e8f2",
+     "title": "Mental health podcast launched",
+     "url": "https://www.odt.co.nz/news/the-star/mental-health-podcast-launched-mptopz91",
+     "gnews": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTnZfZ3ppZzVMYXBobzd4dS1DcGc5SFZfaVlaSmRuODVUZlJyZ0J4eFlOeGlQUHI0cHF6dm9IeFZWVnBaU0RYVEpxa3M0RFRNRnY2eU5YVVBkMmxGdkRoN29fNWFmTlVUY0JNbndDSTAyTEZxaHRCQUhlbi1LUXdycQ?oc=5",
+     "resolu": true,
+     "source": "ODT",
+     "published": "2026-11-07",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u19ae62fa",
+     "title": "“L’Odyssée de la psychiatrie citoyenne”, sur YouTube : pour une approche résolument humaine de la maladie psychique",
+     "url": "https://www.telerama.fr/television/l-odyssee-de-la-psychiatrie-citoyenne-sur-youtube-pour-une-approche-resolument-humaine-de-la-maladie-psychique_cri-7046739.php",
+     "gnews": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNGc5b0ppajZla2FFTWhlVDh4a3phVkp1X0tYLU52b3VmNkNFYWJza0FVeTBiRTRNalpNM0kyaEpxa1FjOUhBdjFNbzdqUUNjNVIwRUhYS3pVcEF5QUxCQWNaazNtSWVabUVVMjh3XzdTUFhLVEtsUVNkZDNJbE5henM5Z0JqMTd0blI2SDlack85X0VpMWlZaE5ldGFZdE9RbkxlTmlSTEQyQnpCOWJjOU4xSlZlRFFRNWZIYUdOOEl3OWszT3RGdjdCWlFFSzNjMDlRUjltOW1TRjVDT0hvNnpLOGVQeGRBNUJ5OFZDTU9RQ0U?oc=5",
+     "resolu": true,
+     "source": "Télérama",
+     "published": "2026-11-07",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u6cba5ec7",
+     "title": "La psychiatrie pour ados du CHUV inquiète une élue vaudoise",
+     "url": "https://www.24heures.ch/chuv-la-psychiatrique-pour-les-ados-a-bout-de-souffle-623958475752",
+     "gnews": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXhHYTNPZGlxNnFEdEFoR1JsTkU4ZEtRazFQa0dmVHJwV241WHZjdG1Oa2ZSRU1OdUpuSnktamxsMnVjazU3VXlnbXY1SDNOU3VFSTloOEdZdTg0SkhxcERGVFowdXNRT21HNUl0Mnp3b2QtZzNIMWpvNFRQYm5aZFlMc09mQ0tISWR2eDVtZjNjUTBi?oc=5",
+     "resolu": true,
+     "source": "24 Heures",
+     "published": "2026-11-07",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uf40d0875",
+     "title": "15/18, Cédric Kahn plonge dans la psychiatrie adolescente entre naturalisme et humanisme",
+     "url": "https://direct-actu.fr/2026/11/07/15-18-cedric-kahn-review-2026/",
+     "gnews": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZZi1TbVd0SENWOWxMVDNXWUkyeFpBYmRQSzBoSE1BYjNxeVZZTWZidDhDQmYzTjliaEZsd05oQ1RNRnlNcXB0eVJSYUM3eDBLTjA4bWRzbEhaSDBCV3NYSEk4QTZ3RWNkM01BYTBERElFUQ?oc=5",
+     "resolu": true,
+     "source": "Direct-Actu.fr",
+     "published": "2026-11-07",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u2fc470f8",
+     "title": "Nikola Karabatic raconte sa dépression quand il était au plus haut niveau.",
+     "url": "https://www.brut.media/fr/videos/sport/autres-sports-f1/nikola-karabatic-raconte-sa-depression-quand-il-etait-au-plus-haut-niveau",
+     "gnews": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSWdlaDJVcGpLYlBqckpZTEo3SExfLXlSc0RmTzVFZVpUVWRiWmdwVU4wTkVpbUs4M09SWHR5V05tSUJEdzhpbzVrUWU2TUpNSVkzMG9UOVNtUjVDY25nLTBFNXhxOTBqbW84c3FVY3RTM05DQ2JBeVJId1UwdmhUYXdGWEZWemo4SFlaUU9EbTVrWERYWU9sVVVBaDAxbjJoNXNhdk9tNXZWNXVSRWxxUzZ0ZWJZR2pUN0ZlaWpqWGQzZ090cTA3aw?oc=5",
+     "resolu": true,
+     "source": "Brut",
+     "published": "2026-11-07",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u190f0ad3",
+     "title": "Dépression : les femmes davantage touchées à cause des inégalités ? L’éclairage d’une psychiatre",
+     "url": "https://www.femina.fr/sante-forme/sante/depression-les-femmes-davantage-touchees-a-cause-des-inegalites-l-eclairage-d-une-psychiatre",
+     "gnews": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXh2SkJfc2VBcGFUZGtBZWdHMU4wZFhIcnVCNTY5SVh4TFMyWlFvNG9FOVZLcXFna1FEU1BYLV9YRENPakZucGFyUkRxUlVKRm82ODRuLXp3UFFXVkpyNzlMTVowNEZKaDliWHFVYTBCcUE5ajFiSTNqMEVkaUc3alZFdEpVMUVhendobTNyZGQ3eldiWmI3bS00RVNlNDRqTFFwaUNuNDZxYlIzVmc4b3hHWG5zUFJLOGJ6dkZHLXlnN2hlRC1OenQ2Tzc?oc=5",
+     "resolu": true,
+     "source": "femina.fr",
+     "published": "2026-11-05",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u18bc76b4",
+     "title": "Les Projets territoriaux de santé mentale (PTSM) déployés en Auvergne-Rhône-Alpes",
+     "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/les-projets-territoriaux-de-sante-mentale-ptsm-deployes-en-auvergne-rhone-alpes",
+     "gnews": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1BaZzB1VFR1SkpsVEZOSVJYYldjVmFPVWNmR1lPczdKYXNxU2lwRHVVMjBPSU03Sk85cUJGNVlYZWtkMzlvNFFqQk5peUNDN0lqOW9iWmVobVZ3UmhaUFVKQkJUV1BtckFFM2hKTG1rMXdoelM5aVRKaGZISG1mNzVFbWVrczZWbFNJdGZpZEJXeHpXMWtXT004QVdDNGR3d0VwSkJET1k2YlRvNHc0em1SZUNaWU1ROFNqRzlOdG1JLUU?oc=5",
+     "resolu": true,
+     "source": "Agence Régionale de Santé (ARS) Auvergne-Rhône-Alpes",
+     "published": "2026-11-02",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "institutions"
+    },
+    {
+     "id": "uf92cad86",
+     "title": "Réseaux sociaux et santé mentale des jeunes : entre protection et autonomie",
+     "url": "https://www.revmed.ch/revue-medicale-suisse/2026/revue-medicale-suisse-977/reseaux-sociaux-et-sante-mentale-des-jeunes-entre-protection-et-autonomie",
+     "gnews": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS2s5eUxMT3hKSHFUb3ppRThYQjNLZXZMU0Q4dl9sUzdtRmtTVktDc3dmR3cza0xWVjk0WEY1NUJkOU1aLW12NjdrTGd1cXZNTDlqb0lfLWEwVExmczRDU3BZb2NQNlFvZVZJcWxjVnNHNDZMbXp4QXFUYmVTcmU5MER2QWFqSDI0dHNCaGVQNDhablFubmtRQ1p1VGM4TmhER1dlb2MyS0cySWMyaUJ4ZmVGYU9ZdGhVWE95Mk40MlZOU2RETGR6UzFxRVFNVGZlWFp5clhDbE5vQjRRTlljMnpB?oc=5",
+     "resolu": true,
+     "source": "Revue Médicale Suisse",
+     "published": "2026-11-01",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    }
+   ],
+   "collecte": "2026-11-08T11:27:07+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 21
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 17
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 5
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 27
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 14
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 14
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 8
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 5
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
+    }
+   ]
+  },
   {
    "date": "2026-11-07",
    "items": [
