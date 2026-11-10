@@ -1,5 +1,5 @@
 {
- "genere": "2026-11-09T13:13:57+00:00",
+ "genere": "2026-11-10T12:52:57+00:00",
  "fenetre_jours": 7,
  "sources": [
   {
@@ -7,30 +7,42 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie) (réforme OR financement OR pénurie OR \"feuille de route\" OR ministère OR \"agence régionale de santé\" OR hôpital OR \"secteur psychiatrique\")",
    "etat": "ok",
-   "bruts": 27,
-   "retenus": 16,
-   "hors_champ": 5,
+   "bruts": 31,
+   "retenus": 15,
+   "hors_champ": 4,
    "hors_fenetre": 0,
-   "hors_zone": 6,
+   "hors_zone": 12,
    "ecartes": [
     [
      "vietnam.vn",
-     2
+     5
+    ],
+    [
+     "oxygeneradio.com",
+     1
+    ],
+    [
+     "actioncontrelafaim.org",
+     1
     ],
     [
      "fr.news.yahoo.com",
      1
     ],
     [
-     "ledevoir.com",
-     1
-    ],
-    [
-     "redon.maville.com",
+     "rennes.maville.com",
      1
     ],
     [
      "zinfos974.com",
+     1
+    ],
+    [
+     "ouragan.cd",
+     1
+    ],
+    [
+     "webmanagercenter.com",
      1
     ]
    ]
@@ -42,16 +54,12 @@
    "etat": "ok",
    "bruts": 31,
    "retenus": 15,
-   "hors_champ": 7,
+   "hors_champ": 5,
    "hors_fenetre": 0,
-   "hors_zone": 9,
+   "hors_zone": 11,
    "ecartes": [
     [
      "journaldelacorse.corsica",
-     1
-    ],
-    [
-     "brest.maville.com",
      1
     ],
     [
@@ -59,7 +67,7 @@
      1
     ],
     [
-     "doctissimo.fr",
+     "business-cool.com",
      1
     ],
     [
@@ -75,7 +83,11 @@
      1
     ],
     [
-     "elwatan.dz",
+     "fr.hespress.com",
+     1
+    ],
+    [
+     "fm93.com",
      1
     ]
    ]
@@ -85,8 +97,8 @@
    "type": "google",
    "requete": "psychiatrie (contention OR isolement OR \"soins sans consentement\" OR \"hospitalisation sous contrainte\" OR \"droits des patients\" OR \"contrôleur des lieux de privation\")",
    "etat": "ok",
-   "bruts": 7,
-   "retenus": 3,
+   "bruts": 6,
+   "retenus": 2,
    "hors_champ": 2,
    "hors_fenetre": 0,
    "hors_zone": 2,
@@ -106,10 +118,10 @@
    "type": "google",
    "requete": "(\"pair-aidance\" OR \"pair-aidant\" OR \"pair-aidants\" OR \"médiateur de santé pair\" OR \"savoir expérientiel\" OR rétablissement OR \"groupe d'entraide mutuelle\") (\"santé mentale\" OR psychiatrie OR \"troubles psychiques\")",
    "etat": "ok",
-   "bruts": 10,
+   "bruts": 9,
    "retenus": 0,
    "hors_champ": 0,
-   "hors_fenetre": 10,
+   "hors_fenetre": 9,
    "hors_zone": 0,
    "ecartes": []
   },
@@ -118,18 +130,14 @@
    "type": "google",
    "requete": "\"santé mentale\" (jeunes OR adolescents OR étudiants OR écrans OR \"réseaux sociaux\" OR travail OR \"intelligence artificielle\" OR \"grande cause\")",
    "etat": "ok",
-   "bruts": 44,
-   "retenus": 25,
-   "hors_champ": 4,
+   "bruts": 43,
+   "retenus": 26,
+   "hors_champ": 5,
    "hors_fenetre": 0,
-   "hors_zone": 15,
+   "hors_zone": 12,
    "ecartes": [
     [
-     "facebook.com",
-     2
-    ],
-    [
-     "doctissimo.fr",
+     "fr.news.yahoo.com",
      2
     ],
     [
@@ -137,11 +145,15 @@
      1
     ],
     [
-     "fr.style.yahoo.com",
+     "facebook.com",
      1
     ],
     [
      "reporteri.net",
+     1
+    ],
+    [
+     "doctissimo.fr",
      1
     ],
     [
@@ -163,18 +175,14 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie) (campagne OR sensibilisation OR \"prise de parole\" OR témoignage OR \"parle de sa dépression\" OR \"a révélé souffrir\")",
    "etat": "ok",
-   "bruts": 33,
-   "retenus": 14,
-   "hors_champ": 9,
+   "bruts": 30,
+   "retenus": 13,
+   "hors_champ": 5,
    "hors_fenetre": 0,
-   "hors_zone": 10,
+   "hors_zone": 12,
    "ecartes": [
     [
      "business-cool.com",
-     1
-    ],
-    [
-     "e-enfance.org",
      1
     ],
     [
@@ -186,19 +194,23 @@
      1
     ],
     [
+     "actioncontrelafaim.org",
+     1
+    ],
+    [
+     "ski-nordique.net",
+     1
+    ],
+    [
+     "sports.orange.fr",
+     1
+    ],
+    [
      "fm93.com",
      1
     ],
     [
      "tennisactu.net",
-     1
-    ],
-    [
-     "mafrique.ma",
-     1
-    ],
-    [
-     "ohmymag.com",
      1
     ]
    ]
@@ -208,18 +220,14 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie OR \"trouble bipolaire\" OR dépression) (livre OR essai OR roman OR documentaire OR série OR film OR podcast OR \"bande dessinée\")",
    "etat": "ok",
-   "bruts": 28,
-   "retenus": 13,
-   "hors_champ": 6,
+   "bruts": 29,
+   "retenus": 17,
+   "hors_champ": 5,
    "hors_fenetre": 0,
-   "hors_zone": 9,
+   "hors_zone": 7,
    "ecartes": [
     [
-     "voileetmoteur.com",
-     2
-    ],
-    [
-     "information.tv5monde.com",
+     "ski-nordique.net",
      1
     ],
     [
@@ -227,7 +235,11 @@
      1
     ],
     [
-     "doctissimo.fr",
+     "voileetmoteur.com",
+     1
+    ],
+    [
+     "fr.qz.com",
      1
     ],
     [
@@ -241,10 +253,6 @@
     [
      "fr.laodong.vn",
      1
-    ],
-    [
-     "elwatan.dz",
-     1
     ]
    ]
   },
@@ -253,22 +261,22 @@
    "type": "google",
    "requete": "\"mental health\" (stigma OR \"mental health policy\" OR \"mental health services\" OR coercion OR \"peer support\" OR \"lived experience\" OR \"media coverage\")",
    "etat": "ok",
-   "bruts": 52,
-   "retenus": 5,
-   "hors_champ": 1,
+   "bruts": 59,
+   "retenus": 7,
+   "hors_champ": 2,
    "hors_fenetre": 0,
-   "hors_zone": 46,
+   "hors_zone": 50,
    "ecartes": [
     [
      "bioengineer.org",
-     5
+     4
     ],
     [
      "wlox.com",
      2
     ],
     [
-     "ky3.com",
+     "foxcarolina.com",
      2
     ],
     [
@@ -280,15 +288,15 @@
      1
     ],
     [
-     "nami.org",
-     1
-    ],
-    [
      "den.mercer.edu",
      1
     ],
     [
-     "wpsdlocal6.com",
+     "stjohns.edu",
+     1
+    ],
+    [
+     "nami.org",
      1
     ]
    ]
@@ -299,9 +307,9 @@
    "requete": "",
    "etat": "ok",
    "bruts": 10,
-   "retenus": 2,
-   "hors_champ": 1,
-   "hors_fenetre": 7,
+   "retenus": 8,
+   "hors_champ": 2,
+   "hors_fenetre": 0,
    "hors_zone": 0,
    "ecartes": []
   },
@@ -312,8 +320,8 @@
    "etat": "ok",
    "bruts": 25,
    "retenus": 1,
-   "hors_champ": 4,
-   "hors_fenetre": 20,
+   "hors_champ": 5,
+   "hors_fenetre": 19,
    "hors_zone": 0,
    "ecartes": []
   },
@@ -323,9 +331,9 @@
    "requete": "",
    "etat": "ok",
    "bruts": 20,
-   "retenus": 1,
+   "retenus": 2,
    "hors_champ": 16,
-   "hors_fenetre": 3,
+   "hors_fenetre": 2,
    "hors_zone": 0,
    "ecartes": []
   },
@@ -335,9 +343,9 @@
    "requete": "",
    "etat": "ok",
    "bruts": 20,
-   "retenus": 7,
+   "retenus": 9,
    "hors_champ": 9,
-   "hors_fenetre": 4,
+   "hors_fenetre": 2,
    "hors_zone": 0,
    "ecartes": []
   },
@@ -420,228 +428,336 @@
    "etat": "ok",
    "bruts": 30,
    "retenus": 1,
-   "hors_champ": 2,
-   "hors_fenetre": 27,
+   "hors_champ": 1,
+   "hors_fenetre": 28,
    "hors_zone": 0,
    "ecartes": []
   }
  ],
- "nouveaux": 18,
+ "nouveaux": 27,
  "items": [
   {
-   "id": "u2a8ee078",
-   "title": "Glasgow student speaks out on teenage mental health stigma",
-   "url": "https://www.deadlinenews.co.uk/2026/11/09/glasgow-student-speaks-out-on-teenage-mental-health-stigma/",
-   "gnews": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNanE3bXpIUkxVQmxuSVlrUHlSaGthbURPMmpERFY4Y1hxZk9HUS1waWhmNHMybmU3UlpoZnhwWkZfQ18tSHFGVl80azVUd2d3TWVERmdPZkNKd0NJaGstcmZxWVQ3OVByRlFfYlNkZFA0c2ZQMVhiaHYwVGxiQWFqSFlhQU5EZWRBWEpmSllHQjRkdzlaSFF2eXNCajlRWGpocVF30gGrAUFVX3lxTFBVSWdRbjBlQWxsRFh6R0dZS1U3Ym9CaTlCVmJVQ3ViQ0k4VW13cUFPQ29idzEtLWdodEhDcDU0MXdSNVRXaktmV2c0R1gyV0w0Y0hCNmlOVzYyblc3c3BFNnR5QlBVT3JTRGFGZlFIamRtOUFQTnVVYjh3MEJFdFN6SzVfVHFJNU9OZURGeG1QZ3lMZm9ONzZjam5GTEtwcmt3YXlrUnhFM0xKcw?oc=5",
+   "id": "ua7f501f1",
+   "title": "What happens to your brain when the days get darker? - video",
+   "url": "https://www.theguardian.com/science/video/2026/nov/10/what-happens-to-your-brain-when-the-days-get-darker-video",
+   "gnews": "",
    "resolu": true,
-   "source": "Deadline News",
-   "published": "2026-11-09",
+   "source": "theguardian.com",
+   "published": "2026-11-10",
+   "summary": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective disorder, or Sad, and can be debilitating for sufferers. To find out more about the la…",
+   "feed": "guardian-mental-health",
+   "categorie": "presse-etrangere"
+  },
+  {
+   "id": "u3dd79329",
+   "title": "18-21 ans : 63 % déclarent avoir déjà subi des violences sexuelles",
+   "url": "https://www.santementale.fr/2026/11/18-21-ans-63-declarent-avoir-deja-subi-des-violences-sexuelles/",
+   "gnews": "",
+   "resolu": true,
+   "source": "santementale.fr",
+   "published": "2026-11-10",
+   "summary": "Comment les jeunes de 15 à 21 ans vivent-ils leur vie affective et leurs expériences sexuelles ? L&#8217;enquête nationale épidémiologique VAVISA 2026 (Vie Affective et ... Lire la suite L’article 18-21 ans : 63 % déclarent avoir déjà subi des violences sexuelles est apparu en premier sur Santé Mentale .",
+   "feed": "sante-mentale",
+   "categorie": "presse-nationale"
+  },
+  {
+   "id": "ud8a3cd18",
+   "title": "Formation aux professions paramédicales : infirmier et aide-soignant toujours en hausse",
+   "url": "https://www.santementale.fr/2026/11/formation-aux-professions-paramedicales-infirmier-et-aide-soignant-toujours-en-hausse/",
+   "gnews": "",
+   "resolu": true,
+   "source": "santementale.fr",
+   "published": "2026-11-10",
+   "summary": "Les données issues de l&#8217;enquête annuelle auprès des écoles de formation aux professions paramédicales et de sage-femme sont mises à jour par la Drees pour ... Lire la suite L’article Formation aux professions paramédicales : infirmier et aide-soignant toujours en hausse est apparu en premier sur Santé Mentale .",
+   "feed": "sante-mentale",
+   "categorie": "presse-nationale"
+  },
+  {
+   "id": "u1e4a0615",
+   "title": "ChatGPT’s Teen Mode could deprive teenagers of a fundamental need | Robin Kirman",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/10/chatgpt-teen-mode-cognitive-skills",
+   "gnews": "",
+   "resolu": true,
+   "source": "theguardian.com",
+   "published": "2026-11-10",
+   "summary": "What young students stand to lose is more than cognitive skill: it’s a reliable sense of their own minds In August, OpenAI launched Teen Mode – a version of ChatGPT in which every user under 18 will automatically be enrolled – a year after a lawsuit alleged that ChatGPT had contributed to the suicide of a 16-year-old n…",
+   "feed": "guardian-mental-health",
+   "categorie": "presse-etrangere"
+  },
+  {
+   "id": "ud3456664",
+   "title": "L’EPSM de Vendée Georges Mazurelle inaugure son « SHERPA »",
+   "url": "https://www.santementale.fr/2026/11/lepsm-de-vendee-georges-mazurelle-inaugure-son-sherpa/",
+   "gnews": "",
+   "resolu": true,
+   "source": "santementale.fr",
+   "published": "2026-11-10",
+   "summary": "Inauguré le 6 novembre dernier, le Service d’Hospitalisation et d’Évaluation Régional en Psychiatrie Aiguë &#8211; SHERPA, implanté sur le site principal de l’EPSM de Vendée ... Lire la suite L’article L’EPSM de Vendée Georges Mazurelle inaugure son « SHERPA » est apparu en premier sur Santé Mentale .",
+   "feed": "sante-mentale",
+   "categorie": "presse-nationale"
+  },
+  {
+   "id": "u1f947b1a",
+   "title": "Complémentaire santé : quel coût pour les patients ?",
+   "url": "https://www.santementale.fr/2026/11/complementaire-sante-quel-cout-pour-les-patients/",
+   "gnews": "",
+   "resolu": true,
+   "source": "santementale.fr",
+   "published": "2026-11-10",
+   "summary": "Le reste à charge après remboursement des complémentaires santé demeure important pour certains patients, y compris en affection de longue durée selon la Drees*. Le ... Lire la suite L’article Complémentaire santé : quel coût pour les patients ? est apparu en premier sur Santé Mentale .",
+   "feed": "sante-mentale",
+   "categorie": "presse-nationale"
+  },
+  {
+   "id": "ud598aa5e",
+   "title": "Le Dr Jean-Pierre Martin, figure engagée de la psychiatrie est décédé",
+   "url": "https://www.santementale.fr/2026/11/le-dr-jean-pierre-martin-figure-engagee-de-la-psychiatrie-est-decede/",
+   "gnews": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS0pBQ3JCa3djVTlaWjV0RGE0LVFvVkdpMWhHVTltcGc5cVFwbWxPTWVmUVdyU1ROSmcwXzJ6dXQxdmFmT2J0VmlfRExSR25UcWJPbGNHMmN1dGVpVllEYzhGRzVLUlBuMXV1S21uWnhCblVVaUc1cDVDd3AtX0hKckJ0M1hENnlHcV9UUlVDMFplY0RvU2hHUktTUThOZE5CUHJ2b3IwUVc?oc=5",
+   "resolu": true,
+   "source": "Santé Mentale",
+   "published": "2026-11-10",
+   "summary": "",
+   "feed": "communication",
+   "categorie": "presse-nationale"
+  },
+  {
+   "id": "uc97107b4",
+   "title": "À Digne-les-bains, l’hôpital se réorganise avec un seul pédopsychiatre",
+   "url": "https://www.lamarseillaise.fr/societe/a-digne-les-bains-l-hopital-se-reorganise-avec-un-seul-pedopsychiatre-BD20896052",
+   "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0lWN3ZHa3U2N1B2UlhDTTNwcnlTdzZ1bXoyM3g1MXBPYTB5ZFFjbXlNdWpQVDVESXZXZDZ3OEpaUlZQbUhvcEI0cmt3NWVueXRRM01SaDJMTDJwbHBrOXJjRUEzSWZIU0ExZDg0MzhrSjQtOXV2Sl9Qa1pWaHc4am5qVnc5Uzk4TGZiMUtEZ0pEd3QyU1RXMzFCYWVfanYxN2EyUEFxS3pWcklUV1JsQWRLaDNlS1ZEWnc?oc=5",
+   "resolu": true,
+   "source": "www.lamarseillaise.fr",
+   "published": "2026-11-10",
+   "summary": "",
+   "feed": "politiques-soins",
+   "categorie": "presse-regionale"
+  },
+  {
+   "id": "ucd9b438d",
+   "title": "Winter depression is real. Here’s what can help - podcast",
+   "url": "https://www.theguardian.com/science/audio/2026/nov/10/why-we-get-sad-and-what-helps-podcast",
+   "gnews": "",
+   "resolu": true,
+   "source": "theguardian.com",
+   "published": "2026-11-10",
+   "summary": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective disorder, or Sad, and can be debilitating for sufferers. To find out more about the la…",
+   "feed": "guardian-mental-health",
+   "categorie": "presse-etrangere"
+  },
+  {
+   "id": "u98217593",
+   "title": "Thailand strengthens mental health workforce through learning and collaboration",
+   "url": "https://www.who.int/thailand/news/feature-stories/detail/thailand-strengthens-mental-health-workforce-through-learning-and-collaboration",
+   "gnews": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSW1pNGstNGxuTFBrRUo1azl6VkRjMElLaHlFWDQtaTdsdXh3dl9PangwQy1NYlFyRVJ0LVJuM1hZUktxc1lCazJ3eVVrV293eU5CdEFXX1lDNVFtdjVMbXBkcXJ4ZmpiNEFRNHQ1ek93VXVlTWUyRmxlSEZqbjZIMkIxVXdidUxBWmhSTjFUZ2F2WGZPSVg5V2gwZjd2eW9uZDY0SDBEZnF5Szc4OTU0X3AyQTNOQVcwN085ZTRXYjEyYklfR1gtaE5GMzRIRE9xOFE?oc=5",
+   "resolu": true,
+   "source": "World Health Organization (WHO)",
+   "published": "2026-11-10",
+   "summary": "",
+   "feed": "international",
+   "categorie": "institutions"
+  },
+  {
+   "id": "u75052fa7",
+   "title": "«15 /18» de Cédric Kahn : un huis clos en dents de psy",
+   "url": "https://www.liberation.fr/culture/cinema/15-18-de-cedric-kahn-un-huis-clos-en-dents-de-psy-20261110_T72E6NHD7RGNTMBQ5MAYCZT4LI/",
+   "gnews": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMmtyUUxBNEVRUXRXVHVrS2hOdmVhVVlyLS0xOGp3RFZ4OTJOUGZ5c2pTN1h1d3dQNFF1TUdDWVQ0NHpER0QxRnhnNFRKSjNhLUhOQ0lXdmtackVkVVZxWTY0ZEhQUTRtWGpkeEZIbHZ1TzRFYlpZSmZza2Q1bnhpclpRNXppamRRTmU0TFdGMktXdU9BZWdyeGJaUEZTUVAwUnJLYlR1Qm50THpZbnBhdkJHWmNfNkxNMk1vSV91U0FjMjh3YXc?oc=5",
+   "resolu": true,
+   "source": "Libération",
+   "published": "2026-11-10",
+   "summary": "",
+   "feed": "culture",
+   "categorie": "presse-nationale"
+  },
+  {
+   "id": "u7ac509a6",
+   "title": "« On est observés sous toutes les coutures, sans droit à l’erreur » : l’anxiété sociale grandit parmi les jeunes",
+   "url": "https://www.lemonde.fr/campus/article/2026/11/10/on-est-observes-sous-toutes-les-coutures-sans-droit-a-l-erreur-l-anxiete-sociale-grandit-parmi-les-jeunes_6808785_4401467.html",
+   "gnews": "",
+   "resolu": true,
+   "source": "lemonde.fr",
+   "published": "2026-11-10",
+   "summary": "La part des moins de 30 ans touchés par une phobie sociale ne cesse de croître depuis le Covid-19. Un phénomène révélateur d’une difficulté à trouver sa place pour cette génération sommée de se construire dans un monde de plus en plus hostile et compétitif.",
+   "feed": "le-monde-sante",
+   "categorie": "presse-nationale"
+  },
+  {
+   "id": "u6955277b",
+   "title": "Appeal as children's mental health service faces loss of 114 appointments a week",
+   "url": "https://www.newsandstar.co.uk/news/26713048.together-childrens-mental-health-services-face-cuts/",
+   "gnews": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSHdVVFZacUYtOTltQ3ZDSkpfVWRFV3pmUjdQenJEeTRWTkdMUkdVM2FOOXdZZDI3Wm95c2ZPQ0hjNThKVGVVbXluM09ISzNvcWE2UlFid2twamEtaWpVQ2J6MkZKOVMzT1RFdFQya2JUcWRWQk9vYi1XZnFfLXZ3eEF5MzB2ZFNqR3BnWU9wcFg0OFM4MGJWWmhSUmo?oc=5",
+   "resolu": true,
+   "source": "News & Star",
+   "published": "2026-11-10",
    "summary": "",
    "feed": "international",
    "categorie": "presse-etrangere"
   },
   {
-   "id": "ue1e1c72a",
-   "title": "Dépression, anxiété, psychose... À Flers, une formation pour secourir les victimes de troubles psychiques",
-   "url": "https://actu.fr/normandie/flers_61169/depression-anxiete-psychose-a-flers-une-formation-pour-secourir-les-victimes-de-troubles-psychiques_65033284.html",
-   "gnews": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQLWd3N2FRQmtJaExJaXo1UHc2QjNsRzdSSlBqMGw1THpyNUE4b054VE9lUG43V3MwSFJFeE5qM05ycnlKY2tFdnhzMU9IbkJ1TmVsaTgwQzV0WGlNSVNwNklobFlQQ1Zhc1I0N3hINVpQakY3UWkxUmJXLVRVVDFLWEhOUW5GUGhHWjVqN2hwZTZmQ1RxU25pZWtYSWQ3VmE5TnB3ODVfaGFhN0htWUZydDl1bnFoUUVCUjFfUHdtSzJXREtuem5sSDFHT2JWd1paZldqYm9CYVYtdjdyWWdpaXUxMWV4dw?oc=5",
+   "id": "ub163dff1",
+   "title": "Movember : dépistage et santé mentale, les réflexes à adopter",
+   "url": "https://www.rts.ch/info/sante/2026/article/movember-depistage-et-sante-mentale-les-reflexes-a-adopter-29410297.html",
+   "gnews": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV3o5OFV2UWhZSUgydFNuMXRZUThSY1R3NDItNldmLUdLNEhtbHBrYW91M1R6bVIxNDZNWEU1YWpwWVp4NkN0QkJfbkZnMktfTVlmb2lYUFJEY0FoR2VFN2djNmdWellGRlRWYkVxRExxcjNqMWlHUUNBTlREc0MtMmhwNWphZDRGN00wU28teXJHZzd5TW5seFBRNEoxUk9qZHVKcEw2X2EtSHR5V1lFVDU2VjJ5Zw?oc=5",
    "resolu": true,
-   "source": "Actu.fr",
-   "published": "2026-11-09",
-   "summary": "",
-   "feed": "stigmatisation",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "u9429d564",
-   "title": "La santé mentale des plus jeunes toujours plus dégradée",
-   "url": "https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/la-sante-mentale-des-plus-jeunes-toujours-plus-degradee_8274248.html",
-   "gnews": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1UyU3dDSTd6eW41eDMwMzhTd09wTk9SRERlUlpBSnF5NThqUE1UNXo1MGpTOHpFQ1pzallYSEpaRlRvcldYN2xJUE0xSzRUcC1jQUlmck5yVThnMnlDREFMRjNGOC1CUVNvam9VVks3YW1JWFZVdFVGVTJ6Q2lvUGtDM2FVYkdOb0hwWGRsbWpaTUNQVDFrX0pBRklLZUZ2aTlUcHNQbzQ3Tk5ya0pGVUVlRE90N0VXbVo5ellIS203YnhxQlRfaEktdw?oc=5",
-   "resolu": true,
-   "source": "franceinfo",
-   "published": "2026-11-09",
-   "summary": "",
-   "feed": "stigmatisation",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "u6ae8f4e4",
-   "title": "Tennis: L'espoir suisse Leandro Riedi évoque sa tentative de suicide",
-   "url": "https://www.lematin.ch/story/tennis-j-ai-tente-de-mettre-fin-a-mes-jours-un-espoir-suisse-se-livre-103664543",
-   "gnews": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUxISEgzTExxcjZ6ZmZWakRMck1kQVVkc19mdFVHUmd0dEdZeUhEWHhtUWRDMGJlYkRyaXpTbHYzNmZhYWlUcHJpUC1NWjY3LXJFSTRUTi1aRzdyczQ2TGhCRTk3dzYyZmtSM3pwVHc1Q3NUekRGR3BJX0JIZ2pidE9DR1psNG80V1lETDBDT3hLcHR1R29zdzFEY21OM09NU09YVldIa1FQRG81?oc=5",
-   "resolu": true,
-   "source": "Le Matin",
+   "source": "rts.ch",
    "published": "2026-11-09",
    "summary": "",
    "feed": "communication",
    "categorie": "presse-etrangere"
   },
   {
-   "id": "ud3de7eff",
-   "title": "15/18 de Cédric Kahn : dans le cadre étroit de la psychiatrie, la vie déborde",
-   "url": "https://unidivers.fr/15-18-cedric-kahn-psychiatrie-adolescents-soin-desir/",
-   "gnews": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GOUZYRk5GQW9BTjdfR3o0VFhqUlVTdVoxem9ZMEZZaUJCOUltQk92SWhFOEdIZTdVcEpJcEh4d00xUnVtQkM4YlVIaVI5NFJzOHBabF8zdGtTSlZ0QnlqT0doS0NzUGN3X3BsdHc1Q0QxSUpoRGkzem12Y3BKMU0?oc=5",
+   "id": "ucb81b366",
+   "title": "Blocus lycéens et étudiants : la santé mentale mise à l’épreuve ?",
+   "url": "https://www.jim.fr/viewarticle/blocus-lyc%C3%A9ens-et-%C3%A9tudiants-sant%C3%A9-mentale-2026a10016o4",
+   "gnews": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUm1oVncwWWtILVlZNU56TXpoUjU1d21aOEJrQkU1Nm1sQTk2UV9xZGJCSkhMNGZZLU1ZUS1qMUtZQUJIRUFzaHQwa01VbFZOaG5tZERzLU5ZenYxRmh0Sk8xT1l0a21DZENFY2p0YkdMNFVtbmM2X3hlbmNVNWVlVkQ2OHRpMDN6MGpldjhUMGpYWXgzT25KWjBpdmwwdVlzNnc?oc=5",
    "resolu": true,
-   "source": "Unidivers",
-   "published": "2026-11-09",
-   "summary": "",
-   "feed": "politiques-soins",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "ucb05bc34",
-   "title": "La santé mentale des \"11-17 ans se dégrade et on constate une accélération\" ces dernières années, alerte le directeur de Santé publique France",
-   "url": "https://www.franceinfo.fr/sante/psycho-bien-etre/sante-mentale/la-sante-mentale-des-11-17-ans-se-degrade-et-on-constate-une-acceleration-ces-dernieres-annees-alerte-le-directeur-de-sante-publique-france_8274152.html",
-   "gnews": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOQ3RlRDBlNUVuN2tRbUFJcjhIbmdXOU5qWVNJMkJWS2xRVzhVUk1tZVVQb2wtYTlMbVF2Z1pwNXg3QTRUTFZpamJRNVpMX011VmlVZm0wTWRXTFBaNXNUWXhUT2xjd19COW1KcjRqM1JTRG1xOFRRTDY0c0lqLUZyeEhrTVlidFRBWUlLU1lZSlpHbEpBTXNqa1pqWTdpUUNWd2c2M3JDUkdfVmVBMl9ocm13WlBXTDBmeDJRZUZuaWkyM21lNTN5ajdfX3lhamhMeEx1MkpWeE85LVF0SEtBaEUydEIzWmRyak9keTNUNHp1YTc2NzMyM2Zzd1dSbVZ0clVjb2JSenBHRGpsVHNtQm1CRUtEdTFPc0pkdlIwU21FY2hVZUFjUExwaW0xeWY1SlkwRFB2YUZ0T2s?oc=5",
-   "resolu": true,
-   "source": "franceinfo",
+   "source": "JIM.fr",
    "published": "2026-11-09",
    "summary": "",
    "feed": "societe",
    "categorie": "presse-regionale"
   },
   {
-   "id": "ua1da0ca0",
-   "title": "Santé mentale : une étude compare les salariés français et européens",
-   "url": "https://presseagence.fr/paris-sante-mentale-une-etude-compare-pour-la-1ere-fois-letat-psychologique-des-salaries-francais-et-europeens/",
-   "gnews": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVjFQQ0pnTTk2R1B5ZXNSSnVtT1NzRi05VHJBTnJuM0hxeS1zbzI3YklnVS1jRjYyQlRzWTcyT2xRSl9Qa3I2MUFDdFlEaHBhenVER1F5UHJreWJSS2g0TmhUeEwzZHV0T1UwbGw3cldIRXI1RjBhZEkwN0liTTFMR3lvcVNCRXZEZ0thQWpwX2dTTk9UNGRCR0lRUFdvVk1ZZFczT2NoUVJ4WTdVSXlabUtyeUdlRDJTSFZVb3pfa3VsbFNqalA1cE5pR2FaMjdD?oc=5",
+   "id": "uec994ed3",
+   "title": "Santé mentale des jeunes : une dégradation qui s'accélère depuis la période Covid, alerte Santé publique France",
+   "url": "https://www.ici.fr/infos/sante-sciences/sante-mentale-des-jeunes-une-degradation-qui-s-accelere-depuis-la-periode-covid-alerte-sante-publique-france-2890010",
+   "gnews": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdzRqb1ZhRVp1UFJrRDJERkNvRTlEUm1UbWV3Y2ZIWVg5dnpKNXQwWUpycGkzOS1vOFdETk02OTRSUWZXbXdUMGE3TEkxSExIbnNRVXF3TU5VMTZ2dWxsMV9OWUNzekdadU00dmhZT3FVMFZCdDRWTkFLU3NNZUhqc3poejRTUkJzaUN1NzRCWGtjd1F6bXpmWmk2MWdGZzFJQndyLW9CdnZ1bkVvX0tVejBpcEpieU5kdGhVeXBET2ZLS2o1MzJRNUNDdk1ETzZ6eENIY0piT3h3VmF0QUxsOTI2UXc5OXlLQ0ZQMw?oc=5",
    "resolu": true,
-   "source": "Presse Agence",
+   "source": "ici.fr",
    "published": "2026-11-09",
    "summary": "",
    "feed": "societe",
    "categorie": "presse-regionale"
   },
   {
-   "id": "ud0214c18",
-   "title": "Santé mentale au Maroc: la Société de psychologie clinique alerte sur la prise en charge des jeunes",
-   "url": "https://www.rfi.fr/fr/afrique/20261109-sant%C3%A9-mentale-au-maroc-la-soci%C3%A9t%C3%A9-de-psychologie-clinique-alerte-sur-la-prise-en-charge-des-jeunes",
-   "gnews": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbW5aclNOV285UGwtSkc3MnZaX1U4WnpmWG1XWGRGU29JdEtfYUFBSGVzb2x4aDIwYjluSlBkMEdxcEtsRlA4MVJndS1mLXdMVHNKTXJsNFkxc255SGNtS0xJQ1pmalZBWS11Q2RseDVUZzlxY1M1ak91OXdTVFpLQWExVDNzVTdwVXJoS3lDUUx5eFBLbkd1V1NSaGt5Z1FENEhzbTQ5TG15NGpjSktfd3kwM3FVWERHOFRBVUEwSDNEYzk1OWt4QWcwRExWTlZnb1VJeXBZdl9xQm14YkE1WGdnbUFWRm8?oc=5",
+   "id": "uec1e78f",
+   "title": "Stress, burn-out, souffrance psychologique : 4 hommes sur 5 préfèrent cacher leur mal-être pour paraître forts",
+   "url": "https://www.mediavenir.fr/stress-burn-out-souffrance-psychologique-hommes-preferent-cacher-leur-mal-etre-pour-paraitre-forts/",
+   "gnews": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR09saVEtTFVnQlA0dEs4QndqVUpPYXNHYm1pb3haUUY2Z054NW5aUXpsNVdYSWZGNDZ2c0RqQ0pDeEpWNXlwdndFMGRtZWxOZ1pzYjk4NWJabHFXd2VyVU5kTG4yYTV3UERMY29OQjJkNHE3dHlmOUJSTzF0eXQ4U1FZZXpJUV9PbXRaM1dNR19SelBtZ1Fvc1hUWDJuaU16OHdJNWJPaTc1VG8xdFpwemwtMm00SHhTMnljcFdzajVBR2c?oc=5",
    "resolu": true,
-   "source": "RFI",
+   "source": "Mediavenir",
+   "published": "2026-11-09",
+   "summary": "",
+   "feed": "stigmatisation",
+   "categorie": "presse-regionale"
+  },
+  {
+   "id": "ua639c3ef",
+   "title": "« J’ai essayé de me suicider »… Le témoignage de Riedi sur la santé mentale",
+   "url": "https://www.20minutes.fr/sport/tennis/4261714-20261109-tennis-essaye-suicider-puissant-temoignage-suisse-leandro-riedi-autour-sante-mentale",
+   "gnews": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzh3U2ZhQkZTYm52Y2lGTzdRdS1EcEVWWnJIU3AzcnN5a1VmSHAwRHlIbjVHOW82ZGJTY0x4M1MwbTlkd0FYTVgxLTZaNzZNcHhub0ExLXAwczloQWtULUNaVVFEQUtJejdwT3l2Yk9QMFVlVjNxak9fNVdxWTN5ZHRHdUt4MzRjWFBxOFBZVGZHUVF0Skk0VVIwNUpxZTktbDlEWXFpRjZFNGlNZk1rYndlRzdnblZ0WERDSWNiTkp5YlJOdmhQc3NMM1hodVk2NGhiSm1R?oc=5",
+   "resolu": true,
+   "source": "20 Minutes",
+   "published": "2026-11-09",
+   "summary": "",
+   "feed": "communication",
+   "categorie": "presse-nationale"
+  },
+  {
+   "id": "u5808c3a8",
+   "title": "“Malgré la tristesse, il y a encore de la vitalité” : dans “15/18”, Cédric Kahn nous plonge dans la réalité méconnue de l’hôpital psychiatrique",
+   "url": "https://www.psychologies.com/culture/savoirs/cinema/Malgre-la-tristesse-il-y-a-encore-de-la-vitalite-dans-15-18-Cedric-Kahn-nous-plonge-dans-la-realite-meconnue-de-lhopital-psychiatrique-644973",
+   "gnews": "https://news.google.com/rss/articles/CBMingJBVV95cUxQeHhiT1dyWUlqLWMxRHQ2OHZiN09DUFVPVDBGS2h2dHFWNmotamFoVmtRSF9RWEFlbWU0X01QWkpLejNJcVo5TnZEMDRwV2xSdEh1UzJSc1JKR0ZwTk4ycE9nQUhnR0I0YXhvWVFoZmstdEJBMXlZajlxMWt4RmtLbDBuRWNHQTdBcVR0dkRNZXJrMnBJWVAzbVNjQS1hV2w0d1V4OHpoTUlnQlgzTzVoVmxIZHRvVlVOLVhDR2w5cGlNd3dGNWtzazNvN0ZVclc3aFpXUVlHQ1VMamk5ZGpCRGh4Y2dnMEJyUExfWDN4N0xsMl8ya2RHY0JVX1VyRmhiR29NYXlnYWtDTkRxQnhFSHRHLTFFODRsYmNqVmFR?oc=5",
+   "resolu": true,
+   "source": "Psychologies.com",
+   "published": "2026-11-09",
+   "summary": "",
+   "feed": "culture",
+   "categorie": "presse-nationale"
+  },
+  {
+   "id": "u3483f5c0",
+   "title": "Parentalité précoce : un événement porteur de sens pour les jeunes de l’ASE",
+   "url": "https://www.santementale.fr/2026/11/parentalite-precoce-un-evenement-porteur-de-sens-pour-les-jeunes-de-lase/",
+   "gnews": "",
+   "resolu": true,
+   "source": "santementale.fr",
+   "published": "2026-11-09",
+   "summary": "Une recherche sur la parentalité précoce des jeunes pris en charge par l&#8217;aide sociale à l&#8217;enfance (ASE) ou la protection judiciaire de la jeunesse (PJJ) ... Lire la suite L’article Parentalité précoce : un événement porteur de sens pour les jeunes de l’ASE est apparu en premier sur Santé Mentale .",
+   "feed": "sante-mentale",
+   "categorie": "presse-nationale"
+  },
+  {
+   "id": "uba4e553a",
+   "title": "\"Je stresse\", \"ça joue sur le moral\" : des étudiants racontent l'impact des blocus sur leur santé mentale",
+   "url": "https://www.radiofrance.fr/franceinfo/podcasts/les-documents-franceinfo/je-stresse-ca-joue-sur-le-moral-des-etudiants-racontent-l-impact-des-blocus-sur-leur-sante-mentale-3832449",
+   "gnews": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcFBVWkRuOFliTk1LSlpqYWdPNWRDLXZlU21EeTNDLVZNeUZWVk1fVXZBRDBxRGJFTTF0SEowNnlFUGZGYzR0UlpDMVBUbTZ4cHYybXcyZ3pBdkwwWHhDWHhGU3l4d05xUk5rMXFuNnJhb0J2VnFDSmlWSnllNHY3eWR4Z1BibUNaQVU3MDFEQndoYnNZQURCa21teWkzQV9NRlR6OHI1WHZmb0otaUgwNHJrOGUxUjg1U2pKVzh0bF8xelZuMXJxNnp6WEJxYkdZeHEtQ0RwMWdQMmxjc2NHaWhwUmMtRXZKSjNSdVpiZjF6V2EtVUM5YVhPTlh1WUpqZmhORC01TmZrQQ?oc=5",
+   "resolu": true,
+   "source": "Radio France",
    "published": "2026-11-09",
    "summary": "",
    "feed": "societe",
    "categorie": "presse-nationale"
   },
   {
-   "id": "u69cf65cc",
-   "title": "Leandro Riedi évoque sa tentative de suicide et la santé mentale",
-   "url": "https://latele.ch/articles/leandro-riedi-evoque-sa-tentative-de-suicide",
-   "gnews": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yS3hkSW83WUZHZ0pBYm9HblVBWldoRkJiOTJmMFZkNU1CcG9jVnR1Qk9fMXZ6NU80eDl1VzdndFJPU3l4WjZGVlozVGF1c3k3SjktcnBQS3BlaXNjYjNnd01nX3RmdmJILVVMUVVtNnVhdlBUbnNUTmV5QQ?oc=5",
+   "id": "u2583d09",
+   "title": "Santé mentale : une journée de sensibilisation ce vendredi à Sévérac d'Aveyron",
+   "url": "https://www.journaldemillau.fr/2026/11/09/sante-mentale-une-journee-de-sensibilisation-ce-vendredi-a-severac-daveyron-13635929.php",
+   "gnews": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcWJZUVZmZ1Atb3UzZER1OV9mdEEtWDlaeDJ1bEI2UVpnNkhDNGVJLWd1RkttcUxVRWhuNFdPa2hqOFpveHNLVU41NUJYLV9aU2pFNWNoQWJRYV9KVFZEU1lUbFBLelFOa2FyVXc0STZBdTQ0RUZHd0U1MjF2VnFmb0kybERlRXdsOVFfeGdSTERfb2I1ZnBTb2JMa1c5QUtpWFpudVZIeFpzc0l3eFhxUnN0NVpFUlFoOWtrZWhCU3p0TjUwOEpHQWR3?oc=5",
    "resolu": true,
-   "source": "La Télé",
-   "published": "2026-11-09",
-   "summary": "",
-   "feed": "culture",
-   "categorie": "presse-etrangere"
-  },
-  {
-   "id": "u65b72d09",
-   "title": "Psychiatrie adulte : le syndicat Force ouvrière dénonce une situation \"extrêmement\" préoccupante à l'hôpital de Laval",
-   "url": "https://www.ici.fr/emissions/l-invite-ici-mayenne/psychiatrie-adulte-le-syndicat-force-ouvriere-denonce-une-situation-extremement-preoccupante-a-l-hopital-de-laval-5435686",
-   "gnews": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRjRlVC1fMWU2V0tVdzNxMjA2ajk3cW43d0Q0RHF1REdVNUZIR0c5UUg4MHB2cjFCYlNTNW1UNDVjeDE2WG5sUEI5cmRJMVNjN3NORlR6NXZGbHctdDFDeHpwT1YzM2pXU1J0clR6NFQtdlRkTHFzMXIxX0o2VzVoeklhcDl6bDRFMF92QlUzRDNDLWo0b0ZvdVl1ZlYtdTNIVmh5WTEzRlNiM1p4VEVDX1V0SUJSaVV0UlVVZF9aUktqNE1SUU1HZ0JhZHdQNFRxeDJCYlNwU19RWGpYWkRQb216SENqZDVYUElpMkc0SlhqNFpQYWZSVnF5RGtmWVhm?oc=5",
-   "resolu": true,
-   "source": "ici.fr",
-   "published": "2026-11-09",
-   "summary": "",
-   "feed": "politiques-soins",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "u30a4f5d2",
-   "title": "\"C'était un service très attendu\" : en Mayenne, une unité psychiatrique pour les jeunes de 15 à 21 ans ouvre ses portes",
-   "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-mayenne/c-etait-un-service-tres-attendu-en-mayenne-une-unite-psychiatrique-pour-les-jeunes-de-15-a-21-ans-ouvre-ses-portes-7301280",
-   "gnews": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNU242Tm9fOGZmNXM5MkVfbnZ1eFVaeVUtUVpQbjZGXzVGZ1FwZy16RTNsdnQwNnRoLWNRU1N6NlBYZ25MUEloMmZQSHNmZlo3ODR5Z1lWTGN2cFF0SlRyTzIxemhxVVl0Wk5vaTFBT3FEVGJDODhhcnhpYUJRdXRoMXVOcDdwNkhQUlRWUFNrdXdrQVAweHVtWHZybHZfMlhBTmRSRG9iNDd5dzJkSWkxcjhMVVgzYjNidjJVcGtHaFM4TXVIWEZHejNQeXYxcGJfRjVURUNyVXNrMnNza3EtcjFQRmpuT21kUlFiWjB2VXRoOFBhWUlCaGVnRkVwYU5Wbm02TWhkZw?oc=5",
-   "resolu": true,
-   "source": "ici.fr",
-   "published": "2026-11-09",
-   "summary": "",
-   "feed": "politiques-soins",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "uded61a3b",
-   "title": "\"Mes journées ne ressemblent plus à grand-chose\" : deux étudiants racontent l'impact des blocus universitaires sur leur santé mentale",
-   "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignages-mes-journees-ne-ressemblent-plus-a-grand-chose-deux-etudiants-racontent-l-impact-des-blocus-universitaires-sur-leur-sante-mentale_8273399.html",
-   "gnews": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQTnVzblA4LS1lM2puQUp3X3RFcnFOZWpXS0gxLXh4VTJ5U0o4Ym5vQlNwaU1QalFEcktvLUJsZ2diRFJrQWZaMC14UWNtbjZPYTZXeEFhcFE0VEZUY0FySWVBamhZbGdWeWZjUEIxZnpmSjIyM0QwNFM5eEpIZE00ejFRc2dweUFuMmVDNF9mNGh1MUhDMWk3WHFsYUhqUnlJU3gzSHRLX09XUVphQWVmaVRLdFNuZjVMSWstTmd3TGN1WGc3OEREQlJVb0dBdTl1NXhQdkVsSlcwemFLRXl3NDZ4S1BCbUpBTWpkckNadHZNMlluWGJNWW5DLU9qTmp4YWZsd0NmMkF2NjJzeHI4d0ZRbS1felQtV3BqNW5NSkpqNDNqTnhiZGtFOG90ZHpoMXNlTGtUd0JSN2FSMUE?oc=5",
-   "resolu": true,
-   "source": "franceinfo",
+   "source": "Le Journal de Millau",
    "published": "2026-11-09",
    "summary": "",
    "feed": "societe",
    "categorie": "presse-regionale"
   },
   {
-   "id": "u7452835b",
-   "title": "Santé mentale: c'est quoi être borderline ?",
-   "url": "https://www.blick.ch/fr/video/sante-mentale-cest-quoi-etre-borderline/fqgprs0",
-   "gnews": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeGREQ2pEMlIzbE83eXR4U3IzVEk0Nno3endSaHl2a01ZdnRaYWJqVVo2RmtQYi1LcEVtc1JlbE05c1JnZGVmUnVjTFhzM3ozMHNxalJMcDZ2OUdSdlRzMXd2cS1YODJpUmdWSXR5TmctVHFGTmVreXZVUURzYzBTT185SQ?oc=5",
+   "id": "uce560867",
+   "title": "Le HCE lance une alerte sur la santé mentale des femmes",
+   "url": "https://www.weka.fr/actualite/sante/article/le-hce-lance-une-alerte-sur-la-sante-mentale-des-femmes-229989/",
+   "gnews": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVWhJQV85UmFyMHFmVVgtZVhFYjR0Y0JaMmdJdXdfeFZPeDRNSkN4d01TRVNodHVKa3VTZi1QN1ZDY1czcVpwS3p6QVJLYVhPckZ3Zm5qd0ZlMG1yWnJhZHhKa1lTcU96N1o2WW1OR2F3SXZxaVJ5VF9CSlZDZ1g3VDN1UE51SHBsSm82SWNteHhQRktlTmZkaUszV1JUcElhWXJmSTdlcnREcmc?oc=5",
    "resolu": true,
-   "source": "Blick",
-   "published": "2026-11-08",
+   "source": "Éditions WEKA",
+   "published": "2026-11-09",
    "summary": "",
-   "feed": "politiques-soins",
-   "categorie": "presse-etrangere"
-  },
-  {
-   "id": "uc41433cc",
-   "title": "« L’hôpital psychiatrique a longtemps suscité la méfiance » : à Quimper, de l’asile à l’EPSM, 200 ans d’histoire",
-   "url": "https://www.ouest-france.fr/bretagne/quimper-29000/lhopital-psychiatrique-a-longtemps-suscite-la-mefiance-a-quimper-de-lasile-a-lepsm-200-ans-dhistoire-5ca6c1d4-da07-11f1-81f5-8e32b0872d76",
-   "gnews": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQX2dqd1FYdEpYOUYxNGg5cHA2YVRtSjFVUVVtWjNPV0NPWnk0TjBxX0s5NTdYbDI2Q2wydVQ2bVZXNkF4MEJ4al9scnA0NjdGU0ZVMEVxa0hadmgzaURrMVRwcG42ZUJOZF84eEdjRGk2Ykp1NlJIeFNnUFVLUWxld2JtTU9jS2VRMTRCTGF6WWRGbHdTWlFzX2VPVzFGc3RLWWlwRFUwOGRuSkpobkRZUGxVTGZQM2x5UThzdjN5dWVGMk5PWWplTjR5WGw4QXhta2E5eEFVUzc5ajRqWWRfSjlEZDFOUS1peHNWa1QzZnVGd0dSSjUwVzlPY0xGemc2bU9PWjlqTlFORlNXMVo4M185bUYyb1E?oc=5",
-   "resolu": true,
-   "source": "Ouest-France",
-   "published": "2026-11-08",
-   "summary": "",
-   "feed": "politiques-soins",
+   "feed": "societe",
    "categorie": "presse-regionale"
   },
   {
-   "id": "uf03bb7ed",
-   "title": "We all want to protect our children from anxiety. But could we be making it worse? | Diane Young",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/09/parenting-protecting-children-from-anxiety",
-   "gnews": "",
+   "id": "u8b7d6ca8",
+   "title": "PODCAST. Santé mentale mise à l'épreuve par les blocus, nouvelle COP et \"blague\" de Donald Trump : ça dit quoi ce 9 novembre",
+   "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-sante-mentale-mise-a-l-epreuve-par-les-blocus-nouvelle-cop-et-blague-de-donald-trump-ca-dit-quoi-ce-9-novembre_8264843.html",
+   "gnews": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOckFrbk0tYlZ4WnFfeWNSMWdxQW5ZVWlXcV91VlBfQ0syWVVTZkI3VGg3UzVBNjRjZFFoN21sbVJHSElNRzRWRWFNSUEwYkgxb1BPWmtSSTN5RHlHVHJTQ0VBOHNCVGVaMW5heG4weU9xQXdBY3hWTnp0N3VWcU9HU0IzS1RiY1hMSDNoc1FlRWhfZTV1c0pWMEVYajB6akFxcUxObFRCMXNrazlWa1BzQzVmejFobklqal9OQVd2Z1BUWkwwVTBlaGtNWmswb2plRFdQNGw0VURJQVNja3RtS0lEM3c1cWRxSExUNnItdzRpeS12YUpQRWM5UG5ZZlQtSVF1NGZzdVJsbW1CVmtZ?oc=5",
    "resolu": true,
-   "source": "theguardian.com",
-   "published": "2026-11-08",
-   "summary": "No one wants their child to struggle. But the things parents do can disempower children later in life The modern mind is a column where experts discuss mental health issues they are seeing in their work When a child is anxious, most parents instinctively want to make things better. If your daughter is terrified of atte…",
-   "feed": "guardian-mental-health",
-   "categorie": "presse-etrangere"
-  },
-  {
-   "id": "u3e6864af",
-   "title": "‘I was in a darker place than I’d ever been. ECT was my only hope’: how Ted Scheinman finally broke through his depression",
-   "url": "https://www.theguardian.com/society/2026/nov/08/ect-electroconvulsive-therapy-how-ted-scheinman-broke-through-depression",
-   "gnews": "",
-   "resolu": true,
-   "source": "theguardian.com",
-   "published": "2026-11-08",
-   "summary": "Troubled from the age of three, by 35 the American journalist viewed himself as ‘the lowest piece of dirt on the Earth’ – and neither therapy nor drugs seemed to help. But there was one thing he hadn’t tried … Ted Scheinman can date the origin of his depression with laser accuracy. It was the day he went to the fair, a…",
-   "feed": "guardian-mental-health",
-   "categorie": "presse-etrangere"
-  },
-  {
-   "id": "ue657a8e5",
-   "title": "Route du Rhum. « Des immeubles qui passent à côté » : Achille Nebout et son Class40 secoués par une grosse dépression",
-   "url": "https://www.ouest-france.fr/route-du-rhum/route-du-rhum-des-immeubles-qui-passent-a-cote-achille-nebout-et-son-class40-secoues-par-une-grosse-depression-94203eea-db5d-11f1-81f5-8e32b0872d76",
-   "gnews": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOYWJJYW95aHE5UmxyRkxqQzFYOHVQeG9kSU84WjVPRW5Ec1p2X2hhbWltZDdwT2VJRklSczY5NGdrb2Q3Vm45VDY5ckV0dTBoVGszaG96SnlwSWZkU2pGS0JRNWw3V3hQUEtxcXF5dGc2TFlpZTNVdFhNQXl1a2kzWUhHX1Y5Y1BhSmJCeHNnMzVUYVlGREQ5aV83TEVCM3hpbFdfVWdFN3c0aFIyVkxLUjRYNnd0a0hFSzJNalBxVERCcWRVdmx1VHFjTENLN1ExNFJNZjlSN1RhNGdvTTZtRThqVmJzTW40NnlmcUt5c1F6VDBxRzNVZVhMaTJCeEh5b1hvbFdHdkJnRThQVUhqTE10Y25DV3FZ?oc=5",
-   "resolu": true,
-   "source": "Ouest-France",
-   "published": "2026-11-08",
+   "source": "franceinfo",
+   "published": "2026-11-09",
    "summary": "",
    "feed": "culture",
    "categorie": "presse-regionale"
   },
   {
-   "id": "u3564718f",
-   "title": "Défendre la cause de la santé mentale : Antony Laurent, lannionnais, est candidat à Mister universel de Bretagne",
-   "url": "https://sante.ouest-france.fr/sante-mentale/defendre-la-cause-de-la-sante-mentale-antony-laurent-lannionnais-est-candidat-a-mister-universel-de-bretagne-d7852bd6-c88f-11f1-9522-1f9ae0711c0a",
-   "gnews": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPQnRycXVMNFJ0TFN5Z2NmV0lvZ3VVU2FZRWVxTU5kcnh5M2txd0xmQnFRU3E4YzcwR0czR1gxdUQ3clNDa29HZEdaQ25VZ3VJUGE5OTBZWGxWaHJpdEcwdkpIU3c2UEJRUW9Lcm9GRFpvT3laUHFoMW1nVWxCRlZjbDkzUkdvVS02NWx5NFh1ckxWUHVNMndWWmtUdUNzTWVNcXQwb3NFNUVjWjhZYWpHeXlpa1Q3ZjRPdkpGMFBYV0lRbWVpNWVVUnJCU3lnemNEQmRMdGlaaWd4bkRVRnU4c2J6Z2VfNHBFNjY3VG83Vl92dlRYR1BtY1d3VmtqNi1hbGc1QllFME1GLWpZcjZDcnZseDhWLXRk?oc=5",
+   "id": "u6b67eff4",
+   "title": "« Zoé pour la vie » : un spectacle au Vivat d’Armentières pour parler de la santé mentale des jeunes",
+   "url": "https://www.lavoixdunord.fr/1752619/article/2026-11-06/zoe-pour-la-vie-un-spectacle-au-vivat-d-armentieres-pour-parler-de-la-sante",
+   "gnews": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTJCLXpwTTl0SWQ4NUNEV2tkeFJEdl9tUjZ2REtfY2h0WUVqUFVkb2dWYXFYR1pIc0ZxU2s4RW9rNHVGN0FFRkp6Qk1ybUIyN2VDa1VqQjJwSVpCUEpwRkNfYVpWTU9YWm56LWNIVzM3Rk80Mkc0dkIzUkJRZEpQS2hlN3JDY2V6dVlWZ3hVSFpzTUd5cTBBVHU3dkVuN3dHbG1Yb2RuZW8xOFBuaGpiZ2c5ODRCMTMtOVp1aDU2R2VFVm5nNjZ3Y2pR?oc=5",
    "resolu": true,
-   "source": "Ouest-France",
+   "source": "La Voix du Nord",
    "published": "2026-11-06",
    "summary": "",
-   "feed": "communication",
+   "feed": "societe",
+   "categorie": "presse-regionale"
+  },
+  {
+   "id": "uccbb5ffc",
+   "title": "Real voices, real change: stakeholders call for improved mental health care",
+   "url": "https://www.afro.who.int/countries/lesotho/news/real-voices-real-change-stakeholders-call-improved-mental-health-care",
+   "gnews": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWZSSVlWNlgtVVppdHBmXzdaTWs2SFBFTFdTRXBRN2MtekhQb3luaHlQcWRRSFd6cTR3MktDY2VMUExveFFrMTJqQ08zZ1JPRDhMS0c5N0Npb1YtdFRaSWY2Q1lxeUlTUWJ1UGkwWXVaSmNqRVUwQ1V4UmF2aG56UGctSm41aV9ZVDkwR3JHZGVkYnBlUjBJU05VZm83dXdILWxrWmpmWkZaY2ZzRGN5WFVfS0V6bllD?oc=5",
+   "resolu": true,
+   "source": "WHO | Regional Office for Africa",
+   "published": "2026-11-06",
+   "summary": "",
+   "feed": "international",
+   "categorie": "institutions"
+  },
+  {
+   "id": "uc415860b",
+   "title": "Quel lien entre santé mentale et monde du travail ?",
+   "url": "https://www.associationmodeemploi.fr/article/quel-lien-entre-sante-mentale-et-monde-du-travail.77937",
+   "gnews": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTUxvOFpoeXVoaFFlNHlzSnh0OVFWOXFJUFBsVkQ4QlVKbV9ZRE9iMy1HVC1hM29HczhGaTZacU5ZbjNkRzdyZnlJMkpaYmFkWkVPTTRzblZHcG1Yd3VTUUFZcUN3NGI5WUlXckRPLXpPMmdIZFB6ajYtMWt5clYtZGNGNy1UcU5wY1RxakwtdWcxUjBaMFB6TVhTSE5DbHl1Wmc?oc=5",
+   "resolu": true,
+   "source": "Association Mode d'Emploi",
+   "published": "2026-11-03",
+   "summary": "",
+   "feed": "societe",
    "categorie": "presse-regionale"
   }
  ]
