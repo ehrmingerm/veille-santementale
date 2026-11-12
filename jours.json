@@ -1,9 +1,256 @@
 {
- "maj": "2026-11-11T12:02:16+00:00",
- "jours_couverts": 19,
- "total": 496,
+ "maj": "2026-11-12T13:05:56+00:00",
+ "jours_couverts": 20,
+ "total": 508,
  "liens_non_resolus": 0,
  "jours": [
+  {
+   "date": "2026-11-12",
+   "items": [
+    {
+     "id": "u567aca60",
+     "title": "Santé mentale, logement, précarité... Quel avenir pour les jeunes ? Revivez 'Parlons solutions', consacré aux défis d'une génération",
+     "url": "https://www.rtbf.be/article/sante-mentale-logement-precarite-quel-avenir-pour-les-jeunes-revivez-parlons-solutions-consacre-aux-defis-d-une-generation-11814001",
+     "gnews": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUkNWQlNzVHg5RndLNDRtZVB5eWhSVzZTckFnWTctUHdQbXZDOV90ZnVZdXF2S3h2bURhQUNkam5vZXRXaGxvWHBWcnNEX0o0OHZBYXE5aUMyUHUwNG5uSHZRWW8zaVoxanItZnVoMm02RnJxTVN4SmF1S25rWFdKVGhyOElNUXBUQ3BxLWE1YUY3Y3l4eGZuR0FVVEVXVGpMT2Y4UUNlelFoQkllS3VnMU9ScV9vT01KWFNkQnJoZ2ZvUklsVFRtMUl6QVBkQjYwbGZ3c1hueU0wd2JsUVBuT3B1bWxJNTZLQ2dZWUtoNVU?oc=5",
+     "resolu": true,
+     "source": "RTBF",
+     "published": "2026-11-12",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uc42b0f98",
+     "title": "Tournefeuille. Un film pour mieux comprendre la santé mentale des adolescents",
+     "url": "https://www.ladepeche.fr/2026/11/12/un-film-pour-mieux-comprendre-la-sante-mentale-des-adolescents-13648185.php",
+     "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS1hMZEhZM0VCRThYRjl1eHRaaTd0NnJMWVVXcktPbG1QTXhULTZOTUJaVFVBMlpoVHZ3UmR3YkpRT3FwTUxESTFnM0piYU5XNFJOZm5Ed3Vyei1fSzV3QWNWdnJ6ZW1yVUtMNHlUMElFNG1CbDVEMnlkbUVhTkpJdnVLN1NTWHFDNkhNd0ptR3hBNHhDYWxHaHZqeDlsTnJ3X29LdEw3OW13R2RDQjU4UQ?oc=5",
+     "resolu": true,
+     "source": "ladepeche.fr",
+     "published": "2026-11-12",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uc5bf2e98",
+     "title": "Vivre heureux avec un trouble psychique, c’est possible",
+     "url": "https://www.ouest-france.fr/pays-de-la-loire/saint-herblain-44800/vivre-heureux-avec-un-trouble-psychique-cest-possible-7652e1e2-dd1a-11f1-9a04-3c520384c4a6",
+     "gnews": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYy1oeWxoOGlzQXhiS040cnQ0MS1hOXFaSzVOZ2dGeTROWmhSdTlCbS1NbVFRVlJWVjE5VXRtaVBQUDlPbDF2WXNvT2Q5ODlfcUI1ajJsNGVHbXAtS091UGFzTTdRRk14LVc4MmtRZG43X0RDdTY3emV5X0lFdFUtZXFhYTVza0VLRXo4cmlkd3FJTmgwMlNnQVFnWXlvTElGQU9sUDQ5R1JLWW12NjEtMFJ0ZVBXWW9ia1ZqanFidUpHM3dUb2dZVjVERnFpYUpLWnlBcmpOUXY0bDdyUVpaZzl0NlRKbHY0N1ZLZA?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-11-11",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u1b3e9e9c",
+     "title": "Crise à la FIFA : l'ancien président Sepp Blatter qualifie Gianni Infantino de \"dictateur\" \"intouchable\" qui ne connaît plus aucune limite et suggère de l'envoyer \"en psychiatrie\"",
+     "url": "https://www.lindependant.fr/2026/11/11/crise-a-la-fifa-lanicen-president-sepp-blatter-qualifie-gianni-infantino-de-dictateur-intouchable-qui-ne-connait-plus-aucune-limite-et-suggere-de-13647729.php",
+     "gnews": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZFJveGpmY09nOTEyc2lTMXFEZU9nbFVTbHFRRUNZbnlHNHJTc0dqeUR0MHJoMmlvRUVnWW5JUmYwZ2ZLMGdSNE9CS1ZOOUQzX0NFbHJhRGVTTl81NGpFRmgycWFoVmVmTU05cS1EMkhOTm9qaUVyTE12OHJnVGREV3RwQUhOZ015NEx2UDZuX2p0Z1NoTjJMYk9IS3dyNmFVUjJvWE1rUHA0UHRtT0N5YzZIQVM3QWc1ZGVDTFptWU9UZVE5UXJJY0tORWhEZ1RKOUpWa0FxRHUyNGRFb29mN2g3LWhDTnJYU0lXYmVMcjdGZnF3cjZPRzRUc2c2SWl6bF85c0k4ZWlqOWZWZTZkbWNXYmVxa3A0NE94OWNpVXNhUXc?oc=5",
+     "resolu": true,
+     "source": "L'Indépendant",
+     "published": "2026-11-11",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ub7928b1b",
+     "title": "Psychiatrie : la Vendée accueille l’unique service d’hospitalisation pour patients « complexes » des Pays de la Loire",
+     "url": "https://www.ouest-france.fr/sante/hopital/psychiatrie-la-vendee-accueille-lunique-service-dhospitalisation-pour-patients-complexes-des-pays-de-la-loire-a66a5598-d9f7-11f1-a45f-49114163a350",
+     "gnews": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPeW5VTnhzVndTUDEzZWY4LTAwX1JOVElzRTFOdU9QbzRYYjFkRHBEQVdoYnpVS2VfaThjMU5JbjBFTjZWdU54eWtZTEZzVDdfOXZSdzNYUkZzQnFrSF9hY2IxdUdVNEJOazJZZ1RCLTFPUUJ1dFdIZ0lRak1NLXh3Q0FwX0JQWDVRX3JtY3hhWWhWY1dBSDJjUVlsOFJ0Y0Z5RkNMbnNmT3hoMTZVd25jdGpwN3pSX2tpU3FrMmoyXzFqLWgxUk1CZk11VDcwNEFmb1F1dUVTcms5QUNhdXlCNzA5V1FhN0lrUDRHX3FlN21BdGZUQl96WXNZRXdHMXpabTVMQmU1Wm9LWDlnYlBrdVE1WE1GMDQ?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-11-11",
+     "summary": "",
+     "feed": "droits-contrainte",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u146827de",
+     "title": "Veterans share mental health stories and how they sought help",
+     "url": "https://solihullobserver.co.uk/news/veterans-share-mental-health-stories-and-how-they-sought-help/",
+     "gnews": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNGNIWU5aVFpzcjlBTmZKZm91LXROS0ZWTWN4aHZ3T2JpTmx2Y2dUd2daWXlQMnBnM3p3bW9LTTFYQjJ4ZHkwc29WSTRYLURKdEpBMG11WVdjTU9VOXBRb2xBMHJMdEV0c0FSc2lhYl9sQlpIa0VtZ2U5dFVKY1o0XzM0N2VBUXJMdzZnUkFOUjdVOHdWakJJRDdrSHgxNUE?oc=5",
+     "resolu": true,
+     "source": "The Solihull Observer",
+     "published": "2026-11-11",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u9cbd427b",
+     "title": "Santé mentale en Belgique : les coming out se multiplient, mais le tabou reste bien présent",
+     "url": "https://www.moustique.be/notre-epoque/les-histoires/2026/11/13/sante-mentale-en-belgique-les-coming-out-se-multiplient-mais-le-tabou-reste-bien-present-Y4NFI5MVUZBRXF67DYC6IOZCLU/?utm_campaign",
+     "gnews": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNVGxheWFTTW9uN2dDcHI5YjlTbTNUV2Y3NnFRUnpJMU9qNkVZVThUblhTRU8yU2MtanFjNDd4bEp1eVFTc2FjRFdMY3g3UXB5aVlwWEg0UHBjTUxXckktY0pqQVhOckZEbTVPMUUwYmtHeVlXSTJ1SUhMOXVuT1dnUGtWRHZrMTNISkZ4Q2ZNSFNfU0tPTjJ4WG9UdHYxSDMxTjk3ekFXQWNPdndCS0lLcWtxb243WlRoVWRBU0tmWHdMOGQ0b0pra3I5WjNJOWZ6YU5JTGRMU0JUTnB3UFZUS0FuSnpqZmFKNVJheEoybTJ3emN4SHc1NXVUOUV1NTRZcFhIWU5pWEhyTWV1Q1Z0MHZpVjExblRtZW0tRkphU3pnWm5XQjZZRGlDUTV2bDVrRXlSeHJYOHBNNjEzUlJGaWdTdHdxcEZjaGlYOG84ZktnWTRRZ1FmRUh4Q2FmRG8?oc=5",
+     "resolu": true,
+     "source": "www.moustique.be",
+     "published": "2026-11-11",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ucfcd1ab8",
+     "title": "Unité de psychiatrie : les médecins de Thetford mis devant le fait accompli",
+     "url": "https://www.courrierfrontenac.qc.ca/actualites/unite-de-psychiatrie-les-medecins-de-thetford-mis-devant-le-fait-accompli/",
+     "gnews": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONVQyWEVRNEtYWktTUzgxOUVnX0Z5UU9yNDJ4Z2p0OTZxZTROYWRoS0dSWENBcFhOZkhXcGc4eXVnVkFmdnFlUTlyMlRwX3R0bEtlWTI1SVB3OHIzSFlsSWxLdl9tejRZUWhWa0tQR2FSTmZBaGFTa3luOG9KN1AzcnZaeXI3QmE5RlExeXdwQWVnenMxejJQaEdBN3dvUms3TFp1SjY3Q0Fpb3lEUkRGdGUydDhZSENrM25BR0JB?oc=5",
+     "resolu": true,
+     "source": "Courrier Frontenac",
+     "published": "2026-11-11",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ucdf8dbb4",
+     "title": "Les délais pour obtenir un rendez-vous chez le psy inquiètent les médecins du secteur: \"parfois la personne n'est plus là...\"",
+     "url": "https://www.moustique.be/notre-epoque/nos-explications/2026/11/11/les-delais-pour-obtenir-un-rendez-vous-chez-le-psy-inquietent-les-medecins-du-secteur-parfois-la-personne-nest-plus-la-CSDZJNYW4RBFNJYHFHL43ORBME/",
+     "gnews": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOQ1REMFB2MHUyZzhWMmxuMElBZ0QxS19yQTM4UEZGa215c1RLbVE0cGducGZVRmc5aHZfMmFVbXU5TG5FQ2dQX0pDQ2U4ZEhMMkRXbkJrQ0tGdUMycjlSMXRrWVZadk1sSGJPS1JmakZxOURDaGZsTG45Skk4QlVvQmZFNUhLNWo3NEM5ZlQ3cUpjRVlWc1ExcjlWZXdWRkFHRnRoRE1rXzNJRU12bzRJUE4wa0o2TFVLanVhQzJhZXM0cFlyWFZLSk9DM3pRMnotMHlQeXN2aEtuUkFnS194NlYzYXQyOXk2dTFIdU10YlZhOEVYUEhoMWE2U0hUX3lLRG5vY0RZQ0pKeVlIM0lkVWV4UHAxdG8zV1pwX2t2SEd6NlhGdFQxWTE1Y0h2NDVLYjR1MWdSZw?oc=5",
+     "resolu": true,
+     "source": "Moustique",
+     "published": "2026-11-11",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u24a16d21",
+     "title": "Dépression, mal-être des jeunes : pourquoi la santé mentale inquiète à La Réunion",
+     "url": "https://www.lequotidien.re/article/sante/2026/11/11/19-millions-d-euros-pour-sortir-la-tete-de-l-eau",
+     "gnews": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOEtxdHBZZUxuVk5DNnB4em1TSDVxbUtQaFVVa3cyQ29mM1RLRjA1RlRDU1F2NDdaMVhFLTdkMmJLM3BzcmVNUzlRRldQSjdkbFlkRy05SFZINXFhWWpYSHFfU3pXQlJXX18xam81VGZRWFNvWEQzbTBxOFZxbkFRc016WkctVEE4LVJFNk10eHF4UGtqOW9HVVdkUUEtZnVocHc?oc=5",
+     "resolu": true,
+     "source": "Le Quotidien de La Réunion",
+     "published": "2026-11-11",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u759ee97e",
+     "title": "Sennecey-le-Grand. Des bulles d’art pour préserver la santé mentale des jeunes",
+     "url": "https://www.lejsl.com/education/2026/11/11/des-bulles-d-art-pour-preserver-la-sante-mentale-des-jeunes",
+     "gnews": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcU1GWTRTVFpxeWt3SlVvQU12VHdwcG0tREY0MmpOT05pQnZnNVM4akxpZzRNX0lKRHVKblJJNkt1OUpQY191VEFSb19GVmo4elhQT1VMNEhvc1k3S0draTM1V2gwZzE4X29GbVJrU3VjYmZ5S2lSNUFBSV80eGoyanEtM2hQQVpORW5sd0NPQ2txYnB2bUR6LWpTNjRtQkZUZWx6dw?oc=5",
+     "resolu": true,
+     "source": "Le JSL",
+     "published": "2026-11-11",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ucd60c45",
+     "title": "\"Des collègues sur des sièges éjectables\" : une grève au service de santé étudiant de Poitiers pour les postes de psychologues",
+     "url": "https://www.lanouvellerepublique.fr/poitiers/des-collegues-sur-des-sieges-ejectables-une-greve-au-service-de-sante-etudiant-de-poitiers-pour-les-postes-de-psychologues-1794337910",
+     "gnews": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNb1dQQXVxbE9wbXNMczhmX29aUms4b2t0RzhfdUxKdDBnWURYdHpwT1cwdVZKcC1yQWlPZUx2RkFpTUgtb3NEZFFsOTVCdlZFc2tsOVJRX1kxdmZ5NVZIZnRCUlJab2lkZ3haUGNPcEwzTFU1M2c0eFpNVk9JVThZVU92ZGgtRmh4X3V0RFkxXzdmYzMtS1pQUTlWeHpPaVkwS29fUkw5b2FwZjRTZDNVeUFabU1Hd3hUbXA5VHR3T2hKMTJoaWJZZEh6T1NGd19yMmhhaVMxWUdsUzFiN0VtQ0w5SUVJczhZc3lPY2RRU1AxcjN2bVRQR1I4c1huOUZ3OEh6SmtUZDhDZw?oc=5",
+     "resolu": true,
+     "source": "lanouvellerepublique.fr",
+     "published": "2026-11-10",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    }
+   ],
+   "collecte": "2026-11-12T13:05:56+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 19
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 19
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 30
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 10
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 16
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 5
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 8
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 3
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 8
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 1
+    }
+   ]
+  },
   {
    "date": "2026-11-11",
    "items": [
