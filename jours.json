@@ -1,9 +1,292 @@
 {
- "maj": "2026-11-15T12:09:49+00:00",
- "jours_couverts": 23,
- "total": 562,
+ "maj": "2026-11-16T13:02:39+00:00",
+ "jours_couverts": 24,
+ "total": 577,
  "liens_non_resolus": 1,
  "jours": [
+  {
+   "date": "2026-11-16",
+   "items": [
+    {
+     "id": "u8ad4fdeb",
+     "title": "Mesures coercitives en psychiatrie : un réseau européen pour favoriser les soins consentis",
+     "url": "https://www.santementale.fr/2026/11/mesures-coercitives-en-psychiatrie-un-reseau-europeen-pour-favoriser-les-soins-consentis/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-11-16",
+     "summary": "Et si la réduction de la contrainte en santé mentale se pensait enfin à l&#8217;échelle Européenne ? Le réseau européen Changement de conduite dans les ... Lire la suite L’article Mesures coercitives en psychiatrie : un réseau européen pour favoriser les soins consentis est apparu en premier sur Santé Mentale .",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u7ef43b71",
+     "title": "À Bourges, l’hôpital George Sand rapproche littérature et santé mentale",
+     "url": "https://www.magcentre.fr/381687-a-bourges-lhopital-george-sand-rapproche-litterature-et-sante-mentale/",
+     "gnews": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZnFsYWlFYTA1V3ZEVjdmZFR5anZBN25HYWJkUjZRMVZobWY0bFN6dnpObWRCRm1sODVJVjRYN0JqTm5EWk5BQ1hqVGxjNHZiLS1hbUNReE4xNGloSFYwc3QyUjdudFE2bHE4RnBaQVNtZkNGbDZRMHJzbmExMnliZDRQNFFHODFaVXhiVTF6NDRPTXlMVTk1UlJVOFZZc1AtTllZeQ?oc=5",
+     "resolu": true,
+     "source": "Mag'Centre",
+     "published": "2026-11-16",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u1c02bcb4",
+     "title": "Interroger la notion de danger en psychiatrie aux 10es Rencontres pour la recherche en soins",
+     "url": "https://www.santementale.fr/2026/11/interroger-le-danger-en-psychiatrie-aux-10es-rencontres-pour-la-recherche-en-soins/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-11-16",
+     "summary": "Du 31 mars au 2 avril 2027 auront lieu les 10es Rencontres pour la recherche en soins en psychiatrie. Trois jours pour interroger le rapport ... Lire la suite L’article Interroger la notion de danger en psychiatrie aux 10es Rencontres pour la recherche en soins est apparu en premier sur Santé Mentale .",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u18f6135d",
+     "title": "Obésités, boulimies, anorexies : changer de regard pour soigner autrement",
+     "url": "https://www.santementale.fr/2026/11/obesites-boulimies-anorexies-changer-de-regard-pour-soigner-autrement/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-11-16",
+     "summary": "Katryn Malvaës-Driffield est docteure en psychopathologie psychanalytique, psychanalyste et psychothérapeute. Dans son dernier ouvrage elle partage sa réflexion originale sur les troubles alimentaires sévères (obésité, ... Lire la suite L’article Obésités, boulimies, anorexies : changer de regard pour soigner autrement…",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "uee599d10",
+     "title": "What kid’s mental health services are needed?",
+     "url": "https://petrolialambtonindependent.ca/2026/11/16/what-kids-mental-health-services-are-needed/",
+     "gnews": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHJVckRVWGk2RlJ2SUtmc0QtQWFES1FmQ01GN08yYzRzZFY5QzJPZlBLMVJmVmg3ZzEtVVpqYXV0MXBKTk5XMEFpaEVDcEp1T2hoZ2lZdm9QT0x5a2puc1RjekYtRU9RRVZudWdWQkFsaGNUOTF2VjVxLTZWdEtyX3QxRHRlNjJyNURjbWVkZFhhOFpYTnF3OQ?oc=5",
+     "resolu": true,
+     "source": "The Independent of Petrolia and Central Lambton",
+     "published": "2026-11-16",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u33a294d6",
+     "title": "Santé mentale des jeunes : ces professionnels partagent leurs conseils pour aider ados et parents",
+     "url": "https://actu.fr/bretagne/ploermel_56165/sante-mentale-des-jeunes-ces-professionnels-partagent-leurs-conseils-pour-aider-ados-et-parents_65050270.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdXJheDBpT21jM21XVmsxMTctLXBWRHNLdzQ5bHpZNGxGMFN6Tm9GNFhtQjQ2LVdEdWd0bkQ2Nl80c252bkxyWmROMGMtNTdhZTV2V0t1Uk8ySVhJZ1p5TjBBZmdmSU16b3piNUxxNFdKTmFMRDVkUGZXQjNXeFFmQzc4UTRUSVNESWdMcEVURHM4cUs0Wl9hM3RkWGdaTC1wREhYYlVpaUk2ZGUydmYzNHNiaks2eGZyc3B6NVJIRkJQVU5JZkpZbmQ1NnVtcHdkYnd6cWN5YlEwandHblBlQmwyRQ?oc=5",
+     "resolu": true,
+     "source": "Actu.fr",
+     "published": "2026-11-16",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u43fc1d43",
+     "title": "STAT+: Apple and OpenEvidence launch experimental health chat app",
+     "url": "https://www.statnews.com/2026/11/15/apple-openevidence-launch-health-chat-app-experiment-ai/?utm_campaign=rss",
+     "gnews": "",
+     "resolu": true,
+     "source": "statnews.com",
+     "published": "2026-11-16",
+     "summary": "Apple and OpenEvidence are launching a study based around an experimental AI-powered health chat app, hinting at possible new directions for both companies.",
+     "feed": "stat-news",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uaa148bae",
+     "title": "Art psychotherapists are already regulated | Letters",
+     "url": "https://www.theguardian.com/society/2026/nov/15/art-psychotherapists-are-already-regulated",
+     "gnews": "",
+     "resolu": true,
+     "source": "theguardian.com",
+     "published": "2026-11-15",
+     "summary": "Elizabeth Donnelly notes that art therapists occupy a different regulatory position from counsellors and psychotherapists We welcome the discussion about public protection, professional accountability and the importance of appropriate regulation within counselling and psychotherapy ( Letters, 5 November ). However, we…",
+     "feed": "guardian-mental-health",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ueedea5f7",
+     "title": "\"J’ai eu 15 jours de joie\" : Nicolas Demorand touchant, il se confie sur sa bipolarité et révèle être plus souvent en dépression qu’heureux",
+     "url": "https://www.femmeactuelle.fr/actu/jai-eu-15-jours-de-joie-nicolas-demorand-touchant-il-se-confie-sur-sa-bipolarite-et-revele-etre-plus-souvent-en-depression-quheureux-2213270",
+     "gnews": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSEU4TkJmeXBYaDBWMC1wMUFZLWViTmZwRUNPOHR2Ym9OUG8tV01XQXVaZ0l6eHdmSGZMOXJ5WFBYcmhnVDB4clZmRlE4b2hZNElUbHNMNWZPbW9nNDVDSFA4c1FfZzEzQWluS0xNSnJ3T3pHZGpPMThXM1lGb0EwMzE4TmNGMlY5QUE4UnpzeWlNTmdPRjBPa2NSYlNVelZVUkstRW04cmROQlk2SExNMUhjamhRbHlaX01MNGxab2NkbXBvcmJJRkxnOUlIUzN6N2JNV1hacGMxSjREZFZSY09EX29Xb1o1d1FZcnA5UkhrZWxhS3A3eENCd3p6SVowdnBQVg?oc=5",
+     "resolu": true,
+     "source": "Femme Actuelle",
+     "published": "2026-11-15",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u3793e79d",
+     "title": "\"Tu ne veux voir, parler à personne\" : visage gonflé et regard marqué, l’humoriste Malik Bentalha se confie sur la dépression qu’il a traversée",
+     "url": "https://www.midilibre.fr/2026/11/15/tu-ne-veux-voir-parler-a-personne-visage-gonfle-et-regard-marque-lhumoriste-malik-bentalha-se-confie-sur-la-depression-quil-a-traversee-13653783.php",
+     "gnews": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTHFRM3RjSHRYdnRjWVhZbkNxNTY0VEVINFpsM2loUzZCM3NSaHFCQVg1eXRZWE1oMHBzWS1kNWRLaHdDNFNZbGxoOUlsOXRYdEZjcmh3bkgtTkdaTllSSnNKZGJ1SmpVTGhBQ25Fd0t6NjF2QXNxbWNhblctdGdNQUcyRVlwejlXUmZ4YnN0NF9teGhLUzd3dEpUdTZ6WE1PUFUwdnNPMDdUU3d5SE5lUElVSmFqME1mdDlidmFjcUhWcFp3TTFrLW5PeWxzd2xsZlFTTTRSc3JhZDB0UERjSDNfc2VqMGRwUXJQWXo1NzRta0FUakhVTy1uMUdTMXRFT2U0RzREeWtRUkdoZ3pjU3Nn?oc=5",
+     "resolu": true,
+     "source": "Midi Libre",
+     "published": "2026-11-15",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ub63ba798",
+     "title": "CFL, CFLPA mental health services help Philpot gain perspective during season to remember",
+     "url": "https://www.tsn.ca/cfl/article/cfl-cflpa-mental-health-services-help-philpot-gain-perspective-during-season-to-remember/",
+     "gnews": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3E5eEhJNkxDRl9DNThUVUZuT3RWTTZhYkZCR1RVT1lHVFFnQmlMNnR2S0hqWGt1SWdYakprTVg4LWFXRzBLWHZTdUx0VHctc2ZCUXJxSjJBbmtJSnhwQWtHZzRXVWtxLVJXdmEyX0tkd1RiandWampqT0RiU3NlYUJXWGxNT3NYOGs0eHBINldYSDJZMWVJS0VYNHY4LUVMUDdTRTlZM1F3ZHRJVExlbEN6ZWs2aW9QWVpsbg?oc=5",
+     "resolu": true,
+     "source": "TSN",
+     "published": "2026-11-15",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u52023281",
+     "title": "Santé mentale : quels critères pour obtenir un arrêt de travail",
+     "url": "https://ici.radio-canada.ca/ohdio/premiere/emissions/dans-la-mosaique/segments/rattrapage/2528293/forum-sur-medecine-familiale-2",
+     "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZkxUTDhpNEtjZkhDWWRuby1jVEp1aGNHd3pJbnNiSG1qS0s1RGx1aXFpSXZfNXBZbzRXeFA2QWhnX01ZeXdTZXFwbEZUTzNILUR3d1hMRTJCaVZIYV90czJ0eFllNVRpZTQzOVZfQWMzR0gzWnNjd0hsQ0lqaUZUOWZDQTJUemdMNlc4aDE0ajc4ei1QYmdIZmpmaVp2Mmx4TF9IUWxSaHpYdDBaTDRXZ2tMaXRVQzQxelRNX2FyZmdBc0ZmTEpV?oc=5",
+     "resolu": true,
+     "source": "Radio-Canada",
+     "published": "2026-11-13",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u293dc884",
+     "title": "\"Ces hommes atteints de maladies de femmes\" : descendante d'un poilu de 14-18 interné en psychiatrie, elle écrit pour lui \"redonner une voix\"",
+     "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/les-soldats-devaient-etre-virils-arriere-petite-fille-d-un-poilu-de-14-18-interne-en-psychiatrie-elle-ecrit-pour-lui-redonner-une-voix-3448329.html",
+     "gnews": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOdmIwNXd1TmxrSWRvMEtlX241TUh1c054UkpPR3ZYOUVRZ3dNT1h2cGJMa1dLUGNDT3F1dVRSRWRzcWF2ZU43Qzk5amJmOXlZOFoyMFdXaG5UalcxaWZsMVBBYzhacU83VGhxdlJxN3JXUDFlT1B0ZmVSdDN1Skp4dGVuWHd3VFE3MG92bURSbF9ZUXJINml4Uk14VFJLSkt3Vm9YWG91MEZGNGVfQ0QtLV9fc01KZk1UbXpKYk1FdkYxZ0JMaFNKa2d3LXpZbVNWX01ZSFozTG1VZnZvc1o3XzkxeUNRYzY4c0RJUFU2NTF5ZlZ5TUYzYlJfQlJvU1k3UXFDdTlueFNHd3p3N3RRN1V3eEtpQWdsY2c4c0txc0l1eFhNQjRhYTJYTGVhdTk4aVk0RlhITQ?oc=5",
+     "resolu": true,
+     "source": "France 3 Régions",
+     "published": "2026-11-12",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u4abb8b86",
+     "title": "Santé mentale des adolescents : « J’ai peur qu’on échappe ma fille »",
+     "url": "https://ici.radio-canada.ca/article/info/2299929/detresse-adolescente-abitibi-dpj-psychiatrie",
+     "gnews": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0M0SzE0THRFa0RWcFd6UHpmdDJzOWdxZnBCR3I5MWNVMjJuU005ZGgzNDVEbnMzSFlPOEJ5TmhLNzAyWFUwVzltQnFrQllMbS13Rm9zWk9oQW1zTkdzRHQyenpXcnVSUGtEVWw4V0tha0NqcnJEUnE5M09IQ0FWdlFRSl9wdTBXLVhGak8yd1ItaVpMQlEwZw?oc=5",
+     "resolu": true,
+     "source": "Radio-Canada",
+     "published": "2026-11-12",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uf01f3c4b",
+     "title": "Cartographie des permanences d'écoute psychologique à Paris",
+     "url": "https://www.iledefrance.ars.sante.fr/cartographie-des-permanences-decoute-psychologique-paris",
+     "gnews": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjJEdVNlVWcyZ2dzWEE0OVhDTU5odWp0YWNCQzdVNkU0TTkyNnAzNTlLUG15ZXE5ME52WkZuc2I2WEFROWtvaU45NFh2NWZtVnhTVS1rSTZ0NThtQ21kRnhOX1NEU19TZ0RKTG52ZklkSThEcnRtdkZ6cTM4LXFBRXlfX2RJYjZuTVFCRG1TZlRTUmlXSEJlNQ?oc=5",
+     "resolu": true,
+     "source": "Agence régionale de santé Ile-de-France",
+     "published": "2026-11-10",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "institutions"
+    }
+   ],
+   "collecte": "2026-11-16T13:02:39+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 8
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 13
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 30
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 14
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 17
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 3
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 9
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 4
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 4
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 3
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 1
+    }
+   ]
+  },
   {
    "date": "2026-11-15",
    "items": [
