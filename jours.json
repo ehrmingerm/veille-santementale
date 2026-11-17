@@ -1,9 +1,400 @@
 {
- "maj": "2026-11-16T13:02:39+00:00",
- "jours_couverts": 24,
- "total": 577,
+ "maj": "2026-11-17T13:44:19+00:00",
+ "jours_couverts": 25,
+ "total": 601,
  "liens_non_resolus": 1,
  "jours": [
+  {
+   "date": "2026-11-17",
+   "items": [
+    {
+     "id": "u52405e6f",
+     "title": "Dégradation de la santé mentale des enfants : quelles sont vraiment leurs difficultés ?",
+     "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/56318-Degradation-sante-mentale-enfants-vraiment-difficultes",
+     "gnews": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbWFtUXU3WEdWQ0ZjS3hrLW1qTW5zZzUyRkVOZ0lRenRjMG5JSVdWRTJNVlFIQ0ZCbGF6YUhlaTVZTmhFdjVVOFViRHJhVlNKSmJnd1lJZUhpcHlxOF9ISFJ6N2c4WWMtcTdPWF9NSjQxZGtnS0tRZ1c3eEFROExpdWFSZXMxR2lUMlc4ZmFnOHRKMHhwS1Y2NkdiNjVrRFl5T0ExbmlfSVh3SVhTM3hIRTdoem5wb1U?oc=5",
+     "resolu": true,
+     "source": "Pourquoi Docteur",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u3aa3937",
+     "title": "Mieux soutenir les pratiques orientées vers le rétablissement",
+     "url": "https://www.santementale.fr/2026/11/mieux-soutenir-les-pratiques-orientees-vers-le-retablissement/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-11-17",
+     "summary": "Comment mieux soutenir le rétablissement personnel en s&#8217;appuyant sur des outils testés scientifiquement ? Simon Felix, Docteur en Psychologie et Maître de Conférences en Psychologie ... Lire la suite L’article Mieux soutenir les pratiques orientées vers le rétablissement est apparu en premier sur Santé Mentale .",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "uc7d65dd4",
+     "title": "Précarité et violences pèsent sur la santé mentale des jeunes, l’Unicef tire la sonnette d’alarme",
+     "url": "https://www.courrier-picard.fr/id760035/article/2026-11-17/precarite-et-violences-pesent-sur-la-sante-mentale-des-jeunes-lunicef-tire-la",
+     "gnews": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORmhwbUtQSENVWl9Ea3NyOUdmVHVYMGlXdjk4d2dmSzJhcTlqX3pIeDBRYUpNXzZJMWJCZkxqT3JjLUwya1duVVdyZ2RqQ09VUUoyYlE1Vm5xNzFIeXF2RlNaZ2ZxY084dHg2Ulc2RDR6bjRhQkI1czhEcFIzbGFNWjgwUThpbXBwbHE1VnVPREwtdFl2dW1yMTAzZGJBb2dqYldtdXZYOGduYUhrYy13OVFwVWwybVZKMkN4X3I1REFZY004SFFOSFh2aTN6WXlRQ0E?oc=5",
+     "resolu": true,
+     "source": "Courrier picard",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ue8817a81",
+     "title": "Santé mentale des jeunes : précarité et violences aggravent les difficultés psychiques",
+     "url": "https://www.sciencesetavenir.fr/sante/violences-precarite-isolement-l-environnement-pese-sur-la-sante-mentale-des-enfants_196170.amp",
+     "gnews": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeTdoUTk4OTRqbFFCdUwyY1E3WXlXRjRiNEtLT3hHWlJRUUlhRkVDWTRYN3dZNlM4WWJHRU10YklONUVWbUtIMmUwQmhRWU9FSk5pR2VrRHBqVTdXS3dRbkMwbEZFWFZIYVZjeFlfS0o0Y0V1bWR3OVlsTzJqSjA3U3FKclFsWkY5czlpNzU5eTZRUTBzczBvZkloUzhTaUNmZ0t6aFpOVnozeGxvRGdXa3QwSjZtWF9RZnA4NXVxVklybXFkeXdaZ1VzU28?oc=5",
+     "resolu": true,
+     "source": "Sciences et Avenir",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "uc01adc8f",
+     "title": "Santé Mentale Étudiant, le site pour savoir vers qui se tourner",
+     "url": "https://www.sudouest.fr/sante/destination-sante/sante-mentale-etudiant-le-site-pour-savoir-vers-qui-se-tourner-31560865.php",
+     "gnews": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRUx0RFdFSjNGRHhBLXprVGlzZUpVRlFNUVRjbWc3V3h6aFMzOWdseFkyY3FIZWFHd3B0OXg1TzVuM2dUWFVVTzdMYlh2X0tZYmlXeXA4M3VxT1pjMHRKdVlyY29WMGtrWmQzRjQyM1lKUHMtZ3VlV0cyYzM5MFEtd0lyUm1nZ3V5anlwZlNIMnFjNDZMSk1SZkxhUTc0N2ZDbS1ZdklUWkx5UUZPNzE1b0FSNzBJLWdmenMtMVc3NjM?oc=5",
+     "resolu": true,
+     "source": "Sud Ouest",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u86afb148",
+     "title": "Expérience Patient à l’hôpital : un rapport pour éclairer son développement",
+     "url": "https://www.santementale.fr/2026/11/experience-patient-a-lhopital-un-rapport-pour-eclairer-son-developpement/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-11-17",
+     "summary": "L’Inspection générale des affaires sociales (IGAS) publie son rapport consacré à l’expérience patient à l’hôpital. Il met en lumière les bénéfices de la prise en ... Lire la suite L’article Expérience Patient à l’hôpital : un rapport pour éclairer son développement est apparu en premier sur Santé Mentale .",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u9f35916f",
+     "title": "Sommeil altéré, anxiété, émotivité… La précarité nuit à la santé mentale des jeunes, alerte l’Unicef",
+     "url": "https://www.humanite.fr/societe/jeunesse/sommeil-altere-anxiete-emotivite-la-precarite-nuit-a-la-sante-mentale-des-jeunes-alerte-lunicef",
+     "gnews": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYjVSQkxKLWNPLWFsZUUxNlU5eV9wTHgtdkF2MDRuZUNhWnBVWWNLQkV1UGNDMU95MW1BZEFlejBMbEFFV01oMUtqTlc3eFB6Z01vMDJmLVp0MkxxdE5VbFN0NkVXanpjem81QXIyLWxUSWFCZVBtcDFUSmFZSVpGNFJobmpPTW00dGI3SzVTQloyOEN6RHRkdmxrMTEteEtGR3lSVW1pSjFVWldWQ0lfeEFHUEJsQ3haYTNpU0ptWmVTd3BpQU1NN1RkRG9GM21qVFE?oc=5",
+     "resolu": true,
+     "source": "L'Humanité",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "ufebd2c62",
+     "title": "Quand les DU enrichissent la pratique infirmière et l’offre de soin !",
+     "url": "https://www.santementale.fr/2026/11/diplomes-universitaires-la-dynamique-se-poursuit-au-vinatier/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-11-17",
+     "summary": "Au Vinatier – Psychiatrie Universitaire Lyon Métropole (PULM), la valorisation des diplômes universitaires (DU) infirmiers se traduit progressivement dans l’organisation des soins (voir article). Illustration ... Lire la suite L’article Quand les DU enrichissent la pratique infirmière et l’offre de soin ! est apparu en…",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u89adf28d",
+     "title": "Une création artistique où les larmes de chacun font le chant de tous !",
+     "url": "https://www.santementale.fr/2026/11/une-creation-artistique-ou-les-larmes-de-chacun-font-le-chant-de-tous/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-11-17",
+     "summary": "A la croisée du concert et de la création littéraire, le projet « Nos larmes » mené au Centre hospitalier Valvert, à Marseille, est un hymne au ... Lire la suite L’article Une création artistique où les larmes de chacun font le chant de tous ! est apparu en premier sur Santé Mentale .",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u7c8c29cf",
+     "title": "Soudan du Sud : de patient à porte-parole, un témoignage sur la santé mentale",
+     "url": "https://www.msf.ch/nos-actualites/articles/soudan-du-sud-patient-porte-parole-temoignage-sante-mentale",
+     "gnews": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOak1Uc3dvdVQ2S2I0YmJjZ3BYQkQ4RUo0S1hNRWQzREctUU14V2FSbWNTYW1ZMGRkQ1pXSk5WVEotb0hWVUcxeXE2T0lKdkhhWGpVM0d1TUtDa1QtTmJBdUhOTXNlYkkyZjdHOWplZEI1dGRic3UzVzRqa3FCYnctQ0tjZ19jODJyUU5hQm9qR21iMV82NkliLXA5M3ZmQldEVXY2Zw?oc=5",
+     "resolu": true,
+     "source": "www.msf.ch",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u47b79048",
+     "title": "Un jeune sur trois souffre d’une difficulté psychique élevée, révèle un nouveau rapport sur la santé mentale des enfants et ados français",
+     "url": "https://www.liberation.fr/societe/education/un-jeune-sur-trois-souffre-dune-difficulte-psychique-elevee-revele-un-nouveau-rapport-sur-la-sante-mentale-des-enfants-et-ados-francais-20261117_PTILNIN7XVA3VDJAOSINHUVEAU/",
+     "gnews": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQdkdHNGFqQ3lseUU5a3YyOWxPVk84aHVpVXAxbEdKVXlPS0JoaWZ1NEhDWWFMdTByM1lmYktRbk0wV2d6aE45RU9YXzVoYkxYYm5rZ0kxQnNvUWRrRFkxYldRbWZkYnlmNjVZNjNRalBLODBLMDA0bWNyemd3ZlYzd1NCV1B5VER0b2xhNE01bUFXUlRvcWJMWTRhalo2T0pMNkZfM1lVVHpFUHdkLVR4ZjdfSFY5NF9jT2lxZWo4VTJUOVAxNlRuTG03VUY3SWVMUFQyWWZlai1ScDc1bW02Zzdrblg0OUVLa1dMUm4tQlhJOWxpcVRjcHhOMUstM2t3eTB2d0VvbmVuNEpZY2tRbjA5WTAzbzJZOWdMX2V0VEJkZFlJeFRGLUFrV3JDUWtmZko1RVZWaFZPMWdn?oc=5",
+     "resolu": true,
+     "source": "Libération",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "ub12addbe",
+     "title": "Lincolnshire NHS Trust to streamline children's mental health services",
+     "url": "https://www.hellorayo.co.uk/hits-radio/lincolnshire/news/lincolnshire-nhs-children-mental-health-integration",
+     "gnews": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMTJrbnBhWnR6eHppbmY4ajFHclZ2cXpkQjJXRTZZQkdBUFROajhtTnpNS2psVUN2N3NmTWQ4clQ0a291UUg0V0hHa3Nhek5BalAtUnkxVk1ncjRXMGF5czdaaEdrTEJnX3dVYjhOY0VmTXhXMmxXbFE1TVdxQUtVVU5QdHluaUR0NXE1ZEh4Sk5qelJ0TWpzeXVQUkZUM05jQllTOVc0VmNjUHZ6?oc=5",
+     "resolu": true,
+     "source": "Rayo",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u9b009772",
+     "title": "Plans for 24/7 neighbourhood mental health centres",
+     "url": "https://www.bbc.com/news/articles/c6d91x7l3gjpo",
+     "gnews": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1NWpWTWVhV0gtemVxUzFqMUNlbTVsSFE1NjJvY24xdnR6S0plZlFVVENQZElBWlZGOFpXcS02Z0w3MnBSYjdLeW1jcnNkMEhSelliLS1CZGdBZFk?oc=5",
+     "resolu": true,
+     "source": "BBC",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u4f79707b",
+     "title": "Alcool, drogues, suicides : les « décès de désespoir » font des ravages aux États-Unis, qu’en est-il en Europe et en France ?",
+     "url": "https://theconversation.com/alcool-drogues-suicides-les-deces-de-desespoir-font-des-ravages-aux-etats-unis-quen-est-il-en-europe-et-en-france-292388",
+     "gnews": "",
+     "resolu": true,
+     "source": "theconversation.com",
+     "published": "2026-11-17",
+     "summary": "Suicides, alcool, drogues : les « décès de désespoir » qui minent les États-Unis depuis plus de deux décennies ont-ils gagné l'Europe et la France ?",
+     "feed": "the-conversation-fr",
+     "categorie": "recherche"
+    },
+    {
+     "id": "ub00ed0a4",
+     "title": "Evènement lors de la SEEPH 2026 / Santé Mentale, travail et inclusion",
+     "url": "https://www.bordeaux.fr/agenda/evenement-lors-de-la-seeph-2026-sante-mentale-travail-et-inclusion",
+     "gnews": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmF6RV9kcHo2eWFqTzk2X0RkUW9QM1pmNktrejExcUQ4VVBMeUdnTk5YMzcxN1lMUzFwYWgxSW94Y2szRDFyaGhjcUljU2d1VmlwR0Z1LWNNbEEwVG5kekhDaU9RTEs3d2ljang3cWlzMUR5azhSZkZzSG1PRFJOZ0FMNUthMFNPSVkwakM3eS13U2lENDFaVktCYUV3Zw?oc=5",
+     "resolu": true,
+     "source": "Site officiel de la ville de Bordeaux",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ub046b77a",
+     "title": "Leader d'Ambri, Nate Schnarr s'engage pour la santé mentale",
+     "url": "https://www.blick.ch/fr/sport/hockey/national-league/hockey-nate-schnarr-sengage-pour-la-sante-mentale/ksn6229",
+     "gnews": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONzFZMGE5eEcyTll1VVBWb2NBZXN6aEozRFJ0ZER1VmFLSlNMenowUGhlcDAtSUY3YjV3OUZBV0daU003T2dqQ3RqMFl0eE52a2hZZUFWWXhLc3FIcWdRWTZ2SkFTdmtVUWp6ZlNaTXllWm9YcXNNOV9ZdkQ1dnFGbnlBMmJKOUJEY1FWUkk5cmhrREhTOUtxUTh5OFFrRTZRcnJUZDBxNUlJUXNNdnJV?oc=5",
+     "resolu": true,
+     "source": "Blick",
+     "published": "2026-11-16",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u99fc80c",
+     "title": "Liban : l’ONU veut placer la santé mentale au cœur de la réponse humanitaire",
+     "url": "https://news.un.org/fr/story/2026/11/1159852",
+     "gnews": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15UE1keWdXajBuLW9kZVJRRTNGdmlrQ3g1SWo0b01qdldnZW1fbEhnbklUYUZnSmtfNGNwTTRfWjBLR082d3RNemZXWXVqUjFJel9LYlRJZw?oc=5",
+     "resolu": true,
+     "source": "UN News",
+     "published": "2026-11-16",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "institutions"
+    },
+    {
+     "id": "u8399d82a",
+     "title": "Lycéens : des indicateurs de santé mentale préoccupants",
+     "url": "https://www.mutualite.fr/actualites/lyceens-des-indicateurs-de-sante-mentale-preoccupants/",
+     "gnews": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFoxd2dadkVTeURmcFpmY2QyNjdvSVJKUS1ZdmFnNGE2b25CR0tVVnRUSHdYQWJXLTVxQmR0NG9aU3dtNUI0c1RXQWUwTVppeW1qWWtDNUFZSlB6cy1hYkxZb1Ftd09fcmlDTjZOZlN2TzRSLXo2czBPOGdxMHk1SDNJQmpWOE9LTTJacVBXTzFnR3NM?oc=5",
+     "resolu": true,
+     "source": "Fédération nationale de la Mutualité Française",
+     "published": "2026-11-16",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ubd33647a",
+     "title": "Université populaire de Dieppe : philosophie, santé mentale, cinéma, vikings et IA au programme de décembre",
+     "url": "https://actu.fr/normandie/dieppe_76217/universite-populaire-de-dieppe-philosophie-sante-mentale-cinema-vikings-et-ia-au-programme-de-decembre_65060914.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNG9mcEZmR0hlU3Bic25LTWtwa2ZCb3VCVW9Fb1BfZmVmZHRqZksya0xhRFNiR3R6M0xWSjlfdjY4NUFFWm5lcmhxT2pVQ08yZzdWOGJxXzhMNGZUOUc1dUw5ZjVfUXo1X2V5YU42YlNvMXVOQzQxdUpzdVdfV3JkTUppVm5YMUU4akdJSUxZV21iT2dpTXRHZ3Frb0dOUndoS0JGYVVDcVljbW9wT3pZdXJmOUppcDBGNlNXdFlmNFoyZ042ZFl3d2JvYktPTW16aUpzc0lYVWpnZ3lPZGhyd2xIYTU4VlZ3WURn?oc=5",
+     "resolu": true,
+     "source": "Actu.fr",
+     "published": "2026-11-16",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ua8862391",
+     "title": "Protocole de coopération : bilan positif pour le suivi infirmier en CMP au CH Drôme Vivarais",
+     "url": "https://www.santementale.fr/2026/11/protocole-de-cooperation-bilan-positif-pour-le-suivi-infirmier-en-cmp-au-ch-drome-vivarais/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-11-16",
+     "summary": "Déployé depuis plus de six mois sur le pôle nord de psychiatrie adulte du Centre hospitalier Drôme Vivarais (CHDV), le protocole de coopération « Consultation ... Lire la suite L’article Protocole de coopération : bilan positif pour le suivi infirmier en CMP au CH Drôme Vivarais est apparu en premier sur Santé Mentale…",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "ub9f71c63",
+     "title": "STAT+: Helus’ psychedelic drug improved depression in study but faces safety questions",
+     "url": "https://www.statnews.com/2026/11/16/helus-psychedelics-depression-phase-3-trial/?utm_campaign=rss",
+     "gnews": "",
+     "resolu": true,
+     "source": "statnews.com",
+     "published": "2026-11-16",
+     "summary": "A psychedelic drug from Helus Pharma improved depression in a study, but is facing safety questions with a number of serious adverse events reported.",
+     "feed": "stat-news",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ud985dcfb",
+     "title": "\"Là, c'est une dépression et vous ne pouvez plus bouger\" : Nicolas Demorand livre un récit poignant sur sa bipolarité dans \"Sept à Huit\"",
+     "url": "https://www.tf1info.fr/culture/video-portrait-de-la-semaine-je-suis-un-malade-mental-le-recit-poignant-de-nicolas-demorand-sur-sa-bipolarite-dans-sept-a-huit-2475932.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNODBQYko3bzg4a0R6dUtpUDAtb2JGRmx0amVSYjR0cURYM2ptckMwUFNrMDJEbmxRNUZ0NnQ0djFKY1dHZEZpVVVjU29UbVc3RDBBXzJNSmVzTGFpVldnMGRUREYtbzQ4TFlzU0puVXpOaW5LUkNiWnpRZHZYc1dyUjRValRPY0dxQkR2T19GczJ6VUR2MDlCTFg4SFVfQ3d0dWtnRkE4b2tjd253enhpb2xKX2pxZ0NENkJ6OEs4aFQtdlhoSUpUbzVQenJQWjZTdkNNTFFVeFE0R2VZUkN2N0d2UVRhWDJldlNCSWU3NC1KQWRFeHQ5VXB2Y3Y1cW8?oc=5",
+     "resolu": true,
+     "source": "TF1 Info",
+     "published": "2026-11-15",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "uce3b7fd7",
+     "title": "L’Arbresle : une conférence sur la santé mentale",
+     "url": "https://www.oisehebdo.fr/2026/11/15/larbresle-sante-mentale-conference/",
+     "gnews": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fX25wRGtZejE1d3dVRzZhbHZ5Y002aVIxb2VkTG9ISTRwY2RQSElLRTFEcFNkZlRUQS1OTzFMazNZWlN3Yl91bUE0MUpudFFta0lKQWFyVE5TTS0xdGpFNTJGTEVnUEQxV3h2T08zaTliZWlERmlWRGl2WQ?oc=5",
+     "resolu": true,
+     "source": "Oise Hebdo",
+     "published": "2026-11-15",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u9b3dcae0",
+     "title": "« J’aimerais parler de santé mentale » : après le décès de leur proche, cette famille témoigne pour en aider d’autres",
+     "url": "https://sante.ouest-france.fr/sante-mentale/jaimerais-parler-de-sante-mentale-apres-le-deces-de-leur-proche-cette-famille-temoigne-pour-en-aider-dautres-8fc3d852-dd2e-11f1-86b6-0a2fbb1d8ed9",
+     "gnews": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPbE93UVRlSFVScmwxTm14Y0dDMTZFV0V2WFdCWHRmZHBrd2JBWUYzbDh2LUdIdHhxMjlLcXlCNkdfMWFMRHR4SUZRS1oxbFVxTEloUVhYRTJvZjVZazVRb1B0WUtUS0FMS3Bfb0JLRUp1YS1LdWxvUjhvdC1zdnJRWDladDN3aF9hbFNralJSTEFJMnFGM0JNS196VDVULUlOQ1hsNTdKYVg2Y3hCMkdmUTR2aGZULXBxY2swbXF0ZlV6THVrUHF4LTZhMUdHX3c5bmR4TTVfYVlUcEJiemczLTZ3UmVSYWhEY0R5SWRDejdzeUNwM01wdkxzZDBnSVFMdXFKdVBudXpGS1hFUzNudjdBSmpzWmZY?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-11-11",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    }
+   ],
+   "collecte": "2026-11-17T13:44:19+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 9
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 16
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 30
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 14
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 19
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 5
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 8
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 4
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 1
+    }
+   ]
+  },
   {
    "date": "2026-11-16",
    "items": [
