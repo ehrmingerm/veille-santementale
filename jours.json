@@ -1,9 +1,424 @@
 {
- "maj": "2026-11-17T13:44:19+00:00",
- "jours_couverts": 25,
- "total": 601,
- "liens_non_resolus": 1,
+ "maj": "2026-11-18T13:19:38+00:00",
+ "jours_couverts": 26,
+ "total": 627,
+ "liens_non_resolus": 23,
  "jours": [
+  {
+   "date": "2026-11-18",
+   "items": [
+    {
+     "id": "ucba84472",
+     "title": "Santé mentale au travail : « Un manager qui va mal, c’est une équipe qui va mal »",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNWRURXc1a1JHVGNRNTMyRFF5eDNnTWsxQWpDektJR01YaHlTdE5KTXp5RE1ERzgxekUwa25mZ0RTbi1NOThTR0Uwa0ozZXB5c0paRGE2VV9VWktWVklDazNaR1VFV1dlNFpEY1VPMUxIN1g4REpLdWJKOVdZb0tGUVhNdVdaMUpmVkItQ0RnaFQtSll6NTY5VlpQaWUwUmtUQzYyc1NKOUVkckZxdVNXTjNOSEktcEdRMWJUakJjajY1eUtSSGtmdkJra2dZbmZoYjFlOFllcw?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "Placéco",
+     "published": "2026-11-18",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u16cf1b2",
+     "title": "Deux directeurs des soins sur trois en risque d’épuisement",
+     "url": "https://www.santementale.fr/2026/11/deux-directeurs-des-soins-sur-trois-en-risque-depuisement/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-11-18",
+     "summary": "Alors que les effectifs des Directeurs de soin s&#8217;érodent et que les candidats aux concours se raréfient, Le Syndicat des Manageurs Publics de Santé (SMPS) ... Lire la suite L’article Deux directeurs des soins sur trois en risque d’épuisement est apparu en premier sur Santé Mentale .",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u957a8a3f",
+     "title": "Un nouveau prix pour « Quelque chose comme une araignée » un livre de photographies sur la psychiatrie",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdEQ2SmNyS3BPRGpTN3drUTRxeG1oYjhIRGt4Z0NjV0VLZkJrenNlTkFHYVpFVFFjODd4X2JwT0o5WXFEUEd4ZlZEbVdtS3F4QVBDUnljR1B4WFFhM0hkTzkwbDJ2aERPS0QyaVlHYVVIWGRWa0JNR2IwZEJHSXpUdHpRWjJ0c2NVSXAtOFVKSll5STQ3LVJ1RkFLZDlMcHlWNktjRjZxbW9UWWxLeDd5TTlGRGtRR0ViWlBHUW51NE5ISjNFd2hScHoya1JmTEZXN3JjQ0JWbkpOOWFQeGVhRW1TdnhJZF8yelBJZkNPSHVlbXQyZ0dOcmpOYUh4R21kc3hJTmRBWQ?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "Ouest-France",
+     "published": "2026-11-18",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u29c3d343",
+     "title": "Indignation en Croatie: brutalisé, un patient décède en psychiatrie",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaEYtbENELUNZLVdOMGE5dmxJU2NEUmlFaDRzdnY5RS0wRmVoNFc3cm5zb0xaSkh0Zk5fUEMzMFRrLVNWeHM3LTF2SV83R1hVLU9oemxHbGVTT3lhMmNERC10LV8xaVBUcTNrWmcwM1E3SklnYnpkbkZfU1pxY1RGRkdzZjduN1o2WFcwbTJWdHVxUHNubERlakp4T2pZZHdXR3ZfUzRHZkpVaERCZkM0?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "20 Minuten",
+     "published": "2026-11-18",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u34877b24",
+     "title": "Lola Dewaere en \"grande détresse émotionnelle\" : l'actrice révèle avoir subi un burn-out sur un tournage France TV",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVlRHcGhMM2lPZmQ4ZlFMRDVSRXAtaTgzajFmX2VrTW5mVlQ5TjR3TGlkUXpUUGREcmQzVmJFX3B4cTJaRU5RNENGQU0xQzJuUkM3NEVnY3VwYVR1MTZ4blpqanUyMWZlOUVBUnJ6U2FxLVlabWVINC1WS2dCY0ZocHB3OEtlOExQVlc4YTd5dXZBMk9zc3o4REJydUNSM2RzbEs4dlpEekFndGlqTElGeVIzVHFaVDk4MEZ0dHF6blZvd01WSU10YWlVUV82c3ZGVXJQMDc1WTYwZ1NLQ2pZRUk2SkZmeVhPaTVmZA?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "Actu.fr",
+     "published": "2026-11-18",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u3c820815",
+     "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
+     "gnews": "",
+     "resolu": true,
+     "source": "theguardian.com",
+     "published": "2026-11-18",
+     "summary": "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16s Countries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated. Now researchers are seeking answers through a major scientific study led by W…",
+     "feed": "guardian-mental-health",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ue361dff0",
+     "title": "Luc Ferry : « En vivant jusqu’à 200 ans, l’humanité risque de tomber en dépression »",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTFweHoxMnVPS1VaLVZaNlhlZzV1cDI5RnN6VlpHSmRscTN1YWtGU1NRUTZxbGVYZVFUVU5QRVhRakMyRjQtWlpOUjhWSzQwcGJHbjE0MldScnpXM2Y2Sld3NHpmdzg4S2hQb3FFQ2doWUZNSkVXdnNPUWdHX0tvQUZmNk1ZbkFfRWxkdEFqNVgxMHdDQjF5ZDZ6MmFxaXZUYUd4SkRndldHOTd5ZHVkSFFqWFl5ZGdXY05aS283cw?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "Le Figaro",
+     "published": "2026-11-18",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "ua8a1e555",
+     "title": "Santé mentale, contes, mythes et légendes… Le festival Grande marée dévoile le programme de son édition 2026",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPc3N2M3JNQ0hWazFseklZVW81MUJjSVdPTlpRVHRFUXQ3S1RQaFJHTlNSdnlueWZiVnFYSWxodnIza1J2S3JaMTlZajhMU3dTRDV6bDdqV0tfZHN2TWpqd2xwSVdPOHFLTFpneG5rcWhlSFlpNXpLaDhKQnNHalh6WTUyVk9YenFSNkRIamJmTENlSjJZYXdrb1g2V2J4eTRaVWJOX2VBUm9zUkhQLXgxbVJ4S29rTEVodTJfR3ZkTGctdjcxMzU4cllRVmoxejFwaHcySm9sUDlUOGxWN0d4Y01VRmN4NjVZalpnMDd0TGY0UTExVkhaakJTTEdGLVRHUDgyUU5Jb3A0YVhs?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "Ouest-France",
+     "published": "2026-11-18",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u941eb080",
+     "title": "'C’est le désert médical absolu' : les soins de santé mentale pour les jeunes sont saturés, quelles pistes de solution",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPellyZjdMd1Flb3Q1Z0VxNktCUzdfODFRb2tfX1UxRElNVlNSUDBQaFRCY0lmdG8xUnJ3SUtzaER2eGJGUFhuM2lTeXA3WUdIT01Xa1MyQjhWM3dST3Z2ZjhGa0hobmtrcm1jSEJXb3Q2Q1l3M2s5ejhTdnNscTNoaFBnYkczWkh4THdUUW9KaFlrcjF4YmUzSVIzMXRNZk9Ta01PUjRHTVF4ejEzN05NUXZaVGdtQkVCMUxZZmQ0cmRYWnYtY3JJOFNQd3ZCN0dPVjItOGFHdGtxQ2VKdnB4UmZCckQ?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "RTBF",
+     "published": "2026-11-18",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u2e366a54",
+     "title": "Wayne Rooney se confie sur sa crise et sa santé mentale",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHVzUkpEcGVWb1hfY2hRYjYzLTdjMGZVY3h2NHJnSjUtRktxUnhVeUdkMl94Q0lBOWxORVZYNFItdmRvdE1LaVlwVWl5N2R0Y1RYRWNDREVyWlhGVGtBTjFGSTN5Sk5feXFnSVhpUlV5U1Ayd0JLVTZISnZaZ2JONUJ5OVV4VXdHT1dTSVVTb1ZlUF84V2R5SmtYdC1JY0tYS0pMczMwNFZxc0xEQlNndGpOY2JRdw?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "KarloBag.eu",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u8dbfe07",
+     "title": "C’est brutal, on ne l’a pas vu venir » : en Centre-Bretagne, l’unité de psychiatrie de l’hôpital de Noyal-Pontivy va fermer",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdDJqZnVVbjRYM3IwTlpZMzNJQ0pXdGdBTHhlQ1YweWtWTzF2MFhtZEZlemwtMFlwRm11QzVKbXA4RTdZUldGVjNQcXRIUWRFTnJaYVFwVklldVVPVUFvSzJNaFNCNV9SaktaOUFiY016QWNSTmNjNlhvNzdhUmFwYVZMNE1LbE5hcnpjNkwzT2RVVkEwdTRfc3BhVFVUeHFTWk1hTnpleEVpeEhsYjNsaEt3ZXNpRHVvRllHSm1GLVJoSWQzRnlXMTUtOWtkSHV4WlExd2NsQi1xZmRSQlZ5emVHNUVXREdYOS1KeE4yWUpmNHZqSi1BRG1pQmFBZFNOSmJoelhVRQ?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "Le Télégramme",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uee82ce71",
+     "title": "En Centre-Bretagne, des soignants sont sous le choc après l’annonce de fermeture d’une unité de psychiatrie adultes",
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPeGFCck91akhpcUY4Qms1Y25UQ2plZFFrcVVCR2RxREdRVHN2TXFVWVRFQ3hkcjU1cUVzcXBPS3VMcTdKNmV2UUR5MVhUM0syZ0RJRFJ1X1hmM0VxRDRmNzRpUlRMR3hJbjZoY0FzT3FkRUJ4TGZsUFlwWDVwbjhxa21JQmZtdFNnTlVmOFZ1endyaG1vNUZZVzJYZGdYMFpyNS1aSzJzazBOalFpSzJlNUgwS1FLTHVNbi01YktCMmlDdHVFSHcxMUY5Y1FlZWVyeHMyLUVWRG4xMVg2bW9PSTZSN0pKME5qcm1idm9wcERBYTVjb0NfanVEaXg1NWJXOGpPZTA5MUpvQTI3OVJpYnVXNnpvYWJZZWtZ?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "Ouest-France",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uaf21b1ee",
+     "title": "Wayne Rooney says he contemplated taking own life during playing career",
+     "url": "https://www.theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health",
+     "gnews": "",
+     "resolu": true,
+     "source": "theguardian.com",
+     "published": "2026-11-17",
+     "summary": "Former England footballer opens up on mental health ‘It was probably the lowest point’ at Manchester United Wayne Rooney has revealed there was a period in his Manchester United career where he contemplated taking his own life. The former England striker said that, even as he flourished on the pitch, he was struggling…",
+     "feed": "guardian-mental-health",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ud47bd3ec",
+     "title": "Santé mentale des sportifs : la légende anglaise Wayne Rooney évoque des épisodes dépressifs durant la “meilleure période de sa carrière”",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT2p3dENQaFRMOXZqTDZKRlZwWlNGcnFYcEVPQ1ZDTWtRdkxEZ3lkbjlteHNxQ0ZtbG1PeG53QnV3UFVSUFZheGtnMmxEMWhxSVBNaFY2bHp3VkxWVDlSMlgzeFNWd3RnSzhQTkFSUjd3cTB4UDNIVjd4eDVpMWRVSlMtb0FKQjVkQ1dBbkhqUDhjYm0tUVZpeENWWXpmeFFseG1mcm9qdW45VEI3Z2FkcjhGWm9Mc0ZZR3dLbWZQNnBfazc1TmhnWURIMA?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "La Voix du Nord",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uf15fd343",
+     "title": "Il s’enfermait chez lui pour boire pendant des jours : cette légende du football anglais révèle les détails de sa grave dépression pendant sa carrière",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQN1ozT0pzdGI3dVpRVWk3a0N1RmJWQV9mTFRMZTlIcTA5M0ZlRmwwTHV6TEp6X3Itd1Q1amZaVmh6S2xpYzVMYmQ4QU9rY2Zjdl81c0ZTa0RVOXBheVlCSkdpeFV6dUJyUjc4MDd2TXdZMnZBbHJydFdPZmtUSWlYRkhEVWUzbWpIVVFOZ2NFT3V3cU9CNGZhNm83SF9xV2doRUlBd25VMEtMVDRyRnVZYm5HdWpsWUdBZlpsN2dZYVMtSTZsR2V4aGhIZ1NCTFYxV0ZxX0xMdUxnTFY3OG5DTzB5T2RaTDQybm9ES3lyeGRyOGMxYVhRdnluNkRORF9lN3JDM2FGckdaM0l1TFlIakNtWjUwVUZ2WHlSNnU0NGIxQQ?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "ladepeche.fr",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u86b85ad",
+     "title": "Quai d’Orsay : un plan inédit pour protéger la santé mentale des agents",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVdiUlp3SXhCbzFoSUItQlU4QTFUX3NfTTlWWkVBLV95M2lyRHRlcDRXYzRIS3BBbDNDX3VpR3dIZ3Z5Zm40QWZEX1FlTWsybjFJTmZCeE1SSlVDc29yWS1SMHE3ZU91ZGZrZ2NqWHAxbEZFSEFMWXFTM21SUG41d3FndUVqSFNwVVJ3X1ZVeHNvQk5qOHB3SFYwSnFOcXkybDN2dFE5Zw?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "Acteurs Publics",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ufdee2004",
+     "title": "Sainte-Foy-la-Grande : une nouvelle permanence de la Maison des adolescents pour répondre aux besoins en santé mentale",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNX0hwWnl3R1BGMjNvUWJIeGRHVFFHWWc2NFhXQ1JxWjdTOTYtY3AyWTM5UWRZQTFfVzBoRWlEM1g4ckNxc3hBdS1OdVhqME5acl9KSEx2Y3NNMGxVUktlNkRQNUEwcHpiZDdMQXN2b0o2amNGRTdYSmE5cktxd29rbkJPVXhDWHp1cXFzeVhsaU0xd3lUaHlMSC1WY04tQ3VxTDJRdXZCeE96LTdEYk1NbTMyOENoUnNTZzNhQkJnYWZCOXlfUW5DRUU1NFVEVWluMVR6aElrRG8xbDM5bjZfQXNtSUg5X1JzOFhEQUkxanozM2EtV0JfVkxzUHpuM3FZb0VLZl90eWwwM3BSbjFmTVVKNA?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "LeResistant",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u78c58ae4",
+     "title": "Santé mentale des jeunes : l’Unicef alerte sur l’impact de la précarité et des violences",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmpHTlJlREFQNFhGZUc5QXNyeEh5ZEUzUFd6YzkxMHNBczJKZ2ZxZUx4clZOWXFSZGd0dFdOajdsUHgzR2QyazFTbXh4WjZ6ZVdvTDhadnBKZExPc1pQRmJDOUtlUmc4WnkxMG9hSDJISGNmSm5SeFZQb1FzTEduZEdUb2ZpZklvQjVmODVYWkdLUjJQaVlsWk9hY0I5dkstNTN1MUtfN2l0ZXplSEQwUWFibkRwZW4xdXpBXzljaS1MVUtkYmc2RHFfVFN6MEJQTHFyMQ?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "Éditions WEKA",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u9a52c37e",
+     "title": "Usagers de drogues, trafic, produits… au plus près du terrain",
+     "url": "https://www.santementale.fr/2026/11/usagers-de-drogues-trafic-produits-au-plus-pres-du-terrain/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-11-17",
+     "summary": "Développement de la livraison à domicile, renforcement des difficultés d’accès aux soins pour les personnes marginalisées et diversification des consommations en contexte festif, le champ ... Lire la suite L’article Usagers de drogues, trafic, produits… au plus près du terrain est apparu en premier sur Santé Mentale .",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "uc1c83dc8",
+     "title": "Quand la santé mentale des jeunes bascule : 35 % des 3-18 ans en difficulté",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLWNJTHRSVG1NeHROVVFXT2NWUTkxaHR2NVdLSUJ0VFR1SkFhS3FfNXhhNlN2Y2tyNm5YcDBSbVNpLU1iTU1xZHBNNGNKQXJaZlE4VlN3YUhxYTR3cmVpUjlUS0pVM1RKNjRLUzkzaUgwdUxsbVFRcjExd0NObHRybzNhWDZvdnZvM3NOcjI2dFVjRzU2ZUlJ?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "Entrevue.fr",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uf48e7e58",
+     "title": "Santé mentale : ce que nous disent plus de 23 000 enfants sur leurs difficultés et leur quotidien fragilisé",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRHA3TkdSeWY0ZkVqNXJ5WktEUTJGcFo4X1BsMDlFYmtna2lDT2k0bnhQN1RkTC1JVXRrblNHcTY5RkxrQmJWMDFCd05VYVhrelhxT29ELWZLeU5HVndIUWRvVkVrLUVoWllBQ1QwWkl4M2VKa3VGUElCZFNMaUttVTBIandjeU55NW9MMFVfcVM1aldZd2dXVWFEMW9PQnRTVWNxa09nWXJ1ZEItbDlJUEJNN3ZPRExuMml0d3VyemFpQTBsNXRFYUUwVE90TDZaVmc?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "UNICEF",
+     "published": "2026-11-16",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uddc1aa97",
+     "title": "Sevrey Le personnel de l’hôpital psychiatrique dénonce les mauvaises conditions de travail et le manque de moyens",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeDhCdWpfRXhDUEVHYzFVSEI0Z3JrV1pXaHlVSmM1SkF6TXpnZkNpMkEzeEMxNW92QTNBdkc4c0RWeXRVeGFsUGRKNHBRZzJ6R3ZKNzlMWmExbC1MdHROdkJHZW5iSmRHeXdvZ0JkeGswemhKODhRb1NEcTctS2twVnljUFZrcHZkWEJJdnhnbGF4WkIwOWpRT0VRVnI0bTUyekpyc1FwZkxHY0E0OGJZQldldkxFcnBwbWxGdmdDa3ZuSjFVellSa3pMbXk5dXRIYUdHRWtOS1JiUFFfSGtF?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "Le JSL",
+     "published": "2026-11-16",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u21e2cfb0",
+     "title": "La danse serait plus efficace que les antidépresseurs",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaFAtVC1MRTdnMUlwX0kzS0MzRlhCSG84YVFZMERGRkJpd0s5Q0FkMnRhQkJVRFB5ZmNaQ1B4RXJYaW9DdFplVmt1dnQ1bzEzQXNKVHk3Y3BvYmtQZTY4dGJ1VnBXNklZcTdJOEduLXVoME8wU2MybnpXQ3RjWmc2QkxyT3FwdEVRNkxTZjQwYW45aXptalNxSVlTR0tJMENjM2NMeDhpa2p5R2RITm9qTA?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "National Geographic",
+     "published": "2026-11-16",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u5bf54ee2",
+     "title": "Incendie de Monteneuf : la thèse d'un acte volontaire privilégiée, un suspect interné en psychiatrie",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcGt0QnFWSlhaaWxWT0tSclNYS1dab3FPTmVDVGhWSzNteC03cUIyX3ZjOUNqdk5YUXBERTdOYlU1YTRjX2VUXzdQVTQtVVVESmNFNWo1enpUdEJYNmhsOHBqbnc5eVd2aEJnMTF6MF8waUlvemVkS2Mzc255Wk5KVTM1REdlcEtyOXozend6eGh1MUpOdF9hNVVMZGYtUjg3ZjBmeWpQLUNFYTFBUllfZ0lTajJ5am1vZVN1ZlcyUUNYM1V2c3RWTXRRVmRhY25WOE8zVVdYanUwWVEzM2dKZmpWbjIxSlFSUC1z?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "ici.fr",
+     "published": "2026-11-13",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ue73084eb",
+     "title": "Augmentation de 20% du recours à des somnifères chez les enfants et les jeunes: \"À mettre en lien avec les problèmes de santé mentale\"",
+     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPd2VrSnhPNmNnT1gzR0lmaDF3R1IySjAtekxnRlZpeWhnLUFFRlNUSVdvOXJ5Q3JYOXRncmwtRjg3WmswdlpTOEV4N0cwWlZQNHFxRVhQZjhhX1VtMUJrR1hQTVNMaDlTLXB0ZnMzWEdCaVNkTlpYWG5fd0VzWDBFU0YxYlhuNDRkbldSTW1kUmtfdDRFcTRLeXc4RnZ6aGJHTGdPZXJyUllFMVJoeHVqbUR4Qk1VSXV1c1VpQVdVY1BkTndVWVJlNkJ0VVZxSE1FY2ZDN3pOd25mc2JSZDVUN0hqUkoyc0ZnYjlLeUNsODRfME9QVm9JOEFsYTlvclNlMGRva1pfbWI4SXRUR3JaNm00dkJacGdQNHlMZmVGaUVWcjRBV3JRQTZGVVNRVXQtbFl2ZDRBRDdxeFZwQlJ3SmRJMDZRMkE?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "Moustique",
+     "published": "2026-11-13",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u2c02f85b",
+     "title": "Mirandol-Bourgnounac. Plumes en Ségala et la santé mentale",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbkhZUjRHTTFST0ItNmRvUTh1TjhlcWllQjdtdExKYU5ZSnNvMk9vYnZCdlk1dEpyWmVZRTBhY21nbXJZejlqTEh0WXIzaFpSampzTW5VVUFTS29Uc1FaUTRlTTRfN3FKRFNRcEI4eXZnQjFGSUQwM3Qyc3o4SFE4dlotdFpiRTkxakpZMTdn?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "ladepeche.fr",
+     "published": "2026-11-12",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    }
+   ],
+   "collecte": "2026-11-18T13:19:38+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 15
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 14
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 30
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 11
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 19
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 3
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 10
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 1
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 3
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 1
+    }
+   ]
+  },
   {
    "date": "2026-11-17",
    "items": [
