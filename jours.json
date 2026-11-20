@@ -1,9 +1,508 @@
 {
- "maj": "2026-11-19T13:44:34+00:00",
- "jours_couverts": 27,
- "total": 656,
- "liens_non_resolus": 13,
+ "maj": "2026-11-20T13:27:21+00:00",
+ "jours_couverts": 28,
+ "total": 689,
+ "liens_non_resolus": 6,
  "jours": [
+  {
+   "date": "2026-11-20",
+   "items": [
+    {
+     "id": "ue75133da",
+     "title": "« On accentue les risques pour les patients » : le service psychiatrique de l’hôpital de Laval ferme dix lits",
+     "url": "https://www.ouest-france.fr/sante/on-accentue-les-risques-pour-les-patients-le-service-psychiatrique-de-lhopital-de-laval-ferme-dix-lits-ed370a04-e440-11f1-9a72-32f9104dab1b",
+     "gnews": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaGd4QzJDTWlJU1ROazRxTzBmRm5uOFFMWUxaYVN0ZU1ubmZ5SGZrUlRVZUtTWm4xUklvUlB6WE9oQlB2WHczZjlDeWNGVXVkY2FLUk5CVDh5NWlMTXFqTXlYQlJONDRoQ2RMY1AzNUZFZ1hsdVZvSFkyTFlZc1dSQlBEcDQ4eDJzMmdEdk9walJnUTNHYlF1X1ZyVHZxVkhjM19Wal9ReUJrc2I4SjF5SW1rNVNSV19XMVVMVk9OVWZXaGhiSVFzY1dJRkllQV9EdU5YX2FzQUNkakI4bTM5V0Y2NEhnZmcxNjBxMkcyNDlfd0Q5aGYybjduY3oxamZ0bXRr?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-11-20",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ub169d278",
+     "title": "Aide à mourir : la HAS sécurise les substances létales, mais qui protège les infirmières ?",
+     "url": "https://www.santementale.fr/2026/11/aide-a-mourir-la-has-securise-les-substances-letales-mais-qui-protege-les-infirmieres/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-11-20",
+     "summary": "Alors que la Haute autorité de santé objective et détaille, la manière dont l&#8217;aide à mourir sera appliquée (voir notre article), le Syndicat National des ... Lire la suite L’article Aide à mourir : la HAS sécurise les substances létales, mais qui protège les infirmières ? est apparu en premier sur Santé Mentale .",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "ueaf97528",
+     "title": "Santé mentale : les établissements renforcent leur soutien aux étudiants",
+     "url": "https://www.letudiant.fr/educpros/enquetes/sante-mentale-les-etablissements-renforcent-leur-soutien-aux-etudiants.html",
+     "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQzlobVZhb1lITGdaVjVPbGgyQlhnTnhPNDE5dmRLTzJjX0hPSUtxNU9LWEo4V3JrQk5sSThsT1E1T3NUZDg5YVZxUVhiTm4zaUtYUEczemNmOTZSSktZb0J1eld2SXF4S0xuTWU4WWxPWVhiZV9taXIzTHR2V3lxWFdLb015MVBxYXJ2ZXNsMzVyZWFjWXN2WmVIMkJMODI4amJvd3J2bWlraEdQTXZMNTh6VjBBNWQ5bGc?oc=5",
+     "resolu": true,
+     "source": "L'Etudiant",
+     "published": "2026-11-20",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "udb83e751",
+     "title": "\"Ma santé mentale est plus importante que mon physique\", confie Earvin Ngapeth",
+     "url": "https://www.franceinfo.fr/sports/volley/earvin-ngapeth/ma-sante-mentale-est-plus-importante-que-mon-physique-confie-earvin-ngapeth_8291864.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU3RyeVNhSVhLaVBpMGR0M3RQNzdyLU5sX3pMYzgzSFM3dTRhY256eENuSWh3d3ZodzN0Sm4wM0RHZl8ydGV2RC1sVUc2M19zU1BnOHR2S2xEWllIX01PQ01yTHd5S2pyaXZ1d3luMGgtaFpJb2x5TXRkajVCeW9PdTU5VDNMY0xJNnZsLXR3WUtmbU1LVEZUNlBmeW1sU2dFdEg1VU03cm9pTHhVeDdSazhLVmhkUWgwb19NempPNGpPYVQ4aTkzRFI0dE90MXFJSEFRTmNlSllsRHM?oc=5",
+     "resolu": true,
+     "source": "franceinfo",
+     "published": "2026-11-20",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u8366b214",
+     "title": "Can depression really become dazzling dance? The biggest ever BalletBoyz show is a huge feat",
+     "url": "https://www.theguardian.com/stage/2026/nov/20/depression-dance-balletboyz-six-lethargies-sadlers-wells-london",
+     "gnews": "",
+     "resolu": true,
+     "source": "theguardian.com",
+     "published": "2026-11-20",
+     "summary": "Sadler’s Wells, London In Six Lethargies, Iván Pérez and Seirian Griffiths have devised a mammoth production of aching, ethereal sadness ‘If I write what I feel, will you feel it, too?” That was the question behind singer-songwriter turned composer Keaton Henson’s Six Lethargies. Perhaps that is every artist’s mission,…",
+     "feed": "guardian-mental-health",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u8da62e67",
+     "title": "Six in 10 workers mask poor mental health, poll suggests",
+     "url": "https://www.hrmagazine.co.uk/content/news/six-in-10-workers-mask-poor-mental-health-poll-suggests",
+     "gnews": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSnpRRThvbmx2R3RDTDhrQkZBb3VmeWt4Z0YzcUVKUmxCX1A3UHhyWGdBaEJ1ZkU3UWpaUkFGRmtGeVlGNHB3YTJPQ1h6OE1JWVNXZFplMkxteGJNY0tUT0t5bkdveTVMVWxNR29kZjNBR3A3cWpCRGp3bWlEeWZiejJGdk5Wckw4ZVdHb1VLYll6UHRjRHBSZXFzS0t4UQ?oc=5",
+     "resolu": true,
+     "source": "HR Magazine",
+     "published": "2026-11-20",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u981590d5",
+     "title": "Sligo Leitrim Deputy Calls for improved mental health services",
+     "url": "https://www.oceanfm.ie/news/sligo-leitrim-deputy-calls-for-improved-mental-health-services-1556423",
+     "gnews": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYS15T040T0QzRW1zT1VfZXNJaWRaSVBqcWdXNEY0QnBuUy1Eb0E0MWYzNDJWTThZWnF4S2JGQ1NORUhTa3BPTVFmSUhBZkRIYmxoOThzSEwtYlFYeUtCVXNGdDFGOF9nbE9jLXJXZG9TV08xTWVxZHhVQkNmRnBIVU5tU0ZfbzUtd2c5VkVHYTlydjBLc0ZVSGVfMkFjUXc?oc=5",
+     "resolu": true,
+     "source": "Ocean FM",
+     "published": "2026-11-20",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ube26043d",
+     "title": "« Les jeunes sont en misère psychique » : dans l’Eure, le quotidien d’une secouriste en santé mentale",
+     "url": "https://actu.fr/normandie/pont-de-l-arche_27469/les-jeunes-sont-en-misere-psychique-dans-leure-le-quotidien-dune-secouriste-en-sante-mentale_65076384.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMFFSckplMmhDcHliYm55Q2oxS0VTN2xWUTlRcDBXRnNPanNybW5QN2ladlQ4VDVkQ0wxX3Y3TjBNOXpqRlhpb3d0bEZWR0ZQTUt1dGJKckNmTTJCY1R2dFAwTkZWaW50VmtVMXZOX0VXZUFDblM1OVhhck5CdlZTSGJraUZhTW5oeHJ4NmhXRWpxYVlBcWhXVEFXZ0tEbkNYN0ZfZVhxN1E5c21PNUxpYXItVlBxRkswSUxpX1FpNkZzQ2FBdFdoQkF4UmlUTmRSaTZZOHJMZmc2bG5odW9lbkV2bmdJcHlzcEE?oc=5",
+     "resolu": true,
+     "source": "Actu.fr",
+     "published": "2026-11-20",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u91346e75",
+     "title": "Patient ‘horrified’ to find her sensitive discussions were shared with more than 100,000 NHS staff",
+     "url": "https://www.theguardian.com/society/2026/nov/20/patient-confidentiality-sensitive-discussion-records-shared-nhs-staff",
+     "gnews": "",
+     "resolu": true,
+     "source": "theguardian.com",
+     "published": "2026-11-20",
+     "summary": "Exclusive: Investigation launched after details of grief and trauma uploaded, raising questions over extent of issue The Information Commissioner’s Office (ICO) has launched an investigation after a patient was “horrified” to discover that notes of sensitive discussions with her psychotherapist had been shared with mor…",
+     "feed": "guardian-mental-health",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ud73a4ba8",
+     "title": "Santé mentale à Saint-Éloy-les-Mines : échanges et sensibilisation lors du \"Kiosque santé mentale\"",
+     "url": "https://www.lamontagne.fr/saint-eloy-les-mines-63700/actualites/sante-mentale-a-saint-eloy-les-mines-echanges-et-sensibilisation-lors-du-kiosque-sante-mentale_15087107/",
+     "gnews": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYnF6X3YzdXltTWVOQzd4NUdJbjZxRG95VkZmLWs1WUVEbnJDal9VX24wUFJBeGVXQktST3h1dXBJcS1QZDFzOHVieHFObXlBN255VWw2THh4RG9RUDJ1RHEybVQ5Nmg3ajNlck0tcl9vVWVzYVFyanZuOXdKUkl2OG8tTzNMNERoWnkwRm9UZzRBMGV6X0VFazJfY3piZUo0OUVqS2hHa0pvNHd6cmkxUmUtZVBJVWNNaDY2aG5GUjdEbkRxU1Zma19VenAwcFdlWFFUczJtYnRPLURNUlpWMlVWU294czRLaU82elI2TmhNeHA4NnhWV0dYN1o?oc=5",
+     "resolu": true,
+     "source": "La Montagne",
+     "published": "2026-11-20",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ub97dabd6",
+     "title": "Painting trees blue to shine a light on mental health",
+     "url": "https://www.act.gov.au/our-canberra/latest-news/2026/november/painting-trees-blue-to-shine-a-light-on-mental-health",
+     "gnews": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOWhqMUhuZndnQldMbXpELWRSTi1GNTZDdDJURmFtejJ5WktmMEJMUkNqMjUyN0o0N2tUMEN5WFI5U1VoWDRYeGR0NHdLXzhKY3Z1Z0JrZXZIVDBVZ1NjQVhReWFZbXc1eVJwQnR5VkFJbWFFcGthbVBlNC1BNjdhdXFIMFhtZUgydTJLMVBMMXZtRFF1enhfbXBFLTgtZlpMcG5xcGpmSXFZYnNSTEJpTHdXTlM3Zw?oc=5",
+     "resolu": true,
+     "source": "ACT Government",
+     "published": "2026-11-20",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u9222381f",
+     "title": "Réorganisation de l'unité de psychiatrie : Jackie Côté veut faire entendre la voix des patients",
+     "url": "https://www.courrierfrontenac.qc.ca/actualites/reorganisation-de-lunite-de-psychiatrie-jackie-cote-veut-faire-entendre-la-voix-des-patients/",
+     "gnews": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPakt4MVdMQmVjXzZQU3MxYktLWXVuRG44WWFlQk5sQzFIN1k1SVZMMHhBQzB4cnA4QmJuVHlCc3YzZncxX3JzeGxOWlZwWHVla3RmT1FfVm9VNlhXNHdVLXpacmZ2X29nU2dRM3QxSWJNNi1zYnFKT2JnMVBQUXd2czZYLTk2RUt1TE5iZlNpSkhQRUhaaWRWeGVNZTI4YWtYN3FFXzdhV0JhdW9zRWFjMThXLWpUU211RmlmLUFSNVdhUW5NRndIR3BGQV9fdnViMjZtd0RYSQ?oc=5",
+     "resolu": true,
+     "source": "Courrier Frontenac",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uce4e9885",
+     "title": "Santé mentale des enfants de l’ASE : « Il n’y a pas de pilote dans l’avion »",
+     "url": "https://www.enfancejeunesseinfos.fr/sante-mentale-des-enfants-de-lase-il-ny-a-pas-de-pilote-dans-lavion/",
+     "gnews": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOU44dnhKck41OTRfaFNTbkZmMnVhTDA4M3NzTDB1UkRSVnhnMldXWUUzRVU2cUxXNmFLbktBUWFtUUFLM3Y4amt1dmdkUUQzcVZybG40eHlYc1dkTXV5aEZYTlhZeG5HTzAxOVFQODg4bDQzOUp5NjVYcXkzSV9wTGNkZ2dLZTVER2N2UjF3clJZTVRLeG1UNEFBZEc0X19RR1VFZWZuOA?oc=5",
+     "resolu": true,
+     "source": "Enfance & Jeunesse Infos",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u2cb564b8",
+     "title": "Health officials put spotlight on men’s mental health",
+     "url": "https://www.brantfordexpositor.ca/news/health-officials-put-spotlight-on-mens-mental-health/",
+     "gnews": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVB6T0ZqOS1EVlNZZlNxdFNoejF5cEVFLWNrWHRuajlycUFXU3lmZHlxWUZLZm5MTmJsdHZRRnVhTVV0VXZleTUzbzV4eFBOcjVPVlRPaldpVk9IeUlKbzB2UEhMT2ZCd2RndFhydkRIRFg0SUhCbG4yZmFrS1JJMlc3NkdfelNabk1rTjBWNV9LTnpVUVlR?oc=5",
+     "resolu": true,
+     "source": "Brantford Expositor",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ude9ec93e",
+     "title": "La Roche-sur-Yon : une unité régionale de psychiatrie aiguë ouvre au centre hospitalier Georges-Mazurelle",
+     "url": "https://www.mavillesolidaire.fr/index.php/home/sante/la-roche-sur-yon-une-unite-regionale-de-psychiatrie-aigue-ouvre-au-centre-hospitalier-georges-mazurelle",
+     "gnews": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNblRNS1dYRVB5VVJHaGI4VDlmOUZpXzBiZ1UxZy1CUWlkRjB1WTV1SGdCb21aM09LanZfTUE3VEFTNjZ1UFdfVm9FMXlnRzMwaVZOc3RuV09lUFNjZzc3dXBqUFEtcmdsY3k0NUtZNFpWWUFtaDRoWVZOdm5jSUJidHVQQkNRekNtdTF5dXRrVHY3QkVLckpzeHhiQWY4Y1hSYzgzbkVoeHpuWmZJQ0RUR0FjSFlNYkx3MmxuYUowbDNqNWV4aUtIeXJVQVZWbkhVMjF5SDZPVFJCOE1TNFhYRzEwaG0wR2xBbV9pYg?oc=5",
+     "resolu": true,
+     "source": "Ma Ville Solidaire",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "droits-contrainte",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "udba81909",
+     "title": "Suicide figures highlight urgent need for action on mental health services – Flynn",
+     "url": "https://sinnfein.ie/news/suicide-figures-highlight-urgent-need-for-action-on-mental-health-services-flynn/",
+     "gnews": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQW9NOEVXN3lCVEFIWEpwYXI2V3lrLWxjYVBRa1lidjdhLUtqbWNLVTM4SFBJVnRkSEVjNFN4UjhTTHBFS0JpVk1JWkNMV3NhMUVKTW5Md1dhNmFISjdVZEJaa0xPMEVQbVNKYThyNVVqVUUtMXNMWG81ZHFVQUUtc0hNUHBlS0JkSnhQVGNnd3NaYUh2UVlRQUdaX3hrQktPaklVT2VBZ3JwUQ?oc=5",
+     "resolu": true,
+     "source": "sinnfein.ie",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ue2975919",
+     "title": "Santé mentale : l'hôpital psychiatrique d'Avignon ouvre un centre de simulation pour former les soignants",
+     "url": "https://www.laprovence.com/article/sante/17987668229154/sante-mentale-l-hopital-de-montfavet-se-dote-d-un-centre-de-simulation-des-situations-de-crise",
+     "gnews": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaW9YTVdkSU5aUTlIU0cyVE1ZXzUzU0VZSlBOQ0xZenpSNXo4bDdvRDJlVUswRW1ObTB6dzgxQ09oNGdSSUhfMi04XzlnaGNpLTJ5S2xZWGhIbkwzSXFINC1RTm5UdDVkUEpveGdEdEkxYWxrWVZTVDBmakFZN09jWEE1TUY0Szl6Z3d0eHJEcUFhLUJ5VmVDUVplTk5Pdjk3dGdCNktZREZkNHhBMVhjR0N1VklYNW9jNWhkVUt6WXB5bHI2SjU1Vk0wSlhMQURvYlJDck42VlM1a3dpRUxUUkdkY2o?oc=5",
+     "resolu": true,
+     "source": "La Provence",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u172d20aa",
+     "title": "Santé mentale des jeunes et cyberharcèlement : « Les parents doivent se méfier des messageries instantanées et des jeux vidéo en ligne »",
+     "url": "https://www.sudouest.fr/gironde/sante-mentale-des-jeunes-et-cyberharcelement-les-parents-doivent-se-mefier-des-messageries-instantanees-et-des-jeux-video-en-ligne-31586384.php",
+     "gnews": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORDRGVnV2bnV6Y21xVTJ4WVhvNkNuTXd5TmhsVlQ5cWdrcFNvOGc4ZjFZR2ZJc3hEWXBva1lWdHFoRnY4QnM4TTNLY2hZRDZ0bTJRZXd1NmVuODlCVHdSaGZxamozWHNRQ3NoTTNWQVMxWlZ5TFl6WnRyQ2x2aU5FazNxSzd0NktPaXVXXzhrTk9Fc3duMGdtQlEzaExiR3RtZjNrSXlHTFpUNkxWSEJxZzgyY3F5TXhrSVhlRHlwWlMxOE1Ia0dBV0lIaER3VnZFamhaYVliVXpMbTEzb2xqVjZKLTJDdUFKelBfUFdUakpnYnlZbjExYWZfQmE2c1E4ZU9xeWdn?oc=5",
+     "resolu": true,
+     "source": "Sud Ouest",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uf5673d1b",
+     "title": "Photographier ces « corps dits fous »…",
+     "url": "https://www.santementale.fr/2026/11/photographier-ces-corps-dits-fous/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-11-19",
+     "summary": "« Quelque chose comme une araignée », recueil photographique proposé par la photographe Marion Gronier, s&#8217;aventure dans l’univers labyrinthique de la santé mentale, là où l’irrationnel côtoie ... Lire la suite L’article Photographier ces « corps dits fous »&#8230; est apparu en premier sur Santé Mentale .",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "ua6866c",
+     "title": "Nantes inaugure sa « maison des enfants » pour la santé mentale des plus jeunes",
+     "url": "https://www.20minutes.fr/sante/4264176-20261119-sante-mentale-couloirs-comme-hopital-nantes-inaugure-maison-enfants",
+     "gnews": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLThxQTZDSWloNlZzcmtVcHk0MTFCN0JxZF9zdWVkX3BEWHJXZmVuZHZqMHFIbFZ5MEhNam5nWGpRdHlwSTZ2aGJoQnp5cmI2Ym1xMU1BOGw4b3BEZ0NVNzJDZWZfSUUyejBoLTQ2TW11Vmpfdm5JQjlDZm5zSkJmZ0s3SEQyc1pWUHVUNDVob1VCTHZGUERrSDFVcUhEYVZqNUdNRlhPbTJfbUZ4VkkxTWFDc1U5UQ?oc=5",
+     "resolu": true,
+     "source": "20 Minutes",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "ub9bc6c77",
+     "title": "Que sera notre système de santé en 2050 ? La DGOS scénarise !",
+     "url": "https://www.santementale.fr/2026/11/que-sera-notre-systeme-de-sante-en-2050-la-dgos-scenarise/",
+     "gnews": "",
+     "resolu": true,
+     "source": "santementale.fr",
+     "published": "2026-11-19",
+     "summary": "OSE 2050 , initié par la Direction générale de l&#8217;offre de soins (DGOS) est un programme national d’anticipation stratégique qui associe experts scientifiques, citoyens et auteurs ... Lire la suite L’article Que sera notre système de santé en 2050 ? La DGOS scénarise ! est apparu en premier sur Santé Mentale .",
+     "feed": "sante-mentale",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u6f2c5f72",
+     "title": "Lutter contre la dépression des ados, l’objectif du premier livre de Céline Ollier",
+     "url": "https://lepaysgessien.lemessager.fr/649360554/article/2026-11-19/lutter-contre-la-depression-des-ados-l-objectif-du-premier-livre-de-celine",
+     "gnews": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYUdnUHppeE9TaUJYRjlOMkxnV19wS2dHcTAwWlFMZTFZbUhYazZTTzdfZnVFUHJDUzM1d0kySDJRd2JfWHdWRlNSWnVORWJXTDhJUEJadUY1NUs1QkN2TWZtTDNFVW5IQzJjbkdEZjlCSzlRN29NdDhNNkRORFJHZ3FLQ3JWdG9DTzRtaGNvTEozeWdSOU5HSV92OTR3QVV1am81Z0RVTEtsdDVDekZfeXctbjVKU0lkRG5JVTh3SWNpOUk1djlEVjBYMmpJSzR5bjFqaDRn?oc=5",
+     "resolu": true,
+     "source": "Le Pays Gessien",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u9ae2261b",
+     "title": "« Black Doves », saison 2 : humour, dépression et espionnage sur Netflix",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV3Q2dE40TTN4X1JnRUktN3dkeFpUcG5uWnMwMng4Z3czM0NXUXpoZmt2Y3dieE5WMld4bmh3dUZmbnJ1eWRaaF9lbERGRVAxMEVRcmlDelpqZkZtWnp5SVJyRHBlenZ1QWVpUW9jSFNFMUw2dGJjeFVMX0Utdkt4WVJzeU5hVkdMNjFsR1R1aGcyV1pVamVUMjRrUDBZQXRwZExNVVR2Y3ZReUNEUnludVVxQkloVUkxSV9NNldMMjJQUHlVb1E?oc=5",
+     "gnews": "",
+     "resolu": false,
+     "source": "La Voix du Nord",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ub1c2c97c",
+     "title": "\"Je traverse une période mentalement très sombre\": Henri PFR partage un message bouleversant sur sa santé mentale",
+     "url": "https://www.parismatch.be/culture/musique/2026/11/19/je-ne-vais-pas-bien-henri-pfr-se-livre-avec-sincerite-sur-son-mal-etre-mental-UA4YSAU25FAR5PXA23N2TKONYE/",
+     "gnews": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPODAwem1XZGh1cWQ3QlFXTDkwUG0zWUI1QjdrN3NmWkNoVnRXWWpxdXExUGZTMm9fekR3a0h0b1k3SURTNDVMT09hRlZCeUh2d19fOGtMeDhlMTJ2aFZaV21fNXY0dmVWWUFWaGRSR19zdU1rVXZ5R2hZMGxuNzFNdnpXT0VTOXVWdTFaNFhhTWVEdlR6M1lEcnRqc1k0aWVMX1pvS2t6NFVLU1dKSVNYeGdmZGpES2Fwc2RMYWNkZEV0UktHOGltRG9GWWl6MlhobGh4OE0wMmNSd01TYUFqMDBKVG1BUFJYdjA4VUlWZw?oc=5",
+     "resolu": true,
+     "source": "parismatch.be",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ue4d440c2",
+     "title": "Concerns over mental health services following damning inspection report",
+     "url": "https://www.aberdareonline.co.uk/2026/11/19/concerns-over-mental-health-services-following-damning-inspection-report/",
+     "gnews": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZThlWUNMMHFTU0xYdEdVVlJzZ0F3M3RCNTMzYVhlSmhXNjlmNERHbUdGQmMzb1VLbldmV0hyM3VuWGVfcm1vd2pDN0FEa182SHhJWmFfaG95TVh0d3FrNHNSdjRVMGJpcTZMeHRnWGxSNGU1XzY2a0FFUGNSNDMwZnc5ekw4SmQ5Ymd6aVdoenVFaW9MUWF0R0hlZ3JuYTFMOGM4OWY0b1Z4T0lBVU56SjU2VllWWHJW?oc=5",
+     "resolu": true,
+     "source": "AberdareOnline",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "uc6f48bf3",
+     "title": "World Mental Health Day 2026: Dhaka Event Calls for Stronger Mental Health Services, Inclusion of Lived Experience, and an End to Stigma",
+     "url": "https://www.who.int/news-room/feature-stories/detail/world-mental-health-day-2026--dhaka-event-calls-for-stronger-mental-health-services--inclusion-of-lived-experience--and-an-end-to-stigma",
+     "gnews": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPVjlYWHZGREQtOGZTZ1NDR0FlN0FTODZLZVZacVZHSC1xY3J6U0g3MDUxYmJOdFM5cjVfMFBQZXYtSXFVRDA2UTJ5bEpDaXRKYkF1UWhiNHVPblJRemhmaWU5XzZ3QlZPN3hrNTA5WEFLT3B0ZGNJMW9yTWZCNHR2WUhzVklwRXgzRGUtYl8zWU85b3dfVmxyMF9PMlZ4bk82aUxaV2htRTkzUVBjT1VSQ084dHdBdU9wbGtNOXhaTVBGd3BidTlISDJBM29YdzFiVkR0ZndDWk1hMzN0WGZWX19HcDAxdHJqODU3MEV0NnUtcXNqcW8wSGVlRTBNaC00cFFBeUpUWmZtdnA5QlJIX1B3X0pqUHlI?oc=5",
+     "resolu": true,
+     "source": "World Health Organization (WHO)",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "international",
+     "categorie": "institutions"
+    },
+    {
+     "id": "u93f4d100",
+     "title": "Les drogues s’exposent tout en nuances au Musée de l’homme",
+     "url": "https://www.lemonde.fr/sciences/article/2026/11/19/les-drogues-s-exposent-tout-en-nuances-au-musee-de-l-homme_6813326_1650684.html",
+     "gnews": "",
+     "resolu": true,
+     "source": "lemonde.fr",
+     "published": "2026-11-19",
+     "summary": "A Paris, cette grande exposition temporaire a pour objectif de déconstruire les idées reçues autour des substances psychoactives, qu’elles soient licites, comme l’alcool ou le café, ou illicites.",
+     "feed": "le-monde-sante",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "ua9211aeb",
+     "title": "Eswatini Walks the Talk: Stepping Together for Mental Health",
+     "url": "https://www.afro.who.int/countries/eswatini/event/eswatini-walks-talk-stepping-together-mental-health",
+     "gnews": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQkw3R182akFzdUJsbGRwOVNBaFhIRUYxZVpOUWg2dUMtM1hNcFk5bkZNLUVlTXNELVVna2VUTmFRRlFjTEExYnBQQTN6VlBNS1NpLWZTU1RTa0V5d204Tmw5TG14MUdZV3VXSU44NGN4cUhvZG9aTFpQV3JZd1ZoRENCN3lWTVNIazh5Q2ZncGJ0Ql9BMjA0ZVZnWlhLRnpDQ0Fv?oc=5",
+     "resolu": true,
+     "source": "WHO | Regional Office for Africa",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "international",
+     "categorie": "institutions"
+    },
+    {
+     "id": "u210bb70a",
+     "title": "Stirling University recognises leaders in dementia and mental health support",
+     "url": "https://www.stirlingnews.co.uk/news/26744396.angela-rippon-graham-morgan-receive-honorary-degrees/",
+     "gnews": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSy0zQWhuMkdLcnBMcVdUWVVFeks3Mk5NcHJzanN2OU5vQVFZcXJjWjg4QnRrdU1RcUswR1hFT3RBMXJRLV9qcVhmWUJIREhXU1lTTF9oQ2IzQWpzWDVuMmtwalB4cGpub0FWb090T1hOM0dscFRYUUtGTE5PdDBLUmhPQlZXVGEzU3F5V2tMczRCeXNSNWc2VFA4TGQ2ZmM?oc=5",
+     "resolu": true,
+     "source": "Stirling News",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u3f18d51",
+     "title": "En Centre-Finistère, un nouveau pôle de psychiatrie et addictologie pour « mieux accueillir » les patients",
+     "url": "https://sante.ouest-france.fr/sante-mentale/en-centre-finistere-un-nouveau-pole-de-psychiatrie-et-addictologie-pour-mieux-accueillir-les-patients-8dc74b6e-e33d-11f1-9a72-32f9104dab1b",
+     "gnews": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPQjFkT0ZtZ1RmRnlKanEzRG5wOWgzMDZJR0pZZzA4SVRNeC1XX05IME5weHd5YmhTZHpXUDFHNlN1N2NhU280VzV6MTFKZXRpV0JrTVBJbXhOUnlLamJDd19Qdkhwd1YyN1Jycm1meC02VGpaaThGMlpfMGQ2Qk5XY25fb2FNSnpHUDYwV0Izbm4yN3BfQk84b3pPMlZhQWJpLWxwSkRJZ1ZuS05PdUx1b2l4QS1lS1NIVTVBQ2xxelpycHhTemRwdGROVG1ydmViUFVxbDZvbUhVYmVoX2V4eUg1d2FoTXBRMHFOWGJZVFpFd2hyZTNfZnZON09Ic1BWcWpjeFZlQWtPdzh0ckt3?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-11-18",
+     "summary": "",
+     "feed": "droits-contrainte",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u28283a60",
+     "title": "L’être humain a toujours besoin de ses semblables : les applications et l’IA ne remplaceront pas le contact humain dans les soins de santé mentale",
+     "url": "https://www.who.int/europe/fr/news/item/18-11-2026-people-still-need-people--apps-and-ai-won-t-replace-the-human-touch-in-mental-health-care",
+     "gnews": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcE5PVEVWNXRrRXd4cTBUOUZZcmxleW43R3ROZTdia3lwcnp6Mmp5SkM1d05KRk1WSzFCVkVoVnJsRW5mbjUzcUJEelJSOGlRYjZLOW5nbHYzR0w0M1RWWXhyNmJFRGlmc3hkM25zUTdWQ3VPMVBYcm1DOHRBeUk0anpkUlpITkRHQl9LemJ3V3p2MDVIYmdQWjNVV3N2UGVKNUN4Y2ZGMUVxanpIcHhkVEltc2VHOG1SVGVMT0VBeHJwbzcyc1Q5MVRJYUlLSnhyYVR5RjZQSQ?oc=5",
+     "resolu": true,
+     "source": "World Health Organization (WHO)",
+     "published": "2026-11-18",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "institutions"
+    },
+    {
+     "id": "u29906599",
+     "title": "Un jeune sur trois en difficulté psychique",
+     "url": "https://www.sciencesetavenir.fr/sante/violences-precarite-isolement-l-environnement-pese-sur-la-sante-mentale-des-enfants_196170",
+     "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUlFobXk3NGN5cXBtRnhPZUdTR09YRTUtTHJ4NEtIRGJxUkdncl84QmMybUxySGRzQkg5ZDVyNXRtVXpzaUtZN0lzNFRQNlgxQVRDZTZRcXJ5OFI2d2swcWJWWXRoTnNKM0NUYm5ERGhhOVhXOU5iM0ZxQVVIUktId0sxREsydktKNTdQNmdaLWlMZ0d0RW1nWV80N0J0THdtTTBrMnU2RXBwZTNtcXlzZ2MzdU9ZbVFyNnV6dWVaaDVRdy16RjFN?oc=5",
+     "resolu": true,
+     "source": "Sciences et Avenir",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "uf654ed8e",
+     "title": "Santé mentale des jeunes : une enquête de l'Unicef alerte sur la précarité et des violences",
+     "url": "https://www.moneyvox.fr/votre-argent/actualites/111262/sante-mentale-des-jeunes-une-enquete-de-unicef-alerte-sur-la-precarite-et-des-violences",
+     "gnews": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb1JvVk5qbk5iS1FhZElpcWhXcEJUS2xSMzZtZGNJai1OODNfSkRHQzVtUzY3NHJPOHpBV0pDaXFCY3RIeHAyem02dHIyVjJxNGZJUUJock8yZ0JJWERlUnFSeVc0YjU0eGh1b0hka2N0M1M1dHpuN3ZLNkhTT0VscWVWbV80VmFFbkxYWW5ZWk9JZXFtcHhJS3JfMklUNmZsMEx0dWEtNndlVGdYdUE4X19zTWkxWmpHMDYxYlZxV21tSFlzWGpFQ3Y1WmdvOTNpclFuMnRUNEUzQQ?oc=5",
+     "resolu": true,
+     "source": "MoneyVox",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    }
+   ],
+   "collecte": "2026-11-20T13:27:21+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 18
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 14
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 3
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 30
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 11
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 18
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 15
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 8
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 5
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
+    }
+   ]
+  },
   {
    "date": "2026-11-19",
    "items": [
@@ -617,9 +1116,9 @@
     {
      "id": "ud47bd3ec",
      "title": "Santé mentale des sportifs : la légende anglaise Wayne Rooney évoque des épisodes dépressifs durant la “meilleure période de sa carrière”",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT2p3dENQaFRMOXZqTDZKRlZwWlNGcnFYcEVPQ1ZDTWtRdkxEZ3lkbjlteHNxQ0ZtbG1PeG53QnV3UFVSUFZheGtnMmxEMWhxSVBNaFY2bHp3VkxWVDlSMlgzeFNWd3RnSzhQTkFSUjd3cTB4UDNIVjd4eDVpMWRVSlMtb0FKQjVkQ1dBbkhqUDhjYm0tUVZpeENWWXpmeFFseG1mcm9qdW45VEI3Z2FkcjhGWm9Mc0ZZR3dLbWZQNnBfazc1TmhnWURIMA?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "http://www.nordeclair.fr/1755790/article/2026-11-17/sante-mentale-des-sportifs-la-legende-anglaise-wayne-rooney-evoque-des-episodes",
+     "gnews": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT2p3dENQaFRMOXZqTDZKRlZwWlNGcnFYcEVPQ1ZDTWtRdkxEZ3lkbjlteHNxQ0ZtbG1PeG53QnV3UFVSUFZheGtnMmxEMWhxSVBNaFY2bHp3VkxWVDlSMlgzeFNWd3RnSzhQTkFSUjd3cTB4UDNIVjd4eDVpMWRVSlMtb0FKQjVkQ1dBbkhqUDhjYm0tUVZpeENWWXpmeFFseG1mcm9qdW45VEI3Z2FkcjhGWm9Mc0ZZR3dLbWZQNnBfazc1TmhnWURIMA?oc=5",
+     "resolu": true,
      "source": "La Voix du Nord",
      "published": "2026-11-17",
      "summary": "",
@@ -629,9 +1128,9 @@
     {
      "id": "uf15fd343",
      "title": "Il s’enfermait chez lui pour boire pendant des jours : cette légende du football anglais révèle les détails de sa grave dépression pendant sa carrière",
-     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQN1ozT0pzdGI3dVpRVWk3a0N1RmJWQV9mTFRMZTlIcTA5M0ZlRmwwTHV6TEp6X3Itd1Q1amZaVmh6S2xpYzVMYmQ4QU9rY2Zjdl81c0ZTa0RVOXBheVlCSkdpeFV6dUJyUjc4MDd2TXdZMnZBbHJydFdPZmtUSWlYRkhEVWUzbWpIVVFOZ2NFT3V3cU9CNGZhNm83SF9xV2doRUlBd25VMEtMVDRyRnVZYm5HdWpsWUdBZlpsN2dZYVMtSTZsR2V4aGhIZ1NCTFYxV0ZxX0xMdUxnTFY3OG5DTzB5T2RaTDQybm9ES3lyeGRyOGMxYVhRdnluNkRORF9lN3JDM2FGckdaM0l1TFlIakNtWjUwVUZ2WHlSNnU0NGIxQQ?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.ladepeche.fr/2026/11/17/il-senfermait-chez-lui-pour-boire-pendant-des-jours-cette-legende-du-football-anglais-revele-les-details-de-sa-grave-depression-pendant-sa-carriere-13657091.php",
+     "gnews": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQN1ozT0pzdGI3dVpRVWk3a0N1RmJWQV9mTFRMZTlIcTA5M0ZlRmwwTHV6TEp6X3Itd1Q1amZaVmh6S2xpYzVMYmQ4QU9rY2Zjdl81c0ZTa0RVOXBheVlCSkdpeFV6dUJyUjc4MDd2TXdZMnZBbHJydFdPZmtUSWlYRkhEVWUzbWpIVVFOZ2NFT3V3cU9CNGZhNm83SF9xV2doRUlBd25VMEtMVDRyRnVZYm5HdWpsWUdBZlpsN2dZYVMtSTZsR2V4aGhIZ1NCTFYxV0ZxX0xMdUxnTFY3OG5DTzB5T2RaTDQybm9ES3lyeGRyOGMxYVhRdnluNkRORF9lN3JDM2FGckdaM0l1TFlIakNtWjUwVUZ2WHlSNnU0NGIxQQ?oc=5",
+     "resolu": true,
      "source": "ladepeche.fr",
      "published": "2026-11-17",
      "summary": "",
@@ -641,9 +1140,9 @@
     {
      "id": "u86b85ad",
      "title": "Quai d’Orsay : un plan inédit pour protéger la santé mentale des agents",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVdiUlp3SXhCbzFoSUItQlU4QTFUX3NfTTlWWkVBLV95M2lyRHRlcDRXYzRIS3BBbDNDX3VpR3dIZ3Z5Zm40QWZEX1FlTWsybjFJTmZCeE1SSlVDc29yWS1SMHE3ZU91ZGZrZ2NqWHAxbEZFSEFMWXFTM21SUG41d3FndUVqSFNwVVJ3X1ZVeHNvQk5qOHB3SFYwSnFOcXkybDN2dFE5Zw?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://acteurspublics.fr/articles/quai-dorsay-un-plan-inedit-pour-proteger-la-sante-mentale-des-agents/",
+     "gnews": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVdiUlp3SXhCbzFoSUItQlU4QTFUX3NfTTlWWkVBLV95M2lyRHRlcDRXYzRIS3BBbDNDX3VpR3dIZ3Z5Zm40QWZEX1FlTWsybjFJTmZCeE1SSlVDc29yWS1SMHE3ZU91ZGZrZ2NqWHAxbEZFSEFMWXFTM21SUG41d3FndUVqSFNwVVJ3X1ZVeHNvQk5qOHB3SFYwSnFOcXkybDN2dFE5Zw?oc=5",
+     "resolu": true,
      "source": "Acteurs Publics",
      "published": "2026-11-17",
      "summary": "",
@@ -653,9 +1152,9 @@
     {
      "id": "ufdee2004",
      "title": "Sainte-Foy-la-Grande : une nouvelle permanence de la Maison des adolescents pour répondre aux besoins en santé mentale",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNX0hwWnl3R1BGMjNvUWJIeGRHVFFHWWc2NFhXQ1JxWjdTOTYtY3AyWTM5UWRZQTFfVzBoRWlEM1g4ckNxc3hBdS1OdVhqME5acl9KSEx2Y3NNMGxVUktlNkRQNUEwcHpiZDdMQXN2b0o2amNGRTdYSmE5cktxd29rbkJPVXhDWHp1cXFzeVhsaU0xd3lUaHlMSC1WY04tQ3VxTDJRdXZCeE96LTdEYk1NbTMyOENoUnNTZzNhQkJnYWZCOXlfUW5DRUU1NFVEVWluMVR6aElrRG8xbDM5bjZfQXNtSUg5X1JzOFhEQUkxanozM2EtV0JfVkxzUHpuM3FZb0VLZl90eWwwM3BSbjFmTVVKNA?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.leresistant.fr/gironde/sainte-foy-la-grande/sainte-foy-la-grande-une-nouvelle-permanence-de-la-maison-des-adolescents-pour-repondre-aux-besoins-en-sante-mentale-31444582.php",
+     "gnews": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNX0hwWnl3R1BGMjNvUWJIeGRHVFFHWWc2NFhXQ1JxWjdTOTYtY3AyWTM5UWRZQTFfVzBoRWlEM1g4ckNxc3hBdS1OdVhqME5acl9KSEx2Y3NNMGxVUktlNkRQNUEwcHpiZDdMQXN2b0o2amNGRTdYSmE5cktxd29rbkJPVXhDWHp1cXFzeVhsaU0xd3lUaHlMSC1WY04tQ3VxTDJRdXZCeE96LTdEYk1NbTMyOENoUnNTZzNhQkJnYWZCOXlfUW5DRUU1NFVEVWluMVR6aElrRG8xbDM5bjZfQXNtSUg5X1JzOFhEQUkxanozM2EtV0JfVkxzUHpuM3FZb0VLZl90eWwwM3BSbjFmTVVKNA?oc=5",
+     "resolu": true,
      "source": "LeResistant",
      "published": "2026-11-17",
      "summary": "",
@@ -665,9 +1164,9 @@
     {
      "id": "u78c58ae4",
      "title": "Santé mentale des jeunes : l’Unicef alerte sur l’impact de la précarité et des violences",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmpHTlJlREFQNFhGZUc5QXNyeEh5ZEUzUFd6YzkxMHNBczJKZ2ZxZUx4clZOWXFSZGd0dFdOajdsUHgzR2QyazFTbXh4WjZ6ZVdvTDhadnBKZExPc1pQRmJDOUtlUmc4WnkxMG9hSDJISGNmSm5SeFZQb1FzTEduZEdUb2ZpZklvQjVmODVYWkdLUjJQaVlsWk9hY0I5dkstNTN1MUtfN2l0ZXplSEQwUWFibkRwZW4xdXpBXzljaS1MVUtkYmc2RHFfVFN6MEJQTHFyMQ?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.weka.fr/actualite/sante/article/sante-mentale-des-jeunes-l-unicef-alerte-sur-l-impact-de-la-precarite-et-des-violences-230512/",
+     "gnews": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORmpHTlJlREFQNFhGZUc5QXNyeEh5ZEUzUFd6YzkxMHNBczJKZ2ZxZUx4clZOWXFSZGd0dFdOajdsUHgzR2QyazFTbXh4WjZ6ZVdvTDhadnBKZExPc1pQRmJDOUtlUmc4WnkxMG9hSDJISGNmSm5SeFZQb1FzTEduZEdUb2ZpZklvQjVmODVYWkdLUjJQaVlsWk9hY0I5dkstNTN1MUtfN2l0ZXplSEQwUWFibkRwZW4xdXpBXzljaS1MVUtkYmc2RHFfVFN6MEJQTHFyMQ?oc=5",
+     "resolu": true,
      "source": "Éditions WEKA",
      "published": "2026-11-17",
      "summary": "",
@@ -701,9 +1200,9 @@
     {
      "id": "uf48e7e58",
      "title": "Santé mentale : ce que nous disent plus de 23 000 enfants sur leurs difficultés et leur quotidien fragilisé",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRHA3TkdSeWY0ZkVqNXJ5WktEUTJGcFo4X1BsMDlFYmtna2lDT2k0bnhQN1RkTC1JVXRrblNHcTY5RkxrQmJWMDFCd05VYVhrelhxT29ELWZLeU5HVndIUWRvVkVrLUVoWllBQ1QwWkl4M2VKa3VGUElCZFNMaUttVTBIandjeU55NW9MMFVfcVM1aldZd2dXVWFEMW9PQnRTVWNxa09nWXJ1ZEItbDlJUEJNN3ZPRExuMml0d3VyemFpQTBsNXRFYUUwVE90TDZaVmc?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.unicef.fr/article/sante-mentale-ce-que-nous-disent-plus-de-23-000-enfants-sur-leurs-difficultes-et-leur-quotidien-fragilise/",
+     "gnews": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRHA3TkdSeWY0ZkVqNXJ5WktEUTJGcFo4X1BsMDlFYmtna2lDT2k0bnhQN1RkTC1JVXRrblNHcTY5RkxrQmJWMDFCd05VYVhrelhxT29ELWZLeU5HVndIUWRvVkVrLUVoWllBQ1QwWkl4M2VKa3VGUElCZFNMaUttVTBIandjeU55NW9MMFVfcVM1aldZd2dXVWFEMW9PQnRTVWNxa09nWXJ1ZEItbDlJUEJNN3ZPRExuMml0d3VyemFpQTBsNXRFYUUwVE90TDZaVmc?oc=5",
+     "resolu": true,
      "source": "UNICEF",
      "published": "2026-11-16",
      "summary": "",
@@ -713,9 +1212,9 @@
     {
      "id": "uddc1aa97",
      "title": "Sevrey Le personnel de l’hôpital psychiatrique dénonce les mauvaises conditions de travail et le manque de moyens",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeDhCdWpfRXhDUEVHYzFVSEI0Z3JrV1pXaHlVSmM1SkF6TXpnZkNpMkEzeEMxNW92QTNBdkc4c0RWeXRVeGFsUGRKNHBRZzJ6R3ZKNzlMWmExbC1MdHROdkJHZW5iSmRHeXdvZ0JkeGswemhKODhRb1NEcTctS2twVnljUFZrcHZkWEJJdnhnbGF4WkIwOWpRT0VRVnI0bTUyekpyc1FwZkxHY0E0OGJZQldldkxFcnBwbWxGdmdDa3ZuSjFVellSa3pMbXk5dXRIYUdHRWtOS1JiUFFfSGtF?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.lejsl.com/social/2026/11/16/le-personnel-de-l-hopital-psychiatrique-denonce-les-mauvaises-conditions-de-travail-et-le-manque-de-moyens",
+     "gnews": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeDhCdWpfRXhDUEVHYzFVSEI0Z3JrV1pXaHlVSmM1SkF6TXpnZkNpMkEzeEMxNW92QTNBdkc4c0RWeXRVeGFsUGRKNHBRZzJ6R3ZKNzlMWmExbC1MdHROdkJHZW5iSmRHeXdvZ0JkeGswemhKODhRb1NEcTctS2twVnljUFZrcHZkWEJJdnhnbGF4WkIwOWpRT0VRVnI0bTUyekpyc1FwZkxHY0E0OGJZQldldkxFcnBwbWxGdmdDa3ZuSjFVellSa3pMbXk5dXRIYUdHRWtOS1JiUFFfSGtF?oc=5",
+     "resolu": true,
      "source": "Le JSL",
      "published": "2026-11-16",
      "summary": "",
@@ -725,9 +1224,9 @@
     {
      "id": "u21e2cfb0",
      "title": "La danse serait plus efficace que les antidépresseurs",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaFAtVC1MRTdnMUlwX0kzS0MzRlhCSG84YVFZMERGRkJpd0s5Q0FkMnRhQkJVRFB5ZmNaQ1B4RXJYaW9DdFplVmt1dnQ1bzEzQXNKVHk3Y3BvYmtQZTY4dGJ1VnBXNklZcTdJOEduLXVoME8wU2MybnpXQ3RjWmc2QkxyT3FwdEVRNkxTZjQwYW45aXptalNxSVlTR0tJMENjM2NMeDhpa2p5R2RITm9qTA?oc=5",
-     "gnews": "",
-     "resolu": false,
+     "url": "https://www.nationalgeographic.fr/sante/sport-psychologie-la-danse-serait-plus-efficace-que-les-antidepresseurs",
+     "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaFAtVC1MRTdnMUlwX0kzS0MzRlhCSG84YVFZMERGRkJpd0s5Q0FkMnRhQkJVRFB5ZmNaQ1B4RXJYaW9DdFplVmt1dnQ1bzEzQXNKVHk3Y3BvYmtQZTY4dGJ1VnBXNklZcTdJOEduLXVoME8wU2MybnpXQ3RjWmc2QkxyT3FwdEVRNkxTZjQwYW45aXptalNxSVlTR0tJMENjM2NMeDhpa2p5R2RITm9qTA?oc=5",
+     "resolu": true,
      "source": "National Geographic",
      "published": "2026-11-16",
      "summary": "",
