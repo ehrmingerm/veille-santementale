@@ -1,9 +1,220 @@
 {
- "maj": "2026-11-21T12:54:34+00:00",
- "jours_couverts": 29,
- "total": 703,
+ "maj": "2026-11-22T12:46:39+00:00",
+ "jours_couverts": 30,
+ "total": 712,
  "liens_non_resolus": 1,
  "jours": [
+  {
+   "date": "2026-11-22",
+   "items": [
+    {
+     "id": "uf2e87cf5",
+     "title": "Un programme riche autour de la santé mentale des jeunes pour les collégiens sévéragais",
+     "url": "https://www.journaldemillau.fr/2026/11/22/un-programme-riche-autour-de-la-sante-mentale-des-jeunes-pour-les-collegiens-severagais-13659116.php",
+     "gnews": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORG85M0pDcnJ0cjhIQ3R1R3pldWthWW1Dbjh4Qmx4YVpXVjk1ak9zZGU5eXVfNzBpdklzdDVyYkI2ZTNOMU8zOUYzaEtKM2dqQmRwMVBhbHB1bzVYRXE1clBCY0JtN251TXJDaHNBcjdaSTJBelhRUXNfY2JKR3RmcEMxaWpiazJCZ1dNOWswenRSX3FORDBhZ1NiRlN6TWhPR2lGb0hNLW1PMUg4ZWNzSkJOUkwtSld3ZlNidmh2WDBUYU1PbTFuUXZxOGlDTU9ZZHdjLVZRa0RCQQ?oc=5",
+     "resolu": true,
+     "source": "Le Journal de Millau",
+     "published": "2026-11-22",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u65f8545",
+     "title": "YouTube met en place de nouveaux espaces d’information pour les adolescents autour de la santé mentale",
+     "url": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/youtube-met-en-place-de-nouveaux-espaces-d-information-pour-les-adolescents-autour-de-la-sante-mentale_8250529.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcXlGQmM3NGdEa2o0NTdVdGNQTlduSVlMOExLUTVYVnBSWUp5MVU4cHBKRWk0M2V4c2tXSmFCNVpzbmpKZmZtOE1FT3ByY1FpNnpkdlR0clUyczVNczVkeTJIajRTUEZZdFM3MnRiTmpHaDNQVUlGcmszdnZ4N0VZRXpaVGlmVDhCaGJXLUhsSTkxR21SSVNqSlZFdDRXZ2hla2dJRmdfQnNicHMtdUVRcDY5NWZkNEExSFRCSnJ5VkNJLWw1VVA3SW04WnBfdmYxU1ZkdllHN1NyR0ZYNHZ1ZE43VU1FNmpxbURPRkduNnh2WHNDRnRIN1FWYjU?oc=5",
+     "resolu": true,
+     "source": "franceinfo",
+     "published": "2026-11-22",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uac548898",
+     "title": "« J’avais des pensées suicidaires, j’ai été délaissée par les médecins » : aux Etats-Unis, la mauvaise prise en charge du post-partum fait de nombreuses victimes chez les mères",
+     "url": "https://www.lemonde.fr/sante/article/2026/11/22/j-avais-des-pensees-suicidaires-j-ai-ete-delaissee-par-les-medecins-aux-etats-unis-la-mauvaise-prise-en-charge-du-post-partum-fait-de-nombreuses-victimes-chez-les-meres_6814178_1651302.html",
+     "gnews": "",
+     "resolu": true,
+     "source": "lemonde.fr",
+     "published": "2026-11-22",
+     "summary": "Darons d’ailleurs. Deux fois par mois, un de nos journalistes à l’étranger explore la parentalité hors de nos frontières. Outre-Atlantique, le taux de mortalité maternelle est l’un des plus élevés des pays riches, avec des causes de décès largement évitables comme les troubles psychologiques après l’accouchement. Des a…",
+     "feed": "le-monde-sante",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "ucad6a0bc",
+     "title": "Ax-les-Thermes. Santé mentale : il existe toujours une solution…",
+     "url": "https://www.ladepeche.fr/2026/11/22/sante-mentale-il-existe-toujours-une-solution-13665495.php",
+     "gnews": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQUM3R1BjWUxuY1NoRUtHYmtWQU94MUZqOW9haHk2QzhEWmJTTm81cXZGM29TQ1N3a3VhT0hTalNPRjVOMHRUM0tqUnRXdV9BN3c0Q0tNVUZHdU5JR2NZZWRWZXUyOXhFM3FsSGhlaUpvN2gxTGt6WWN3NFd2QmcyRUdkN2I0eE9nZmJucUlVdkd5RFZwUjFod05R?oc=5",
+     "resolu": true,
+     "source": "ladepeche.fr",
+     "published": "2026-11-22",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u41366c3e",
+     "title": "Croatie : des milliers de personnes rassemblées en hommage à un patient mort en psychiatrie",
+     "url": "https://www.france24.com/fr/info-en-continu/20261121-croatie-des-milliers-de-personnes-rassembl%C3%A9es-en-hommage-%C3%A0-un-patient-mort-en-psychiatrie",
+     "gnews": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT0xESUJoencwa2ZBT2wxSHRVQzFoY3RKbmphQ0NKdkxpY2tUVFdTNjl3YzRQV1l1RFpsNXdkOXhCR2E4aXBlRk5fbnZXeE90UnlwWnU3ZnI5TW1PVnpvRHh0VUR2MHc2d3AtYXU0dkFzQ2d1Rm5COVU0Mm1XN0hsakVmdDFTYTVnek9rSmZBWkxpQjZOOVFfa2h4QWpTNkFyalRZeHh2alpQcTBiYzB1bVBQWE5BUlB4R09XVktUeEhvRTR3ZXdkWGNiYnVYUm01NVVrQlZRajJqUlFXbEd3dlZpSmlBNHM?oc=5",
+     "resolu": true,
+     "source": "France 24",
+     "published": "2026-11-21",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "uf00abd1f",
+     "title": "Santé mentale : « Une société qui n’écoute pas la souffrance des enfants prépare les difficultés de demain »",
+     "url": "https://www.lemonde.fr/idees/article/2026/11/21/sante-mentale-une-societe-qui-n-ecoute-pas-la-souffrance-des-enfants-prepare-les-difficultes-de-demain_6814017_3232.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOFVfNEFKOVNNY1ptUHhFRUNiQkUyaC10VnppYjBjNG5Gd2l3MGpYblhxWFFaT0gtZ0s1cmdsd0pBMTItSXQzNDhMdlVIWnQ1bTlDVUNRVnV0OGxwcVJ5WVdJUVdCUUkzWXlpVnNsWkg2OG9ob3ZvMlFPazlWSENHRzAySzhyaHIta1p0cVBYTnZQS2E5Q2VuRC12MURCaUdnOXpydzREX1F5b1I3ZVllSkpZT0Z0c2gwVnZ1TndWeWpENThOMmFEVGFpVHBoeXItQV9yaHhvTkNIcXhBWFRidElWRk5wSHFyVXNNZ1NaUTh1V281NzhpTlVwXzU?oc=5",
+     "resolu": true,
+     "source": "Le Monde.fr",
+     "published": "2026-11-21",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "u5a3b124a",
+     "title": "Urgent call for improved mental health services in Ballinasloe",
+     "url": "https://www.shannonside.ie/news/urgent-call-for-improved-mental-health-services-in-ballinasloe-301606",
+     "gnews": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVNacWR4OC03cVB4ZzYzNGc3NlN0dFhBemRrYVFoVVd4dm84amdBdGl4RmFqQVJsYW55OV9jWUlXNHk2M1BjVXlmM0lqaGk2YTA5ZHlRQmZtUnp2LVFYbjFhYzdReWpWTlRQbUE1dlNRSzNVbndIWm5EWHg5ZVh6RHpvWkg1OFd6bDEwazdJdEo3OWhhZURGSC1wVmR4SWNMd1dR?oc=5",
+     "resolu": true,
+     "source": "Shannonside",
+     "published": "2026-11-20",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u5c37d857",
+     "title": "Talking About Mental Health at Work",
+     "url": "https://www.cdc.gov/niosh/healthcare/impactwellbeing/talking.html",
+     "gnews": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fd2RQTU0tNUZkaEtWcDc0MXJBaDVkQTdWYWpKM2Yta2R3akJvQjU2WnA4dnAtdVk2UnlmRUtFWkdnSF9EUGZvVzVQQ3gzeXZnUnVlaXB3VGIzWkY1OF9YQl9ma1B2TmgzVmNkSDRBdURxSDA?oc=5",
+     "resolu": true,
+     "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "international",
+     "categorie": "institutions"
+    },
+    {
+     "id": "u88ddf6c",
+     "title": "Santé mentale des étudiants : un nouveau site national pour s’informer, s’orienter et trouver de l’aide",
+     "url": "https://www.pays-de-la-loire.ars.sante.fr/sante-mentale-des-etudiants-un-nouveau-site-national-pour-sinformer-sorienter-et-trouver-de-laide",
+     "gnews": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeDJHQUJwcGNqRDk2dkthcC0xX3pkOUtDcld2ZWhYbk9PbWtfdFdxTlpldlNFaVJySUJES1RoSWVUN096R1JfdlhxTTYyVG1iZVE4bHktTmJHUU1Gckxub0VnSUtOTU81SUNYRGppanI1MmI3VUVTS3JiWm5DTlp0TUVOQnk1RDlZNGVuSTBoWktES29HaXdPdG5qOGpadkJ4MUVrVFFaYnFIX0Y5QWZfbWJIOXRDNmlJZVhta2p3cjlYUS1pQzZFSmcyWm5XMG1ULVVla3hR?oc=5",
+     "resolu": true,
+     "source": "ARS Pays de la Loire",
+     "published": "2026-11-17",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "institutions"
+    }
+   ],
+   "collecte": "2026-11-22T12:46:39+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 19
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 11
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 30
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 16
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 18
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 16
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 8
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 3
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 5
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
+    }
+   ]
+  },
   {
    "date": "2026-11-21",
    "items": [

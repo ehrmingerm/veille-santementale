@@ -1,5 +1,5 @@
 {
- "genere": "2026-11-21T12:54:34+00:00",
+ "genere": "2026-11-22T12:46:39+00:00",
  "fenetre_jours": 7,
  "sources": [
   {
@@ -7,26 +7,22 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie) (réforme OR financement OR pénurie OR \"feuille de route\" OR ministère OR \"agence régionale de santé\" OR hôpital OR \"secteur psychiatrique\")",
    "etat": "ok",
-   "bruts": 30,
-   "retenus": 20,
-   "hors_champ": 2,
+   "bruts": 31,
+   "retenus": 19,
+   "hors_champ": 3,
    "hors_fenetre": 0,
-   "hors_zone": 8,
+   "hors_zone": 9,
    "ecartes": [
+    [
+     "lesaffaires.com",
+     2
+    ],
     [
      "fr.news.yahoo.com",
      1
     ],
     [
-     "boursorama.com",
-     1
-    ],
-    [
      "doctissimo.fr",
-     1
-    ],
-    [
-     "lemans.maville.com",
      1
     ],
     [
@@ -38,11 +34,15 @@
      1
     ],
     [
+     "actualite.cd",
+     1
+    ],
+    [
      "actuniger.com",
      1
     ],
     [
-     "seneweb.com",
+     "haitilibre.com",
      1
     ]
    ]
@@ -52,8 +52,8 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie OR \"troubles psychiques\") (stigmatisation OR \"idées reçues\" OR préjugés OR représentations OR \"regard sur\" OR tabou)",
    "etat": "ok",
-   "bruts": 24,
-   "retenus": 10,
+   "bruts": 25,
+   "retenus": 11,
    "hors_champ": 6,
    "hors_fenetre": 0,
    "hors_zone": 8,
@@ -67,11 +67,11 @@
      1
     ],
     [
-     "lemetropolitain.com",
+     "nantes.maville.com",
      1
     ],
     [
-     "nantes.maville.com",
+     "lemetropolitain.com",
      1
     ],
     [
@@ -79,15 +79,15 @@
      1
     ],
     [
+     "actualite.cd",
+     1
+    ],
+    [
+     "senscritique.com",
+     1
+    ],
+    [
      "salondulivredemontreal.com",
-     1
-    ],
-    [
-     "fr.apanews.net",
-     1
-    ],
-    [
-     "seneweb.com",
      1
     ]
    ]
@@ -97,9 +97,9 @@
    "type": "google",
    "requete": "psychiatrie (contention OR isolement OR \"soins sans consentement\" OR \"hospitalisation sous contrainte\" OR \"droits des patients\" OR \"contrôleur des lieux de privation\")",
    "etat": "ok",
-   "bruts": 5,
+   "bruts": 6,
    "retenus": 2,
-   "hors_champ": 0,
+   "hors_champ": 1,
    "hors_fenetre": 0,
    "hors_zone": 3,
    "ecartes": [
@@ -108,7 +108,7 @@
      2
     ],
     [
-     "europeantimes.news",
+     "boursorama.com",
      1
     ]
    ]
@@ -130,18 +130,22 @@
    "type": "google",
    "requete": "\"santé mentale\" (jeunes OR adolescents OR étudiants OR écrans OR \"réseaux sociaux\" OR travail OR \"intelligence artificielle\" OR \"grande cause\")",
    "etat": "ok",
-   "bruts": 62,
+   "bruts": 47,
    "retenus": 30,
    "hors_champ": 1,
    "hors_fenetre": 0,
-   "hors_zone": 2,
+   "hors_zone": 3,
    "ecartes": [
     [
-     "se-unsa.org",
+     "le-refuge.org",
      1
     ],
     [
-     "le-refuge.org",
+     "carenews.com",
+     1
+    ],
+    [
+     "fr.news.yahoo.com",
      1
     ]
    ]
@@ -152,29 +156,21 @@
    "requete": "(\"santé mentale\" OR psychiatrie) (campagne OR sensibilisation OR \"prise de parole\" OR témoignage OR \"parle de sa dépression\" OR \"a révélé souffrir\")",
    "etat": "ok",
    "bruts": 32,
-   "retenus": 12,
-   "hors_champ": 9,
+   "retenus": 16,
+   "hors_champ": 7,
    "hors_fenetre": 0,
-   "hors_zone": 11,
+   "hors_zone": 9,
    "ecartes": [
-    [
-     "federationdesdiabetiques.org",
-     1
-    ],
     [
      "influencia.net",
      1
     ],
     [
+     "federationdesdiabetiques.org",
+     1
+    ],
+    [
      "facebook.com",
-     1
-    ],
-    [
-     "coe.int",
-     1
-    ],
-    [
-     "action-agricole-picarde.com",
      1
     ],
     [
@@ -186,7 +182,15 @@
      1
     ],
     [
-     "spa.gov.sa",
+     "magicmaman.com",
+     1
+    ],
+    [
+     "actualite.cd",
+     1
+    ],
+    [
+     "haitilibre.com",
      1
     ]
    ]
@@ -196,11 +200,11 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie OR \"trouble bipolaire\" OR dépression) (livre OR essai OR roman OR documentaire OR série OR film OR podcast OR \"bande dessinée\")",
    "etat": "ok",
-   "bruts": 31,
-   "retenus": 17,
-   "hors_champ": 5,
+   "bruts": 32,
+   "retenus": 18,
+   "hors_champ": 4,
    "hors_fenetre": 0,
-   "hors_zone": 9,
+   "hors_zone": 10,
    "ecartes": [
     [
      "doctissimo.fr",
@@ -223,7 +227,11 @@
      1
     ],
     [
-     "salondulivredemontreal.com",
+     "senscritique.com",
+     1
+    ],
+    [
+     "citeboomers.com",
      1
     ]
    ]
@@ -233,18 +241,14 @@
    "type": "google",
    "requete": "\"mental health\" (stigma OR \"mental health policy\" OR \"mental health services\" OR coercion OR \"peer support\" OR \"lived experience\" OR \"media coverage\")",
    "etat": "ok",
-   "bruts": 90,
-   "retenus": 13,
-   "hors_champ": 1,
+   "bruts": 75,
+   "retenus": 16,
+   "hors_champ": 2,
    "hors_fenetre": 0,
-   "hors_zone": 76,
+   "hors_zone": 57,
    "ecartes": [
     [
      "bioengineer.org",
-     4
-    ],
-    [
-     "ndtv.com",
      3
     ],
     [
@@ -256,20 +260,24 @@
      2
     ],
     [
-     "educationtimes.com",
+     "unicef.org",
      2
     ],
     [
-     "indiatoday.in",
-     2
+     "nyu.edu",
+     1
     ],
     [
-     "hindustantimes.com",
-     2
+     "idahocapitalsun.com",
+     1
     ],
     [
-     "thenewsmill.com",
-     2
+     "www2.stetson.edu",
+     1
+    ],
+    [
+     "cnu.edu",
+     1
     ]
    ]
   },
@@ -303,8 +311,8 @@
    "requete": "",
    "etat": "ok",
    "bruts": 20,
-   "retenus": 2,
-   "hors_champ": 18,
+   "retenus": 3,
+   "hors_champ": 17,
    "hors_fenetre": 0,
    "hors_zone": 0,
    "ecartes": []
@@ -406,73 +414,85 @@
    "ecartes": []
   }
  ],
- "nouveaux": 14,
+ "nouveaux": 9,
  "items": [
   {
-   "id": "u1690b1ab",
-   "title": "L’offre de soins en psychiatrie est au rendez-vous à Thetford Mines, assure Santé Québec",
-   "url": "https://ici.radio-canada.ca/article/info/2302184/offre-psychiatrie-thetford-sante-quebec",
-   "gnews": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXNnODE4VkpMOVE4Tjh1RTdEUzNKN1g5SUIyTmo5Tnk5Y0VaRFVGSHJzOF91LVRyenN2aVNWOEZaZjZTWXBrTU82Vm9ZTC14aWtMOVdOWDVVbG14Q3dSWlJ2dHRYT253THJ5aHZOOFl1Z0dLMC15bnV4c3pKdVctU2tFY0JkMW5WeGZ2ZDFjM2JJUQ?oc=5",
+   "id": "uf2e87cf5",
+   "title": "Un programme riche autour de la santé mentale des jeunes pour les collégiens sévéragais",
+   "url": "https://www.journaldemillau.fr/2026/11/22/un-programme-riche-autour-de-la-sante-mentale-des-jeunes-pour-les-collegiens-severagais-13659116.php",
+   "gnews": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORG85M0pDcnJ0cjhIQ3R1R3pldWthWW1Dbjh4Qmx4YVpXVjk1ak9zZGU5eXVfNzBpdklzdDVyYkI2ZTNOMU8zOUYzaEtKM2dqQmRwMVBhbHB1bzVYRXE1clBCY0JtN251TXJDaHNBcjdaSTJBelhRUXNfY2JKR3RmcEMxaWpiazJCZ1dNOWswenRSX3FORDBhZ1NiRlN6TWhPR2lGb0hNLW1PMUg4ZWNzSkJOUkwtSld3ZlNidmh2WDBUYU1PbTFuUXZxOGlDTU9ZZHdjLVZRa0RCQQ?oc=5",
    "resolu": true,
-   "source": "Radio-Canada",
-   "published": "2026-11-20",
+   "source": "Le Journal de Millau",
+   "published": "2026-11-22",
    "summary": "",
-   "feed": "politiques-soins",
-   "categorie": "presse-etrangere"
+   "feed": "societe",
+   "categorie": "presse-regionale"
   },
   {
-   "id": "uc093d926",
-   "title": "LISTEN BACK: Local TD raises concerns over major waiting times for mental health services",
-   "url": "https://www.shannonside.ie/podcasts/lets-talk/listen-back-local-td-raises-concerns-over-major-waiting-times-for-mental-health-services-301633",
-   "gnews": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb1E3THc5eXRLaER6V1JpZUpoeTZyY0hsc3NvV1R4R3htUFk5N3ZWOHIxUlN6QzZLd2tUcVo0NFRreUNBSk5WSHJtdEdMcXJEWmU0ZVg3eTJ5RnowQWp4OXk5US1KSWkwNlUteE9PT3BlOTJQaGZrdFR1MFA3QkJZOFpNd19Mb3pxbG9mTWdzNlR0b0FvQVJDYVdqMUZjaEtjQ3E3Z1g4UzRKblFDcUNXSGlGZUdwbk5TcWhmZXd3VGZWcHdiOEk4aUVwanRsNkowNjNNTFhSeVA?oc=5",
+   "id": "u65f8545",
+   "title": "YouTube met en place de nouveaux espaces d’information pour les adolescents autour de la santé mentale",
+   "url": "https://www.franceinfo.fr/replay-radio/l-il-de-julie/youtube-met-en-place-de-nouveaux-espaces-d-information-pour-les-adolescents-autour-de-la-sante-mentale_8250529.html",
+   "gnews": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcXlGQmM3NGdEa2o0NTdVdGNQTlduSVlMOExLUTVYVnBSWUp5MVU4cHBKRWk0M2V4c2tXSmFCNVpzbmpKZmZtOE1FT3ByY1FpNnpkdlR0clUyczVNczVkeTJIajRTUEZZdFM3MnRiTmpHaDNQVUlGcmszdnZ4N0VZRXpaVGlmVDhCaGJXLUhsSTkxR21SSVNqSlZFdDRXZ2hla2dJRmdfQnNicHMtdUVRcDY5NWZkNEExSFRCSnJ5VkNJLWw1VVA3SW04WnBfdmYxU1ZkdllHN1NyR0ZYNHZ1ZE43VU1FNmpxbURPRkduNnh2WHNDRnRIN1FWYjU?oc=5",
    "resolu": true,
-   "source": "Shannonside",
-   "published": "2026-11-20",
+   "source": "franceinfo",
+   "published": "2026-11-22",
    "summary": "",
-   "feed": "international",
-   "categorie": "presse-etrangere"
+   "feed": "societe",
+   "categorie": "presse-regionale"
   },
   {
-   "id": "u19aed99f",
-   "title": "\"Mon journal mental\" : on a testé la nouvelle application gratuite de l’Assurance maladie pour prendre soin de sa santé mentale",
-   "url": "https://www.femmeactuelle.fr/sante/mon-journal-mental-on-a-teste-la-nouvelle-application-gratuite-de-lassurance-maladie-pour-prendre-soin-de-sa-sante-mentale-2213445",
-   "gnews": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWmJidnRtTXRybGxsakpuNGZjXzVTbjhTWDhqMGlsajdHSkxFbGJyeWZ2XzVFX0djSjJxN1RyY2Y2dHhmSzNEaUI5V0pOcWdTek9ubUVMOUVaaDZrZ3NVS2stdEt0UGltY3V5dExZamhRMUR0cFU0eHRWd3hkdjg0WUxuRWx4TjU0THZlZlVFTlBqQ2Y0Tkh1eXU0dXRtczFiWWRURU1VOWs2SVpEcGJfS293dmw5Vy1CLXZta2xEWFJDX0VzaW54bVVNSWNheXNmblFzcG4wRXBhb0o5dzJtbXZNTDh5N0JUcl9LZVZsOVdBR3UxdzNwOQ?oc=5",
+   "id": "uac548898",
+   "title": "« J’avais des pensées suicidaires, j’ai été délaissée par les médecins » : aux Etats-Unis, la mauvaise prise en charge du post-partum fait de nombreuses victimes chez les mères",
+   "url": "https://www.lemonde.fr/sante/article/2026/11/22/j-avais-des-pensees-suicidaires-j-ai-ete-delaissee-par-les-medecins-aux-etats-unis-la-mauvaise-prise-en-charge-du-post-partum-fait-de-nombreuses-victimes-chez-les-meres_6814178_1651302.html",
+   "gnews": "",
    "resolu": true,
-   "source": "Femme Actuelle",
-   "published": "2026-11-20",
+   "source": "lemonde.fr",
+   "published": "2026-11-22",
+   "summary": "Darons d’ailleurs. Deux fois par mois, un de nos journalistes à l’étranger explore la parentalité hors de nos frontières. Outre-Atlantique, le taux de mortalité maternelle est l’un des plus élevés des pays riches, avec des causes de décès largement évitables comme les troubles psychologiques après l’accouchement. Des a…",
+   "feed": "le-monde-sante",
+   "categorie": "presse-nationale"
+  },
+  {
+   "id": "ucad6a0bc",
+   "title": "Ax-les-Thermes. Santé mentale : il existe toujours une solution…",
+   "url": "https://www.ladepeche.fr/2026/11/22/sante-mentale-il-existe-toujours-une-solution-13665495.php",
+   "gnews": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQUM3R1BjWUxuY1NoRUtHYmtWQU94MUZqOW9haHk2QzhEWmJTTm81cXZGM29TQ1N3a3VhT0hTalNPRjVOMHRUM0tqUnRXdV9BN3c0Q0tNVUZHdU5JR2NZZWRWZXUyOXhFM3FsSGhlaUpvN2gxTGt6WWN3NFd2QmcyRUdkN2I0eE9nZmJucUlVdkd5RFZwUjFod05R?oc=5",
+   "resolu": true,
+   "source": "ladepeche.fr",
+   "published": "2026-11-22",
    "summary": "",
    "feed": "communication",
    "categorie": "presse-regionale"
   },
   {
-   "id": "uf0d918b6",
-   "title": "La santé mentale des aidants",
-   "url": "https://www.info.gouv.fr/grand-dossier/parlons-sante-mentale/sante-mentale-des-aidants",
-   "gnews": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLWdaSlpxZ1pwa0hqNHJrN3MzNjdhMk5fQk1ZSHc2Wmk0VnhIdHFSd09OTmtVOWVfUVpmVk9zZEpWNTRidjRNdlNhSzI3cGxIRW01blhVSEhmcTYza19vMHNRem1EbGQxTUpybmU0TktuUXBKVmNROE1UazZJN2w2SEwtSzJ4Uno0blBKVDZVSQ?oc=5",
+   "id": "u41366c3e",
+   "title": "Croatie : des milliers de personnes rassemblées en hommage à un patient mort en psychiatrie",
+   "url": "https://www.france24.com/fr/info-en-continu/20261121-croatie-des-milliers-de-personnes-rassembl%C3%A9es-en-hommage-%C3%A0-un-patient-mort-en-psychiatrie",
+   "gnews": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT0xESUJoencwa2ZBT2wxSHRVQzFoY3RKbmphQ0NKdkxpY2tUVFdTNjl3YzRQV1l1RFpsNXdkOXhCR2E4aXBlRk5fbnZXeE90UnlwWnU3ZnI5TW1PVnpvRHh0VUR2MHc2d3AtYXU0dkFzQ2d1Rm5COVU0Mm1XN0hsakVmdDFTYTVnek9rSmZBWkxpQjZOOVFfa2h4QWpTNkFyalRZeHh2alpQcTBiYzB1bVBQWE5BUlB4R09XVktUeEhvRTR3ZXdkWGNiYnVYUm01NVVrQlZRajJqUlFXbEd3dlZpSmlBNHM?oc=5",
    "resolu": true,
-   "source": "info.gouv.fr",
-   "published": "2026-11-20",
-   "summary": "",
-   "feed": "societe",
-   "categorie": "institutions"
-  },
-  {
-   "id": "u7f5e7450",
-   "title": "Santé mentale : un nouveau site national pour accompagner les étudiant·es",
-   "url": "https://factuel.univ-lorraine.fr/article/sante-mentale-un-nouveau-site-national-pour-accompagner-les-etudiant%C2%B7es/",
-   "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVhTbXJNUXM5WTZCMzRSUTRJMFd1VXF6R3JkY2FoQUI4cUtHbWQ5UEZJNUN6NTF2TTN6bVc0RTVlZ3ZlcGl3RWRHMm1GenJ4WEY0Z2c3dkQtNDJ1RFAyejBvUWlVRTFac0cwTWNBT3IzMUdDQWNPUnFibmp2OGNXMXpIbnVBZG1VdW9qQ1c0N3ZvUElfbnNKUV9tOWNIcjYyUVBKelJvOVZGeV9mamhKZDh0bXRRcTJWWEE?oc=5",
-   "resolu": true,
-   "source": "Université de Lorraine",
-   "published": "2026-11-20",
+   "source": "France 24",
+   "published": "2026-11-21",
    "summary": "",
    "feed": "politiques-soins",
-   "categorie": "presse-regionale"
+   "categorie": "presse-nationale"
   },
   {
-   "id": "ua4d6bdcd",
-   "title": "Concerns raised over referral rejection rates for older persons’ mental health services locally",
-   "url": "https://www.shannonside.ie/news/concerns-raised-over-referral-rejection-rates-for-older-persons-mental-health-services-locally-301603",
-   "gnews": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMDQ2YWxIWjJlZUVfYXlCMFUyMVBoMGhvWUg1MFFlX2txYmhqbkNXaWdRTVRkd2ZsWEpxa0ZpbG41QkxvdUpEdXJUeXExY2hBV1hFTVVURDJZSW90SXdGWXlxZnBnN2F4SEdsenk5aFI4ZUUxUS1VR0JKWFZxRDZackxLMk93X01YUndOaDJMSmo5OWYyblBNY0FKREU3QnloNWhxWVhJQjdBUTFQam9yMmVCdmJCTWFjZ3NHRXJzQjdvQUR0QnNHaDRNOTRhdw?oc=5",
+   "id": "uf00abd1f",
+   "title": "Santé mentale : « Une société qui n’écoute pas la souffrance des enfants prépare les difficultés de demain »",
+   "url": "https://www.lemonde.fr/idees/article/2026/11/21/sante-mentale-une-societe-qui-n-ecoute-pas-la-souffrance-des-enfants-prepare-les-difficultes-de-demain_6814017_3232.html",
+   "gnews": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOFVfNEFKOVNNY1ptUHhFRUNiQkUyaC10VnppYjBjNG5Gd2l3MGpYblhxWFFaT0gtZ0s1cmdsd0pBMTItSXQzNDhMdlVIWnQ1bTlDVUNRVnV0OGxwcVJ5WVdJUVdCUUkzWXlpVnNsWkg2OG9ob3ZvMlFPazlWSENHRzAySzhyaHIta1p0cVBYTnZQS2E5Q2VuRC12MURCaUdnOXpydzREX1F5b1I3ZVllSkpZT0Z0c2gwVnZ1TndWeWpENThOMmFEVGFpVHBoeXItQV9yaHhvTkNIcXhBWFRidElWRk5wSHFyVXNNZ1NaUTh1V281NzhpTlVwXzU?oc=5",
+   "resolu": true,
+   "source": "Le Monde.fr",
+   "published": "2026-11-21",
+   "summary": "",
+   "feed": "societe",
+   "categorie": "presse-nationale"
+  },
+  {
+   "id": "u5a3b124a",
+   "title": "Urgent call for improved mental health services in Ballinasloe",
+   "url": "https://www.shannonside.ie/news/urgent-call-for-improved-mental-health-services-in-ballinasloe-301606",
+   "gnews": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVNacWR4OC03cVB4ZzYzNGc3NlN0dFhBemRrYVFoVVd4dm84amdBdGl4RmFqQVJsYW55OV9jWUlXNHk2M1BjVXlmM0lqaGk2YTA5ZHlRQmZtUnp2LVFYbjFhYzdReWpWTlRQbUE1dlNRSzNVbndIWm5EWHg5ZVh6RHpvWkg1OFd6bDEwazdJdEo3OWhhZURGSC1wVmR4SWNMd1dR?oc=5",
    "resolu": true,
    "source": "Shannonside",
    "published": "2026-11-20",
@@ -481,100 +501,28 @@
    "categorie": "presse-etrangere"
   },
   {
-   "id": "u864a9d4d",
-   "title": "Psychiatrie : la garantie du droit à l’avocat écartée",
-   "url": "https://www.lamarseillaise.fr/societe/psychiatrie-la-garantie-du-droit-a-l-avocat-ecartee-EP20940253",
-   "gnews": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOVZFVVA5Z1dJQS13d3lxNlV1LVpEMkp1c21tWEhSZkhrRXA5d0JZQkVCV0hzOGpSV2ZmWmlxMm9KYlc4cEtjbE5UdlFMS0VyRkota0JWYm5vYjhoclhiME9WbGJQaG9TS0VOQ0M1VmZXSmRCQk5JaWNfeFl4b3V6WHEyRmNPZmFOZV9zQzdaWUdhTzV2YWpBX0UtQUJrS2VCRUE?oc=5",
-   "resolu": true,
-   "source": "www.lamarseillaise.fr",
-   "published": "2026-11-20",
-   "summary": "",
-   "feed": "droits-contrainte",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "uc913f4d7",
-   "title": "La santé mentale et les arts : journée de sensibilisation",
-   "url": "https://www.chu-poitiers.fr/la-sante-mentale-et-les-arts-journee-de-sensibilisation/",
-   "gnews": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1ZEeEJZakRqUHE2S2hrbjJuSS1TVXA0d1VzUmZFbUd6SUtVWUdENTVzVDN2TW9kbmUwcUhMTVNUZl9tSzBvWWF2SG02SVZUdFV0OG9ZZ1VGSlF4VWVxRnFILWVEb1o5VWhOd1hZMkotRS0weE9xVEhQQW16WUlyRTREWlVxcllnU3FEWg?oc=5",
-   "resolu": true,
-   "source": "Site du CHU de Poitiers",
-   "published": "2026-11-20",
-   "summary": "",
-   "feed": "stigmatisation",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "uf9efc642",
-   "title": "Dans le Pays fouesnantais, un nouveau lieu d’écoute gratuit et anonyme pour la santé mentale des jeunes",
-   "url": "https://www.letelegramme.fr/finistere/fouesnant-29170/dans-le-pays-fouesnantais-un-nouveau-lieu-decoute-gratuit-et-anonyme-pour-la-sante-mentale-des-jeunes-7162360.php",
-   "gnews": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOeEdXRUlWQlBLNV9zdlN6TXlNSGpnY0RPblh1VXhGNEJjQWh0SlFnNGxKd2VDVWd2Wi10VEJSdy1yOWliZ0hMWFFycmVFam9nZjNHQTZFeDdRSFdsQVRfVE1DYnVuVUpXcThZaldUbEdmUGs2YWtGSUFrS0tzR1dMamt5TTBkNHBITTNod0pOUXF3cE1pRmd6c1dhMWZjb1dVSmFTTjVyZy1lYXVzdUFMVVl0VnpYZ2xObGJTN0ZqdXFfM1lWRWtuTml1VURIdWRnMUlqS0NpUXFMSElLQlYtdF9uWUg0U0tTM3hKOXpVWFoxeHhjNmhEN1N0MA?oc=5",
-   "resolu": true,
-   "source": "Le Télégramme",
-   "published": "2026-11-20",
-   "summary": "",
-   "feed": "societe",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "u10dce834",
-   "title": "Schiltigheim. Un temps de rencontre le 25 novembre autour de la santé mentale des jeunes",
-   "url": "https://www.dna.fr/education/2026/11/20/un-temps-de-rencontre-le-25-novembre-autour-de-la-sante-mentale-des-jeunes",
-   "gnews": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWtMVmhUZy1aTXNwdVlCeDVwTXF0czdIUnRqaGFkeS0zZmdXY1pyYlBpQWNya25LN0I2UGJPUS1GSnItZnZJZlVLV0N1bFNVLUlPcUhQU19faDJndWJXVTVUb3lxQk5zdUU0V3JZM0JYcVdfeWxpdU9SNmVJaDJuVjFHQWE2T1dnd3JsSTdSV3ZsWnR6Tk96dWlGeHhDZkFEQjFmZERhOXBIQ3pRU1YwX282bDc?oc=5",
-   "resolu": true,
-   "source": "DNA.fr",
-   "published": "2026-11-20",
-   "summary": "",
-   "feed": "societe",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "u47716789",
-   "title": "Aide psychologique -Santé mentale : un nouveau dispositif en ligne pour aider les jeunes",
-   "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19151",
-   "gnews": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPTFluNTQtdzdUc25kNHpFcHlyc1A3WE02R2V2d2pVNVRlaGtJcWJfaU9lWDlBNmtYRVA3NnB3YVU0QU1qdFY3MG0zaG1GQlpXaW9FMkx1UjdkOVJWLTVTRGxRS2Fzd2JhQzVueFplZTliRVE?oc=5",
-   "resolu": true,
-   "source": "Service Public",
-   "published": "2026-11-19",
-   "summary": "",
-   "feed": "societe",
-   "categorie": "institutions"
-  },
-  {
-   "id": "u8ab8fbca",
-   "title": "Vidéo Unique en France, une maison pour la santé mentale et globale des enfants a été inaugurée à Nantes",
-   "url": "https://actu.fr/pays-de-la-loire/nantes_44109/unique-en-france-une-maison-pour-la-sante-mentale-et-globale-des-enfants-a-ete-inauguree-a-nantes_65079222.html",
-   "gnews": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOblpRX2pVY3JXcUlpODc3QVdVTElLakU0a3IwUVdZclBfQkdrb1J4UmZMcWNHQlNJNWVBaVZ2R2Y4QWNVelZqdDB5anZRSDV0c3YwR3ZYRnNSclJqUXNLaWRyZlh6TUtmRWJkS3hfZzBzYU5QbU1jQ2FleU5BUnV4QjktbndvUjAyNXNwLWhZeGl2Qldja2dBOW9sWTA0d04wLU9qVGJjYjM2anpLbUVBYUZJSVBtLVhlQndNS0wtTms1Wk5XR0Jxd1NYUHM5bGhyeHF1R2ZFY1A2ODJsa0txODA1WndfWmFxUERBTEtR?oc=5",
-   "resolu": true,
-   "source": "Actu.fr",
-   "published": "2026-11-19",
-   "summary": "",
-   "feed": "politiques-soins",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "u938b5c12",
-   "title": "Risk Factors for Stress and Burnout | Healthcare Workers",
-   "url": "https://www.cdc.gov/niosh/healthcare/risk-factors/stress-burnout.html",
-   "gnews": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVbE5TVlNQb0dPdkU1Yk1jSVZFODYwMFVwNkZpdTVmZGpSTlVmMlNwanhxSzQ1Zl9GYlJONFRYOFEwS1ZMdDVpQTVIOXNheFBtNlVDT1I0VVJOcGdLTVo1ejlpYzFzT3BDN3hRTjNIQ3ZWcG9tU2o3TQ?oc=5",
+   "id": "u5c37d857",
+   "title": "Talking About Mental Health at Work",
+   "url": "https://www.cdc.gov/niosh/healthcare/impactwellbeing/talking.html",
+   "gnews": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fd2RQTU0tNUZkaEtWcDc0MXJBaDVkQTdWYWpKM2Yta2R3akJvQjU2WnA4dnAtdVk2UnlmRUtFWkdnSF9EUGZvVzVQQ3gzeXZnUnVlaXB3VGIzWkY1OF9YQl9ma1B2TmgzVmNkSDRBdURxSDA?oc=5",
    "resolu": true,
    "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-   "published": "2026-11-18",
+   "published": "2026-11-19",
    "summary": "",
    "feed": "international",
    "categorie": "institutions"
   },
   {
-   "id": "uab5fccb3",
-   "title": "Santé mentale : un congrès au Mans sur la place des familles dans le parcours de soin",
-   "url": "https://sante.ouest-france.fr/sante-mentale/sante-mentale-un-congres-au-mans-sur-la-place-des-familles-dans-le-parcours-de-soin-91b71a28-df6f-11f1-b029-43a761592972",
-   "gnews": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPN005TV9ELWw5RThuejdaN0NsT3JUdkxjM2owWmZPWmlKRXRudUV0WFM0TkhtY2FjRF9jUUFPemFzOXc1cmhValJ0OUZTMzY2RmpDLS1DM2Yzb09CUmpVLTdZbmNGZXpOaFI2TWQ2MjE3d3RrNkxPRXBkVk9rdjZmNF9JM0FBN05VVDJvTGYtZFd5VmRGRjdRS1haTGdrV1l2X2M0dVh4TTNpWGU5Y1lhdXJsVzVsanUzUWxxRVdHVlBPUjZyeFZCcXJDTklsT1BUSFNPM3VtQWNQczFfalFReEFodXRSZXpSZjFCQWhYVmZmOC1sRTVZ?oc=5",
+   "id": "u88ddf6c",
+   "title": "Santé mentale des étudiants : un nouveau site national pour s’informer, s’orienter et trouver de l’aide",
+   "url": "https://www.pays-de-la-loire.ars.sante.fr/sante-mentale-des-etudiants-un-nouveau-site-national-pour-sinformer-sorienter-et-trouver-de-laide",
+   "gnews": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeDJHQUJwcGNqRDk2dkthcC0xX3pkOUtDcld2ZWhYbk9PbWtfdFdxTlpldlNFaVJySUJES1RoSWVUN096R1JfdlhxTTYyVG1iZVE4bHktTmJHUU1Gckxub0VnSUtOTU81SUNYRGppanI1MmI3VUVTS3JiWm5DTlp0TUVOQnk1RDlZNGVuSTBoWktES29HaXdPdG5qOGpadkJ4MUVrVFFaYnFIX0Y5QWZfbWJIOXRDNmlJZVhta2p3cjlYUS1pQzZFSmcyWm5XMG1ULVVla3hR?oc=5",
    "resolu": true,
-   "source": "Ouest-France",
+   "source": "ARS Pays de la Loire",
    "published": "2026-11-17",
    "summary": "",
-   "feed": "culture",
-   "categorie": "presse-regionale"
+   "feed": "societe",
+   "categorie": "institutions"
   }
  ]
 }
