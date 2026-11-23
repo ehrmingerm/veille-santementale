@@ -1,9 +1,340 @@
 {
- "maj": "2026-11-22T12:46:39+00:00",
- "jours_couverts": 30,
- "total": 712,
+ "maj": "2026-11-23T15:10:15+00:00",
+ "jours_couverts": 31,
+ "total": 731,
  "liens_non_resolus": 1,
  "jours": [
+  {
+   "date": "2026-11-23",
+   "items": [
+    {
+     "id": "ud7160926",
+     "title": "\"Un psychiatre m'a aidé\" : Guillaume Labbé se confie sur sa dépression après un tournage éprouvant (ZAPTV)",
+     "url": "https://www.voici.fr/celebrites/un-psychiatre-m-a-aide-guillaume-labbe-se-confie-sur-sa-depression-apres-un-tournage-eprouvant-zaptv-831830",
+     "gnews": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdnY3bFkwOU9vQV9IeDhCekFWellCOFFpRmRjMnBzekM5aW5pQzZFVHdMeVJhbTRiV0MzeFI2eVhvcGRrZVRfT1QzcEM5dGpmVldMRE5aYWFsVkpGLWJKU2lIclhMNjBYWS1tb29aYUJuMElINy1xZDlDaU05NXVNX0xLTk1SNzJFVU16UHBsS0I2U1labjNQejczY0JlbWhBZTdaako0QUdfc0lCWUVCcE8zaGdlRzhBX2ZJX214ay0xXzZackU0QkRzbWtReEFkU0VOV0VR?oc=5",
+     "resolu": true,
+     "source": "Voici",
+     "published": "2026-11-23",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u491b7df0",
+     "title": "Amiens : Preventia se penchera sur la santé mentale du dirigeant",
+     "url": "https://www.lagazettefrance.fr/article/amiens-preventia-se-penchera-sur-la-sante-mentale-du-dirigeant",
+     "gnews": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGhpb0M4T01faHQzQ2ZycTBaUXJEYmlOaktKckREYXpUSEdNTURReksyblFCeFNRMEJ3TEE2ZFdVR3BadmRVeVo3V0w2cTNpamg2bnl4MmlsNGFNWjc5M1plSkp6NC1fX2NXWDdoWlBhUG41YXllTFVtY3NsWWExZHNMN0JSVDRWa0xUQnlBdHA0QnJKcUtSaGI4YXloTHNBN1Nn?oc=5",
+     "resolu": true,
+     "source": "La Gazette France",
+     "published": "2026-11-23",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ufc8553a3",
+     "title": "Pourquoi la malbouffe dégrade la santé mentale des enfants",
+     "url": "https://www.pourquoidocteur.fr/Articles/Question-d-actu/56364-Pourquoi-malbouffe-degrade-la-sante-mentale-enfants",
+     "gnews": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXJYVU92emFCMi16c1dOTm5UOW1tWl85X1ZrZXcycVVWWWlwNWJDNTZqUDllQUtuMnU3YktIbEtkYTRSU29PMGlnSDBTaDdOWGhWbmw1TElySEUxWEFOd2U3RTc0VmlLLW5mTW80cFBGbGpkRzM2NHl5ZFJpMXNINHoyWk9nRVEyVXpSQ2dvZkFLQ2k1aEljYnA0aEFMaXhWeklRVVhJdS1WYjlTWG5ucmdnTQ?oc=5",
+     "resolu": true,
+     "source": "Pourquoi Docteur",
+     "published": "2026-11-23",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u43f390f7",
+     "title": "Mâcon. Astéréotypie, un concert pour casser les préjugés sur la santé mentale",
+     "url": "https://www.lejsl.com/culture-loisirs/2026/11/23/astereotypie-un-concert-pour-casser-les-prejuges-sur-la-sante-mentale",
+     "gnews": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXhEeUhsV3FXRzdUWFhiNXRycV9YZEhGazA1SkI3aUQ2LTJ0TkNiSDVWOWJISWtIS1V0WVJzR0s5M0k3NWVyWlVpOU50SXJ4VkhCdFh1bV9GUnZ4RklvMFEtYmplQ3R3VEd5aFNJMTdCcmNjU1E5QlVFamU1TUdHSmdJbUJ3RzB0ZndzazNFYm0wYloxaXZmalk3QXZHQTFjVFAxU044bWN0YS1CbFJYVFg5YlVCWkpWT2c?oc=5",
+     "resolu": true,
+     "source": "Le JSL",
+     "published": "2026-11-23",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uc98a1014",
+     "title": "Guichet: la dépression post-partum",
+     "url": "https://www.rts.ch/audio-podcast/2026/audio/guichet-la-depression-post-partum-29424402.html",
+     "gnews": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2RqeFowdHVhbFo5X1VSbVZ2YnRiQW1XNWNoYUdzUzMzdjRlR21UWnpLMVpEQ3dmXzhEQmxKVVZMQjJzTEVMUmVIZmktTXpaYmg1c1N2MElsUXZoNjM4OEtka0ltRzNtdkVyVWZFN3VWenlIcFhEMUw2Z1JBcEFYVTJtLTJtWEZhZmxDYXUyaWJVcmUxdWc?oc=5",
+     "resolu": true,
+     "source": "rts.ch",
+     "published": "2026-11-23",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u8fc4b784",
+     "title": "Santé mentale : « Ce qui nous manque, et plus spécialement aux jeunes, c’est une étoile… »",
+     "url": "https://sante.ouest-france.fr/sante-mentale/depression/sante-mentale-ce-qui-nous-manque-et-plus-specialement-aux-jeunes-cest-une-etoile-0015d496-e4fc-11f1-afa7-9a0bb82a33d1",
+     "gnews": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTFZ4SVRrSmNHa25LZjJtcXdIdmRqWjVaWUJWeHJxRllIQVhxVG9LZFctTExVYXRYOUU1d2k3a2MwdmFwWlZPaW00MHpaSjRVcUF3cElkV054Y0VzanJkTFJaalBzTnVFU0RxN1F1MGMtdFE1MW00dWhxRzBnU0x1RzJJTTNBN2FTZGJsbzJBdUdvdGpMd0h5M3JCSXlsZzQtLWpNODFhY08yaHhpZkZ0YTZ6c2RCc1g0YWpNdDBSaVh1ZHN5VC1nLXNVYW9VMW9qT1gySWNwNjBzS3RCLWl3a3VMaVJDdTdnRXBFb19DcWF3N0RvWGRSTjRvdnhQcDdzd1E?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-11-23",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uc722e8d0",
+     "title": "Santé mentale : après « deux années de grande causerie », le fondateur du Psychodon réclame des actes",
+     "url": "https://www.nicematin.com/sante/sante-mentale-apres-deux-annees-de-grande-causerie-le-fondateur-du-psychodon-reclame-des-actes-10764730",
+     "gnews": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVThXT2JoUVozQTVsWFBJSk9XMFFBQ2ZaVHo2YzJ1VmQ3OGJBVFVyQUV4RWVjRFNaVzhDMzE3eVp5c2ctVDViVHZPYzdUUlQ4M1kzTEs2YlZHb21QQTg1Z014VWRacW9hd29fY3BoOTZCaFh0cGs4TEEtT05aeE1VYzlBSmV4YTczQVEzWW5lNUxmSGNrakJIdjMwZDA0SS1aT3ZCaEw2WERENDhRNEhhWWJoYnNfbk44cDFNQzd4dmJpUU5sNnpvTnMzYjJTb1da?oc=5",
+     "resolu": true,
+     "source": "Nice-Matin",
+     "published": "2026-11-23",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u6b28cb4d",
+     "title": "ENQUÊTE. « Prioriser l’insupportable » : la difficile prise en charge de la santé mentale des jeunes en Maine-et-Loire",
+     "url": "https://sante.ouest-france.fr/sante-mentale/enquete-prioriser-linsupportable-la-difficile-prise-en-charge-de-la-sante-mentale-des-jeunes-en-maine-et-loire-3dd6ec40-e338-11f1-9a72-32f9104dab1b",
+     "gnews": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQdG1qbm1FcGlQWHJIaVZfMUI3RGJBWTRESG9OSElLTUR2cXUxVDlkRVJkd1lKUnVVaU9hXzhFU1M4Q2ZfY1Z3YXBZSUw3SEozeHVqZnNrdlBWUW5sWnhqV0hQYmhhX3NRZ2NaYlFOODFjOER2dUtWQ3pnRnBQRWNTd3R0N1hqWVBIbW9JMUZHU3pmUWJ5eW9LdkhOcUdtU0NfRWdjYkVEMVNQMFpfcXZSdnpNU3pZQTE3NG1RU0lFazU4Q0NiWE5xZm5YRW9La01wdDBUblY3TWpRcUNQSmdrbm5RU0R2bFU3ZG9aX3pwSGpjY0RVdDZyUFo4MGRoWjVpdXdyZ1ZIeGpuTFUwbFQ4Q1FBaE15Y2ZyRVhZ?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-11-23",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u101d35dc",
+     "title": "« Santé mentale des jeunes : le sport ou la pratique d’une activité comme levier de rétablissement », Dôme de Talence, Talence",
+     "url": "https://unidivers.fr/event/sante-mentale-des-jeunes-le-sport-ou-la-pratique-dune-activite-comme-levier-de-retablissement-dome-de-talence-talence-2026-11-23t1930000100/",
+     "gnews": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOT3lVZzNvOS05RnhYbjIwZ3hWTlNlcGViMTFERWZxUnhhN0d5VDlpVmZSTUhOc0ItSWc2N2VBUllSNWFlVm1uZ0c0NXozc3Q5SVRXWHdnTi1KejZPS1ZXLVd1Mm5NNWQzTGt4S0hBTXh5eGx5Z1A3WEw3WkNFM1BJcFd5Umd5cTI2UTRXU1BJNVU3OTF6eDVyTUZEUHQ2cW5JR25yTjZvUDNXSU00UVVHcTZMSFpBT2cwNkV3SGFDVnB2RnNSaTJtTExjTHd0V21VWXpwcXdxeHBwY3c2M3E1Xy1RVGxMNUdEaU85Ni1maERpM19oR2JvaWQ3RQ?oc=5",
+     "resolu": true,
+     "source": "Unidivers",
+     "published": "2026-11-23",
+     "summary": "",
+     "feed": "societe",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u32fc3b5f",
+     "title": "Yonne : un nouveau service de régulation des soins, spécialisé en santé mentale, va démarrer début 2027",
+     "url": "https://www.ici.fr/bourgogne-franche-comte/yonne-89/yonne-un-nouveau-service-de-regulation-des-soins-specialise-en-sante-mentale-va-demarrer-debut-2027-9657654",
+     "gnews": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZTY1clNvN183bE1FUTBKYnNsVWJhenQ5NEhpVWM3ZDFzbFlRTGItQXExM3BJOGdwY2NMUEFTb01idnU3NGpTZHdPUGQzNVNSd3NOWUM3U29kdlFLalU2dnBrN3U2SjBMaUtpamxhNUlGeEQ2WC1xZlFrM0kwTHpSS2toeXJZeVFqOW5oS3BzQUR1RG5URkdSa2hnb2lmTk9BOVc0WVR0aFFkblJubEJZTi1XSmVzWFpiYjFHNHRzVTFwdjdKdWY5QTNnMllYZzM4d3RRN0xwdTlaem83TW4wc1g1aFV2T3B6dThBMjZ5cTk?oc=5",
+     "resolu": true,
+     "source": "ici.fr",
+     "published": "2026-11-23",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u8ca9aa8e",
+     "title": "Pr Olivier Bonnot (Collège national des universitaires de psychiatrie) : « En psychiatrie, il y a un décalage entre connaissances scientifiques et pratique »",
+     "url": "https://www.lequotidiendumedecin.fr/actu-medicale/pr-olivier-bonnot-college-national-des-universitaires-de-psychiatrie-en-psychiatrie-il-y-un-decalage",
+     "gnews": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQblVCSk5INzhnZTQzVzhGbXd0SjlDV2QwV3lGNWFIbFNBc093ZTVqZTRJMWtkdWRaRXBvVk00V1NReGh2dkQ0Mi02RE53RS1pVTNSd1loeGl1MEFIcW85NXo0QnlyM1lweDhtaUdCRXlha2dkRWlLdVkwMTl3ZFV1ampCYXdTb3lFOUhVNkdkUi1zVnFCZ0dpVzc0V0drMU91UmtWUld1ZHF4Qy1SZFJwQ2FBaUU3RFpENFBuWTVTdzdwRWVObktwMXBUYmZRX0tmM3VMNC1ETUNta2JfSndrVjcweDg?oc=5",
+     "resolu": true,
+     "source": "Le Quotidien du Médecin",
+     "published": "2026-11-23",
+     "summary": "",
+     "feed": "stigmatisation",
+     "categorie": "presse-nationale"
+    },
+    {
+     "id": "uc0754280",
+     "title": "Droits de l'enfant : une journée consacrée au bien-être et à la santé mentale à Goyave",
+     "url": "https://la1ere.franceinfo.fr/guadeloupe/droits-de-l-enfant-une-journee-consacree-au-bien-etre-et-a-la-sante-mentale-a-goyave-1760526.html",
+     "gnews": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQajBBWEVwWU1xZ2JILVhHYXNlRlplRXlIVDlFV1RUcnBncWhFaUoxcEhFS1k0QXZZY0ZLc2RKc1Izak1UUUd2NzRxNmk5SEphS3FJdzhTX3JTeDR1NWdHVUgwT1FzRkl2VTFPOGVwMV9VWGw1aVRNVHY4cE43elRCT0ZndmtnWHpWTUM5aG9GSlhPUmM1RklYeGVSaHlFWkFCZkc5NzFTS0ZISTR2WGRYMC1FekE3MkRGRVJhbjlZbGlFd01vWkxGVDZnaW9tSWpiWGlZ?oc=5",
+     "resolu": true,
+     "source": "Outre-mer La 1ère",
+     "published": "2026-11-22",
+     "summary": "",
+     "feed": "communication",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u69edc64d",
+     "title": "AVIGNON L'hôpital de Montfavet ouvre le premier centre de simulation en santé mentale du Vaucluse",
+     "url": "https://www.objectifsud.fr/gard/bagnols-uzes/avignon-lhopital-de-montfavet-ouvre-le-premier-centre-de-simulation-en-sante-mentale-du-vaucluse-172524.php",
+     "gnews": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT0ljd00yZmstNnBrNDBkZFJXZ3hqQmowb1lSV0NaQzBMUm56MjNxd3BDb3RFNkU4WkhsaUZEWWN5SEZWNU5ucFhuUFM3WnVXVEkzVmYxQUJEM2tjOGZ0SWpINHRDNjZ2WnJORkZicGgybTFwYUZodGVGOVNZRl9rNmRnT2tOaFVjNm9hTHJWNW96M1NLY1BtLThtTVBJVFAwNFcyTWpwdDRFTWFDZ3lwdHhMSkotX1g1V1hBUC1lZFU1VTcxWjJoLVlaak8zVzJrUnVJOTVITWdZY05Val9CLTdQX09yME0?oc=5",
+     "resolu": true,
+     "source": "Objectif Gard",
+     "published": "2026-11-22",
+     "summary": "",
+     "feed": "politiques-soins",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "ue99b995c",
+     "title": "Ce réalisateur local tourne un court-métrage d’horreur sur la santé mentale dans un domaine du vignoble de Nantes",
+     "url": "https://www.ouest-france.fr/pays-de-la-loire/vieillevigne-44116/ce-realisateur-local-tourne-un-court-metrage-dhorreur-sur-la-sante-mentale-dans-un-domaine-du-vignoble-de-nantes-adf831cc-e456-11f1-8937-e3b17ddb6abc",
+     "gnews": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOblB6ZU5lZUo2M2hqakw3TlFXaVQ2ZGhDYnVxNkdHQ0tFSTExMnVsaUxmbVJtVU1fTWRhUTNrdHdDZm40Qjc0UTZMdkhQSEtXNnFSeHZlYXdPQ1J6Q2hET2ExX2lneDlPTTR0OElqLXZkb3JxRU5HSmtlS1hiYzBWOVZzS3J0c29xSXpZZmY5ZEFRSlBTWnZkVTVTV1hrMHU1dXF2ZFZ4MGtyNDRPQ0d5R1otZkw5N0dwTlM5UkFZZE9ObmJZdnkxZ2Y5WWk3NGphVjF2bDEySjlOcVJybmZRek95MnVBVXpXSXo1YXVleHNBMDhSSTM2X3FHc2wwS2N3b2JINVYwNk5RS3dUZVdWU2VWa25sUktWN213QVlqeG5jV1NCS3IyYUlyTU5pT08tc09FdXBjUTg?oc=5",
+     "resolu": true,
+     "source": "Ouest-France",
+     "published": "2026-11-22",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "u29d758c3",
+     "title": "The cost-of-living crisis was harming Claudia’s mental wellbeing. Together we worked out strategies to help her cope | Bianca Denny",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/23/cost-of-living-crisis-financial-stress-mental-health-coping-strategies",
+     "gnews": "",
+     "resolu": true,
+     "source": "theguardian.com",
+     "published": "2026-11-22",
+     "summary": "In trying to save for a house deposit, she had sacrificed activities that brought her joy. And constant checking of her bank balance exacerbated her fears The modern mind is a column where experts discuss mental health issues they are seeing in their work “It all feels so hard. It’s impossible to get ahead. It’s not ev…",
+     "feed": "guardian-mental-health",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u6935ff78",
+     "title": "Man who killed three during psychotic episode ‘had been released after catalogue of failures’",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/22/man-who-killed-three-during-psychotic-episode-had-been-released-after-catalogue-of-failures-investigation-finds-alexander-lewis-ranwell",
+     "gnews": "",
+     "resolu": true,
+     "source": "theguardian.com",
+     "published": "2026-11-22",
+     "summary": "Alexander Lewis-Ranwell was arrested and let go twice by police in the 48 hours before he killed three men in their 80s in Exeter A man with paranoid schizophrenia who killed three people while experiencing a psychotic episode had been released from custody after a “catalogue of failures” by police and medical professi…",
+     "feed": "guardian-mental-health",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "u3bce892c",
+     "title": "La dépression et le suicide au cœur du nouveau film de Margaux Colarusso, cinéaste de Thuin : « Tenebrae Salis »",
+     "url": "https://www.sudinfo.be/id1229698/article/2026-11-22/la-depression-et-le-suicide-au-coeur-du-nouveau-film-de-margaux-colarusso",
+     "gnews": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVHlkcnlMWl92OC1zNkM1SEhxQ1RmeWtGOC1ZRGc0NHZoWkw4UE4xWVFOWTdsRS1RTmp1SmZwVTB1eDlqMzM2eElpTENnOXIyWTNiYWQ3a3M2Nk9uVzRteDBqUjV2VVhaWDMwMXZqSDFXaEtvbXZ4WktmbUYycGY3VDlCQ3VqMy1SZmlBOUhYYThnTzVBN0lBUDVMZ3hLTlB4VGVqVHJkeTB2Vm9NeUozdlI2QTNWb1BqRHV6YVdwX2JyOXc?oc=5",
+     "resolu": true,
+     "source": "Sudinfo",
+     "published": "2026-11-22",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-etrangere"
+    },
+    {
+     "id": "ucb860797",
+     "title": "2005 : quand Cyrille Melchior et Michel Brun ont redessiné la psychiatrie à La Réunion",
+     "url": "https://imazpress.com/courrier-des-lecteurs/2005-quand-cyrille-melchior-et-michel-brun-ont-redessine-la-psychiatrie-a-la-reunion",
+     "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU1Y0NjA3cXpyVEdFQ2JOZ01YLWlGbllVOVVpd0J3X1Vsckg0MkpEVnYzRWllbl9QekhtSkxMSFh5cWVSejJBRENIVEp2NmpIQWpRME1WZzJ0cjFEekg3b0NRTG1qdkRlanhCSDFfdlNMUHpsTFdjb1Q4ZF9xZXZBRXlnbzNEMk5kWHJBR09FMzFtWnFnZ0FrOHl5V0xoOWdoUk1VOWZYNWtDRlFnNkN4a0VaTjEzdkR1NjR3R19zcFo1aWZ1VGJv?oc=5",
+     "resolu": true,
+     "source": "Imaz Press",
+     "published": "2026-11-20",
+     "summary": "",
+     "feed": "culture",
+     "categorie": "presse-regionale"
+    },
+    {
+     "id": "uc825cc7f",
+     "title": "$150,000 grant for Utah’s mental health service",
+     "url": "https://www.aol.co.uk/articles/150-000-grant-utah-mental-182501000.html",
+     "gnews": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pTFdHYm1DZ2NpSDBEZVY5NDN0cWpLenJRRUl0b2VCTkpxcHVqaDJ4ZWlKaF8tZlBoMGpHR2JCZE5qVjdfek1lV3ZyNTZvaU9fU3owVll3VWhnUlBwV21jczZENWJBTE9vZ2pPTEE0cFBUZ2lUNmY5dGNLcw?oc=5",
+     "resolu": true,
+     "source": "AOL.co.uk",
+     "published": "2026-11-19",
+     "summary": "",
+     "feed": "international",
+     "categorie": "presse-etrangere"
+    }
+   ],
+   "collecte": "2026-11-23T15:10:15+00:00",
+   "sources": [
+    {
+     "cle": "politiques-soins",
+     "etat": "ok",
+     "retenus": 19
+    },
+    {
+     "cle": "stigmatisation",
+     "etat": "ok",
+     "retenus": 12
+    },
+    {
+     "cle": "droits-contrainte",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "pair-aidance",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "societe",
+     "etat": "ok",
+     "retenus": 30
+    },
+    {
+     "cle": "communication",
+     "etat": "ok",
+     "retenus": 15
+    },
+    {
+     "cle": "culture",
+     "etat": "ok",
+     "retenus": 22
+    },
+    {
+     "cle": "international",
+     "etat": "ok",
+     "retenus": 16
+    },
+    {
+     "cle": "sante-mentale",
+     "etat": "ok",
+     "retenus": 8
+    },
+    {
+     "cle": "the-conversation-fr",
+     "etat": "ok",
+     "retenus": 2
+    },
+    {
+     "cle": "le-monde-sante",
+     "etat": "ok",
+     "retenus": 3
+    },
+    {
+     "cle": "guardian-mental-health",
+     "etat": "ok",
+     "retenus": 6
+    },
+    {
+     "cle": "nyt-health",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "stat-news",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "science-daily",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-digital",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-participation",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "elf-suicide",
+     "etat": "ok",
+     "retenus": 0
+    },
+    {
+     "cle": "spf",
+     "etat": "ok",
+     "retenus": 2
+    }
+   ]
+  },
   {
    "date": "2026-11-22",
    "items": [
