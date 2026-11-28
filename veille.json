@@ -1,5 +1,5 @@
 {
- "genere": "2026-11-27T14:10:05+00:00",
+ "genere": "2026-11-28T13:26:58+00:00",
  "fenetre_jours": 7,
  "sources": [
   {
@@ -7,34 +7,14 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie) (réforme OR financement OR pénurie OR \"feuille de route\" OR ministère OR \"agence régionale de santé\" OR hôpital OR \"secteur psychiatrique\")",
    "etat": "ok",
-   "bruts": 60,
-   "retenus": 23,
-   "hors_champ": 13,
+   "bruts": 21,
+   "retenus": 15,
+   "hors_champ": 2,
    "hors_fenetre": 0,
-   "hors_zone": 24,
+   "hors_zone": 4,
    "ecartes": [
     [
-     "lesaffaires.com",
-     3
-    ],
-    [
-     "fondation-fondamental.org",
-     1
-    ],
-    [
-     "fr.news.yahoo.com",
-     1
-    ],
-    [
-     "studyrama.com",
-     1
-    ],
-    [
-     "selectra.info",
-     1
-    ],
-    [
-     "cisssca.com",
+     "boursorama.com",
      1
     ],
     [
@@ -42,7 +22,11 @@
      1
     ],
     [
-     "fr.le7tv.ma",
+     "leseco.ma",
+     1
+    ],
+    [
+     "fratmat.info",
      1
     ]
    ]
@@ -52,11 +36,11 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie OR \"troubles psychiques\") (stigmatisation OR \"idées reçues\" OR préjugés OR représentations OR \"regard sur\" OR tabou)",
    "etat": "ok",
-   "bruts": 36,
+   "bruts": 34,
    "retenus": 12,
-   "hors_champ": 9,
+   "hors_champ": 8,
    "hors_fenetre": 0,
-   "hors_zone": 15,
+   "hors_zone": 14,
    "ecartes": [
     [
      "topsante.com",
@@ -71,15 +55,11 @@
      1
     ],
     [
-     "cadre-dirigeant-magazine.com",
-     1
-    ],
-    [
-     "fr.news.yahoo.com",
-     1
-    ],
-    [
      "studyrama.com",
+     1
+    ],
+    [
+     "actu.orange.fr",
      1
     ],
     [
@@ -87,7 +67,11 @@
      1
     ],
     [
-     "ledevoir.com",
+     "nessma.tv",
+     1
+    ],
+    [
+     "senscritique.com",
      1
     ]
    ]
@@ -97,12 +81,16 @@
    "type": "google",
    "requete": "psychiatrie (contention OR isolement OR \"soins sans consentement\" OR \"hospitalisation sous contrainte\" OR \"droits des patients\" OR \"contrôleur des lieux de privation\")",
    "etat": "ok",
-   "bruts": 6,
+   "bruts": 7,
    "retenus": 3,
    "hors_champ": 1,
    "hors_fenetre": 0,
-   "hors_zone": 2,
+   "hors_zone": 3,
    "ecartes": [
+    [
+     "boursorama.com",
+     1
+    ],
     [
      "topsante.com",
      1
@@ -118,10 +106,10 @@
    "type": "google",
    "requete": "(\"pair-aidance\" OR \"pair-aidant\" OR \"pair-aidants\" OR \"médiateur de santé pair\" OR \"savoir expérientiel\" OR rétablissement OR \"groupe d'entraide mutuelle\") (\"santé mentale\" OR psychiatrie OR \"troubles psychiques\")",
    "etat": "ok",
-   "bruts": 10,
+   "bruts": 52,
    "retenus": 0,
    "hors_champ": 0,
-   "hors_fenetre": 10,
+   "hors_fenetre": 52,
    "hors_zone": 0,
    "ecartes": []
   },
@@ -130,14 +118,18 @@
    "type": "google",
    "requete": "\"santé mentale\" (jeunes OR adolescents OR étudiants OR écrans OR \"réseaux sociaux\" OR travail OR \"intelligence artificielle\" OR \"grande cause\")",
    "etat": "ok",
-   "bruts": 91,
+   "bruts": 88,
    "retenus": 30,
-   "hors_champ": 2,
+   "hors_champ": 3,
    "hors_fenetre": 0,
-   "hors_zone": 9,
+   "hors_zone": 10,
    "ecartes": [
     [
      "magnumlaradio.com",
+     1
+    ],
+    [
+     "k6fm.com",
      1
     ],
     [
@@ -145,15 +137,11 @@
      1
     ],
     [
+     "philomag.com",
+     1
+    ],
+    [
      "aa.com.tr",
-     1
-    ],
-    [
-     "carenews.com",
-     1
-    ],
-    [
-     "info-chalon.com",
      1
     ],
     [
@@ -161,11 +149,11 @@
      1
     ],
     [
-     "scienceshumaines.com",
+     "carenews.com",
      1
     ],
     [
-     "doctissimo.fr",
+     "scienceshumaines.com",
      1
     ]
    ]
@@ -175,11 +163,11 @@
    "type": "google",
    "requete": "(\"santé mentale\" OR psychiatrie) (campagne OR sensibilisation OR \"prise de parole\" OR témoignage OR \"parle de sa dépression\" OR \"a révélé souffrir\")",
    "etat": "ok",
-   "bruts": 42,
-   "retenus": 15,
-   "hors_champ": 12,
+   "bruts": 44,
+   "retenus": 16,
+   "hors_champ": 14,
    "hors_fenetre": 0,
-   "hors_zone": 15,
+   "hors_zone": 14,
    "ecartes": [
     [
      "fr.news.yahoo.com",
@@ -187,10 +175,6 @@
     ],
     [
      "coe.int",
-     1
-    ],
-    [
-     "magnumlaradio.com",
      1
     ],
     [
@@ -202,7 +186,11 @@
      1
     ],
     [
-     "ledevoir.com",
+     "actu.orange.fr",
+     1
+    ],
+    [
+     "koaci.com",
      1
     ],
     [
@@ -210,7 +198,7 @@
      1
     ],
     [
-     "koaci.com",
+     "journallecitoyen.com",
      1
     ]
    ]
@@ -221,13 +209,13 @@
    "requete": "(\"santé mentale\" OR psychiatrie OR \"trouble bipolaire\" OR dépression) (livre OR essai OR roman OR documentaire OR série OR film OR podcast OR \"bande dessinée\")",
    "etat": "ok",
    "bruts": 29,
-   "retenus": 14,
-   "hors_champ": 5,
+   "retenus": 16,
+   "hors_champ": 1,
    "hors_fenetre": 0,
-   "hors_zone": 10,
+   "hors_zone": 12,
    "ecartes": [
     [
-     "doctissimo.fr",
+     "actu.orange.fr",
      2
     ],
     [
@@ -239,23 +227,23 @@
      1
     ],
     [
+     "k6fm.com",
+     1
+    ],
+    [
      "parismatch.com",
      1
     ],
     [
-     "rdcsport.cd",
+     "doctissimo.fr",
      1
     ],
     [
-     "fr.laodong.vn",
+     "journallecitoyen.com",
      1
     ],
     [
-     "lentedesportiva.com",
-     1
-    ],
-    [
-     "beninwebtv.com",
+     "cesoirtv.com",
      1
     ]
    ]
@@ -265,20 +253,12 @@
    "type": "google",
    "requete": "\"mental health\" (stigma OR \"mental health policy\" OR \"mental health services\" OR coercion OR \"peer support\" OR \"lived experience\" OR \"media coverage\")",
    "etat": "ok",
-   "bruts": 92,
-   "retenus": 13,
-   "hors_champ": 4,
+   "bruts": 48,
+   "retenus": 10,
+   "hors_champ": 1,
    "hors_fenetre": 0,
-   "hors_zone": 75,
+   "hors_zone": 37,
    "ecartes": [
-    [
-     "bioengineer.org",
-     8
-    ],
-    [
-     "wisevoter.com",
-     3
-    ],
     [
      "colts.com",
      2
@@ -288,11 +268,7 @@
      2
     ],
     [
-     "yahoo.com",
-     2
-    ],
-    [
-     "www2.fundsforngos.org",
+     "bioengineer.org",
      2
     ],
     [
@@ -300,7 +276,19 @@
      1
     ],
     [
-     "news.stonybrook.edu",
+     "opensecrets.org",
+     1
+    ],
+    [
+     "spokanepublicradio.org",
+     1
+    ],
+    [
+     "denvergazette.com",
+     1
+    ],
+    [
+     "ivpressonline.com",
      1
     ]
    ]
@@ -347,9 +335,9 @@
    "requete": "",
    "etat": "ok",
    "bruts": 20,
-   "retenus": 5,
+   "retenus": 7,
    "hors_champ": 2,
-   "hors_fenetre": 13,
+   "hors_fenetre": 11,
    "hors_zone": 0,
    "ecartes": []
   },
@@ -360,8 +348,8 @@
    "etat": "ok",
    "bruts": 20,
    "retenus": 1,
-   "hors_champ": 14,
-   "hors_fenetre": 5,
+   "hors_champ": 13,
+   "hors_fenetre": 6,
    "hors_zone": 0,
    "ecartes": []
   },
@@ -438,145 +426,169 @@
    "ecartes": []
   }
  ],
- "nouveaux": 29,
+ "nouveaux": 19,
  "items": [
   {
-   "id": "u59c9e17f",
-   "title": "Conduites suicidaires dans les Pays de la Loire. Bilan 2025.",
-   "url": "https://www.santepubliquefrance.fr/index.php/regions-et-territoires/pays-de-la-loire/bulletin-regional/conduites-suicidaires-dans-les-pays-de-la-loire-bilan-2025",
-   "gnews": "",
-   "resolu": true,
-   "source": "santepubliquefrance.fr",
-   "published": "",
-   "summary": "Points clés Situation régionale des conduites suicidaires La région Pays de la Loire présentait des indicateurs de recours aux soins (passages aux urgences et hospitalisations) pour geste auto-infligé et de décès par suicide supérieurs à ceux observés au niveau national. Chez les filles de 11-24 ans, la situation resta…",
-   "feed": "spf",
-   "categorie": "institutions"
-  },
-  {
-   "id": "u9ef8ad49",
-   "title": "Conduites suicidaires en Ile-de-France. Bilan 2025.",
-   "url": "https://www.santepubliquefrance.fr/index.php/regions-et-territoires/ile-de-france/bulletin-regional/conduites-suicidaires-en-ile-de-france-bilan-2025",
-   "gnews": "",
-   "resolu": true,
-   "source": "santepubliquefrance.fr",
-   "published": "",
-   "summary": "Points clés Mon soutien psy Avec 455 patients inclus pour 100 000 habitants, l'Île-de-France (ÎdF) recourait beaucoup plus au dispositif que la moyenne nationale (529 118 patients inclus en France, dont 11 % en région), néanmoins cette sur-représentation était à mettre en perspective avec la densité de psychologues con…",
-   "feed": "spf",
-   "categorie": "institutions"
-  },
-  {
-   "id": "u34aa4d23",
-   "title": "Conduites suicidaires dans les Hauts-de-France. Bilan 2025.",
-   "url": "https://www.santepubliquefrance.fr/index.php/regions-et-territoires/hauts-de-france/bulletin-regional/conduites-suicidaires-dans-les-hauts-de-france-bilan-2025",
-   "gnews": "",
-   "resolu": true,
-   "source": "santepubliquefrance.fr",
-   "published": "",
-   "summary": "Points clés Mon soutien psy Depuis 2022, le nombre de patients inclus est en constante augmentation. Une hausse de + 86% est enregistrée en 2025 par rapport à l’année précédente. Parmi eux, on retrouve 66% de femmes et 25% sont âgés entre 11 et 24 ans. Le taux de recours est de 624 patients pour 100 000 habitants en ré…",
-   "feed": "spf",
-   "categorie": "institutions"
-  },
-  {
-   "id": "udb301ec3",
-   "title": "Conduites suicidaires en Guyane. Bilan 2025.",
-   "url": "https://www.santepubliquefrance.fr/index.php/regions-et-territoires/guyane/bulletin-regional/conduites-suicidaires-en-guyane-bilan-2025",
-   "gnews": "",
-   "resolu": true,
-   "source": "santepubliquefrance.fr",
-   "published": "",
-   "summary": "Points clés En Guyane, une amélioration des indicateurs en lien avec les conduites suicidaires est observée depuis quelques années. Dispositifs de prévention : 3114 : en 2025, en moyenne 56 appels par mois ont été reçus par le 3114 en provenance de Guyane et ce nombre était en hausse par rapport à 2024. Mon soutien psy…",
-   "feed": "spf",
-   "categorie": "institutions"
-  },
-  {
-   "id": "u359b582f",
-   "title": "Conduites suicidaires en région Grand Est. Bilan 2025.",
-   "url": "https://www.santepubliquefrance.fr/regions-et-territoires/grand-est/bulletin-regional/conduites-suicidaires-en-region-grand-est-bilan-2025",
-   "gnews": "",
-   "resolu": true,
-   "source": "santepubliquefrance.fr",
-   "published": "",
-   "summary": "Points clés La prévention du suicide est l’affaire de tous, comme le rappelle le centre régional de prévention du suicide Grand Est. Les inclusions dans le dispositif Mon soutien psy étaient en hausse en 2025, avec 32 936 patients pris en charge dans le Grand Est. Le recours restait toutefois moins important chez les h…",
-   "feed": "spf",
-   "categorie": "institutions"
-  },
-  {
-   "id": "u3e9093ef",
-   "title": "Conduites suicidaires en Centre-Val de Loire. Bilan 2025.",
-   "url": "https://www.santepubliquefrance.fr/index.php/regions-et-territoires/centre-val-de-loire/bulletin-regional/conduites-suicidaires-en-centre-val-de-loire-bilan-2025",
-   "gnews": "",
-   "resolu": true,
-   "source": "santepubliquefrance.fr",
-   "published": "",
-   "summary": "Points clés Mon soutien psy En 2025, 16 491 patients ont été inclus dans le dispositif Mon soutien psy en Centre-Val de Loire, soit 3 % des 529 118 patients inclus au niveau national. Le nombre de patients inclus dans la région a augmenté de 79 % par rapport à 2024, dans un contexte de mise en place de l’accès direct a…",
-   "feed": "spf",
-   "categorie": "institutions"
-  },
-  {
-   "id": "u9bb07741",
-   "title": "Conduites suicidaires en Bretagne. Bilan 2025.",
-   "url": "https://www.santepubliquefrance.fr/index.php/regions-et-territoires/bretagne/bulletin-regional/conduites-suicidaires-en-bretagne-bilan-2025",
-   "gnews": "",
-   "resolu": true,
-   "source": "santepubliquefrance.fr",
-   "published": "",
-   "summary": "Points clés Mon soutien psy En 2025, plus de 42 000 patients ont bénéficiés du dispositif Mon soutien psy, dont 67 % de femmes et 22 % de personnes âgées de 11 à 24 ans. L’Ille-et-Vilaine et le Morbihan avaient les plus forts taux de recours mais aussi la plus grande offre de soins associée au dispositif. Passages aux…",
-   "feed": "spf",
-   "categorie": "institutions"
-  },
-  {
-   "id": "u5ba0a716",
-   "title": "Conduites suicidaires en Bourgogne-Franche-Comté. Bilan 2025.",
-   "url": "https://www.santepubliquefrance.fr/regions-et-territoires/bourgogne-franche-comte/bulletin-regional/conduites-suicidaires-en-bourgogne-franche-comte-bilan-2025",
-   "gnews": "",
-   "resolu": true,
-   "source": "santepubliquefrance.fr",
-   "published": "",
-   "summary": "Points clés Des indicateurs relatifs aux conduites suicidaires toujours contrastés en fonction du sexe, de l’âge et des départements, mais impactés par la diversité de l’offre de soins et des pratiques de codage. La surveillance des urgences et des hospitalisations renforce l’attention portée à la santé mentale des ado…",
-   "feed": "spf",
-   "categorie": "institutions"
-  },
-  {
-   "id": "u705808e",
-   "title": "« De mon parcours en psychiatrie, j’ai fait quelque chose de beau et d’utile » : dans son ouvrage, Clémence Laborde invite à la réflexion sur la santé mentale",
-   "url": "https://www.sudouest.fr/charente-maritime/royan/je-voulais-mourir-et-je-trouvais-ca-cool-de-mourir-de-faim-dans-son-ouvrage-clemence-laborde-invite-a-la-reflexion-sur-la-sante-mentale-31681544.php",
-   "gnews": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOVEI3dzRRZlNhbVc0ZVNSeGpVX1RGZWJMUXdmRWoyQmFQU29HcVRhejg1REtGUjdTXzh2NjRaWU5wUnZLSm0zX3MxTWprTnFwakZ5YW8wV0NGWk51Rm1Beks2c2FxRTA2bzFhZGYyb2JzRWhManhOcU5jZm5YZnlrUkZldWdsSmFfSnFEZ2ZqRFpuYnpaSVFJc3NEZnpBanZKdUNZY0daU1BickVkcmJqUXhUQ05jYXZJdldPb3RnbXRoalJXVm5LMzZQZ1hEUzluSE82eldHaFhtaU9MVjZ0VjUzMEZnbnNBTmVMLTAzYU9zRldyNlduQ3NMNUs4U1Q0T195MkdFTk9qeFNUSUVNcGh4QTdXWmNMNG9wZFBvbEx5UQ?oc=5",
+   "id": "u340d07ff",
+   "title": "Croatie : la psychiatrie sous le feu des critiques après la mort violente d’un patient",
+   "url": "https://www.sudouest.fr/sante/croatie-la-psychiatrie-sous-le-feu-des-critiques-apres-la-mort-violente-d-un-patient-31704523.php",
+   "gnews": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWW1RSWEyX21GSk00c19xTWFFaXk3ejNyQl8yQzlvRktaaVVReDNjajVxV24xWDdhNEhwd2J6ZFpJVVgxOVlyWDUycHdXQ21aWmVuVmZFOV8zYkZTV2ZFdjZHQVdfak90LTJSTGszV1lUSlUwaGlDNThjRFNSdUxCQzFHNGpXNUlUUEVTQTY3SmRzcC1XR3hFMW5rWWRhVF9tWVE2TW53MW5yeFZDQlFES1hxTktEZU9SM2w0TUZqZFBoaDFfbUE?oc=5",
    "resolu": true,
    "source": "Sud Ouest",
-   "published": "2026-11-27",
+   "published": "2026-11-28",
    "summary": "",
-   "feed": "droits-contrainte",
+   "feed": "politiques-soins",
    "categorie": "presse-regionale"
   },
   {
-   "id": "u9072e17e",
-   "title": "« La santé mentale est complexe » : Tyson Fury n'a pas été diagnostiqué schizophrène, corrige Paris, l'épouse du boxeur",
-   "url": "https://www.lequipe.fr/Boxe/Actualites/-la-sante-mentale-est-complexe-tyson-fury-n-a-pas-ete-diagnostique-schizophrene-corrige-paris-l-epouse-du-boxeur/1746595",
-   "gnews": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOE9PYVFaYVBRSXk3X3RVbWFiMGRkTTh5bVlmUmlsUEVzd09xMEgzMzRXc2ZjVS12cWgwN3VlaGxKSl9GVzNqV3hRTl9WUHF4QWs2WWpXcU41eTExN05ITU0zVXAxRV9ORDBCekhjb3pnbmxzbGZQVWJyU3JzSlgwMnJYUmN1RHB3RUloNmxxOFNBbVJ1b0w4T2RMVVZEcVozT0VZdjQyNGxzY0hTaDJxQnBJYjZpRXlJUEZPeHdycW9kVEE1UnY5UE5iYjhQdmlMMUVDU0VLN1J0NkRnbEZWVHhEcEd1WVpTZ1BhLTJxMzU?oc=5",
+   "id": "u3fccc2bb",
+   "title": "Outpatient perinatal mental health services at Mullingar hospital ‘paused’ – HSE",
+   "url": "https://www.westmeathexaminer.ie/2026/11/28/outpatient-perinatal-mental-health-services-at-mullingar-hospital-paused-hse/",
+   "gnews": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2NDWENibmFfd3ZHdUlqbDhuNG9YY1dXMlZISXppMVJsN3JGM19CbkpaZWpMNXpXMldoNV9iLXBnMEtwMWxhRVhLTTNDbTM5S2lJc0dWcHNIYmZ1blYySUI1bktoVVluZW9EcnF6Y3RwU3dOYTNlV3FuZ3o3ZTRIS29mOFFhYjhPMGVHQWhScy0yd3dyQW9IWW9uaGJDOTZXNUd3VGtlSVN5VFFPOFMzeXN5bGg4XzhmLVNUa0d3?oc=5",
    "resolu": true,
-   "source": "L'Équipe",
-   "published": "2026-11-27",
-   "summary": "",
-   "feed": "culture",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "u7ca45501",
-   "title": "MIMHC and BMPAN to host mental health roundtable",
-   "url": "https://theintermediary.co.uk/2026/11/mimhc-and-bmpan-to-host-mental-health-roundtable/",
-   "gnews": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZDBVcGxNTlVhbkVlMnEyY2M2eTN2UmlVTW1tbVllZ29MRUU0alM2dEtZYVd2Q1pYSnJ4UXNMSkF5cnJhcHZuZTN5N284d0p1R3J1SXp2UGNRNlpZVGlmS0Y4M0l6Umg3V1g3NXdCQ25YZjNWNTEwMVNVNUd6UE5fZ3lCNU0yZEdWWXlTRG9lMzI?oc=5",
-   "resolu": true,
-   "source": "The Intermediary",
-   "published": "2026-11-27",
+   "source": "Westmeath Examiner",
+   "published": "2026-11-28",
    "summary": "",
    "feed": "international",
    "categorie": "presse-etrangere"
   },
   {
-   "id": "u3bb05216",
-   "title": "Boxe. Tyson Fury « n’est pas atteint de schizophrénie » précise son épouse après avoir dit l’inverse",
-   "url": "https://www.ouest-france.fr/sport/boxe/boxe-tyson-fury-nest-pas-atteint-de-schizophrenie-precise-son-epouse-apres-avoir-dit-linverse-deca11ce-ea52-11f1-bb2d-c71dc7920c2a",
-   "gnews": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS09RMV9GUFFQSlVWZjBKQVZXcEpxdHVtV2J1N25vM0xfMTdYZnVEZWF6Vi1GRUZxaXBmdmttSV9MX25wRDRQcFFSMGpJb2FBN1VBbWNWZS1qcWJkTFlRbnVjeGM1amxQV0l0N1ZQblFmcHRnZmlKSENyZzNzWi1aMU5MN2NrTEd5WGFHeUM5Q1puYjF3MUd6VWJlQ1VIa0pSTGswMjZNcm9GLXhDZGhJVGpsM3JfbTUzVjBUN1ZkbC03R2pHQldzSmNsOFFnOFl3TmFJTEV0Y1NianlsQTFxSjFFaS1veW15T25yanNnNFo2M3lyVG9nYlVzTGtLdw?oc=5",
+   "id": "u1bff9c0a",
+   "title": "« Agressions, trafic de drogue, tentatives de suicide » : alerte de danger grave imminent en pédopsychiatrie et psychiatrie au CHU de Nantes",
+   "url": "https://www.ouest-france.fr/pays-de-la-loire/loire-atlantique/agressions-trafic-de-drogue-tentatives-de-suicide-alerte-de-danger-grave-imminent-en-pedopsychiatrie-et-psychiatrie-au-chu-de-nantes-7278da9a-ea80-11f1-8e4e-f44a9b15a834",
+   "gnews": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPYng0UzBGTFljUWRrV3N1X28xUjEyQ3hCbFRodXBfOW9WajNyMkdjS0Rpckhzd1NvUHpRYWFQSzBmVHJ6aUVlb2Vld3JickJfcFZHdE5ham5QOUo3d2gwV21SX1c2ZXdWdlZVQlE5dXZrX0NMYmhQTnprdnlRRDdwSVBxQVo3MWJmYzRweFlWQUlWMWl6dDBYY29JRU5aWlFTMWtFZV95QUFpb1A4UV82V0NUX1dyR0tlNkpzYlQ4OXljUlVWS0FnaHA0Ujl3ZXhtLVEyRm1yMUw2bWRFMDFfLWFjUTdlTUstMXJJNTIySXBCeTZCWVdUVjlucXhRRjFMYm15SjdoR2dfTVdUMWFwbGh3Rm5CTXl5RXhwZWxQNThhcklwbE43UE9HZlVseENXRWd4V1RvYVZyM05DQVZnT1VnWnk3dkc0cHBqdzJud1U?oc=5",
+   "resolu": true,
+   "source": "Ouest-France",
+   "published": "2026-11-28",
+   "summary": "",
+   "feed": "politiques-soins",
+   "categorie": "presse-regionale"
+  },
+  {
+   "id": "u82fd69c2",
+   "title": "Mental health patients refusing NHS treatment over shared therapy notes",
+   "url": "https://www.theguardian.com/society/2026/nov/28/mental-health-patients-refusing-nhs-treatment-medical-history-shared",
+   "gnews": "",
+   "resolu": true,
+   "source": "theguardian.com",
+   "published": "2026-11-28",
+   "summary": "Exclusive: Uploading of intimate psychiatric information to wider medical records prompts some to shun support altogether Some psychiatric patients are refusing treatment over the NHS adding intimate details from therapy sessions to their medical notes, fuelling fears that breaching privacy is posing a risk to health,…",
+   "feed": "guardian-mental-health",
+   "categorie": "presse-etrangere"
+  },
+  {
+   "id": "u3b4eee29",
+   "title": "Réforme de la maturité, psychiatrie",
+   "url": "https://www.tdg.ch/maturite-le-renforcement-annonce-du-francais-cache-une-reduction-626758157701",
+   "gnews": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObFppc1VxRWpNbm04Uk1xMTZWZ3c2OHJCc2JQUy1yMzBlUER1ZVJVbVlmb05EcVNOVFYzQ3pEaHZGb1VmZWlfamQ3N0lyVHdEOTJDN2JDT2hFZF9xdmxSaktJbW1QV2d0UXFsTW9Rd2dPT3RBZ25MNEtNRU0tYVlLWmR5M3NTR2FrZFVyVG1RQ1ZTcU5MNXdZNmNudno?oc=5",
+   "resolu": true,
+   "source": "Tribune de Genève",
+   "published": "2026-11-28",
+   "summary": "",
+   "feed": "politiques-soins",
+   "categorie": "presse-etrangere"
+  },
+  {
+   "id": "u4020f696",
+   "title": "La vie brisée des victimes de balles perdues, drame collatéral des fusillades du narcotrafic",
+   "url": "https://www.lemonde.fr/societe/article/2026/11/28/derriere-les-morts-en-cascade-et-les-blesses-graves-la-balle-perdue-repand-son-parfum-de-suspicion_6816068_3224.html",
+   "gnews": "",
+   "resolu": true,
+   "source": "lemonde.fr",
+   "published": "2026-11-28",
+   "summary": "La multiplication de fusillades et l’emploi d’armes de guerre, souvent liés au narcotrafic, ont conduit à une hausse des victimes indirectes de tirs d’armes à feu. Celles qui survivent voient leur existence bouleversée par des séquelles physiques et psychologiques. Avec, parfois, une certaine défiance à leur égard liée…",
+   "feed": "le-monde-sante",
+   "categorie": "presse-nationale"
+  },
+  {
+   "id": "ub9874cb",
+   "title": "Des outils réalisés pour contribuer à la santé mentale des adolescents",
+   "url": "https://www.midilibre.fr/2026/11/28/des-outils-realises-pour-contribuer-a-la-sante-mentale-des-adolescents-13675499.php",
+   "gnews": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRHFBVHlTbzg2Y3NPbV9iZFJLN3pHM3pBQm9DemVteUpKZ1ZnaHBFRkdMQUItUEFGdkxZTkJjWWJqNzM0aTlBTG51Q3BTdWlNcUV1ZkFTYVFnUU1Xd3BPVzluR21nVnVZQS1FYmpWQzl4aEFTSVl6SVloeEJWZlV0MVV1Tm05UmozR3B6MVE2cmVlSG9wb0pVMjNXUG9ZSlQtaTU4WVIwU2FBbUFDRXpnSUFGLXhyUXU4ZVdv?oc=5",
+   "resolu": true,
+   "source": "Midi Libre",
+   "published": "2026-11-28",
+   "summary": "",
+   "feed": "stigmatisation",
+   "categorie": "presse-regionale"
+  },
+  {
+   "id": "u241588b4",
+   "title": "Chaque voix compte - Santé mentale : une grande cause à l'épreuve des faits ?",
+   "url": "https://lcp.fr/programmes/chaque-voix-compte/sante-mentale-une-grande-cause-a-l-epreuve-des-faits-444477",
+   "gnews": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS0FJSW9rVDI5T3EyZmtuamRCazI4VDJ2YUdXQnd4TTRnMDRWaU1rSHFaOUpLUHZoclV1ZnFMM05mUkJpcXZ6Z0tTZHhqam5jNmZvZTdGUFp4TkxjZVc5YTlyU01VbV9xSWoyUnpaWVd3MkdOLVhmTFFDX1JSVEd0QUZSY1lzNlI1dXRrMmdscjhGSjNxSm55R05scDVrN3NwXzFMLVgwZw?oc=5",
+   "resolu": true,
+   "source": "LCP-Assemblée nationale",
+   "published": "2026-11-27",
+   "summary": "",
+   "feed": "societe",
+   "categorie": "presse-regionale"
+  },
+  {
+   "id": "ucc308f3d",
+   "title": "Santé mentale : une grande cause à l'épreuve des faits ?",
+   "url": "https://www.tf1.fr/lcp/chaque-voix-compte-248/videos/sante-mentale-une-grande-cause-a-lepreuve-des-faits_rp-20261127-7151.html",
+   "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN2FKT3pLdkE3bkpvWklhWkRsOXM5RERXcXY4TEt6WTBhOURvdWszUk9vZU93RndUMDFBRFZKaVVpRTVQOGRsZHRZU0JqZmVmLXRlcW5sdHUwbFp4ZEhKeS1XcG90cFRkMmd1REx1Y0RGNmtGRUViQkZ6eDl2QUUxcDdLTDFZeVlqVjNxZEtqZEUySVhidU1XRmpYc2xRUWE3My1VaG53b1VmRU1xOTFtdnRHcUI3bU9KeEwyTnNocExmMDhK?oc=5",
+   "resolu": true,
+   "source": "TF1+",
+   "published": "2026-11-27",
+   "summary": "",
+   "feed": "societe",
+   "categorie": "presse-regionale"
+  },
+  {
+   "id": "uc82d11f1",
+   "title": "« Aucune décision de fermeture n’est arrêtée » : en Centre-Bretagne, le revirement de la direction de l’unité psychiatrique de l’hôpital de Noyal-Pontivy",
+   "url": "https://www.letelegramme.fr/morbihan/noyal-pontivy-56920/aucune-decision-de-fermeture-nest-arretee-en-centre-bretagne-le-revirement-de-la-direction-de-lunite-psychiatrique-de-lhopital-de-noyal-pontivy-7167749.php",
+   "gnews": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQb01kaVAyMktvb21hbk5xeHBUOEpYZXphSGYtZmdYdmhEZVhGeTNYNzFSUlNqOFhXZWRhNFpheWFTSTJFTk9aTEFzdU14RnhYbVNfdW5wQ2MyQkhQVm5vZ2FOMFptcjFVdmtzbXJpZm91STJodVlRcm1RT3VZN2prOTR3NTA1Qm55amZ5bVlaZm9JWWdMbVBQV3lfOEFUVURSTWkzUEJvUERnV24xY2NEWFIyUjF2UlE5TjRfZ1p4anVsNm1weGNZLWx6UTZ4akxBQkJxOXVDVEY2eHFKajdkN3MteHJReGdYR3djMTJDQnBvT05NYkg5Vmgwb3ZNMlY2aHBaZ0xVb1JKOElpbzBPMXFJMDZtc21fNUZ0Q3pOUnd0Z2syZ0trakZGUEZSWDdEekZ0RVRZMA?oc=5",
+   "resolu": true,
+   "source": "Le Télégramme",
+   "published": "2026-11-27",
+   "summary": "",
+   "feed": "politiques-soins",
+   "categorie": "presse-regionale"
+  },
+  {
+   "id": "ua9b71263",
+   "title": "Santé mentale : «Ça fait des années qu'il n'y a pas de pilote dans l'avion», déplore le fondateur de l'association Psychodon",
+   "url": "https://www.europe1.fr/sante/sante-mentale-ca-fait-des-annees-quil-ny-a-pas-de-pilote-dans-lavion-deplore-le-fondateur-de-lassociation-psychodon-1246321",
+   "gnews": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM3JJY25xQ3RKY0F6WUhzdnhJZEJhc1F0WWxBNjZreGFkd1NYcnRBRTVHeGFsWUxLMDB5VkJ6Vnpobi1mR1ZzWDhzUE04YkZWeFNLbE5vdE1GODduOWdFTFJNTEVRaTBMWDNIcVAxRHpNMFdWbkc1YUVHQ3ZGSkxQbUp0QTJCYUlBUUVJd2t0X3M2MzZzNFl4YnNwNUo0dFVrcXhNUXRjbHRDYWsxYzVzS3RVa3B6R3Jxc2dXdEEtcldaVUsxd1pSWTltVXd4Q2RjNW1YTXZ6NHFYcFVPeWZmWnUxYktKQWvSAewBQVVfeXFMTmcyMDhyYUREZTRKajNWTW5YUE9sem5ZZm5rMmZUdEw3U1BFZ0hvLUl0Q1B3R3d5VVJSZndHNWRhUmxLX2gxX256NXdOWGNaS09lZjFLOXJ6amtNcVV4Q0cwbUdFWVYxVVo3MFFhY1BlQlMwSUVfOEhHZkJHZTZkLU9KUlhHaDZPNDlrd3FKNUlPWG9rbkN2eUM0Yzd0bW5GMlowWk92SU9mejRGSVVJQzBWcUEyLWxjQ2o3SGVKX3Y3c3B1RmhkNXBIc0ZyMGJqQjBfdHRqb3owcTBCM1ZlZ052WllBV3hQLWxGOHg?oc=5",
+   "resolu": true,
+   "source": "Europe 1",
+   "published": "2026-11-27",
+   "summary": "",
+   "feed": "politiques-soins",
+   "categorie": "presse-regionale"
+  },
+  {
+   "id": "u68d716f1",
+   "title": "Psychosomatic illness diagnoses must be handled with great care | Letters",
+   "url": "https://www.theguardian.com/society/2026/nov/27/psychosomatic-illness-diagnoses-must-be-handled-with-great-care",
+   "gnews": "",
+   "resolu": true,
+   "source": "theguardian.com",
+   "published": "2026-11-27",
+   "summary": "Willemina Rietsema , a GP, says no explanation doesn’t mean no physical illness, it just means we haven’t found one (yet). Carrie Eckersley thinks we need to consider the wider context in which symptoms develop Regarding Huw Green’s article ( How can we explain psychosomatic illnesses?, 22 November ), the body and the…",
+   "feed": "guardian-mental-health",
+   "categorie": "presse-etrangere"
+  },
+  {
+   "id": "u89fed14f",
+   "title": "La médiathèque et le centre Athéna, à Auray, lance une Bibliothèque vivante sur le thème de la santé mentale",
+   "url": "https://www.ouest-france.fr/bretagne/auray-56400/la-mediatheque-et-le-centre-athena-a-auray-lance-une-bibliotheque-vivante-sur-le-theme-de-la-sante-mentale-c788ed12-e9cd-11f1-b706-1d273d1ab155",
+   "gnews": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPNW14S3NITU1DWTBqWUhZa0hKemI1Y1o4dUo1dU16MnlvblJOd29VckZNLUV3WGp0anpqNmVrSDVpQTFvRV92am0yOEoxOUNYcHA2M3pJNkxmUUp1NGpaSFlYTWRWNkdZd1BtZ00xblNsXzlUbm1mdXlVSWlUNUNjS2lRUXFTMndYYTBIM1ZjaE02bXAycjl4dHpwQ2tEb2tTdEhPbG8zNFNwS09HWXJra2xNRGc2bHFpeDVWdjlqQ2V3bG9JenBpTFBDN1o4eHozenFtaVo3Skd0Q0hIakNmd1dyZUJuQm1ndzRneU5CVTZWSFQ0S0VMWkJZMTZLOURyV2NwUmQ0V2MydElIQ3JXZk82ZVltdXd0WEN2Mw?oc=5",
+   "resolu": true,
+   "source": "Ouest-France",
+   "published": "2026-11-27",
+   "summary": "",
+   "feed": "stigmatisation",
+   "categorie": "presse-regionale"
+  },
+  {
+   "id": "uf5f4a0e6",
+   "title": "« Jusqu’à 30 patients par jour » : après plusieurs expériences, cette jeune kiné veut alerter sur la santé mentale des kinés libéraux",
+   "url": "https://sante.ouest-france.fr/medecins/desert-medical/jusqua-30-patients-par-jour-apres-plusieurs-experiences-cette-jeune-kine-veut-alerter-sur-la-sante-mentale-des-kines-liberaux-2b0addba-ea68-11f1-bb2d-c71dc7920c2a",
+   "gnews": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQX2VHYUNQT0ZUcU4tbnhCYjhzNHQ4QjBiS1VQamlHeE9RVmxhTlVwbHpibkRjVEJrUlAwOWJFVEJMdVhWUjh5UFBweHg3TTdtRGF2b1dfX3B4cXNwTzhZRzhhenlEUUpaNFI0Y0JFYkxLbWgyQUpBemtGUXBXSXRjV082U1RtdVE3WTVfRmt4VjNLOGNETGZGcUo5ZXk3UVczQnR1LUxyNGZ6ak5IQjFZWV83SGhvM3laNDRFWHN5OWY4Y0IxQnRxWElHdUhkQUs1NEFVNE95eXdvMlQ1MF84ZGlrX2dwWjVjMHN5NzBBSzNBTmp1eFo2aHlOZVdxcW95ei1UOWlYZGdOcnNFYm9pbUp3d0d1czRTdFRrTm1JQ1lMYXB4MGV6MmtKb1ZrVmFKOWk0dDNoVjRXc0E5?oc=5",
    "resolu": true,
    "source": "Ouest-France",
    "published": "2026-11-27",
@@ -585,207 +597,63 @@
    "categorie": "presse-regionale"
   },
   {
-   "id": "ua1b81d06",
-   "title": "Santé mentale dégradée des enfants : ce jeu de société produit dans l’Aube veut aider les plus jeunes à exprimer leurs émotions",
-   "url": "https://www.leparisien.fr/aube-10/sante-mentale-degradee-des-enfants-ce-jeu-de-societe-produit-dans-laube-veut-aider-les-plus-jeunes-a-exprimer-leurs-emotions-27-11-2026-CD4GZGWIHBA6ZCECE5NSKAUVVA.php",
-   "gnews": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQ29VdFZVY3BCU1dpQWNERXYweVd3dGJEd0RvV3MtTkxYVmVjTE53bHE0dkYzSHBMZHpvNVgzWl84N2dPT0dfdzZSNXN0YUZVX3FTeFlXYkJMMUlwN1V2OGVQZVM2WjQ2ZlBXd1VkTWFCY1lqemlIUDNReGh5WnZPUkloWjRhNnJIaXhlQlQwdGVmS01yU2FLNHRDcWg0WjdqYkNzN0NlUUhkVGktY1B4QldhMU9zMVdjTGFiYzJUemJDUTNSaFFDaXJ4cmlER1VfV3doUnoyQjFWQlExakl5X1pCcFZ2S00zYXRCR3cxMk9EZjdIOU9pclhiaGVQaTMxN0hmcF84bzljV1FMbzRfSVc3U1VscmxIdHljdXFyUG5LU2dDbl84?oc=5",
+   "id": "u641d33a5",
+   "title": "\"Il n'est pas atteint de schizophrénie\": Tyson Fury autorisé à combattre contre Anthony Joshua après la mise au point de sa femme sur sa santé mentale",
+   "url": "https://rmcsport.bfmtv.com/sports-de-combat/boxe/il-n-est-pas-atteint-de-schizophrenie-tyson-fury-autorise-a-combattre-contre-anthony-joshua-apres-la-mise-au-point-de-sa-femme-sur-sa-sante-mentale_AD-202611270678.html",
+   "gnews": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQWUlobTdvWlZ6NllTWG5XQ0E3ZXZJY0lKTDNxMEc4OFhvcFNXblg1WnF4MkNnOXgtYWhsSkw0dGhTTndCX1dLNnU5bmJqWk0ySE1jX1RfUjB4WUk1eWRxcDEwZml2VGYwV2hJZXl4QWYwSEFxWXZoT0xFWk1rb3JGZ1l4cHpEVzBDeEJveGp4MXByVmNmd0J6RVJiT3dzNDQ2bkgya1hHMU1WT2FHekNGZHI0bTQydWpkVHN0LVNDTlV0ajBZT1NYVVVUNjkydk94N21fTTlPVTFGY1dEcnE1Z1BscV9wOTNSRjZJY0xmck9lRTA2dEtQd2ZaM2Rzdmh2TlhkMFUzZzJscl9XQTNVcUpTUGV4TGQxU1FFVFlsNThld1BlYXZVZUE0N19aZ3ZwTVlpcTRPVE9qR1luS0E?oc=5",
    "resolu": true,
-   "source": "Le Parisien",
+   "source": "RMC Sport",
    "published": "2026-11-27",
    "summary": "",
-   "feed": "societe",
+   "feed": "culture",
    "categorie": "presse-nationale"
   },
   {
-   "id": "ue51e4587",
-   "title": "\"J'ai vraiment l'impression de pouvoir aller mieux\" : des champignons hallucinogènes testés pour guérir dépression et addiction",
-   "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-j-ai-vraiment-l-impression-de-pouvoir-aller-mieux-des-champignons-hallucinogenes-testes-pour-guerir-depression-et-addiction_8280263.html",
-   "gnews": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPVXFxUVQ3MlZrVWZveW42U0pQblV2MUVRakp0RnE0RWdRQVBGZURIYl9mN0VBbVc1TXZXdHp3WmJwMUlURlFoczNjVTZDSjR1SVlDQjRlOS05bFhLbGY2djVMekEwQ0Z0Q1hZaWpJeVRvY2dyOEc5cTAtRy01SjBRNVgwdDdocnB6QjZ6dnR0QzFBRmE3OUJHdEF6RUU0aGM1Yjd5MjdxNllZMnNxYVlJNDdXTHctNFdmbEhVMUFNbDJJTlpLUDhJTm9ScUhXbEpJQmctcFB6Q1BxcnJvbFZJRGVZVmhjOXJqUlNycC00ZDRaUTRIam1OR0hCWDlTTGw3bmVzWVFXYXVvT2x4OElpMXJLVUhfMG1wRlRfYldDTk80c2tfazZHTjI3NTVzdw?oc=5",
+   "id": "uf56d9394",
+   "title": "Selon sa femme, le boxeur britannique Tyson Fury n’est pas (plus) schizophrène",
+   "url": "https://www.liberation.fr/sports/selon-sa-femme-le-boxeur-britannique-tyson-fury-nest-pas-plus-schizophrene-20261127_TOSSOGWQO5DJFOBDZPAPFDDXNQ/",
+   "gnews": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRmZoUVJKcnMtcHRpcnZyYmxwdjdmNmh4UDZHeHJpVmo4M2t2MlpxYUNUMjVQaFRMUGhRdHh6MTc0cEo5YWFzRDRCemRObXBoVVIwUE91Z0xVM0V1aEE2TG52UUZ3M1VIckJub01UeXNCOC00Um1NOEY0T1k4d3plNWxLa1FydzIzZndIRWlRWUdSSzlQcXdMUkV4MEdoTUFOWTZpcW1kR25rTjFBSm5MaHZYWHZYcEk0dEU2NFhhWWwtUmpzVVV6b1JqNGZXT1JOZC1BajVfczlkT19F?oc=5",
    "resolu": true,
-   "source": "Franceinfo",
+   "source": "Libération",
+   "published": "2026-11-27",
+   "summary": "",
+   "feed": "culture",
+   "categorie": "presse-nationale"
+  },
+  {
+   "id": "u23b4e70c",
+   "title": "Schizophrénie : et si on écoutait les voix au lieu de les faire taire ? Projection le 30 novembre au siège de France Télévisions à Paris",
+   "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/rhone/lyon/schizophrenie-et-si-on-ecoutait-les-voix-au-lieu-de-les-faire-taire-projection-le-30-novembre-au-siege-de-france-televisions-a-paris-3456056.html",
+   "gnews": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPT0FFNkZMSUFNeWpENTdLenU4MVRwX01RTml4M0U4UnBQMUpMbXNITjgyVlVRbG1uRWl6LUcxN01aNmtoc2Q0dnFnTHMtZDVWSWN3WTZhQ20tU0lXRkhtRnRwcEJhY01WalVuYjN2OW81MlFZU0hwOGpXeVltWHF0RFN5TnF2QnM5T2d2U3ZySHNybEFWMG5xajZuaFJob1dBODQtWHphbk9lMjhnb1FaWUE5ODVXYVFSYkJpV0cza3FtRXFhaU13T0ZhYWpUOUZRTDkyb3VTajZmbHRMVUh4enFVREg2Ty1wVW5ITEJMUUc5ZWRYWFdYa3Ric21tdmRTN01ZRUpRTk5BVXdUTGtHWlhYMVhVZC1lalZ2X29PNTRXSVdFQ09QbEV3MmZEQXc3QzBXNlJENTZocEk?oc=5",
+   "resolu": true,
+   "source": "France 3 Régions",
    "published": "2026-11-27",
    "summary": "",
    "feed": "culture",
    "categorie": "presse-regionale"
   },
   {
-   "id": "u9f6b950",
-   "title": "Les élus municipaux exigent le maintien des services psychiatriques à Thetford",
-   "url": "https://www.courrierfrontenac.qc.ca/actualites/les-elus-municipaux-exigent-le-maintien-des-services-psychiatriques-a-thetford/",
-   "gnews": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUzZLTWlJSHBFQTZGTVdTeTdKWFZLeTVQTm5vTlpRZnRXVmlQWlIxRHBnTUJmcEwybVYyVjkwZnk2RG5fV19RWGNFOUd6SXVNRF9oN0w5SmhuOXJuU0tBQnJhakRoSDIyc0Q5MFEyRjE5RWVsbHNGeG8xQnhUMmJITjZhTzVwZko4RlVHQUs2cEVFTHRyZWRIcld5TjJsaEh4RjFvM2NwaFhsbmpVeERLMHN5U2czVUIzZllUY2RmTkFWYW5h?oc=5",
+   "id": "ua29c3d6",
+   "title": "Semaines d'information sur la santé mentale",
+   "url": "https://www.reims.fr/solidarite-sante-seniors/sante-hygiene/semaines-dinformation-sur-la-sante-mentale",
+   "gnews": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaks4bTZWbWVRWjlWcmRUdkRELWs2NDRaQkVKa0tQMWdLcEMxcGl1U09YdjJBanctd3ZTZzNwTW11cjdDRWVWSkxFQkVGTE0yQ0xhd3dZNlZPcF9sazlKZkJPaTg0d3hxNzdnM3ZBaUFzN0t0TVNRU1EyaUNib1hnNUZYVUpPUFZPUGxTcnhZTm53dWtRMktfTFB4Um1SMHN5UzdodA?oc=5",
    "resolu": true,
-   "source": "Courrier Frontenac",
-   "published": "2026-11-26",
-   "summary": "",
-   "feed": "politiques-soins",
-   "categorie": "presse-etrangere"
-  },
-  {
-   "id": "u8fe0cf94",
-   "title": "Créer les conditions permettant aux jeunes de s’épanouir : une approche multisectorielle de la santé mentale, de l’inclusion et de la participation",
-   "url": "https://www.who.int/europe/fr/news-room/events/item/2026/12/01/default-calendar/creating-conditions-for-young-people-to-thrive--a-multisector-approach-to-mental-health--inclusion-and-participation",
-   "gnews": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNOHpES2ptdUcxRTFPb3N0Y1hlYUo2b0c0aktoMmhpYm5kelpfYWdQQ3l1aFdFLXhoRFB4S3c4Nm1Rbzk4cklRdmpyWTUwUmZueEdNTkNwSmtTR0VfT1BYeVlKcTlfWXVPZDUxT0tKVFc5RXpJdjFZR21wS0lGYVR4eU1Pd091WTNzZWx1ZGpoTjZFSlNIbGY5VWZGM0NDNXRINW5VYTVXejVkVS1idnhMZ1FGVXNSR2dpbG04bTlVdElhUXlmdFZBU0hzeDFEZ2FCamtHTV9GM2FaR0VBS1hvME5ESWJPWENLZzU4WEhSUmJRNnhhdXpCbUpCN0FqMnNieFBGUEl6NUdkLXRydVZjUWo2dnFoQ2JZc0FGaS1HOFVkZw?oc=5",
-   "resolu": true,
-   "source": "World Health Organization (WHO)",
-   "published": "2026-11-26",
-   "summary": "",
-   "feed": "societe",
-   "categorie": "institutions"
-  },
-  {
-   "id": "u9844a6f6",
-   "title": "[VIDÉO] Cisjordanie, l’occupation israélienne organise la peur et détruit la santé mentale des Palestiniens",
-   "url": "https://www.msf-azg.be/fr/news/vid%C3%A9o-cisjordanie-l%E2%80%99occupation-isra%C3%A9lienne-organise-la-peur-et-d%C3%A9truit-la-sant%C3%A9-mentale-des",
-   "gnews": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcU1rbXdEcjRXX3hUMnFYV0szRk1xUE1ieFZtbXM1cTF2aG5IRDEwWXRMQVFLVVAxUGhMaTJDM0lyVkh0NnV1N2hPUTZMclBTc29FckZodTQxOWFGRHFMclpRSUFkdDQ4dU54YndXd194ZmZJQ0VKem8yYnd4VVJLOEY2YUNRRm9jSVhoZW5QMzVmeGpvY3Rqbkp3Q0hGdWZRN3RwYVIzcHhHQmhmSmNZclB2MWN1a0NRaGFiTUZYTzVEeGVEellVXzQ1ZUwtODFGWmMxY0hFeWhVQ1R2MU5lY2pOUzI?oc=5",
-   "resolu": true,
-   "source": "Médecins Sans Frontières Belgique",
-   "published": "2026-11-26",
-   "summary": "",
-   "feed": "politiques-soins",
-   "categorie": "presse-etrangere"
-  },
-  {
-   "id": "ufff221b3",
-   "title": "Perinatal Mental Health Services withdrawn from Mullingar hospital",
-   "url": "https://www.offalyindependent.ie/2026/11/26/perinatal-mental-health-services-withdrawn-from-mullingar-hospital/",
-   "gnews": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONDhLQkctRUxGaDMyOXZvX21ZcDk0X0xsbmJmZUE1Nk1kUVZZN2tPekltUTNKY3NLU2lyWFNJYnhCazNDR0stcjBPa0ZvWXNLZXlZc19zbklyR1VqeUg1TGIzZ2xjLXk0XzRncnpTZGJwRER0UUFuMXR0NVg0d1BvWDNabTJUVkgtRmxZTGpYNUxHXzlkbGFDRTBFVkVseFBXd09vUExvVDdZOGpvWmN3cQ?oc=5",
-   "resolu": true,
-   "source": "Offaly Independent",
-   "published": "2026-11-26",
-   "summary": "",
-   "feed": "international",
-   "categorie": "presse-etrangere"
-  },
-  {
-   "id": "u958e4f44",
-   "title": "Santé mentale des jeunes : les conduites suicidaires restent préoccupantes",
-   "url": "https://www.sudouest.fr/sante/destination-sante/sante-mentale-des-jeunes-les-conduites-suicidaires-restent-preoccupantes-31683493.php",
-   "gnews": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMUtPOXltT2ViNXIwYllJdVVxbUphWkUySTBVNE4zWUNDYnZ0ZUk0dVU4UDhUM3N5WXprX2o4WHUydHpmTlJxMWJQRXEtSy1wcGloYzdXN0pzNlV5NzYyNVZJWTgwUkVpMktOSDFseDJKaVhxYjhIcGl3Y0NVdUEzTUFGcGlYc3E1eGhSSEd4SEhETjBfc2oxbGxNTVFRZmRYcjk2SnhyYzlkYm9oUC1qN09aMFphYUdmOV9JQWg3YVpYcHI4V3IxMnR4SXJ3Zw?oc=5",
-   "resolu": true,
-   "source": "Sud Ouest",
-   "published": "2026-11-26",
-   "summary": "",
-   "feed": "societe",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "ub611257a",
-   "title": "Suicide : toujours plus de tentatives chez les jeunes en 2025 et une parole qui se libère sur la santé mentale",
-   "url": "https://sante.lefigaro.fr/social/sante-publique/suicide-toujours-plus-de-tentatives-chez-les-jeunes-en-2025-et-une-parole-qui-se-libere-sur-la-sante-mentale-20261126",
-   "gnews": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaUU3SjBxeTZpeUhpa0MtamFLaEo2TV9GUkVQQjIzaXdiOVZrWnkwM1J0V2VINXBvUTRiOWptRWRGQkczYmJlR1JMUE1jOEpHRDNCd3o4ZjJLSlJIblVRczM1cEV5QVNnYjR5Q0xDbjAxNzhtSm13QVZ5dHRLZThsZWRxYzlXSzJER28zZ0hPM2p5M0pJSUdmdXBTYU9SS0NPVDExZVJCb1JoMGVHMmpiR1ExMXhISUI5MW54VDNDTGpyVkJXeTI3YnRkb25OcW1Zek5PaVFuek1wU3dnUjNPUFJ2bkdsS3pZVkFzZEhpLU4xNlFNbnFiQw?oc=5",
-   "resolu": true,
-   "source": "Le Figaro Santé",
-   "published": "2026-11-26",
-   "summary": "",
-   "feed": "societe",
-   "categorie": "presse-nationale"
-  },
-  {
-   "id": "u1f52983c",
-   "title": "\" Mobilisons-nous contre la fermeture du service de psychiatrie \" : rassemblement devant l'hôpital de Pontivy",
-   "url": "https://actu.fr/bretagne/pontivy_56178/mobilisons-nous-contre-la-fermeture-du-service-de-psychiatrie-rassemblement-devant-lhopital-de-pontivy_65105998.html",
-   "gnews": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcW1JZTVRTENuTGtBdFh5REdkSDVwTHlibmRLMlhMTTJHbDVzSk9xdjQxclB0V0RpaG93OWQ1UnJwQmk3OXYtRlEyc0JGSEc4WlJjcVVwWGxHTHMwdzRuS1VOVGlTNDFMaHZobTREajF1WlVfVlBIMlpPQXlLWUloZnRJVGI0NjNHcnU3UVdZcVVNUFlGS1hodEN1c2ZJS3djSmF2eS1ZTzQ5Q25BbWxtcGwycUVnT282Z0lZRmdNRUNkOWZtS0QzOXpVekl0dF92M080Rm53MEsxMXlmZzFLNU53MDBSWk5FcE5J?oc=5",
-   "resolu": true,
-   "source": "Actu.fr",
-   "published": "2026-11-26",
-   "summary": "",
-   "feed": "politiques-soins",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "u67da6fa3",
-   "title": "Honduras brings mental health services closer to communities",
-   "url": "https://www.paho.org/en/stories/honduras-brings-mental-health-services-closer-communities",
-   "gnews": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnhrNUxEdjR3b0JYYzRfNmxLZmxzcmtrSlJqbU41a3luOU5nQnRCbGpLZU45LU53Y0NFX0ZMdXBTWjcwWXl2LXhRVWZ2U0dWcVRkSFA0MXVSdGxZaE1NRHZja0JSQUVXSHdXSnZJVHdRR0I2blU2ajB2ZmMzbWRoUDVuMW9aa1hnS18xZUVQTVhZYlE?oc=5",
-   "resolu": true,
-   "source": "Pan American Health Organization (PAHO)",
-   "published": "2026-11-26",
-   "summary": "",
-   "feed": "international",
-   "categorie": "institutions"
-  },
-  {
-   "id": "u5454ad20",
-   "title": "À Audierne, la santé mentale des jeunes entre en scène le 4 décembre au Théâtre Georges-Madec",
-   "url": "https://www.letelegramme.fr/finistere/audierne-29770/a-audierne-la-sante-mentale-des-jeunes-entre-en-scene-le-4-decembre-au-theatre-georges-madec-7166893.php",
-   "gnews": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaFd1RTRDdjJaOHYtbzk3Wmt2SzdVWE9hS2F3enpFSFFOc3d6R0dhcXNuZ1hxVEJVVTh3bEVYVlRIWWt0ODhILWR1YUFWY0pwWlFkZjdmOUZsYjVYOE1qU3UxbmhmTGhCWURkaVRHZ2c2RmJJam1wbkdqUlhpVUhfWkFMcHhrZkdhUlZINW5NWXFtekhJN0FHLWdtTEpuazlnYjFYeHh5dG9zdFVLbXdRQVg0NmVPQTJNVzFKRHVSM0xrelFlWnVFRU1Uci1SVE1kQ0ZNal91NXlNVTg0RjBzdy11WGh0YnBRc2JoM0ZB?oc=5",
-   "resolu": true,
-   "source": "Le Télégramme",
-   "published": "2026-11-26",
-   "summary": "",
-   "feed": "societe",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "u92f56100",
-   "title": "Government publishes new plan to strengthen mental health research in Ireland",
-   "url": "https://www.tuamherald.ie/2026/11/26/government-publishes-new-plan-to-strengthen-mental-health-research-in-ireland/",
-   "gnews": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzFWMXZUdTZPd1dWM1c5OXRTRTRScXhkeTlkLUZWdU9kb010YlRoR1BUOVhaWDNVcGh0eWpySFdCa0U3U01GdlpCbE5uUGtuLW9rZHJyc01zVWw5TVg0SDBrcW0ydTVxcU00aHhHRXd6UDd0MHNXYlU4bHZwNmdNSEk0VENLTTRmZEstbF95U1RLLWd4RnFIc3lzY3BXdGd2UTQ1QmpkYW1CM21tZC1QYlJNWlJodw?oc=5",
-   "resolu": true,
-   "source": "Tuam Herald",
-   "published": "2026-11-26",
-   "summary": "",
-   "feed": "international",
-   "categorie": "presse-etrangere"
-  },
-  {
-   "id": "u3572f4d0",
-   "title": "What Happens When LGBTQ+ Communities Run Their Own Mental Health Services?",
-   "url": "https://soaplandtv.co.uk/article/what-happens-when-lgbtq-communities-run-their-own-mental-health-services",
-   "gnews": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRnJPT0hBUmdLQUIyb2szei1aMVVvZmdfZS1wT1ItcEo5OFNVRUdKZ095WmdIclFmSlFhRU9MOVJrNDVveGFNRW5HLWRUUl9hb0QtWDhHclBGaFZ3Z2M5eWhUcWVMdmhqNmVYVnM4X01hYkYtLTBrVS1pMHdwZ0dWQ0xGLXM4R0dPV2FFYzRaa3VhVXZEcC05YXVaaWlIWUF1ZkxSZ19hWS0?oc=5",
-   "resolu": true,
-   "source": "SoaplandTV",
-   "published": "2026-11-26",
-   "summary": "",
-   "feed": "international",
-   "categorie": "presse-etrangere"
-  },
-  {
-   "id": "u2ef72be5",
-   "title": "Appel à témoignages. Blocages des universités : êtes-vous inquiet pour la santé mentale de votre enfant ?",
-   "url": "https://www.ledauphine.com/education/2026/11/26/blocages-des-universites-etes-vous-inquiet-pour-la-sante-mentale-de-votre-enfant",
-   "gnews": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSTd6YkRheHRxWi1LMEFUa0R3QVhZN0RvTVlob2NlTnZ4d1BQcjhuMTVFU0RJN2JQN1pveG9mTUd2NFFJeDE0d0dwNUxIOHJ5UW5LeHd3aVUzWENFbFhCR3hHeWNlR2loYXE2X1J6Z2dDWmNOaTNhdVZ2bFZLWk1seGRlLUVUMGxBeVRCM2lqYzNmZWV1R1B1MEJGNEJKMXdkRWx2Rk16azRpNmJVUWxFMXVQSl9RN2lUWF85ZmpVcVMyLUdTNC1R?oc=5",
-   "resolu": true,
-   "source": "Le Dauphiné Libéré",
-   "published": "2026-11-26",
-   "summary": "",
-   "feed": "communication",
-   "categorie": "presse-regionale"
-  },
-  {
-   "id": "u7232a7ce",
-   "title": "Monthly peer-led drop-ins offer mental health support for young people in Norwich",
-   "url": "https://www.eveningnews24.co.uk/news/26758784.monthly-peer-led-drop-ins-offer-mental-health-support/",
-   "gnews": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVM4VE9WSzVnS0h3SmZjWlI3cDFBcm9UNlljM3FfUFV0ajlrb0ZlNllRcGRYdXZsX0VkYTNrc3JzVWZidXNENlNZT1BocDVaMTFQWnlzdWt2TEZSMXBoaXpFdjllRDRWWFptX2tiX0NwTGJ2QUd6SzZDdjFoNXAyLTFHTmx1TmllLWhPZEFrZW5Ob3RkSlV5RjBZWnNWc0Rud1E?oc=5",
-   "resolu": true,
-   "source": "Norwich Evening News",
+   "source": "Ville de Reims",
    "published": "2026-11-25",
    "summary": "",
-   "feed": "international",
-   "categorie": "presse-etrangere"
+   "feed": "stigmatisation",
+   "categorie": "presse-regionale"
   },
   {
-   "id": "ucc3854fb",
-   "title": "Consultative workshop held to shape Mental Health Act",
-   "url": "https://www.who.int/nepal/news/detail/23-11-2026-consultative-workshop-held-to-shape-mental-health-act",
-   "gnews": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUhWTFhteVVuY080WEZ5TElUclBwTHU3VDd6MlQ3YWRvNDBMZDdIUTNfUUkxSUtOOU5QcEpxYlNwZFBHRDdIRFVDRi1QMDBJOUwtbFJISDFDS1ByYnp5a0Z5T2tSTjQyS0c4N1dwaXNPa3FOZTlaYnptMEo2TE12b3NDQmpwZ2lpbTloRjZpRDlYVDVnVWIzMENCRGlBa3FRd2pXcg?oc=5",
+   "id": "ueee78d49",
+   "title": "Le boxeur anglais Tyson Fury révèle ses problèmes de santé mentale, sa femme parle de \"schizophrénie\"",
+   "url": "https://www.franceinfo.fr/sports/boxe/le-boxeur-anglais-tyson-fury-revele-souffrir-de-schizophrenie_8296130.html",
+   "gnews": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHV4M2xRVnJUYjFPUE5BMlpwSm4tZGxKRjdORnVoZExXcnVUQUhRUVVHY0Y0LXBySDdOWFgzVFR4dU5VNXdlcHJxZ0dGazd2WG9XU0ZUR0FXVG1RR0pDTXNuQ0xJRUE4R0ZuTnpSdEE0enRjbjUtWXRVcV80cHh4cHMzNUoxSUpiUzQ2MkRHLVFrNlhseXBsVi1qN0hHMkRWV2RWbFlqZmtYT1IyVTFNVExn?oc=5",
    "resolu": true,
-   "source": "World Health Organization (WHO)",
+   "source": "franceinfo",
    "published": "2026-11-23",
    "summary": "",
-   "feed": "international",
-   "categorie": "institutions"
-  },
-  {
-   "id": "u44668242",
-   "title": "Stress, solitude, anxiété : ce nouveau site gratuit peut aider les étudiants à trouver du soutien",
-   "url": "https://www.varactu.fr/stress-solitude-anxiete-ce-nouveau-site-gratuit-peut-aider-les-etudiants-a-trouver-du-soutien/",
-   "gnews": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHFWd2dtOXRUN09pdEIwRkszcUdCWTRGOFV2X1JiMnprUE5xVXRBSk9aRHV1bDRPUnVndlhSMTRFV1k4MXJOeG40MmNUUUUwNDhkQkNXUmdoVnRtTVpyNXN4Y3p5NGZ5U1kyWGl4ak83UEdIMDBFcE5RUVllVUpQUk9ZQU1icklfbzJBX3VDdHl6X2s4OEIyQ2NNNjluaHV6RldzcDRSQVZ1LVBBclVabzRDQlhkSWsy?oc=5",
-   "resolu": true,
-   "source": "Var Actu",
-   "published": "2026-11-22",
-   "summary": "",
-   "feed": "politiques-soins",
+   "feed": "communication",
    "categorie": "presse-regionale"
   }
  ]
